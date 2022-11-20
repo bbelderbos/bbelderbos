@@ -18,7 +18,7 @@ Software developer passionate about building useful tools and helping people gro
 
 </ul>
 
-More on [pybit.es](https://pybit.es)
+More on [pybit.es](https://pybit.es/articles/)
 
 </td><td valign="top" width="50%">
 
