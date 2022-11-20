@@ -1,4 +1,5 @@
 import datetime
+import operator
 import pathlib
 import re
 import typing
@@ -6,14 +7,11 @@ import typing
 import httpx
 import jinja2
 
-README_FILE = pathlib.Path(__file__).parent.resolve() / "README.md"
-TIPS_REPO_TREE = (
-    "https://api.github.com/repos/bbelderbos/bobcodesit/git/trees/main?recursive=1"
-)
+ROOT_DIR = pathlib.Path(__file__).parent.resolve()
+README_FILE = ROOT_DIR / "README.md"
+TEMPLATE_FILE = ROOT_DIR / "TEMPLATE.md"
 NOTE_URL = "https://github.com/bbelderbos/bobcodesit/blob/main/{note_filename}"
-NOTE_RAW_URL = (
-    "https://raw.githubusercontent.com/bbelderbos/bobcodesit/main/{note_filename}"
-)
+NOTES_INDEX = "https://raw.githubusercontent.com/bbelderbos/bobcodesit/main/index.md"
 ARTICLE_FEED = "https://codechalleng.es/api/articles/"
 NUM_LATEST_ITEMS = 5
 
@@ -27,48 +25,65 @@ class ContentPiece(typing.NamedTuple):
 ContentPieces = typing.Iterable[ContentPiece]
 
 
+def _parse_notes_index() -> set[tuple[str, str]]:
+    """
+    Parse bobcodesit tips index to get tuples of
+    (title, note_file)
+    """
+    resp = httpx.get(NOTES_INDEX)
+    notes = re.findall(r'notes/\d+\.md', resp.text)
+    pat = re.compile(r'\[(.*?)\]\((notes/\d+\.md)')
+    notes = re.findall(pat, resp.text)
+    return set(notes)
+
+
 def get_last_tip_notes(num_items: int = NUM_LATEST_ITEMS) -> ContentPieces:
-    with httpx.Client() as client:
+    """
+    Get the last tips from bobcodesit
+    """
+    notes = _parse_notes_index()
+    last_notes = sorted(
+        notes, key=operator.itemgetter(1), reverse=True
+    )[:num_items]
 
-        def _get_note_title(note_filename: str) -> str:
-            url = NOTE_RAW_URL.format(note_filename=note_filename)
-            resp = client.get(url)
-            title = resp.text.splitlines()[0].lstrip("# ").capitalize()
-            return title
+    content_pieces = []
+    for note in last_notes:
+        title, md_file = note
 
-        resp = client.get(TIPS_REPO_TREE)
-        tree = resp.json()["tree"]
+        url = NOTE_URL.format(note_filename=md_file)
 
-        notes = [row["path"] for row in tree if "notes/" in row["path"]]
-        last_notes = sorted(notes, reverse=True)[:num_items]
+        tstamp_number = re.sub(r"notes/(\d+)\.md", r"\1", md_file)
+        tstamp_dt = datetime.datetime.strptime(
+            tstamp_number, "%Y%m%d%H%M%S")
+        date_readable = tstamp_dt.strftime("%Y-%m-%d")
 
-        return [
-            ContentPiece(
-                url=NOTE_URL.format(note_filename=note),
-                title=_get_note_title(note),
-                date=datetime.datetime.strptime(
-                    re.sub(r"notes/(\d+)\.md", r"\1", note), "%Y%m%d%H%M%S"
-                ).strftime("%Y-%m-%d"),
-            )
-            for note in last_notes
-        ]
+        content_pieces.append(
+            ContentPiece(url=url, title=title, date=date_readable)
+        )
+    return content_pieces
 
 
 def get_latest_articles(num_items: int = NUM_LATEST_ITEMS) -> ContentPieces:
-    resp = httpx.get(ARTICLE_FEED).json()
+    """
+    Get the last articles from Pybites blog
+    """
+    resp = httpx.get(ARTICLE_FEED)
     return [
         ContentPiece(
             url=row["link"], title=row["title"], date=row["publish_date"].split()[0]
         )
-        for row in resp
+        for row in resp.json()
     ][:num_items]
 
 
 def generate_readme(content: dict[str, typing.Iterable[ContentPiece]]) -> None:
-    with open("TEMPLATE.md", "r", encoding="utf-8") as file:
-        template = jinja2.Template(file.read())
-    new_content = template.render(**content)
-    README_FILE.open("w").write(new_content)
+    """
+    Generate Readme file from template file
+    """
+    template_content = TEMPLATE_FILE.read_text()
+    jinja_template = jinja2.Template(template_content)
+    updated_content = jinja_template.render(**content)
+    README_FILE.write_text(updated_content)
 
 
 if __name__ == "__main__":
