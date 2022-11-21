@@ -26,6 +26,8 @@ More on [pybit.es](https://pybit.es/articles/)
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221121092758.md">While else</a> - 2022-11-21</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221026124022.md">Timeit decorator</a> - 2022-10-26</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221025132705.md">Raise from none</a> - 2022-10-25</li>
@@ -34,12 +36,10 @@ More on [pybit.es](https://pybit.es/articles/)
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20220922083512.md">Get package metadata</a> - 2022-09-22</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20220921175826.md">Method chaining</a> - 2022-09-21</li>
-
 </ul>
 
 More on [bobcodesit](https://github.com/bbelderbos/bobcodesit)
 
 </td></tr></table>
 
-<a href="https://github.com/bbelderbos/bbelderbos/actions"><img src="https://github.com/bbelderbos/bbelderbos/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> - Inspired by <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Building a self-updating profile README for GitHub</a>.
+<a href="https://github.com/bbelderbos/bbelderbos/actions"><img src="https://github.com/bbelderbos/bbelderbos/workflows/Daily%20Update/badge.svg" align="right" alt="Build README"></a> - Inspired by <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Building a self-updating profile README for GitHub</a>.
