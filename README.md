@@ -6,15 +6,15 @@ Software developer passionate about building useful tools and helping people gro
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/how-to-create-a-self-updating-github-readme/">How to create a self updating GitHub Readme</a> - 2022-11-21</li>
+
+  <li><a href="https://pybit.es/articles/pp96-loving-the-journey-towards-your-goal/">Loving the Journey towards your Goal</a> - 2022-11-21</li>
+
   <li><a href="https://pybit.es/articles/pp95-software-engineering-and-entrepreneurship/">Software Engineering and Entrepreneurship</a> - 2022-11-15</li>
 
   <li><a href="https://pybit.es/articles/finding-new-and-removed-python-3-11-modules-in-8-lines-of-code/">Finding new and removed Python 3.11 modules in 8 lines of code</a> - 2022-11-09</li>
 
   <li><a href="https://pybit.es/articles/tips-for-clean-code-in-python/">Tips for clean code in Python</a> - 2022-11-08</li>
-
-  <li><a href="https://pybit.es/articles/new-on-our-platform-typer-learning-path/">New on our platform: Typer learning path</a> - 2022-11-07</li>
-
-  <li><a href="https://pybit.es/articles/pp94-focus-on-what-you-can-control/">Focus on what you can control</a> - 2022-11-03</li>
 
 </ul>
 
