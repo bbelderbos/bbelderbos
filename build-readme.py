@@ -4,6 +4,7 @@ import pathlib
 import re
 import typing
 
+import feedparser
 import httpx
 import jinja2
 
@@ -13,7 +14,7 @@ TEMPLATE_FILE = ROOT_DIR / "TEMPLATE.md"
 NOTE_URL = "https://github.com/bbelderbos/bobcodesit/blob/main/{note_filename}"
 NOTES_INDEX = "https://raw.githubusercontent.com/bbelderbos/bobcodesit/main/index.md"
 ARTICLE_FEED = "https://codechalleng.es/api/articles/"
-NUM_LATEST_ITEMS = 5
+FOSSTODON_USER = "bbelderbos"
 
 
 class ContentPiece(typing.NamedTuple):
@@ -22,7 +23,7 @@ class ContentPiece(typing.NamedTuple):
     date: str
 
 
-ContentPieces = typing.Iterable[ContentPiece]
+ContentPieces = list[ContentPiece]
 
 
 def _parse_notes_index() -> set[tuple[str, str]]:
@@ -37,9 +38,9 @@ def _parse_notes_index() -> set[tuple[str, str]]:
     return set(notes)
 
 
-def get_last_tip_notes(num_items: int = NUM_LATEST_ITEMS) -> ContentPieces:
+def get_latest_tips(num_items: int = 8) -> ContentPieces:
     """
-    Get the last tips from bobcodesit
+    Get the last tips from bobcodesit tips GitHub repo
     """
     notes = _parse_notes_index()
     last_notes = sorted(
@@ -63,7 +64,7 @@ def get_last_tip_notes(num_items: int = NUM_LATEST_ITEMS) -> ContentPieces:
     return content_pieces
 
 
-def get_latest_articles(num_items: int = NUM_LATEST_ITEMS) -> ContentPieces:
+def get_latest_articles(num_items: int = 5) -> ContentPieces:
     """
     Get the last articles from Pybites blog
     """
@@ -76,7 +77,41 @@ def get_latest_articles(num_items: int = NUM_LATEST_ITEMS) -> ContentPieces:
     ][:num_items]
 
 
-def generate_readme(content: dict[str, typing.Iterable[ContentPiece]]) -> None:
+def _parse_fosstodon_feed(username: str) -> list[feedparser.util.FeedParserDict]:
+    url = f"https://fosstodon.org/@{FOSSTODON_USER}.rss"
+    entries = feedparser.parse(url).entries
+    return entries
+
+
+def get_latest_toots(num_items: int = 3) -> ContentPieces:
+    """
+    Get latest toots from Fosstodon.
+    I was using the local cached db first, but let's use RSS = always up2date.
+    """
+    entries = _parse_fosstodon_feed(FOSSTODON_USER)
+
+    data = []
+    for entry in entries[:num_items]:  # should have newest first
+        if entry.summary.count("<p>") > 1:
+            # if multiple paragraphs extract the first one
+            summary = re.sub(
+                r"^(<p>.*?)</p>.*$", r"\1 ...</p>", entry.summary
+            )
+        else:
+            summary = entry.summary
+
+        date = datetime.datetime(
+            *entry.published_parsed[:6]
+        ).strftime("%Y-%m-%d")
+
+        data.append(
+            ContentPiece(url=entry.id, title=summary, date=date)
+        )
+
+    return data
+
+
+def generate_readme(content: dict[str, list[ContentPiece]]) -> None:
     """
     Generate Readme file from template file
     """
@@ -87,5 +122,9 @@ def generate_readme(content: dict[str, typing.Iterable[ContentPiece]]) -> None:
 
 
 if __name__ == "__main__":
-    content = dict(articles=get_latest_articles(), tips=get_last_tip_notes())
+    content = dict(
+        articles=get_latest_articles(),
+        tips=get_latest_tips(),
+        toots=get_latest_toots(),
+    )
     generate_readme(content)

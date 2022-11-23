@@ -1,6 +1,7 @@
 # Code
 httpx
 jinja2
+feedparser
 # Development
 black
 flake8
