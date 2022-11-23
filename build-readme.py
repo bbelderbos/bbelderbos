@@ -7,13 +7,14 @@ import typing
 import httpx
 import jinja2
 
+from backup_toots import DEFAULT_USER, parse_fosstodon_feed
+
 ROOT_DIR = pathlib.Path(__file__).parent.resolve()
 README_FILE = ROOT_DIR / "README.md"
 TEMPLATE_FILE = ROOT_DIR / "TEMPLATE.md"
 NOTE_URL = "https://github.com/bbelderbos/bobcodesit/blob/main/{note_filename}"
 NOTES_INDEX = "https://raw.githubusercontent.com/bbelderbos/bobcodesit/main/index.md"
 ARTICLE_FEED = "https://codechalleng.es/api/articles/"
-NUM_LATEST_ITEMS = 5
 
 
 class ContentPiece(typing.NamedTuple):
@@ -37,9 +38,9 @@ def _parse_notes_index() -> set[tuple[str, str]]:
     return set(notes)
 
 
-def get_last_tip_notes(num_items: int = NUM_LATEST_ITEMS) -> ContentPieces:
+def get_latest_tips(num_items: int = 8) -> ContentPieces:
     """
-    Get the last tips from bobcodesit
+    Get the last tips from bobcodesit tips GitHub repo
     """
     notes = _parse_notes_index()
     last_notes = sorted(
@@ -63,7 +64,7 @@ def get_last_tip_notes(num_items: int = NUM_LATEST_ITEMS) -> ContentPieces:
     return content_pieces
 
 
-def get_latest_articles(num_items: int = NUM_LATEST_ITEMS) -> ContentPieces:
+def get_latest_articles(num_items: int = 5) -> ContentPieces:
     """
     Get the last articles from Pybites blog
     """
@@ -74,6 +75,34 @@ def get_latest_articles(num_items: int = NUM_LATEST_ITEMS) -> ContentPieces:
         )
         for row in resp.json()
     ][:num_items]
+
+
+def get_latest_toots(num_items: int = 3) -> ContentPieces:
+    """
+    Get latest toots from Fosstodon.
+    I was using the local cached db first, but let's use RSS = always up2date.
+    """
+    entries = parse_fosstodon_feed(DEFAULT_USER)
+
+    data = []
+    for entry in entries[:num_items]:  # should have newest first
+        if entry.summary.count("<p>") > 1:
+            # if multiple paragraphs extract the first one
+            summary = re.sub(
+                r"^(<p>.*?)</p>.*$", r"\1 ...</p>", entry.summary
+            )
+        else:
+            summary = entry.summary
+
+        date = datetime.datetime(
+            *entry.published_parsed[:6]
+        ).strftime("%Y-%m-%d")
+
+        data.append(
+            ContentPiece(url=entry.id, title=summary, date=date)
+        )
+
+    return data
 
 
 def generate_readme(content: dict[str, typing.Iterable[ContentPiece]]) -> None:
@@ -87,5 +116,9 @@ def generate_readme(content: dict[str, typing.Iterable[ContentPiece]]) -> None:
 
 
 if __name__ == "__main__":
-    content = dict(articles=get_latest_articles(), tips=get_last_tip_notes())
+    content = dict(
+        articles=get_latest_articles(),
+        tips=get_latest_tips(),
+        toots=get_latest_toots(),
+    )
     generate_readme(content)
