@@ -2,7 +2,6 @@
 httpx
 jinja2
 feedparser
-sqlite_utils
 # Development
 black
 flake8

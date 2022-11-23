@@ -4,10 +4,9 @@ import pathlib
 import re
 import typing
 
+import feedparser
 import httpx
 import jinja2
-
-from backup_toots import DEFAULT_USER, parse_fosstodon_feed
 
 ROOT_DIR = pathlib.Path(__file__).parent.resolve()
 README_FILE = ROOT_DIR / "README.md"
@@ -15,6 +14,7 @@ TEMPLATE_FILE = ROOT_DIR / "TEMPLATE.md"
 NOTE_URL = "https://github.com/bbelderbos/bobcodesit/blob/main/{note_filename}"
 NOTES_INDEX = "https://raw.githubusercontent.com/bbelderbos/bobcodesit/main/index.md"
 ARTICLE_FEED = "https://codechalleng.es/api/articles/"
+FOSSTODON_USER = "bbelderbos"
 
 
 class ContentPiece(typing.NamedTuple):
@@ -23,7 +23,7 @@ class ContentPiece(typing.NamedTuple):
     date: str
 
 
-ContentPieces = typing.Iterable[ContentPiece]
+ContentPieces = list[ContentPiece]
 
 
 def _parse_notes_index() -> set[tuple[str, str]]:
@@ -77,12 +77,18 @@ def get_latest_articles(num_items: int = 5) -> ContentPieces:
     ][:num_items]
 
 
+def _parse_fosstodon_feed(username: str) -> list[feedparser.util.FeedParserDict]:
+    url = f"https://fosstodon.org/@{FOSSTODON_USER}.rss"
+    entries = feedparser.parse(url).entries
+    return entries
+
+
 def get_latest_toots(num_items: int = 3) -> ContentPieces:
     """
     Get latest toots from Fosstodon.
     I was using the local cached db first, but let's use RSS = always up2date.
     """
-    entries = parse_fosstodon_feed(DEFAULT_USER)
+    entries = _parse_fosstodon_feed(FOSSTODON_USER)
 
     data = []
     for entry in entries[:num_items]:  # should have newest first
@@ -105,7 +111,7 @@ def get_latest_toots(num_items: int = 3) -> ContentPieces:
     return data
 
 
-def generate_readme(content: dict[str, typing.Iterable[ContentPiece]]) -> None:
+def generate_readme(content: dict[str, list[ContentPiece]]) -> None:
     """
     Generate Readme file from template file
     """
