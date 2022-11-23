@@ -26,4 +26,4 @@ More on [bobcodesit](https://github.com/bbelderbos/bobcodesit)
 
 </td></tr></table>
 
-<a href="https://github.com/bbelderbos/bbelderbos/actions"><img src="https://github.com/bbelderbos/bbelderbos/workflows/Daily%20Update/badge.svg" align="right" alt="Build README"></a> - Inspired by <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Building a self-updating profile README for GitHub</a>.
+<a href="https://github.com/bbelderbos/bbelderbos/actions"><img src="https://github.com/bbelderbos/bbelderbos/workflows/Daily%20Update/badge.svg" align="right" alt="Build README"></a> - Inspired by <a href="https://pybit.es/articles/how-to-create-a-self-updating-github-readme/">How to create a self updating GitHub Readme</a>.
