@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221124082215.md" target="_blank">Dict() type constructor</a> - 2022-11-24</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221121092758.md" target="_blank">While else</a> - 2022-11-21</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221026124022.md" target="_blank">Timeit decorator</a> - 2022-10-26</li>
@@ -41,8 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20220921175618.md" target="_blank">Difflib.get_close_matches</a> - 2022-09-21</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20220917084847.md" target="_blank">Use collections.counter() to count things</a> - 2022-09-17</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>Started to use pip-tools + requirements.in -&gt; nice</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109393004176675079" target="_blank">2022-11-23</a>
+  <p>You can do data analysis on PEPs :) ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109397674817971350" target="_blank">2022-11-24</a>
   </blockquote>
 
   <blockquote>
-  <p>Aiming to have ~3 little apps done today, this was the first one I did (2018 must be a data bug haha) ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109392926409671429" target="_blank">2022-11-23</a>
+  <p>Did you know f-strings make (print) debugging a bit easier since 3.8? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109397672122324618" target="_blank">2022-11-24</a>
   </blockquote>
 
   <blockquote>
-  <p>Hey <a class="mention hashtag" href="https://fosstodon.org/tags/introduction" rel="tag">#<span>introduction</span></a>, I am a software developer and coach.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109392893711748056" target="_blank">2022-11-23</a>
+  <p>set.issubset(other_set) is pure elegance 😍 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109397643926575021" target="_blank">2022-11-24</a>
   </blockquote>
 
 
