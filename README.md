@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>You can do data analysis on PEPs :) ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109397674817971350" target="_blank">2022-11-24</a>
+  <p>What are you working on today? Any cool <a class="mention hashtag" href="https://fosstodon.org/tags/python" rel="tag">#<span>python</span></a> stuff?</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109403541916834788" target="_blank">2022-11-25</a>
   </blockquote>
 
   <blockquote>
-  <p>Did you know f-strings make (print) debugging a bit easier since 3.8? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109397672122324618" target="_blank">2022-11-24</a>
+  <p>Nice command to quickly get a future date: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109399437435956867" target="_blank">2022-11-24</a>
   </blockquote>
 
   <blockquote>
-  <p>set.issubset(other_set) is pure elegance 😍 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109397643926575021" target="_blank">2022-11-24</a>
+  <p>When I saw that Mastodon supports RSS, I thought: &quot;cool let's backup my toots&quot;  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109398759036300470" target="_blank">2022-11-24</a>
   </blockquote>
 
 
