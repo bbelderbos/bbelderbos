@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221125164329.md" target="_blank">Urlencode()</a> - 2022-11-25</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221124082215.md" target="_blank">Dict() type constructor</a> - 2022-11-24</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221121092758.md" target="_blank">While else</a> - 2022-11-21</li>
@@ -41,8 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20220921175826.md" target="_blank">Method chaining</a> - 2022-09-21</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20220921175618.md" target="_blank">Difflib.get_close_matches</a> - 2022-09-21</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>What are you working on today? Any cool <a class="mention hashtag" href="https://fosstodon.org/tags/python" rel="tag">#<span>python</span></a> stuff?</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109403541916834788" target="_blank">2022-11-25</a>
+  <p>Thanks <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@adamchainz">@<span>adamchainz</span></a></span> for talking about pip-tools in your DX book, using a requirements.in file is just really nice :)</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109408835657033685" target="_blank">2022-11-26</a>
   </blockquote>
 
   <blockquote>
-  <p>Nice command to quickly get a future date: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109399437435956867" target="_blank">2022-11-24</a>
+  <p>Being able to add type hints like this is so nice 😍 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109408740907721960" target="_blank">2022-11-26</a>
   </blockquote>
 
   <blockquote>
-  <p>When I saw that Mastodon supports RSS, I thought: &quot;cool let's backup my toots&quot;  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109398759036300470" target="_blank">2022-11-24</a>
+  <p>Using aliases in your .zshrc (.bashrc) saves you so much time on a daily basis. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109406304754608940" target="_blank">2022-11-25</a>
   </blockquote>
 
 
