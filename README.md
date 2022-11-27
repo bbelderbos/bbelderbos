@@ -27,6 +27,10 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221127080032.md" target="_blank">String replace first match</a> - 2022-11-27</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221127065621.md" target="_blank">Get type hints</a> - 2022-11-27</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221125164329.md" target="_blank">Urlencode()</a> - 2022-11-25</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221124082215.md" target="_blank">Dict() type constructor</a> - 2022-11-24</li>
@@ -39,10 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20220922083812.md" target="_blank">From dict to dataclass</a> - 2022-09-22</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20220922083512.md" target="_blank">Get package metadata</a> - 2022-09-22</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20220921175826.md" target="_blank">Method chaining</a> - 2022-09-21</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>Thanks <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@adamchainz">@<span>adamchainz</span></a></span> for talking about pip-tools in your DX book, using a requirements.in file is just really nice :)</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109408835657033685" target="_blank">2022-11-26</a>
+  <p>The cool thing about testing is that it takes quite some work to set everything up (fixtures), but after that it becomes much easier to add new tests and you don't have to worry that you break anything. So you can keep refactoring and keep your code base healthy.</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109414873410243232" target="_blank">2022-11-27</a>
   </blockquote>
 
   <blockquote>
-  <p>Being able to add type hints like this is so nice 😍 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109408740907721960" target="_blank">2022-11-26</a>
+  <p>Document-driven development as inspired by <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@tiangolo">@<span>tiangolo</span></a></span> on our Pybites podcast - episode 80 ... ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109414395280480353" target="_blank">2022-11-27</a>
   </blockquote>
 
   <blockquote>
-  <p>Using aliases in your .zshrc (.bashrc) saves you so much time on a daily basis. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109406304754608940" target="_blank">2022-11-25</a>
+  <p>You can use typing.get_type_hints() (or __annotations__) to get the type annotations of an object. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109414273296383086" target="_blank">2022-11-27</a>
   </blockquote>
 
 
