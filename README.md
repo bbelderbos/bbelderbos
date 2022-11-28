@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>The cool thing about testing is that it takes quite some work to set everything up (fixtures), but after that it becomes much easier to add new tests and you don't have to worry that you break anything. So you can keep refactoring and keep your code base healthy.</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109414873410243232" target="_blank">2022-11-27</a>
+  <p>So many nuances with string methods :) ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109420543209438173" target="_blank">2022-11-28</a>
   </blockquote>
 
   <blockquote>
-  <p>Document-driven development as inspired by <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@tiangolo">@<span>tiangolo</span></a></span> on our Pybites podcast - episode 80 ... ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109414395280480353" target="_blank">2022-11-27</a>
+  <p>To install a package from a local directory (using its toml or requirements file) you can do: pip install .</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109420296904795322" target="_blank">2022-11-28</a>
   </blockquote>
 
   <blockquote>
-  <p>You can use typing.get_type_hints() (or __annotations__) to get the type annotations of an object. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109414273296383086" target="_blank">2022-11-27</a>
+  <p>It also really forces me to understand all the ins and outs of the code I just wrote (while still fresh), it often has me catch bugs early and improve the overall design / implementation. I also find writing tests kind of relaxing :)</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109414966848537417" target="_blank">2022-11-27</a>
   </blockquote>
 
 
