@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>So many nuances with string methods :) ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109420543209438173" target="_blank">2022-11-28</a>
+  <p>Here is a video I produced a while ago on how to use GitHub Actions to update a package on PyPI by pushing a new git tag: <a href="https://www.youtube.com/watch?v=7dIUOfyKUBE" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=7dIUOfyKUB</span><span class="invisible">E</span></a> ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109426176806395353" target="_blank">2022-11-29</a>
   </blockquote>
 
   <blockquote>
-  <p>To install a package from a local directory (using its toml or requirements file) you can do: pip install .</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109420296904795322" target="_blank">2022-11-28</a>
+  <p>TIL: coverage has a cool --cov-fail-under=&lt;int&gt; flag - thanks <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@spackle0">@<span>spackle0</span></a></span>  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109421277967049093" target="_blank">2022-11-28</a>
   </blockquote>
 
   <blockquote>
-  <p>It also really forces me to understand all the ins and outs of the code I just wrote (while still fresh), it often has me catch bugs early and improve the overall design / implementation. I also find writing tests kind of relaxing :)</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109414966848537417" target="_blank">2022-11-27</a>
+  <p>Do you also forget your automations at times? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109420903286481817" target="_blank">2022-11-28</a>
   </blockquote>
 
 
