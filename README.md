@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>Here is a video I produced a while ago on how to use GitHub Actions to update a package on PyPI by pushing a new git tag: <a href="https://www.youtube.com/watch?v=7dIUOfyKUBE" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=7dIUOfyKUB</span><span class="invisible">E</span></a> ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109426176806395353" target="_blank">2022-11-29</a>
+  <p>Classmethods are handy to provide multiple constructors to your classes.  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109431876845427449" target="_blank">2022-11-30</a>
   </blockquote>
 
   <blockquote>
-  <p>TIL: coverage has a cool --cov-fail-under=&lt;int&gt; flag - thanks <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@spackle0">@<span>spackle0</span></a></span>  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109421277967049093" target="_blank">2022-11-28</a>
+  <p>I like how the Zen of <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> is a synopsis for clean code. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109431837246577389" target="_blank">2022-11-30</a>
   </blockquote>
 
   <blockquote>
-  <p>Do you also forget your automations at times? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109420903286481817" target="_blank">2022-11-28</a>
+  <p>You can open a file with 'x' (exclusive creation) to prevent overwriting it if it already exists. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109427380484218074" target="_blank">2022-11-29</a>
   </blockquote>
 
 
