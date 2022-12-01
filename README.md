@@ -27,6 +27,12 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221130102028.md" target="_blank">Flatten a list of list</a> - 2022-11-30</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221130102010.md" target="_blank">Alternate class constructors</a> - 2022-11-30</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221129143410.md" target="_blank">Prevent file overwriting</a> - 2022-11-29</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221127080032.md" target="_blank">String replace first match</a> - 2022-11-27</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221127065621.md" target="_blank">Get type hints</a> - 2022-11-27</li>
@@ -36,12 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221124082215.md" target="_blank">Dict() type constructor</a> - 2022-11-24</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221121092758.md" target="_blank">While else</a> - 2022-11-21</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221026124022.md" target="_blank">Timeit decorator</a> - 2022-10-26</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221025132705.md" target="_blank">Raise from none</a> - 2022-10-25</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20220922083812.md" target="_blank">From dict to dataclass</a> - 2022-09-22</li>
 
 </ul>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>Classmethods are handy to provide multiple constructors to your classes.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109431876845427449" target="_blank">2022-11-30</a>
+  <p>Another neat feature is selecting a string then paste a link -&gt; GitHub creates a markdown link.</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109432595033722659" target="_blank">2022-11-30</a>
   </blockquote>
 
   <blockquote>
-  <p>I like how the Zen of <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> is a synopsis for clean code. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109431837246577389" target="_blank">2022-11-30</a>
+  <p>I love the fact that you can copy + paste an image in a text field (e.g. Readme) on <a class="mention hashtag" href="https://fosstodon.org/tags/GitHub" rel="tag">#<span>GitHub</span></a>.  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109432131090538893" target="_blank">2022-11-30</a>
   </blockquote>
 
   <blockquote>
-  <p>You can open a file with 'x' (exclusive creation) to prevent overwriting it if it already exists. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109427380484218074" target="_blank">2022-11-29</a>
+  <p>I added a little Streamlit app to my mastodon-backup repo:<br /><a href="https://github.com/bbelderbos/mastodon-backup/pull/2" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">github.com/bbelderbos/mastodon</span><span class="invisible">-backup/pull/2</span></a> ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109432085180112029" target="_blank">2022-11-30</a>
   </blockquote>
 
 
