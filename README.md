@@ -27,6 +27,10 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221201134231.md" target="_blank">Parametrizing fixtures</a> - 2022-12-01</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221201102028.md" target="_blank">Look for multiple indices in a list</a> - 2022-12-01</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221130102028.md" target="_blank">Flatten a list of list</a> - 2022-11-30</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221130102010.md" target="_blank">Alternate class constructors</a> - 2022-11-30</li>
@@ -39,10 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221125164329.md" target="_blank">Urlencode()</a> - 2022-11-25</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221124082215.md" target="_blank">Dict() type constructor</a> - 2022-11-24</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221121092758.md" target="_blank">While else</a> - 2022-11-21</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>Another neat feature is selecting a string then paste a link -&gt; GitHub creates a markdown link.</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109432595033722659" target="_blank">2022-11-30</a>
+  <p>Nice example from the creator of pre-commit how to use it with pytest: <br /><a href="https://stackoverflow.com/a/64014324" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">stackoverflow.com/a/64014324</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/109443213168399098" target="_blank">2022-12-02</a>
   </blockquote>
 
   <blockquote>
-  <p>I love the fact that you can copy + paste an image in a text field (e.g. Readme) on <a class="mention hashtag" href="https://fosstodon.org/tags/GitHub" rel="tag">#<span>GitHub</span></a>.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109432131090538893" target="_blank">2022-11-30</a>
+  <p>TIL: not sure what revs to put in your .pre-commit-config.yaml file? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109442939237100196" target="_blank">2022-12-02</a>
   </blockquote>
 
   <blockquote>
-  <p>I added a little Streamlit app to my mastodon-backup repo:<br /><a href="https://github.com/bbelderbos/mastodon-backup/pull/2" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">github.com/bbelderbos/mastodon</span><span class="invisible">-backup/pull/2</span></a> ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109432085180112029" target="_blank">2022-11-30</a>
+  <p>What's coming on the Pybites platform? An SQLModel Learning Path! ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109442621274998181" target="_blank">2022-12-02</a>
   </blockquote>
 
 
