@@ -27,6 +27,10 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221202140835.md" target="_blank">Testing datetimes</a> - 2022-12-02</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221202131250.md" target="_blank">Read / write files the modern way</a> - 2022-12-02</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221201134231.md" target="_blank">Parametrizing fixtures</a> - 2022-12-01</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221201102028.md" target="_blank">Look for multiple indices in a list</a> - 2022-12-01</li>
@@ -39,10 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221127080032.md" target="_blank">String replace first match</a> - 2022-11-27</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221127065621.md" target="_blank">Get type hints</a> - 2022-11-27</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221125164329.md" target="_blank">Urlencode()</a> - 2022-11-25</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -52,21 +52,6 @@
 
 ### Latest Fosstodon toots
 
-
-  <blockquote>
-  <p>Nice example from the creator of pre-commit how to use it with pytest: <br /><a href="https://stackoverflow.com/a/64014324" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">stackoverflow.com/a/64014324</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/109443213168399098" target="_blank">2022-12-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>TIL: not sure what revs to put in your .pre-commit-config.yaml file? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109442939237100196" target="_blank">2022-12-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>What's coming on the Pybites platform? An SQLModel Learning Path! ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109442621274998181" target="_blank">2022-12-02</a>
-  </blockquote>
 
 
 <br>
