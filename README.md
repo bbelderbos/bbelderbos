@@ -27,6 +27,14 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221203203246.md" target="_blank">Set operations - multiple sets</a> - 2022-12-03</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221203180451.md" target="_blank">Alphabet constants</a> - 2022-12-03</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221203175534.md" target="_blank">Integer division</a> - 2022-12-03</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221203173114.md" target="_blank">From __future__ import annotations</a> - 2022-12-03</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221202140835.md" target="_blank">Testing datetimes</a> - 2022-12-02</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221202131250.md" target="_blank">Read / write files the modern way</a> - 2022-12-02</li>
@@ -34,14 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221201134231.md" target="_blank">Parametrizing fixtures</a> - 2022-12-01</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221201102028.md" target="_blank">Look for multiple indices in a list</a> - 2022-12-01</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221130102028.md" target="_blank">Flatten a list of list</a> - 2022-11-30</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221130102010.md" target="_blank">Alternate class constructors</a> - 2022-11-30</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221129143410.md" target="_blank">Prevent file overwriting</a> - 2022-11-29</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221127080032.md" target="_blank">String replace first match</a> - 2022-11-27</li>
 
 </ul>
 
@@ -52,6 +52,21 @@
 
 ### Latest Fosstodon toots
 
+
+  <blockquote>
+  <p>How do you use imports in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109444210117541505" target="_blank">2022-12-02</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Nice example from the creator of pre-commit how to use it with pytest: <br /><a href="https://stackoverflow.com/a/64014324" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">stackoverflow.com/a/64014324</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/109443213168399098" target="_blank">2022-12-02</a>
+  </blockquote>
+
+  <blockquote>
+  <p>TIL: not sure what revs to put in your .pre-commit-config.yaml file? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109442939237100196" target="_blank">2022-12-02</a>
+  </blockquote>
 
 
 <br>
