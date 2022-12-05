@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>I just completed &quot;Camp Cleanup&quot; - Day 4 - Advent of Code 2022 <a class="mention hashtag" href="https://fosstodon.org/tags/AdventOfCode" rel="tag">#<span>AdventOfCode</span></a> <a href="https://adventofcode.com/2022/day/4" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">adventofcode.com/2022/day/4</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/109454574315154850" target="_blank">2022-12-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>How do you use imports in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>? ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109444210117541505" target="_blank">2022-12-02</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Nice example from the creator of pre-commit how to use it with pytest: <br /><a href="https://stackoverflow.com/a/64014324" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">stackoverflow.com/a/64014324</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/109443213168399098" target="_blank">2022-12-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>TIL: not sure what revs to put in your .pre-commit-config.yaml file? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109442939237100196" target="_blank">2022-12-02</a>
   </blockquote>
 
 
