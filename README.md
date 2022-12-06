@@ -27,6 +27,10 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221206080616.md" target="_blank">Namedtuple + type hints</a> - 2022-12-06</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221205115023.md" target="_blank">Django form save commit kwarg</a> - 2022-12-05</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221203203246.md" target="_blank">Set operations - multiple sets</a> - 2022-12-03</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221203180451.md" target="_blank">Alphabet constants</a> - 2022-12-03</li>
@@ -39,10 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221202131250.md" target="_blank">Read / write files the modern way</a> - 2022-12-02</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221201134231.md" target="_blank">Parametrizing fixtures</a> - 2022-12-01</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221201102028.md" target="_blank">Look for multiple indices in a list</a> - 2022-12-01</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>I just completed &quot;Camp Cleanup&quot; - Day 4 - Advent of Code 2022 <a class="mention hashtag" href="https://fosstodon.org/tags/AdventOfCode" rel="tag">#<span>AdventOfCode</span></a> <a href="https://adventofcode.com/2022/day/4" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">adventofcode.com/2022/day/4</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/109454574315154850" target="_blank">2022-12-04</a>
+  <p>I just completed &quot;Tuning Trouble&quot; - Day 6 - Advent of Code 2022 <a class="mention hashtag" href="https://fosstodon.org/tags/AdventOfCode" rel="tag">#<span>AdventOfCode</span></a> <a href="https://adventofcode.com/2022/day/6" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">adventofcode.com/2022/day/6</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/109465613678632290" target="_blank">2022-12-06</a>
   </blockquote>
 
   <blockquote>
-  <p>How do you use imports in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109444210117541505" target="_blank">2022-12-02</a>
+  <p>I just completed &quot;Supply Stacks&quot; - Day 5 - Advent of Code 2022 <a class="mention hashtag" href="https://fosstodon.org/tags/AdventOfCode" rel="tag">#<span>AdventOfCode</span></a> <a href="https://adventofcode.com/2022/day/5" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">adventofcode.com/2022/day/5</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/109462981390771013" target="_blank">2022-12-05</a>
   </blockquote>
 
   <blockquote>
-  <p>Nice example from the creator of pre-commit how to use it with pytest: <br /><a href="https://stackoverflow.com/a/64014324" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">stackoverflow.com/a/64014324</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/109443213168399098" target="_blank">2022-12-02</a>
+  <p>Two underscore use cases for my Python today:  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109460669815267112" target="_blank">2022-12-05</a>
   </blockquote>
 
 
