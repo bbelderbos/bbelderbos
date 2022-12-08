@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/coding-with-mindfulness/" target="_blank">Coding with mindfulness</a> - 2022-12-07</li>
+
   <li><a href="https://pybit.es/articles/how-to-create-a-self-updating-github-readme/" target="_blank">How to create a self updating GitHub Readme</a> - 2022-11-21</li>
 
   <li><a href="https://pybit.es/articles/pp96-loving-the-journey-towards-your-goal/" target="_blank">Loving the Journey towards your Goal</a> - 2022-11-21</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/pp95-software-engineering-and-entrepreneurship/" target="_blank">Software Engineering and Entrepreneurship</a> - 2022-11-15</li>
 
   <li><a href="https://pybit.es/articles/finding-new-and-removed-python-3-11-modules-in-8-lines-of-code/" target="_blank">Finding new and removed Python 3.11 modules in 8 lines of code</a> - 2022-11-09</li>
-
-  <li><a href="https://pybit.es/articles/tips-for-clean-code-in-python/" target="_blank">Tips for clean code in Python</a> - 2022-11-08</li>
 
 </ul>
 
