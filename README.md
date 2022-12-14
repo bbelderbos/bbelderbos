@@ -27,6 +27,12 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221213141214.md" target="_blank">Transposing a matrix</a> - 2022-12-13</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221213095810.md" target="_blank">Turn strings into operations (without eval)</a> - 2022-12-13</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221213094557.md" target="_blank">Least common multiple</a> - 2022-12-13</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221206080616.md" target="_blank">Namedtuple + type hints</a> - 2022-12-06</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221205115023.md" target="_blank">Django form save commit kwarg</a> - 2022-12-05</li>
@@ -36,12 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221203180451.md" target="_blank">Alphabet constants</a> - 2022-12-03</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221203175534.md" target="_blank">Integer division</a> - 2022-12-03</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221203173114.md" target="_blank">From __future__ import annotations</a> - 2022-12-03</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221202140835.md" target="_blank">Testing datetimes</a> - 2022-12-02</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221202131250.md" target="_blank">Read / write files the modern way</a> - 2022-12-02</li>
 
 </ul>
 
