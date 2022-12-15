@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221214133347.md" target="_blank">String to object</a> - 2022-12-14</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221213141214.md" target="_blank">Transposing a matrix</a> - 2022-12-13</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221213095810.md" target="_blank">Turn strings into operations (without eval)</a> - 2022-12-13</li>
@@ -41,8 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221203180451.md" target="_blank">Alphabet constants</a> - 2022-12-03</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221203175534.md" target="_blank">Integer division</a> - 2022-12-03</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>I wrote a new article about 5 cool ways I'm using <a class="mention hashtag" href="https://fosstodon.org/tags/GitHub" rel="tag">#<span>GitHub</span></a> Actions at the moment: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109513239816938927" target="_blank">2022-12-14</a>
+  </blockquote>
+
+  <blockquote>
   <p>I just completed &quot;Tuning Trouble&quot; - Day 6 - Advent of Code 2022 <a class="mention hashtag" href="https://fosstodon.org/tags/AdventOfCode" rel="tag">#<span>AdventOfCode</span></a> <a href="https://adventofcode.com/2022/day/6" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">adventofcode.com/2022/day/6</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/109465613678632290" target="_blank">2022-12-06</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>I just completed &quot;Supply Stacks&quot; - Day 5 - Advent of Code 2022 <a class="mention hashtag" href="https://fosstodon.org/tags/AdventOfCode" rel="tag">#<span>AdventOfCode</span></a> <a href="https://adventofcode.com/2022/day/5" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">adventofcode.com/2022/day/5</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/109462981390771013" target="_blank">2022-12-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Two underscore use cases for my Python today:  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109460669815267112" target="_blank">2022-12-05</a>
   </blockquote>
 
 
