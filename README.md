@@ -6,15 +6,15 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/cool-data-side-projects-and-prolific-content-creation/" target="_blank">Cool data side projects and prolific content creation</a> - 2022-12-15</li>
+
+  <li><a href="https://pybit.es/articles/5-ways-i-use-github-actions/" target="_blank">5 ways I use GitHub Actions</a> - 2022-12-14</li>
+
   <li><a href="https://pybit.es/articles/coding-with-mindfulness/" target="_blank">Coding with mindfulness</a> - 2022-12-07</li>
 
   <li><a href="https://pybit.es/articles/how-to-create-a-self-updating-github-readme/" target="_blank">How to create a self updating GitHub Readme</a> - 2022-11-21</li>
 
   <li><a href="https://pybit.es/articles/pp96-loving-the-journey-towards-your-goal/" target="_blank">Loving the Journey towards your Goal</a> - 2022-11-21</li>
-
-  <li><a href="https://pybit.es/articles/pp95-software-engineering-and-entrepreneurship/" target="_blank">Software Engineering and Entrepreneurship</a> - 2022-11-15</li>
-
-  <li><a href="https://pybit.es/articles/finding-new-and-removed-python-3-11-modules-in-8-lines-of-code/" target="_blank">Finding new and removed Python 3.11 modules in 8 lines of code</a> - 2022-11-09</li>
 
 </ul>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>New article:  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109518561961498070" target="_blank">2022-12-15</a>
+  </blockquote>
+
+  <blockquote>
+  <p>I had a blast interviewing Kristen Kehrer on our @Pybites podcast. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109517165438266869" target="_blank">2022-12-15</a>
+  </blockquote>
+
+  <blockquote>
   <p>I wrote a new article about 5 cool ways I'm using <a class="mention hashtag" href="https://fosstodon.org/tags/GitHub" rel="tag">#<span>GitHub</span></a> Actions at the moment: ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109513239816938927" target="_blank">2022-12-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I just completed &quot;Tuning Trouble&quot; - Day 6 - Advent of Code 2022 <a class="mention hashtag" href="https://fosstodon.org/tags/AdventOfCode" rel="tag">#<span>AdventOfCode</span></a> <a href="https://adventofcode.com/2022/day/6" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">adventofcode.com/2022/day/6</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/109465613678632290" target="_blank">2022-12-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I just completed &quot;Supply Stacks&quot; - Day 5 - Advent of Code 2022 <a class="mention hashtag" href="https://fosstodon.org/tags/AdventOfCode" rel="tag">#<span>AdventOfCode</span></a> <a href="https://adventofcode.com/2022/day/5" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">adventofcode.com/2022/day/5</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/109462981390771013" target="_blank">2022-12-05</a>
   </blockquote>
 
 
