@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/building-a-500-line-api-regression-test-suite/" target="_blank">Building a 500 line API regression test suite</a> - 2022-12-15</li>
+
   <li><a href="https://pybit.es/articles/cool-data-side-projects-and-prolific-content-creation/" target="_blank">Cool data side projects and prolific content creation</a> - 2022-12-15</li>
 
   <li><a href="https://pybit.es/articles/5-ways-i-use-github-actions/" target="_blank">5 ways I use GitHub Actions</a> - 2022-12-14</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/coding-with-mindfulness/" target="_blank">Coding with mindfulness</a> - 2022-12-07</li>
 
   <li><a href="https://pybit.es/articles/how-to-create-a-self-updating-github-readme/" target="_blank">How to create a self updating GitHub Readme</a> - 2022-11-21</li>
-
-  <li><a href="https://pybit.es/articles/pp96-loving-the-journey-towards-your-goal/" target="_blank">Loving the Journey towards your Goal</a> - 2022-11-21</li>
 
 </ul>
 
@@ -27,6 +27,12 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221216144546.md" target="_blank">Find digits in string</a> - 2022-12-16</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221216114651.md" target="_blank">See if a string only contains ascii characters</a> - 2022-12-16</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221216114150.md" target="_blank">Char to number</a> - 2022-12-16</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221214133347.md" target="_blank">String to object</a> - 2022-12-14</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221213141214.md" target="_blank">Transposing a matrix</a> - 2022-12-13</li>
@@ -36,12 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221213094557.md" target="_blank">Least common multiple</a> - 2022-12-13</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221206080616.md" target="_blank">Namedtuple + type hints</a> - 2022-12-06</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221205115023.md" target="_blank">Django form save commit kwarg</a> - 2022-12-05</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221203203246.md" target="_blank">Set operations - multiple sets</a> - 2022-12-03</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221203180451.md" target="_blank">Alphabet constants</a> - 2022-12-03</li>
 
 </ul>
 
