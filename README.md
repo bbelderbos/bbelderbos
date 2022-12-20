@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/pybites-turns-6-today-10-highlights-lessons-learned/" target="_blank">Pybites turns 6 today – 10 highlights + lessons learned</a> - 2022-12-19</li>
+
   <li><a href="https://pybit.es/articles/building-a-500-line-api-regression-test-suite/" target="_blank">Building a 500 line API regression test suite</a> - 2022-12-15</li>
 
   <li><a href="https://pybit.es/articles/cool-data-side-projects-and-prolific-content-creation/" target="_blank">Cool data side projects and prolific content creation</a> - 2022-12-15</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/5-ways-i-use-github-actions/" target="_blank">5 ways I use GitHub Actions</a> - 2022-12-14</li>
 
   <li><a href="https://pybit.es/articles/coding-with-mindfulness/" target="_blank">Coding with mindfulness</a> - 2022-12-07</li>
-
-  <li><a href="https://pybit.es/articles/how-to-create-a-self-updating-github-readme/" target="_blank">How to create a self updating GitHub Readme</a> - 2022-11-21</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Pybites turned 6 yesterday, some things we've learned along the way: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109544039970606974" target="_blank">2022-12-20</a>
+  </blockquote>
+
+  <blockquote>
   <p>New article:  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109518561961498070" target="_blank">2022-12-15</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>I had a blast interviewing Kristen Kehrer on our @Pybites podcast. ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109517165438266869" target="_blank">2022-12-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I wrote a new article about 5 cool ways I'm using <a class="mention hashtag" href="https://fosstodon.org/tags/GitHub" rel="tag">#<span>GitHub</span></a> Actions at the moment: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109513239816938927" target="_blank">2022-12-14</a>
   </blockquote>
 
 
