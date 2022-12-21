@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Downloaded Google fit data and used Leaflet.heat to make a heatmap of longitude / latitude coordinates. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109546415643883008" target="_blank">2022-12-20</a>
+  </blockquote>
+
+  <blockquote>
   <p>Pybites turned 6 yesterday, some things we've learned along the way: ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109544039970606974" target="_blank">2022-12-20</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>New article:  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109518561961498070" target="_blank">2022-12-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I had a blast interviewing Kristen Kehrer on our @Pybites podcast. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109517165438266869" target="_blank">2022-12-15</a>
   </blockquote>
 
 
