@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/reflections-on-the-zen-of-python/" target="_blank">Reflections on the Zen of Python</a> - 2022-12-21</li>
+
   <li><a href="https://pybit.es/articles/pybites-turns-6-today-10-highlights-lessons-learned/" target="_blank">Pybites turns 6 today – 10 highlights + lessons learned</a> - 2022-12-19</li>
 
   <li><a href="https://pybit.es/articles/building-a-500-line-api-regression-test-suite/" target="_blank">Building a 500 line API regression test suite</a> - 2022-12-15</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/cool-data-side-projects-and-prolific-content-creation/" target="_blank">Cool data side projects and prolific content creation</a> - 2022-12-15</li>
 
   <li><a href="https://pybit.es/articles/5-ways-i-use-github-actions/" target="_blank">5 ways I use GitHub Actions</a> - 2022-12-14</li>
-
-  <li><a href="https://pybit.es/articles/coding-with-mindfulness/" target="_blank">Coding with mindfulness</a> - 2022-12-07</li>
 
 </ul>
 
@@ -26,6 +26,8 @@
 ### Latest Python tips
 
 <ul>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221221130639.md" target="_blank">Dict keys should be hashable</a> - 2022-12-21</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221216144546.md" target="_blank">Find digits in string</a> - 2022-12-16</li>
 
@@ -41,8 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221213094557.md" target="_blank">Least common multiple</a> - 2022-12-13</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221206080616.md" target="_blank">Namedtuple + type hints</a> - 2022-12-06</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p><span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@jeroenjanssens">@<span>jeroenjanssens</span></a></span> welcome to Mastodon :)  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109555734409472981" target="_blank">2022-12-22</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Which axiom(s) do you particularly like from the Zen of <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>?  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109551469782097211" target="_blank">2022-12-21</a>
+  </blockquote>
+
+  <blockquote>
   <p>Downloaded Google fit data and used Leaflet.heat to make a heatmap of longitude / latitude coordinates. ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109546415643883008" target="_blank">2022-12-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Pybites turned 6 yesterday, some things we've learned along the way: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109544039970606974" target="_blank">2022-12-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New article:  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109518561961498070" target="_blank">2022-12-15</a>
   </blockquote>
 
 
