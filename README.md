@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p><span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@jeroenjanssens">@<span>jeroenjanssens</span></a></span> welcome to Mastodon :)  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109555734409472981" target="_blank">2022-12-22</a>
+  <p>PyScript is really cool 😎❤ ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109627176181750039" target="_blank">2023-01-03</a>
   </blockquote>
 
   <blockquote>
-  <p>Which axiom(s) do you particularly like from the Zen of <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>?  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109551469782097211" target="_blank">2022-12-21</a>
+  <p>Happy New Year! Nice to be back and work on some stuff. That said breaks are awesome and make you more productive in the long run, the reflection and refocus is amazing!</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109626325347473389" target="_blank">2023-01-03</a>
   </blockquote>
 
   <blockquote>
-  <p>Downloaded Google fit data and used Leaflet.heat to make a heatmap of longitude / latitude coordinates. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109546415643883008" target="_blank">2022-12-20</a>
+  <p>Learned some PyScript today making a countdown timer. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109626320867657833" target="_blank">2023-01-03</a>
   </blockquote>
 
 
