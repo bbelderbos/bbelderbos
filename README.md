@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Just recorded our first Pybites episode this year: debrief on the break + tips on goal setting. Ready and excited to work on stuff again!</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109630732487681056" target="_blank">2023-01-04</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Forming good habits is critical, re-reading Atomic Habits! ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109630726418207489" target="_blank">2023-01-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>PyScript is really cool 😎❤ ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109627176181750039" target="_blank">2023-01-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Happy New Year! Nice to be back and work on some stuff. That said breaks are awesome and make you more productive in the long run, the reflection and refocus is amazing!</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109626325347473389" target="_blank">2023-01-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Learned some PyScript today making a countdown timer. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109626320867657833" target="_blank">2023-01-03</a>
   </blockquote>
 
 
