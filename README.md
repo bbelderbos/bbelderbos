@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>TIL models.TextChoices, a nicer way to define a choice list in Django, enum style.  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109637840688248702" target="_blank">2023-01-05</a>
+  </blockquote>
+
+  <blockquote>
   <p>Just recorded our first Pybites episode this year: debrief on the break + tips on goal setting. Ready and excited to work on stuff again!</p>
   - <a href="https://fosstodon.org/@bbelderbos/109630732487681056" target="_blank">2023-01-04</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Forming good habits is critical, re-reading Atomic Habits! ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109630726418207489" target="_blank">2023-01-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>PyScript is really cool 😎❤ ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109627176181750039" target="_blank">2023-01-03</a>
   </blockquote>
 
 
