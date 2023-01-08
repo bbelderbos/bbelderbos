@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/pyscript-a-first-exploration/" target="_blank">PyScript, a first exploration</a> - 2023-01-06</li>
+
   <li><a href="https://pybit.es/articles/reflections-on-the-zen-of-python/" target="_blank">Reflections on the Zen of Python</a> - 2022-12-21</li>
 
   <li><a href="https://pybit.es/articles/pybites-turns-6-today-10-highlights-lessons-learned/" target="_blank">Pybites turns 6 today – 10 highlights + lessons learned</a> - 2022-12-19</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/building-a-500-line-api-regression-test-suite/" target="_blank">Building a 500 line API regression test suite</a> - 2022-12-15</li>
 
   <li><a href="https://pybit.es/articles/cool-data-side-projects-and-prolific-content-creation/" target="_blank">Cool data side projects and prolific content creation</a> - 2022-12-15</li>
-
-  <li><a href="https://pybit.es/articles/5-ways-i-use-github-actions/" target="_blank">5 ways I use GitHub Actions</a> - 2022-12-14</li>
 
 </ul>
 
