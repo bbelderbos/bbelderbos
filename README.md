@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/goal-setting-tips/" target="_blank">Goal setting tips</a> - 2023-01-08</li>
+
   <li><a href="https://pybit.es/articles/pyscript-a-first-exploration/" target="_blank">PyScript, a first exploration</a> - 2023-01-06</li>
 
   <li><a href="https://pybit.es/articles/reflections-on-the-zen-of-python/" target="_blank">Reflections on the Zen of Python</a> - 2022-12-21</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/pybites-turns-6-today-10-highlights-lessons-learned/" target="_blank">Pybites turns 6 today – 10 highlights + lessons learned</a> - 2022-12-19</li>
 
   <li><a href="https://pybit.es/articles/building-a-500-line-api-regression-test-suite/" target="_blank">Building a 500 line API regression test suite</a> - 2022-12-15</li>
-
-  <li><a href="https://pybit.es/articles/cool-data-side-projects-and-prolific-content-creation/" target="_blank">Cool data side projects and prolific content creation</a> - 2022-12-15</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Our first podcast episode of the year is out, conveniently about productivity and goal setting :)  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109653540664699883" target="_blank">2023-01-08</a>
+  </blockquote>
+
+  <blockquote>
   <p>New on our blog: a comprehensible guide to get started with PyScript 😎 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109641592340343967" target="_blank">2023-01-06</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>TIL models.TextChoices, a nicer way to define a choice list in Django, enum style.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109637840688248702" target="_blank">2023-01-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Just recorded our first Pybites episode this year: debrief on the break + tips on goal setting. Ready and excited to work on stuff again!</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109630732487681056" target="_blank">2023-01-04</a>
   </blockquote>
 
 
