@@ -27,6 +27,10 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230110131408.md" target="_blank">Tuples are immutable</a> - 2023-01-10</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230110130247.md" target="_blank">Faster page downloads</a> - 2023-01-10</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221221130639.md" target="_blank">Dict keys should be hashable</a> - 2022-12-21</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221216144546.md" target="_blank">Find digits in string</a> - 2022-12-16</li>
@@ -38,10 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221214133347.md" target="_blank">String to object</a> - 2022-12-14</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221213141214.md" target="_blank">Transposing a matrix</a> - 2022-12-13</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221213095810.md" target="_blank">Turn strings into operations (without eval)</a> - 2022-12-13</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221213094557.md" target="_blank">Least common multiple</a> - 2022-12-13</li>
 
 </ul>
 
