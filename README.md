@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230113130529.md" target="_blank">Make a datetime timezone aware</a> - 2023-01-13</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230110131408.md" target="_blank">Tuples are immutable</a> - 2023-01-10</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230110130247.md" target="_blank">Faster page downloads</a> - 2023-01-10</li>
@@ -40,8 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221216114150.md" target="_blank">Char to number</a> - 2022-12-16</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221214133347.md" target="_blank">String to object</a> - 2022-12-14</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221213141214.md" target="_blank">Transposing a matrix</a> - 2022-12-13</li>
 
 </ul>
 
