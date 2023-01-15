@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/resources-to-stay-focused-and-positive/" target="_blank">Resources to stay focused and positive</a> - 2023-01-13</li>
+
   <li><a href="https://pybit.es/articles/its-not-you-its-me/" target="_blank">It’s not you – it’s me</a> - 2023-01-09</li>
 
   <li><a href="https://pybit.es/articles/goal-setting-tips/" target="_blank">Goal setting tips</a> - 2023-01-08</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/pyscript-a-first-exploration/" target="_blank">PyScript, a first exploration</a> - 2023-01-06</li>
 
   <li><a href="https://pybit.es/articles/reflections-on-the-zen-of-python/" target="_blank">Reflections on the Zen of Python</a> - 2022-12-21</li>
-
-  <li><a href="https://pybit.es/articles/pybites-turns-6-today-10-highlights-lessons-learned/" target="_blank">Pybites turns 6 today – 10 highlights + lessons learned</a> - 2022-12-19</li>
 
 </ul>
 
