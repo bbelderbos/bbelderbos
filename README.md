@@ -6,15 +6,15 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/special-podcast-100-developer-mindset-tips-for-2023-and-our-favorite-shows/" target="_blank">Special podcast #100: Developer + Mindset Tips  for 2023 (and our favorite shows)</a> - 2023-01-17</li>
+
+  <li><a href="https://pybit.es/articles/love-the-process-and-identify-with-your-habits/" target="_blank">Love the process and identify with your habits</a> - 2023-01-17</li>
+
   <li><a href="https://pybit.es/articles/resources-to-stay-focused-and-positive/" target="_blank">Resources to stay focused and positive</a> - 2023-01-13</li>
 
   <li><a href="https://pybit.es/articles/its-not-you-its-me/" target="_blank">It’s not you – it’s me</a> - 2023-01-09</li>
 
   <li><a href="https://pybit.es/articles/goal-setting-tips/" target="_blank">Goal setting tips</a> - 2023-01-08</li>
-
-  <li><a href="https://pybit.es/articles/pyscript-a-first-exploration/" target="_blank">PyScript, a first exploration</a> - 2023-01-06</li>
-
-  <li><a href="https://pybit.es/articles/reflections-on-the-zen-of-python/" target="_blank">Reflections on the Zen of Python</a> - 2022-12-21</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>We sent a productivity email last week that really hit home with people.  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109704424847736179" target="_blank">2023-01-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>Our first podcast episode of the year is out, conveniently about productivity and goal setting :)  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109653540664699883" target="_blank">2023-01-08</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>New on our blog: a comprehensible guide to get started with PyScript 😎 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109641592340343967" target="_blank">2023-01-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>TIL models.TextChoices, a nicer way to define a choice list in Django, enum style.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109637840688248702" target="_blank">2023-01-05</a>
   </blockquote>
 
 
