@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>We sent a productivity email last week that really hit home with people.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109704424847736179" target="_blank">2023-01-17</a>
+  <p>What are you working on this week? Any <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>?</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109716025554700710" target="_blank">2023-01-19</a>
   </blockquote>
 
   <blockquote>
-  <p>Our first podcast episode of the year is out, conveniently about productivity and goal setting :)  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109653540664699883" target="_blank">2023-01-08</a>
+  <p>When you try to learn Flet, there is a nice example repo:<br /><a href="https://github.com/flet-dev/examples" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">github.com/flet-dev/examples</span><span class="invisible"></span></a> ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109715971813741134" target="_blank">2023-01-19</a>
   </blockquote>
 
   <blockquote>
-  <p>New on our blog: a comprehensible guide to get started with PyScript 😎 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109641592340343967" target="_blank">2023-01-06</a>
+  <p>Didn't know dice made for such a nice exercise, new Bite published: <a href="https://codechalleng.es/bites/365/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">codechalleng.es/bites/365/</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/109715965363546056" target="_blank">2023-01-19</a>
   </blockquote>
 
 
