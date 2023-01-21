@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>New Pybites article: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109722765448292060" target="_blank">2023-01-20</a>
+  </blockquote>
+
+  <blockquote>
   <p>What are you working on this week? Any <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>?</p>
   - <a href="https://fosstodon.org/@bbelderbos/109716025554700710" target="_blank">2023-01-19</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>When you try to learn Flet, there is a nice example repo:<br /><a href="https://github.com/flet-dev/examples" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">github.com/flet-dev/examples</span><span class="invisible"></span></a> ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109715971813741134" target="_blank">2023-01-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Didn't know dice made for such a nice exercise, new Bite published: <a href="https://codechalleng.es/bites/365/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">codechalleng.es/bites/365/</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/109715965363546056" target="_blank">2023-01-19</a>
   </blockquote>
 
 
