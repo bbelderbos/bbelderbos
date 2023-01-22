@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/testing-membership-and-empty-strings/" target="_blank">Testing membership and empty strings</a> - 2023-01-20</li>
+
   <li><a href="https://pybit.es/articles/special-podcast-100-developer-mindset-tips-for-2023-and-our-favorite-shows/" target="_blank">Special podcast #100: Developer + Mindset Tips  for 2023 (and our favorite shows)</a> - 2023-01-17</li>
 
   <li><a href="https://pybit.es/articles/love-the-process-and-identify-with-your-habits/" target="_blank">Love the process and identify with your habits</a> - 2023-01-17</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/resources-to-stay-focused-and-positive/" target="_blank">Resources to stay focused and positive</a> - 2023-01-13</li>
 
   <li><a href="https://pybit.es/articles/its-not-you-its-me/" target="_blank">It’s not you – it’s me</a> - 2023-01-09</li>
-
-  <li><a href="https://pybit.es/articles/goal-setting-tips/" target="_blank">Goal setting tips</a> - 2023-01-08</li>
 
 </ul>
 
