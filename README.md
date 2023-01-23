@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Just heard that somebody is still using my 10+ year old twitter aggregator tool (PHP days), so cool. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109732696010357478" target="_blank">2023-01-22</a>
+  </blockquote>
+
+  <blockquote>
   <p>New Pybites article: ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109722765448292060" target="_blank">2023-01-20</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>What are you working on this week? Any <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>?</p>
   - <a href="https://fosstodon.org/@bbelderbos/109716025554700710" target="_blank">2023-01-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>When you try to learn Flet, there is a nice example repo:<br /><a href="https://github.com/flet-dev/examples" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">github.com/flet-dev/examples</span><span class="invisible"></span></a> ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109715971813741134" target="_blank">2023-01-19</a>
   </blockquote>
 
 
