@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>&quot;Stop consuming, start producing&quot; - MJ DeMarco</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109743252691786001" target="_blank">2023-01-24</a>
+  </blockquote>
+
+  <blockquote>
+  <p>What is your favorite Python feature? (OK you can list up to 3 haha) ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109737910244065851" target="_blank">2023-01-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>Just heard that somebody is still using my 10+ year old twitter aggregator tool (PHP days), so cool. ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109732696010357478" target="_blank">2023-01-22</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New Pybites article: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109722765448292060" target="_blank">2023-01-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>What are you working on this week? Any <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>?</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109716025554700710" target="_blank">2023-01-19</a>
   </blockquote>
 
 
