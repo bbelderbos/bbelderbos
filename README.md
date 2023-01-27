@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/fail-fail-better-a-change-in-attitude-towards-imposter-syndrome/" target="_blank">Fail. Fail better. A change in attitude towards Imposter Syndrome</a> - 2023-01-26</li>
+
   <li><a href="https://pybit.es/articles/10-things-that-hamper-your-python-career-progress/" target="_blank">10 things that hamper your Python career progress</a> - 2023-01-25</li>
 
   <li><a href="https://pybit.es/articles/testing-membership-and-empty-strings/" target="_blank">Testing membership and empty strings</a> - 2023-01-20</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/special-podcast-100-developer-mindset-tips-for-2023-and-our-favorite-shows/" target="_blank">Special podcast #100: Developer + Mindset Tips  for 2023 (and our favorite shows)</a> - 2023-01-17</li>
 
   <li><a href="https://pybit.es/articles/love-the-process-and-identify-with-your-habits/" target="_blank">Love the process and identify with your habits</a> - 2023-01-17</li>
-
-  <li><a href="https://pybit.es/articles/resources-to-stay-focused-and-positive/" target="_blank">Resources to stay focused and positive</a> - 2023-01-13</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Perfect is the enemy of done / shipped.</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109756948850921830" target="_blank">2023-01-26</a>
+  </blockquote>
+
+  <blockquote>
   <p>&quot;Stop consuming, start producing&quot; - MJ DeMarco</p>
   - <a href="https://fosstodon.org/@bbelderbos/109743252691786001" target="_blank">2023-01-24</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>What is your favorite Python feature? (OK you can list up to 3 haha) ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109737910244065851" target="_blank">2023-01-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Just heard that somebody is still using my 10+ year old twitter aggregator tool (PHP days), so cool. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109732696010357478" target="_blank">2023-01-22</a>
   </blockquote>
 
 
