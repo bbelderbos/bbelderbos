@@ -27,6 +27,10 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230130103011.md" target="_blank">Caching api calls</a> - 2023-01-30</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230130102312.md" target="_blank">Test the random module</a> - 2023-01-30</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230113130529.md" target="_blank">Make a datetime timezone aware</a> - 2023-01-13</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230110131408.md" target="_blank">Tuples are immutable</a> - 2023-01-10</li>
@@ -38,10 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221216144546.md" target="_blank">Find digits in string</a> - 2022-12-16</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221216114651.md" target="_blank">See if a string only contains ascii characters</a> - 2022-12-16</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221216114150.md" target="_blank">Char to number</a> - 2022-12-16</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221214133347.md" target="_blank">String to object</a> - 2022-12-14</li>
 
 </ul>
 
