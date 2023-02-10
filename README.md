@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/from-excel-to-python-and-succeeding-as-a-developer-by-building-your-portfolio/" target="_blank">From Excel to Python and succeeding as a Developer by building your portfolio</a> - 2023-02-09</li>
+
   <li><a href="https://pybit.es/articles/how-michael-knott-used-python-to-enhance-his-sports-coaching-career/" target="_blank">How Michael Knott used Python to enhance his sports coaching career</a> - 2023-02-02</li>
 
   <li><a href="https://pybit.es/articles/layoff-fears-5-tips-to-stay-in-control/" target="_blank">Layoff fears – 5 tips to stay in control</a> - 2023-01-27</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/fail-fail-better-a-change-in-attitude-towards-imposter-syndrome/" target="_blank">Fail. Fail better. A change in attitude towards Imposter Syndrome</a> - 2023-01-26</li>
 
   <li><a href="https://pybit.es/articles/10-things-that-hamper-your-python-career-progress/" target="_blank">10 things that hamper your Python career progress</a> - 2023-01-25</li>
-
-  <li><a href="https://pybit.es/articles/testing-membership-and-empty-strings/" target="_blank">Testing membership and empty strings</a> - 2023-01-20</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>New Pybites podcast episode is out:  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109836144134754742" target="_blank">2023-02-09</a>
+  </blockquote>
+
+  <blockquote>
   <p>Check out our new episode #102 - How Michael Knott used Python to enhance his sports coaching career ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109796469004729748" target="_blank">2023-02-02</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>New Pybites article: ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109760946816369751" target="_blank">2023-01-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Perfect is the enemy of done / shipped.</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109756948850921830" target="_blank">2023-01-26</a>
   </blockquote>
 
 
