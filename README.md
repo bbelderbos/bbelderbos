@@ -6,7 +6,7 @@
 
 <ul>
 
-  <li><a href="https://pybit.es/articles/from-excel-to-python-and-succeeding-as-a-developer-by-building-your-portfolio/" target="_blank">From Excel to Python and succeeding as a Developer by building your portfolio</a> - 2023-02-09</li>
+  <li><a href="https://pybit.es/articles/from-excel-to-python-and-succeeding-as-a-developer-by-building-your-portfolio/" target="_blank">From Excel to Python and succeeding as a Developer</a> - 2023-02-09</li>
 
   <li><a href="https://pybit.es/articles/how-michael-knott-used-python-to-enhance-his-sports-coaching-career/" target="_blank">How Michael Knott used Python to enhance his sports coaching career</a> - 2023-02-02</li>
 
