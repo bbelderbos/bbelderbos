@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Read about Chris Sato's experience building a FastAPI + Streamlit app, great write up! ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109856534132266860" target="_blank">2023-02-13</a>
+  </blockquote>
+
+  <blockquote>
   <p>New Pybites podcast episode is out:  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109836144134754742" target="_blank">2023-02-09</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Check out our new episode #102 - How Michael Knott used Python to enhance his sports coaching career ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109796469004729748" target="_blank">2023-02-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New Pybites article: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109760946816369751" target="_blank">2023-01-27</a>
   </blockquote>
 
 
