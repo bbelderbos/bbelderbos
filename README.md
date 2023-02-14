@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/my-experience-building-a-fastapi-streamlit-app/" target="_blank">My experience building a FastAPI + Streamlit app</a> - 2023-02-13</li>
+
   <li><a href="https://pybit.es/articles/from-excel-to-python-and-succeeding-as-a-developer-by-building-your-portfolio/" target="_blank">From Excel to Python and succeeding as a Developer</a> - 2023-02-09</li>
 
   <li><a href="https://pybit.es/articles/how-michael-knott-used-python-to-enhance-his-sports-coaching-career/" target="_blank">How Michael Knott used Python to enhance his sports coaching career</a> - 2023-02-02</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/layoff-fears-5-tips-to-stay-in-control/" target="_blank">Layoff fears – 5 tips to stay in control</a> - 2023-01-27</li>
 
   <li><a href="https://pybit.es/articles/fail-fail-better-a-change-in-attitude-towards-imposter-syndrome/" target="_blank">Fail. Fail better. A change in attitude towards Imposter Syndrome</a> - 2023-01-26</li>
-
-  <li><a href="https://pybit.es/articles/10-things-that-hamper-your-python-career-progress/" target="_blank">10 things that hamper your Python career progress</a> - 2023-01-25</li>
 
 </ul>
 
