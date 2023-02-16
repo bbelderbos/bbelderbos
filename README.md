@@ -27,6 +27,10 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230215143414.md" target="_blank">Get all subclasses</a> - 2023-02-15</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230215131208.md" target="_blank">Code uses list comprehensions?</a> - 2023-02-15</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230130103011.md" target="_blank">Caching api calls</a> - 2023-01-30</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230130102312.md" target="_blank">Test the random module</a> - 2023-01-30</li>
@@ -39,10 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221221130639.md" target="_blank">Dict keys should be hashable</a> - 2022-12-21</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221216144546.md" target="_blank">Find digits in string</a> - 2022-12-16</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221216114651.md" target="_blank">See if a string only contains ascii characters</a> - 2022-12-16</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Anybody used Ruff yet? Experiences? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109868214706242007" target="_blank">2023-02-15</a>
+  </blockquote>
+
+  <blockquote>
+  <p>So exciting: I am adding the first type hinting Bite exercises to our codechalleng.es / our coding platform ... ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109868212588020004" target="_blank">2023-02-15</a>
+  </blockquote>
+
+  <blockquote>
   <p>Read about Chris Sato's experience building a FastAPI + Streamlit app, great write up! ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109856534132266860" target="_blank">2023-02-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New Pybites podcast episode is out:  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109836144134754742" target="_blank">2023-02-09</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Check out our new episode #102 - How Michael Knott used Python to enhance his sports coaching career ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109796469004729748" target="_blank">2023-02-02</a>
   </blockquote>
 
 
