@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/django-class-based-vs-function-based-views/" target="_blank">Django class based vs function based views</a> - 2023-02-28</li>
+
   <li><a href="https://pybit.es/articles/feel-comfortable-with-git/" target="_blank">Feel Comfortable with Git?</a> - 2023-02-27</li>
 
   <li><a href="https://pybit.es/articles/how-to-start-finishing-learning-from-agile-practices/" target="_blank">How To Start Finishing – Learning from Agile Practices</a> - 2023-02-24</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/finding-value-and-purpose-in-your-work/" target="_blank">Finding value and purpose in your work</a> - 2023-02-24</li>
 
   <li><a href="https://pybit.es/articles/my-experience-building-a-fastapi-streamlit-app/" target="_blank">My experience building a FastAPI + Streamlit app</a> - 2023-02-13</li>
-
-  <li><a href="https://pybit.es/articles/from-excel-to-python-and-succeeding-as-a-developer-by-building-your-portfolio/" target="_blank">From Excel to Python and succeeding as a Developer</a> - 2023-02-09</li>
 
 </ul>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Failures teach you more than successes ... (really enjoying Rubin's new book btw!)</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109941963748666485" target="_blank">2023-02-28</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Where have you seen good examples of &quot;The Composition Over Inheritance Principle&quot;? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109941950647742500" target="_blank">2023-02-28</a>
+  </blockquote>
+
+  <blockquote>
   <p>What project(s) are you working on this week? ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109936635482865165" target="_blank">2023-02-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>TIL there is a Repositories section in your GitHub settings so you can see all the repos you collaborate on :) ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109936466008167927" target="_blank">2023-02-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Anybody used Ruff yet? Experiences? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109868214706242007" target="_blank">2023-02-15</a>
   </blockquote>
 
 
