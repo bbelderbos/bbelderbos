@@ -53,21 +53,6 @@
 ### Latest Fosstodon toots
 
 
-  <blockquote>
-  <p>Failures teach you more than successes ... (really enjoying Rubin's new book btw!)</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109941963748666485" target="_blank">2023-02-28</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Where have you seen good examples of &quot;The Composition Over Inheritance Principle&quot;? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109941950647742500" target="_blank">2023-02-28</a>
-  </blockquote>
-
-  <blockquote>
-  <p>What project(s) are you working on this week? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109936635482865165" target="_blank">2023-02-27</a>
-  </blockquote>
-
 
 <br>
 
