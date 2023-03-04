@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/jim-hodapp-on-coaching-software-engineers-and-the-power-of-rust/" target="_blank">Jim Hodapp on coaching software engineers and the power of Rust</a> - 2023-03-03</li>
+
   <li><a href="https://pybit.es/articles/teachers-arent-the-only-ones-who-teach-as-a-developer-youre-expected-to-do-so-too/" target="_blank">Teachers aren’t the only ones who teach. As a developer you’re expected to do so too …</a> - 2023-03-02</li>
 
   <li><a href="https://pybit.es/articles/django-class-based-vs-function-based-views/" target="_blank">Django class based vs function based views</a> - 2023-02-28</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/feel-comfortable-with-git/" target="_blank">Feel Comfortable with Git?</a> - 2023-02-27</li>
 
   <li><a href="https://pybit.es/articles/how-to-start-finishing-learning-from-agile-practices/" target="_blank">How To Start Finishing – Learning from Agile Practices</a> - 2023-02-24</li>
-
-  <li><a href="https://pybit.es/articles/finding-value-and-purpose-in-your-work/" target="_blank">Finding value and purpose in your work</a> - 2023-02-24</li>
 
 </ul>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p><span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@mkennedy">@<span>mkennedy</span></a></span> I see what you're saying  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109959822722765875" target="_blank">2023-03-03</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Handy for cloud cronjobs that can only run at least once a day, yet you want something once a week: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109959048130245361" target="_blank">2023-03-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>&quot;If you’re no longer a student, you don’t have the right to call yourself a professor.&quot; 😍 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109953618022518898" target="_blank">2023-03-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Do you use class or function based views in Django?  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109948481964983853" target="_blank">2023-03-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>With the amount of hours we spend at work, it's really important to make sure we find value + purpose there!  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109947954452531922" target="_blank">2023-03-01</a>
   </blockquote>
 
 
