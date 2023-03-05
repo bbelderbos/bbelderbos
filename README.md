@@ -8,7 +8,7 @@
 
   <li><a href="https://pybit.es/articles/jim-hodapp-on-coaching-software-engineers-and-the-power-of-rust/" target="_blank">Jim Hodapp on coaching software engineers and the power of Rust</a> - 2023-03-03</li>
 
-  <li><a href="https://pybit.es/articles/teachers-arent-the-only-ones-who-teach-as-a-developer-youre-expected-to-do-so-too/" target="_blank">Teachers aren’t the only ones who teach. As a developer you’re expected to do so too …</a> - 2023-03-02</li>
+  <li><a href="https://pybit.es/articles/teachers-arent-the-only-ones-who-teach-as-a-developer-youre-expected-to-do-so-too/" target="_blank">Reflections on teaching styles as a developer</a> - 2023-03-02</li>
 
   <li><a href="https://pybit.es/articles/django-class-based-vs-function-based-views/" target="_blank">Django class based vs function based views</a> - 2023-02-28</li>
 
