@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/learning-to-code-is-a-lot-like-learning-a-language/" target="_blank">Learning to code is a lot like learning a language</a> - 2023-03-06</li>
+
   <li><a href="https://pybit.es/articles/jim-hodapp-on-coaching-software-engineers-and-the-power-of-rust/" target="_blank">Jim Hodapp on coaching software engineers and the power of Rust</a> - 2023-03-03</li>
 
   <li><a href="https://pybit.es/articles/teachers-arent-the-only-ones-who-teach-as-a-developer-youre-expected-to-do-so-too/" target="_blank">Reflections on teaching styles as a developer</a> - 2023-03-02</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/django-class-based-vs-function-based-views/" target="_blank">Django class based vs function based views</a> - 2023-02-28</li>
 
   <li><a href="https://pybit.es/articles/feel-comfortable-with-git/" target="_blank">Feel Comfortable with Git?</a> - 2023-02-27</li>
-
-  <li><a href="https://pybit.es/articles/how-to-start-finishing-learning-from-agile-practices/" target="_blank">How To Start Finishing – Learning from Agile Practices</a> - 2023-02-24</li>
 
 </ul>
 
