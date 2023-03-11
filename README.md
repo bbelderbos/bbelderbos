@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>We kicked off a new Typing learning path on the platform 🎉 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/109998185064618311" target="_blank">2023-03-10</a>
+  </blockquote>
+
+  <blockquote>
   <p>&quot;To write is always to seal notes into bottles and cast them adrift at sea; you never know where your notes will drift and who will read them.&quot; (from &quot;How to Write: Advice and Reflections (English Edition)&quot; by Richard Rhodes) ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109991964218444792" target="_blank">2023-03-09</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p><span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@mkennedy">@<span>mkennedy</span></a></span> I see what you're saying  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109959822722765875" target="_blank">2023-03-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Handy for cloud cronjobs that can only run at least once a day, yet you want something once a week: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109959048130245361" target="_blank">2023-03-03</a>
   </blockquote>
 
 
