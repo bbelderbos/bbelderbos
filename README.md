@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/blaise-pabon-on-his-developer-journey-open-source-and-why-python-is-great/" target="_blank">Blaise Pabon on his developer journey, open source and why Python is great</a> - 2023-03-13</li>
+
   <li><a href="https://pybit.es/articles/learning-to-code-is-a-lot-like-learning-a-language/" target="_blank">Learning to code is a lot like learning a language</a> - 2023-03-06</li>
 
   <li><a href="https://pybit.es/articles/jim-hodapp-on-coaching-software-engineers-and-the-power-of-rust/" target="_blank">Jim Hodapp on coaching software engineers and the power of Rust</a> - 2023-03-03</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/teachers-arent-the-only-ones-who-teach-as-a-developer-youre-expected-to-do-so-too/" target="_blank">Reflections on teaching styles as a developer</a> - 2023-03-02</li>
 
   <li><a href="https://pybit.es/articles/django-class-based-vs-function-based-views/" target="_blank">Django class based vs function based views</a> - 2023-02-28</li>
-
-  <li><a href="https://pybit.es/articles/feel-comfortable-with-git/" target="_blank">Feel Comfortable with Git?</a> - 2023-02-27</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>What is insufficiently taught in Python land? (And why?)</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110020231336925491" target="_blank">2023-03-14</a>
+  </blockquote>
+
+  <blockquote>
   <p>We kicked off a new Typing learning path on the platform 🎉 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109998185064618311" target="_blank">2023-03-10</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>&quot;To write is always to seal notes into bottles and cast them adrift at sea; you never know where your notes will drift and who will read them.&quot; (from &quot;How to Write: Advice and Reflections (English Edition)&quot; by Richard Rhodes) ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/109991964218444792" target="_blank">2023-03-09</a>
-  </blockquote>
-
-  <blockquote>
-  <p><span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@mkennedy">@<span>mkennedy</span></a></span> I see what you're saying  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109959822722765875" target="_blank">2023-03-03</a>
   </blockquote>
 
 
