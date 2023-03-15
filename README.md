@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>US moved the clock, EMEA not yet ... timezones can be confusing 🤯  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110020975509835634" target="_blank">2023-03-14</a>
+  </blockquote>
+
+  <blockquote>
+  <p>OOP Python trick: if you do an if check over and over again, consider abstracting it away into a property = more DRY and readable.</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110020842016527178" target="_blank">2023-03-14</a>
+  </blockquote>
+
+  <blockquote>
   <p>What is insufficiently taught in Python land? (And why?)</p>
   - <a href="https://fosstodon.org/@bbelderbos/110020231336925491" target="_blank">2023-03-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>We kicked off a new Typing learning path on the platform 🎉 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109998185064618311" target="_blank">2023-03-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>&quot;To write is always to seal notes into bottles and cast them adrift at sea; you never know where your notes will drift and who will read them.&quot; (from &quot;How to Write: Advice and Reflections (English Edition)&quot; by Richard Rhodes) ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/109991964218444792" target="_blank">2023-03-09</a>
   </blockquote>
 
 
