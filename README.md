@@ -6,15 +6,15 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/failure-does-not-exist-the-obstacle-is-often-the-way/" target="_blank">Failure does not exist, the obstacle is often the way</a> - 2023-03-15</li>
+
+  <li><a href="https://pybit.es/articles/8-tips-for-succeeding-in-the-software-industry/" target="_blank">8 tips for succeeding in the software industry</a> - 2023-03-15</li>
+
   <li><a href="https://pybit.es/articles/blaise-pabon-on-his-developer-journey-open-source-and-why-python-is-great/" target="_blank">Blaise Pabon on his developer journey, open source and why Python is great</a> - 2023-03-13</li>
 
   <li><a href="https://pybit.es/articles/learning-to-code-is-a-lot-like-learning-a-language/" target="_blank">Learning to code is a lot like learning a language</a> - 2023-03-06</li>
 
   <li><a href="https://pybit.es/articles/jim-hodapp-on-coaching-software-engineers-and-the-power-of-rust/" target="_blank">Jim Hodapp on coaching software engineers and the power of Rust</a> - 2023-03-03</li>
-
-  <li><a href="https://pybit.es/articles/teachers-arent-the-only-ones-who-teach-as-a-developer-youre-expected-to-do-so-too/" target="_blank">Reflections on teaching styles as a developer</a> - 2023-03-02</li>
-
-  <li><a href="https://pybit.es/articles/django-class-based-vs-function-based-views/" target="_blank">Django class based vs function based views</a> - 2023-02-28</li>
 
 </ul>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>We're back with another podcast episode in which we share 8 tips for succeeding in the software industry ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110028026832652032" target="_blank">2023-03-15</a>
+  </blockquote>
+
+  <blockquote>
+  <p>TIL that adding index.html to .gitignore ignores it recursively, if you want to just ignore in the current directory and not in deeper directories, use a leading slash, so /index.html ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110028024637275416" target="_blank">2023-03-15</a>
+  </blockquote>
+
+  <blockquote>
   <p>US moved the clock, EMEA not yet ... timezones can be confusing 🤯  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110020975509835634" target="_blank">2023-03-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>OOP Python trick: if you do an if check over and over again, consider abstracting it away into a property = more DRY and readable.</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110020842016527178" target="_blank">2023-03-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>What is insufficiently taught in Python land? (And why?)</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110020231336925491" target="_blank">2023-03-14</a>
   </blockquote>
 
 
