@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>I like this saying, keeps you focused :) ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110038937080758607" target="_blank">2023-03-17</a>
+  </blockquote>
+
+  <blockquote>
+  <p>How Daniel overcame tutorial paralysis and boosted his confidence as a developer.  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110038378854076546" target="_blank">2023-03-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>We're back with another podcast episode in which we share 8 tips for succeeding in the software industry ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110028026832652032" target="_blank">2023-03-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>TIL that adding index.html to .gitignore ignores it recursively, if you want to just ignore in the current directory and not in deeper directories, use a leading slash, so /index.html ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110028024637275416" target="_blank">2023-03-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>US moved the clock, EMEA not yet ... timezones can be confusing 🤯  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110020975509835634" target="_blank">2023-03-14</a>
   </blockquote>
 
 
