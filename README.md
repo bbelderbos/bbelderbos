@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Planning on doing some more coding videos. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110067019864089482" target="_blank">2023-03-22</a>
+  </blockquote>
+
+  <blockquote>
   <p>I like this saying, keeps you focused :) ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110038937080758607" target="_blank">2023-03-17</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>How Daniel overcame tutorial paralysis and boosted his confidence as a developer.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110038378854076546" target="_blank">2023-03-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>We're back with another podcast episode in which we share 8 tips for succeeding in the software industry ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110028026832652032" target="_blank">2023-03-15</a>
   </blockquote>
 
 
