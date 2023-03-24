@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>Planning on doing some more coding videos. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110067019864089482" target="_blank">2023-03-22</a>
+  <p>Today's video is about protecting your constants with typing.Final (&gt;= 3.8): <a href="https://youtu.be/XjQi8v9OPzw" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/XjQi8v9OPzw</span><span class="invisible"></span></a>   ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110077025742270033" target="_blank">2023-03-24</a>
   </blockquote>
 
   <blockquote>
-  <p>I like this saying, keeps you focused :) ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110038937080758607" target="_blank">2023-03-17</a>
+  <p>New Pybites open source project to search our content from the command line: <a href="https://github.com/PyBites-Open-Source/search" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">github.com/PyBites-Open-Source</span><span class="invisible">/search</span></a> ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110076845678858697" target="_blank">2023-03-24</a>
   </blockquote>
 
   <blockquote>
-  <p>How Daniel overcame tutorial paralysis and boosted his confidence as a developer.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110038378854076546" target="_blank">2023-03-17</a>
+  <p>Nice way to auto-close a GitHub issue: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110072430414558383" target="_blank">2023-03-23</a>
   </blockquote>
 
 
