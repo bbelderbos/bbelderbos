@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>New Pybites Podcast episode #108 - Teaching packaging by building a Python package <a href="https://youtu.be/P6Xar-jegGg" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/P6Xar-jegGg</span><span class="invisible"></span></a>  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110082718943959877" target="_blank">2023-03-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>Today's video is about protecting your constants with typing.Final (&gt;= 3.8): <a href="https://youtu.be/XjQi8v9OPzw" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/XjQi8v9OPzw</span><span class="invisible"></span></a>   ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110077025742270033" target="_blank">2023-03-24</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>New Pybites open source project to search our content from the command line: <a href="https://github.com/PyBites-Open-Source/search" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">github.com/PyBites-Open-Source</span><span class="invisible">/search</span></a> ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110076845678858697" target="_blank">2023-03-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Nice way to auto-close a GitHub issue: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110072430414558383" target="_blank">2023-03-23</a>
   </blockquote>
 
 
