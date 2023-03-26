@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/teaching-packaging-by-building-a-python-package/" target="_blank">Teaching packaging by building a Python package</a> - 2023-03-25</li>
+
   <li><a href="https://pybit.es/articles/failure-does-not-exist-the-obstacle-is-often-the-way/" target="_blank">Failure does not exist, the obstacle is often the way</a> - 2023-03-15</li>
 
   <li><a href="https://pybit.es/articles/8-tips-for-succeeding-in-the-software-industry/" target="_blank">8 tips for succeeding in the software industry</a> - 2023-03-15</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/blaise-pabon-on-his-developer-journey-open-source-and-why-python-is-great/" target="_blank">Blaise Pabon on his developer journey, open source and why Python is great</a> - 2023-03-13</li>
 
   <li><a href="https://pybit.es/articles/learning-to-code-is-a-lot-like-learning-a-language/" target="_blank">Learning to code is a lot like learning a language</a> - 2023-03-06</li>
-
-  <li><a href="https://pybit.es/articles/jim-hodapp-on-coaching-software-engineers-and-the-power-of-rust/" target="_blank">Jim Hodapp on coaching software engineers and the power of Rust</a> - 2023-03-03</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Tim in PDM: from memorizing Python to developing my own process to be an effective developer <a href="https://youtu.be/Mu14BaTlHP0" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/Mu14BaTlHP0</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110088405427339737" target="_blank">2023-03-26</a>
+  </blockquote>
+
+  <blockquote>
   <p>New Pybites Podcast episode #108 - Teaching packaging by building a Python package <a href="https://youtu.be/P6Xar-jegGg" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/P6Xar-jegGg</span><span class="invisible"></span></a>  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110082718943959877" target="_blank">2023-03-25</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Today's video is about protecting your constants with typing.Final (&gt;= 3.8): <a href="https://youtu.be/XjQi8v9OPzw" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/XjQi8v9OPzw</span><span class="invisible"></span></a>   ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110077025742270033" target="_blank">2023-03-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New Pybites open source project to search our content from the command line: <a href="https://github.com/PyBites-Open-Source/search" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">github.com/PyBites-Open-Source</span><span class="invisible">/search</span></a> ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110076845678858697" target="_blank">2023-03-24</a>
   </blockquote>
 
 
