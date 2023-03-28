@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Using PyGithub to get Pybites repos with most stars <a href="https://youtu.be/6kTNRo9R0ZE" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/6kTNRo9R0ZE</span><span class="invisible"></span></a>  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110095311145435625" target="_blank">2023-03-27</a>
+  </blockquote>
+
+  <blockquote>
   <p>Tim in PDM: from memorizing Python to developing my own process to be an effective developer <a href="https://youtu.be/Mu14BaTlHP0" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/Mu14BaTlHP0</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110088405427339737" target="_blank">2023-03-26</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>New Pybites Podcast episode #108 - Teaching packaging by building a Python package <a href="https://youtu.be/P6Xar-jegGg" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/P6Xar-jegGg</span><span class="invisible"></span></a>  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110082718943959877" target="_blank">2023-03-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Today's video is about protecting your constants with typing.Final (&gt;= 3.8): <a href="https://youtu.be/XjQi8v9OPzw" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/XjQi8v9OPzw</span><span class="invisible"></span></a>   ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110077025742270033" target="_blank">2023-03-24</a>
   </blockquote>
 
 
