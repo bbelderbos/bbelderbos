@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Pybites presents Organic, a content creation and reviewing tool to boost your productivity - <a href="https://youtu.be/gBVJg7bfulg" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/gBVJg7bfulg</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110122322100427098" target="_blank">2023-04-01</a>
+  </blockquote>
+
+  <blockquote>
+  <p>We're back with a new podcast episode 109 - In tough times leverage the people around you <a href="https://youtu.be/ifnP5DOXg5c" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/ifnP5DOXg5c</span><span class="invisible"></span></a>  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110117887255872235" target="_blank">2023-03-31</a>
+  </blockquote>
+
+  <blockquote>
   <p>Today's video is about how to use an abstract base class (ABC) in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> to &quot;enforce an interface&quot;. I also show how it's commonly used in the &quot;repository pattern&quot; 💪 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110112485540700902" target="_blank">2023-03-30</a>
-  </blockquote>
-
-  <blockquote>
-  <p>For vs while loops in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>: when to use each + practical examples <a href="https://youtu.be/3IMHXlyulO8" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/3IMHXlyulO8</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110106367694076753" target="_blank">2023-03-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New Pybites YouTube video is out 🚀 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110100406540514474" target="_blank">2023-03-28</a>
   </blockquote>
 
 
