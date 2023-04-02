@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/in-tough-times-leverage-the-people-around-you/" target="_blank">In tough times leverage the people around you</a> - 2023-03-31</li>
+
   <li><a href="https://pybit.es/articles/teaching-packaging-by-building-a-python-package/" target="_blank">Teaching packaging by building a Python package</a> - 2023-03-25</li>
 
   <li><a href="https://pybit.es/articles/failure-does-not-exist-the-obstacle-is-often-the-way/" target="_blank">Failure does not exist, the obstacle is often the way</a> - 2023-03-15</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/8-tips-for-succeeding-in-the-software-industry/" target="_blank">8 tips for succeeding in the software industry</a> - 2023-03-15</li>
 
   <li><a href="https://pybit.es/articles/blaise-pabon-on-his-developer-journey-open-source-and-why-python-is-great/" target="_blank">Blaise Pabon on his developer journey, open source and why Python is great</a> - 2023-03-13</li>
-
-  <li><a href="https://pybit.es/articles/learning-to-code-is-a-lot-like-learning-a-language/" target="_blank">Learning to code is a lot like learning a language</a> - 2023-03-06</li>
 
 </ul>
 
