@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Have you used concurrent.futures yet?  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110140648366221283" target="_blank">2023-04-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>New video is up 🎉🐍 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110134961411491676" target="_blank">2023-04-03</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>How Will dropped perfectionism and shipped software in PDM <a href="https://youtu.be/Jo0OUYKkVJs" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/Jo0OUYKkVJs</span><span class="invisible"></span></a> ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110134166545331513" target="_blank">2023-04-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Pybites presents Organic, a content creation and reviewing tool to boost your productivity - <a href="https://youtu.be/gBVJg7bfulg" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/gBVJg7bfulg</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110122322100427098" target="_blank">2023-04-01</a>
   </blockquote>
 
 
