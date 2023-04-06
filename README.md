@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/dane-hillard-on-python-packaging-and-effective-developer-tooling/" target="_blank">Dane Hillard on Python packaging and effective developer tooling</a> - 2023-04-05</li>
+
   <li><a href="https://pybit.es/articles/in-tough-times-leverage-the-people-around-you/" target="_blank">In tough times leverage the people around you</a> - 2023-03-31</li>
 
   <li><a href="https://pybit.es/articles/teaching-packaging-by-building-a-python-package/" target="_blank">Teaching packaging by building a Python package</a> - 2023-03-25</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/failure-does-not-exist-the-obstacle-is-often-the-way/" target="_blank">Failure does not exist, the obstacle is often the way</a> - 2023-03-15</li>
 
   <li><a href="https://pybit.es/articles/8-tips-for-succeeding-in-the-software-industry/" target="_blank">8 tips for succeeding in the software industry</a> - 2023-03-15</li>
-
-  <li><a href="https://pybit.es/articles/blaise-pabon-on-his-developer-journey-open-source-and-why-python-is-great/" target="_blank">Blaise Pabon on his developer journey, open source and why Python is great</a> - 2023-03-13</li>
 
 </ul>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Did you know about this one? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110150378124503407" target="_blank">2023-04-06</a>
+  </blockquote>
+
+  <blockquote>
+  <p>New Pybites Podcast episode #110 - Dane Hillard (<span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@daneah">@<span>daneah</span></a></span>) on <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> packaging and effective <a class="mention hashtag" href="https://fosstodon.org/tags/developer" rel="tag">#<span>developer</span></a> tooling - <a href="https://youtu.be/wqfbNs3z_lk" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/wqfbNs3z_lk</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110146014838438839" target="_blank">2023-04-05</a>
+  </blockquote>
+
+  <blockquote>
   <p>Have you used concurrent.futures yet?  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110140648366221283" target="_blank">2023-04-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New video is up 🎉🐍 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110134961411491676" target="_blank">2023-04-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>How Will dropped perfectionism and shipped software in PDM <a href="https://youtu.be/Jo0OUYKkVJs" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/Jo0OUYKkVJs</span><span class="invisible"></span></a> ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110134166545331513" target="_blank">2023-04-03</a>
   </blockquote>
 
 
