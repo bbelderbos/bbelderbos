@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Ever wondered how object representation works in Python? That's what today's @Pybites video is about:<br /><a href="https://www.youtube.com/watch?v=d9G0hMzC-Jw" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=d9G0hMzC-J</span><span class="invisible">w</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110191684971403085" target="_blank">2023-04-13</a>
+  </blockquote>
+
+  <blockquote>
   <p>New Pybites video is up:<br />Database migrations matter! Get up and running with Alembic + sqlmodel <br /><a href="https://youtu.be/gekC1ESLxPs" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/gekC1ESLxPs</span><span class="invisible"></span></a>  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110180312863267209" target="_blank">2023-04-11</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Today a 9 minute video in which I write a decorator from scratch to time the execution of a function:<br /><a href="https://youtu.be/970b7eJZuEs" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/970b7eJZuEs</span><span class="invisible"></span></a> ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110173643154199368" target="_blank">2023-04-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Check out our latest YouTube video in which I'll show you how to read source code with the inspect module (and shell alias) <a href="https://youtu.be/iQJj5rp22-k" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/iQJj5rp22-k</span><span class="invisible"></span></a> ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110162295134971608" target="_blank">2023-04-08</a>
   </blockquote>
 
 
