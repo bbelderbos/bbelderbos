@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/5-tips-to-learn-any-new-python-library-faster/" target="_blank">5 tips to learn any new Python library faster</a> - 2023-04-19</li>
+
   <li><a href="https://pybit.es/articles/dane-hillard-on-python-packaging-and-effective-developer-tooling/" target="_blank">Dane Hillard on Python packaging and effective developer tooling</a> - 2023-04-05</li>
 
   <li><a href="https://pybit.es/articles/in-tough-times-leverage-the-people-around-you/" target="_blank">In tough times leverage the people around you</a> - 2023-03-31</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/teaching-packaging-by-building-a-python-package/" target="_blank">Teaching packaging by building a Python package</a> - 2023-03-25</li>
 
   <li><a href="https://pybit.es/articles/failure-does-not-exist-the-obstacle-is-often-the-way/" target="_blank">Failure does not exist, the obstacle is often the way</a> - 2023-03-15</li>
-
-  <li><a href="https://pybit.es/articles/8-tips-for-succeeding-in-the-software-industry/" target="_blank">8 tips for succeeding in the software industry</a> - 2023-03-15</li>
 
 </ul>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>What are you working on today? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110229749168268556" target="_blank">2023-04-20</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Using a bit of <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> to get random emails from a csv file <a href="https://youtu.be/REQX-Xv_gcE" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/REQX-Xv_gcE</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110225147935973523" target="_blank">2023-04-19</a>
+  </blockquote>
+
+  <blockquote>
   <p>New video is up: Matching a regex pattern using <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>'s re.findall() <a href="https://youtu.be/XPPafbHzjxw" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/XPPafbHzjxw</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110218094391376855" target="_blank">2023-04-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Today a quick video to show 3 ways to check for multiple keys in a <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> dictionary: <a href="https://youtu.be/HrXX96zlVEg" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/HrXX96zlVEg</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110214034914310226" target="_blank">2023-04-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Ever wondered how object representation works in Python? That's what today's @Pybites video is about:<br /><a href="https://www.youtube.com/watch?v=d9G0hMzC-Jw" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=d9G0hMzC-J</span><span class="invisible">w</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110191684971403085" target="_blank">2023-04-13</a>
   </blockquote>
 
 
