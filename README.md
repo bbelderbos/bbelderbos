@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/julian-asks-bob-about-his-use-of-chatgpt/" target="_blank">Julian asks Bob about his use of ChatGpt</a> - 2023-04-20</li>
+
   <li><a href="https://pybit.es/articles/5-tips-to-learn-any-new-python-library-faster/" target="_blank">5 tips to learn any new Python library faster</a> - 2023-04-19</li>
 
   <li><a href="https://pybit.es/articles/dane-hillard-on-python-packaging-and-effective-developer-tooling/" target="_blank">Dane Hillard on Python packaging and effective developer tooling</a> - 2023-04-05</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/in-tough-times-leverage-the-people-around-you/" target="_blank">In tough times leverage the people around you</a> - 2023-03-31</li>
 
   <li><a href="https://pybit.es/articles/teaching-packaging-by-building-a-python-package/" target="_blank">Teaching packaging by building a Python package</a> - 2023-03-25</li>
-
-  <li><a href="https://pybit.es/articles/failure-does-not-exist-the-obstacle-is-often-the-way/" target="_blank">Failure does not exist, the obstacle is often the way</a> - 2023-03-15</li>
 
 </ul>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>What are you working on today? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110229749168268556" target="_blank">2023-04-20</a>
+  <p>We asked ChatGpt to scrape our platform's (CodeChalleng.es) testimonials using Python. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110235373838035588" target="_blank">2023-04-21</a>
   </blockquote>
 
   <blockquote>
-  <p>Using a bit of <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> to get random emails from a csv file <a href="https://youtu.be/REQX-Xv_gcE" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/REQX-Xv_gcE</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110225147935973523" target="_blank">2023-04-19</a>
+  <p>Nice! ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110232206013252771" target="_blank">2023-04-20</a>
   </blockquote>
 
   <blockquote>
-  <p>New video is up: Matching a regex pattern using <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>'s re.findall() <a href="https://youtu.be/XPPafbHzjxw" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/XPPafbHzjxw</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110218094391376855" target="_blank">2023-04-18</a>
+  <p>Pybites Podcast 111 - Julian asks Bob about his use of ChatGpt <a href="https://youtu.be/5Yo-cW4wkB0" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/5Yo-cW4wkB0</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110230490219067332" target="_blank">2023-04-20</a>
   </blockquote>
 
 
