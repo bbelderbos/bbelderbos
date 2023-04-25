@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Today I show how to test a <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> project against multiple versions using tox <a href="https://youtu.be/-A_fWNfmuCc" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/-A_fWNfmuCc</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110253720038365789" target="_blank">2023-04-24</a>
+  </blockquote>
+
+  <blockquote>
   <p>We asked ChatGpt to scrape our platform's (CodeChalleng.es) testimonials using Python. ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110235373838035588" target="_blank">2023-04-21</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Nice! ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110232206013252771" target="_blank">2023-04-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Pybites Podcast 111 - Julian asks Bob about his use of ChatGpt <a href="https://youtu.be/5Yo-cW4wkB0" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/5Yo-cW4wkB0</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110230490219067332" target="_blank">2023-04-20</a>
   </blockquote>
 
 
