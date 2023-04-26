@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Did you hear about difflib's get_close_matches? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110263705195998405" target="_blank">2023-04-26</a>
+  </blockquote>
+
+  <blockquote>
+  <p>New YouTube video: Automatically test your code against multiple OSs using tox + GitHub actions <a href="https://youtu.be/JYVYCUTuNjk" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/JYVYCUTuNjk</span><span class="invisible"></span></a>  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110259143997214901" target="_blank">2023-04-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>Today I show how to test a <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> project against multiple versions using tox <a href="https://youtu.be/-A_fWNfmuCc" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/-A_fWNfmuCc</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110253720038365789" target="_blank">2023-04-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>We asked ChatGpt to scrape our platform's (CodeChalleng.es) testimonials using Python. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110235373838035588" target="_blank">2023-04-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Nice! ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110232206013252771" target="_blank">2023-04-20</a>
   </blockquote>
 
 
