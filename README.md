@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>Did you hear about difflib's get_close_matches? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110263705195998405" target="_blank">2023-04-26</a>
+  <p>I want to do a YouTube video on Python imports. Any particular things you struggle with to guide my teaching? Thanks! ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110269124806732037" target="_blank">2023-04-27</a>
   </blockquote>
 
   <blockquote>
-  <p>New YouTube video: Automatically test your code against multiple OSs using tox + GitHub actions <a href="https://youtu.be/JYVYCUTuNjk" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/JYVYCUTuNjk</span><span class="invisible"></span></a>  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110259143997214901" target="_blank">2023-04-25</a>
+  <p>Demo'ing decorators I often use the example of timing code,  video: <a href="https://www.youtube.com/watch?v=970b7eJZuEs" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=970b7eJZuE</span><span class="invisible">s</span></a> ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110269000144531727" target="_blank">2023-04-27</a>
   </blockquote>
 
   <blockquote>
-  <p>Today I show how to test a <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> project against multiple versions using tox <a href="https://youtu.be/-A_fWNfmuCc" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/-A_fWNfmuCc</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110253720038365789" target="_blank">2023-04-24</a>
+  <p>How are you going with ChatGPT developers?</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110266223195253442" target="_blank">2023-04-26</a>
   </blockquote>
 
 
