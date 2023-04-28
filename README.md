@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/data-driven-pybites-2023-survey-results/" target="_blank">Data Driven Pybites – 2023  survey results</a> - 2023-04-27</li>
+
   <li><a href="https://pybit.es/articles/julian-asks-bob-about-his-use-of-chatgpt/" target="_blank">Julian asks Bob about his use of ChatGpt</a> - 2023-04-20</li>
 
   <li><a href="https://pybit.es/articles/5-tips-to-learn-any-new-python-library-faster/" target="_blank">5 tips to learn any new Python library faster</a> - 2023-04-19</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/dane-hillard-on-python-packaging-and-effective-developer-tooling/" target="_blank">Dane Hillard on Python packaging and effective developer tooling</a> - 2023-04-05</li>
 
   <li><a href="https://pybit.es/articles/in-tough-times-leverage-the-people-around-you/" target="_blank">In tough times leverage the people around you</a> - 2023-03-31</li>
-
-  <li><a href="https://pybit.es/articles/teaching-packaging-by-building-a-python-package/" target="_blank">Teaching packaging by building a Python package</a> - 2023-03-25</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>git remote -v <br />...<br />origin git@github.com:user/repo.git ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110270592857378140" target="_blank">2023-04-27</a>
+  </blockquote>
+
+  <blockquote>
   <p>I want to do a YouTube video on Python imports. Any particular things you struggle with to guide my teaching? Thanks! ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110269124806732037" target="_blank">2023-04-27</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Demo'ing decorators I often use the example of timing code,  video: <a href="https://www.youtube.com/watch?v=970b7eJZuEs" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=970b7eJZuE</span><span class="invisible">s</span></a> ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110269000144531727" target="_blank">2023-04-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>How are you going with ChatGPT developers?</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110266223195253442" target="_blank">2023-04-26</a>
   </blockquote>
 
 
