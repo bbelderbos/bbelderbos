@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>My .zshrc is full of aliases and function that saves me a lot of (compounding) time.  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110280835007064405" target="_blank">2023-04-29</a>
+  </blockquote>
+
+  <blockquote>
   <p>git remote -v <br />...<br />origin git@github.com:user/repo.git ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110270592857378140" target="_blank">2023-04-27</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>I want to do a YouTube video on Python imports. Any particular things you struggle with to guide my teaching? Thanks! ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110269124806732037" target="_blank">2023-04-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Demo'ing decorators I often use the example of timing code,  video: <a href="https://www.youtube.com/watch?v=970b7eJZuEs" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=970b7eJZuE</span><span class="invisible">s</span></a> ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110269000144531727" target="_blank">2023-04-27</a>
   </blockquote>
 
 
