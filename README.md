@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>What is your preferred way to install <a class="mention hashtag" href="https://fosstodon.org/tags/python" rel="tag">#<span>python</span></a> on your system?</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110302943158176250" target="_blank">2023-05-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>Shell aliases make me a faster developer. In today's video I selected a bunch from my .zshrc file and walk through them: ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110293894181495476" target="_blank">2023-05-01</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>My .zshrc is full of aliases and function that saves me a lot of (compounding) time.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110280835007064405" target="_blank">2023-04-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>git remote -v <br />...<br />origin git@github.com:user/repo.git ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110270592857378140" target="_blank">2023-04-27</a>
   </blockquote>
 
 
