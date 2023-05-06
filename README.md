@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>The N+1 problem in <a class="mention hashtag" href="https://fosstodon.org/tags/Django" rel="tag">#<span>Django</span></a>: what is it and how to fix it? Today I explain and show it all on our YouTube channel: <a href="https://youtu.be/e_8JvcP1q48" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/e_8JvcP1q48</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110316702591169783" target="_blank">2023-05-05</a>
+  </blockquote>
+
+  <blockquote>
   <p>New video: Speed up your database inserts with <a class="mention hashtag" href="https://fosstodon.org/tags/Django" rel="tag">#<span>Django</span></a> ORM's bulk_create() <a href="https://youtu.be/fyhqI-_qjek" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/fyhqI-_qjek</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110311038759146139" target="_blank">2023-05-04</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Did you know you can auto-close a GitHub issue from a commit message? See snippet below ... ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110308894882296973" target="_blank">2023-05-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I got this YouTube video request: &quot;Would it be possible to create a small video on how to start a project with git + poetry + project structure?&quot; ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110304925459007838" target="_blank">2023-05-03</a>
   </blockquote>
 
 
