@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>New video is up!<br />AI Driven Development: Using ChatGPT to Write a Django Command <a href="https://youtu.be/xB0VHHedlAU" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/xB0VHHedlAU</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110333123886616781" target="_blank">2023-05-08</a>
+  </blockquote>
+
+  <blockquote>
   <p>New <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast episode is out: 10 Django Plugin Recommendations by Antonio Melé <a href="https://pybit.es/articles/django-plugin-recommendations-by-antonio-mele-top-10-picks-for-web-development/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">pybit.es/articles/django-plugi</span><span class="invisible">n-recommendations-by-antonio-mele-top-10-picks-for-web-development/</span></a>  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110326228197819940" target="_blank">2023-05-07</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>The N+1 problem in <a class="mention hashtag" href="https://fosstodon.org/tags/Django" rel="tag">#<span>Django</span></a>: what is it and how to fix it? Today I explain and show it all on our YouTube channel: <a href="https://youtu.be/e_8JvcP1q48" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/e_8JvcP1q48</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110316702591169783" target="_blank">2023-05-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New video: Speed up your database inserts with <a class="mention hashtag" href="https://fosstodon.org/tags/Django" rel="tag">#<span>Django</span></a> ORM's bulk_create() <a href="https://youtu.be/fyhqI-_qjek" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/fyhqI-_qjek</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110311038759146139" target="_blank">2023-05-04</a>
   </blockquote>
 
 
