@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/9-developer-confidence-tips/" target="_blank">Overcoming Imposter Syndrome: 9 Tips to Boost Your Confidence as a Developer</a> - 2023-05-11</li>
+
   <li><a href="https://pybit.es/articles/django-plugin-recommendations-by-antonio-mele-top-10-picks-for-web-development/" target="_blank">Django Plugin Recommendations by Antonio Melé | Top 10 Picks for Web Development</a> - 2023-05-07</li>
 
   <li><a href="https://pybit.es/articles/data-driven-pybites-2023-survey-results/" target="_blank">Data Driven Pybites – 2023  survey results</a> - 2023-04-27</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/julian-asks-bob-about-his-use-of-chatgpt/" target="_blank">Julian asks Bob about his use of ChatGpt</a> - 2023-04-20</li>
 
   <li><a href="https://pybit.es/articles/5-tips-to-learn-any-new-python-library-faster/" target="_blank">5 tips to learn any new Python library faster</a> - 2023-04-19</li>
-
-  <li><a href="https://pybit.es/articles/dane-hillard-on-python-packaging-and-effective-developer-tooling/" target="_blank">Dane Hillard on Python packaging and effective developer tooling</a> - 2023-04-05</li>
 
 </ul>
 
