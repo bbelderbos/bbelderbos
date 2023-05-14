@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>From Systems Admin to Python Developer: Ed's Inspiring Journey Inside Our PDM program <a href="https://youtu.be/jRAqa7GO4Go" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/jRAqa7GO4Go</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110365994275217798" target="_blank">2023-05-14</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Django Debug Toolbar is a must have for any Django developer, today a walk through how to set it up and some useful features: <a href="https://www.youtube.com/watch?v=c5riXBYFxLk" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=c5riXBYFxL</span><span class="invisible">k</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110360698394793581" target="_blank">2023-05-13</a>
+  </blockquote>
+
+  <blockquote>
   <p>Supercharge Your <a class="mention hashtag" href="https://fosstodon.org/tags/Vim" rel="tag">#<span>Vim</span></a> Workflow: Essential Tips and Plugins for Efficiency <a href="https://youtu.be/B9tZyFXr1Yw" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/B9tZyFXr1Yw</span><span class="invisible"></span></a> -- here are some of my favorite setup things that make me more productive as a <a class="mention hashtag" href="https://fosstodon.org/tags/developer" rel="tag">#<span>developer</span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110343472196196048" target="_blank">2023-05-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New video is up!<br />AI Driven Development: Using ChatGPT to Write a Django Command <a href="https://youtu.be/xB0VHHedlAU" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/xB0VHHedlAU</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110333123886616781" target="_blank">2023-05-08</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast episode is out: 10 Django Plugin Recommendations by Antonio Melé <a href="https://pybit.es/articles/django-plugin-recommendations-by-antonio-mele-top-10-picks-for-web-development/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">pybit.es/articles/django-plugi</span><span class="invisible">n-recommendations-by-antonio-mele-top-10-picks-for-web-development/</span></a>  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110326228197819940" target="_blank">2023-05-07</a>
   </blockquote>
 
 
