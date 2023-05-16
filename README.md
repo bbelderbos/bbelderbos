@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Python Class Methods: Practical Use Cases and Implementing an Alternative Constructor ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110377445652695492" target="_blank">2023-05-16</a>
+  </blockquote>
+
+  <blockquote>
+  <p>What newer <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> features do you use most often? Say from 3.9 onwards?</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110376869580121795" target="_blank">2023-05-16</a>
+  </blockquote>
+
+  <blockquote>
   <p>From Systems Admin to Python Developer: Ed's Inspiring Journey Inside Our PDM program <a href="https://youtu.be/jRAqa7GO4Go" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/jRAqa7GO4Go</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110365994275217798" target="_blank">2023-05-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Django Debug Toolbar is a must have for any Django developer, today a walk through how to set it up and some useful features: <a href="https://www.youtube.com/watch?v=c5riXBYFxLk" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=c5riXBYFxL</span><span class="invisible">k</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110360698394793581" target="_blank">2023-05-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Supercharge Your <a class="mention hashtag" href="https://fosstodon.org/tags/Vim" rel="tag">#<span>Vim</span></a> Workflow: Essential Tips and Plugins for Efficiency <a href="https://youtu.be/B9tZyFXr1Yw" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/B9tZyFXr1Yw</span><span class="invisible"></span></a> -- here are some of my favorite setup things that make me more productive as a <a class="mention hashtag" href="https://fosstodon.org/tags/developer" rel="tag">#<span>developer</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110343472196196048" target="_blank">2023-05-10</a>
   </blockquote>
 
 
