@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Today I did a video on caching, how it works and how to implement it in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110385577171908628" target="_blank">2023-05-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>Python Class Methods: Practical Use Cases and Implementing an Alternative Constructor ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110377445652695492" target="_blank">2023-05-16</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>What newer <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> features do you use most often? Say from 3.9 onwards?</p>
   - <a href="https://fosstodon.org/@bbelderbos/110376869580121795" target="_blank">2023-05-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>From Systems Admin to Python Developer: Ed's Inspiring Journey Inside Our PDM program <a href="https://youtu.be/jRAqa7GO4Go" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/jRAqa7GO4Go</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110365994275217798" target="_blank">2023-05-14</a>
   </blockquote>
 
 
