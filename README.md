@@ -6,7 +6,7 @@
 
 <ul>
 
-  <li><a href="https://pybit.es/articles/lessons-from-a-software-developers-path-networking-growth-side-projects/" target="_blank">Lessons from a Software Developer’s Path: Networking, Growth & Side Projects</a> - 2023-05-18</li>
+  <li><a href="https://pybit.es/articles/lessons-from-a-software-developers-path-networking-growth-side-projects/" target="_blank">The Importance of Networking, Growth & Side Projects as a Developer</a> - 2023-05-18</li>
 
   <li><a href="https://pybit.es/articles/9-developer-confidence-tips/" target="_blank">Overcoming Imposter Syndrome: 9 Tips to Boost Your Confidence as a Developer</a> - 2023-05-11</li>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p><a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> Unit vs. Functional <a class="mention hashtag" href="https://fosstodon.org/tags/Testing" rel="tag">#<span>Testing</span></a>: Understanding the Difference + Practical Example<br /><a href="https://youtu.be/krb9b6eRinY" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/krb9b6eRinY</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110395259665730409" target="_blank">2023-05-19</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Happy Friday! ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110394526799159901" target="_blank">2023-05-19</a>
+  </blockquote>
+
+  <blockquote>
   <p>Today I did a video on caching, how it works and how to implement it in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110385577171908628" target="_blank">2023-05-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Python Class Methods: Practical Use Cases and Implementing an Alternative Constructor ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110377445652695492" target="_blank">2023-05-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>What newer <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> features do you use most often? Say from 3.9 onwards?</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110376869580121795" target="_blank">2023-05-16</a>
   </blockquote>
 
 
