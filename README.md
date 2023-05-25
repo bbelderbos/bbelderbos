@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>What was the last regex (regular expression) you wrote (and why)?</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110423762341476253" target="_blank">2023-05-24</a>
+  </blockquote>
+
+  <blockquote>
   <p>Ever wondered how to take the randomness out of the random module?  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110418471220245012" target="_blank">2023-05-23</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>New video is up: Python Loop Mastery: Demystifying the Else Clause in For and While Loops <a href="https://youtu.be/MZVez-Smskc" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/MZVez-Smskc</span><span class="invisible"></span></a>  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110413357560573603" target="_blank">2023-05-22</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Examining ORM Queries with Debug SQL Shell in <a class="mention hashtag" href="https://fosstodon.org/tags/Django" rel="tag">#<span>Django</span></a> Debug Toolbar <a href="https://youtu.be/NwtF2QuksaI" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/NwtF2QuksaI</span><span class="invisible"></span></a>  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110407980237952997" target="_blank">2023-05-21</a>
   </blockquote>
 
 
