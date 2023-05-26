@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Today I produced an 8 minute video about API rate limiting.  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110429199966308846" target="_blank">2023-05-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>What was the last regex (regular expression) you wrote (and why)?</p>
   - <a href="https://fosstodon.org/@bbelderbos/110423762341476253" target="_blank">2023-05-24</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Ever wondered how to take the randomness out of the random module?  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110418471220245012" target="_blank">2023-05-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New video is up: Python Loop Mastery: Demystifying the Else Clause in For and While Loops <a href="https://youtu.be/MZVez-Smskc" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/MZVez-Smskc</span><span class="invisible"></span></a>  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110413357560573603" target="_blank">2023-05-22</a>
   </blockquote>
 
 
