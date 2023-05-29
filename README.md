@@ -6,7 +6,7 @@
 
 <ul>
 
-  <li><a href="https://pybit.es/articles/from-0-to-1-in-python-how-charles-shipped-his-fusion-chronicles-django-app/" target="_blank">From 0 to 1 in Python: how Charles shipped his Fusion Chronicles Django app</a> - 2023-05-26</li>
+  <li><a href="https://www.youtube.com/watch?v=AZCwdmYBZFc" target="_blank">From 0 to 1 in Python: how Charles shipped his Fusion Chronicles Django app</a> - 2023-05-26</li>
 
   <li><a href="https://pybit.es/articles/lessons-from-a-software-developers-path-networking-growth-side-projects/" target="_blank">The Importance of Networking, Growth & Side Projects as a Developer</a> - 2023-05-18</li>
 
