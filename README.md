@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230601094256.md" target="_blank">Exception groups</a> - 2023-06-01</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230215143414.md" target="_blank">Get all subclasses</a> - 2023-02-15</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230215131208.md" target="_blank">Code uses list comprehensions?</a> - 2023-02-15</li>
@@ -41,8 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230110130247.md" target="_blank">Faster page downloads</a> - 2023-01-10</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20221221130639.md" target="_blank">Dict keys should be hashable</a> - 2022-12-21</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>We are back with a brand new Pybites podcast episode, number 117: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110462892567438143" target="_blank">2023-05-31</a>
+  </blockquote>
+
+  <blockquote>
   <p>New video is up in which I do a bit of debugging to find the cause of a failing Django command:<br /><a href="https://youtu.be/8HfGL8fo_58" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/8HfGL8fo_58</span><span class="invisible"></span></a>  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110451920250409681" target="_blank">2023-05-29</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Today I produced an 8 minute video about API rate limiting.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110429199966308846" target="_blank">2023-05-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>What was the last regex (regular expression) you wrote (and why)?</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110423762341476253" target="_blank">2023-05-24</a>
   </blockquote>
 
 
