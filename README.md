@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>In today's video we will use the Pillow library to put a name on a certificate and upload the resulting image to an AWS S3 bucket:<br /><a href="https://www.youtube.com/watch?v=N_PkszX1Gak" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=N_PkszX1Ga</span><span class="invisible">k</span></a> ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110475332150068349" target="_blank">2023-06-02</a>
+  </blockquote>
+
+  <blockquote>
   <p>We are back with a brand new Pybites podcast episode, number 117: ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110462892567438143" target="_blank">2023-05-31</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>New video is up in which I do a bit of debugging to find the cause of a failing Django command:<br /><a href="https://youtu.be/8HfGL8fo_58" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/8HfGL8fo_58</span><span class="invisible"></span></a>  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110451920250409681" target="_blank">2023-05-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Today I produced an 8 minute video about API rate limiting.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110429199966308846" target="_blank">2023-05-25</a>
   </blockquote>
 
 
