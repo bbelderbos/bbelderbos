@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/veterans-in-the-workplace/" target="_blank">Veterans in the workplace, challenges and tips</a> - 2023-06-07</li>
+
   <li><a href="https://pybit.es/articles/what-is-enough/" target="_blank">What’s enough as a developer and in life?</a> - 2023-05-31</li>
 
   <li><a href="https://pybit.es/articles/from-0-to-1-in-python-how-charles-shipped-his-fusion-chronicles-django-app/" target="_blank">From 0 to 1 in Python: how Charles shipped his Fusion Chronicles Django app</a> - 2023-05-26</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/lessons-from-a-software-developers-path-networking-growth-side-projects/" target="_blank">The Importance of Networking, Growth & Side Projects as a Developer</a> - 2023-05-18</li>
 
   <li><a href="https://pybit.es/articles/9-developer-confidence-tips/" target="_blank">Overcoming Imposter Syndrome: 9 Tips to Boost Your Confidence as a Developer</a> - 2023-05-11</li>
-
-  <li><a href="https://pybit.es/articles/django-plugin-recommendations-by-antonio-mele-top-10-picks-for-web-development/" target="_blank">Django Plugin Recommendations by Antonio Melé | Top 10 Picks for Web Development</a> - 2023-05-07</li>
 
 </ul>
 
