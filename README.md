@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Using pip-tools to manage <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> dependencies <a href="https://youtu.be/G8PApVvdkjQ" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/G8PApVvdkjQ</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110531867452116714" target="_blank">2023-06-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>New on our channel:<br />Python's modulo operator and divmod built-in function <a href="https://youtu.be/45pkoV9J7Qw" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/45pkoV9J7Qw</span><span class="invisible"></span></a> ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110497094050317791" target="_blank">2023-06-06</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>In today's video we will use the Pillow library to put a name on a certificate and upload the resulting image to an AWS S3 bucket:<br /><a href="https://www.youtube.com/watch?v=N_PkszX1Gak" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=N_PkszX1Ga</span><span class="invisible">k</span></a> ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110475332150068349" target="_blank">2023-06-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>We are back with a brand new Pybites podcast episode, number 117: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110462892567438143" target="_blank">2023-05-31</a>
   </blockquote>
 
 
