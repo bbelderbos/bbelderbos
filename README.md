@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>New on our YouTube channel: 5 lesser known features of the <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> print() function: <a href="https://youtu.be/MmJ5-Pa2NE0" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/MmJ5-Pa2NE0</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110542318505401024" target="_blank">2023-06-14</a>
+  </blockquote>
+
+  <blockquote>
   <p>5 use cases for underscores in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> <a href="https://youtu.be/ZPdpmiWdDm8" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/ZPdpmiWdDm8</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110537154705925882" target="_blank">2023-06-13</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Using pip-tools to manage <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> dependencies <a href="https://youtu.be/G8PApVvdkjQ" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/G8PApVvdkjQ</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110531867452116714" target="_blank">2023-06-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New on our channel:<br />Python's modulo operator and divmod built-in function <a href="https://youtu.be/45pkoV9J7Qw" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/45pkoV9J7Qw</span><span class="invisible"></span></a> ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110497094050317791" target="_blank">2023-06-06</a>
   </blockquote>
 
 
