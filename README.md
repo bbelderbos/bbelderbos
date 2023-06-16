@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Pybites Podcast 119 - Chris May (<span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@_chrismay">@<span>_chrismay</span></a></span>) on the importance of refactoring 💡 😍 <a href="https://youtu.be/LuyQ_ZTI-jU" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/LuyQ_ZTI-jU</span><span class="invisible"></span></a>  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110547459492685081" target="_blank">2023-06-15</a>
+  </blockquote>
+
+  <blockquote>
   <p>New on our YouTube channel: 5 lesser known features of the <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> print() function: <a href="https://youtu.be/MmJ5-Pa2NE0" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/MmJ5-Pa2NE0</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110542318505401024" target="_blank">2023-06-14</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>5 use cases for underscores in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> <a href="https://youtu.be/ZPdpmiWdDm8" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/ZPdpmiWdDm8</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110537154705925882" target="_blank">2023-06-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Using pip-tools to manage <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> dependencies <a href="https://youtu.be/G8PApVvdkjQ" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/G8PApVvdkjQ</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110531867452116714" target="_blank">2023-06-12</a>
   </blockquote>
 
 
