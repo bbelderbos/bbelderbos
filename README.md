@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>How to tear down code in pytest fixtures <a href="https://youtu.be/UdMWQyyjNRc" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/UdMWQyyjNRc</span><span class="invisible"></span></a> ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110582152691337377" target="_blank">2023-06-21</a>
+  </blockquote>
+
+  <blockquote>
   <p>Does this happen to you? You get to the end of your day and you wonder what you actually accomplished that day? ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110577671501368591" target="_blank">2023-06-20</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>How to inspect html / css with Chrome Dev Tools: ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110571124073824349" target="_blank">2023-06-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Pybites Podcast 119 - Chris May (<span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@_chrismay">@<span>_chrismay</span></a></span>) on the importance of refactoring 💡 😍 <a href="https://youtu.be/LuyQ_ZTI-jU" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/LuyQ_ZTI-jU</span><span class="invisible"></span></a>  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110547459492685081" target="_blank">2023-06-15</a>
   </blockquote>
 
 
