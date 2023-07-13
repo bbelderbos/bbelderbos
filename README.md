@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>How Andrew Changed His Approach to Building <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> Software Through PDM <a href="https://youtu.be/uhfrFPAIKCU" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/uhfrFPAIKCU</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110702401248101657" target="_blank">2023-07-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>5 things you can do with <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> f-strings <a href="https://youtu.be/O8KFVxpxIZk" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/O8KFVxpxIZk</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110690950812696921" target="_blank">2023-07-10</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Pybites Podcast 121 - What to do after being made redundant or laid off <a href="https://youtu.be/a83RDqbXVA4" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/a83RDqbXVA4</span><span class="invisible"></span></a>  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/110654788910487883" target="_blank">2023-07-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Writing your first Django test using pytest-django <a href="https://youtu.be/L5jWFU2sVXQ" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/L5jWFU2sVXQ</span><span class="invisible"></span></a>  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110588045200898355" target="_blank">2023-06-22</a>
   </blockquote>
 
 
