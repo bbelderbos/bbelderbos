@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/from-teacher-to-python-developer-by-building-a-community-platform-using-django/" target="_blank">From Teacher to Python Developer by Building a Community Platform Using Django</a> - 2023-07-19</li>
+
   <li><a href="https://pybit.es/articles/using-python-and-fastapi-to-support-pfas-research/" target="_blank">Using Python (and FastAPI) to support PFAS research</a> - 2023-07-14</li>
 
   <li><a href="https://pybit.es/articles/what-to-do-after-being-made-redundant-or-laid-off/" target="_blank">What to do after being made redundant or laid off</a> - 2023-07-04</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/python-coding-interview-learning-path/" target="_blank">Python Coding Interview Learning Path</a> - 2023-06-27</li>
 
   <li><a href="https://pybit.es/articles/11-planning-and-productivity-tips-for-python-developers/" target="_blank">11 Planning and Productivity tips for Python developers</a> - 2023-06-23</li>
-
-  <li><a href="https://pybit.es/articles/importance-of-refactoring/" target="_blank">The importance of refactoring regularly [podcast]</a> - 2023-06-15</li>
 
 </ul>
 
