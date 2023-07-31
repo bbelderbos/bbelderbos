@@ -6,7 +6,7 @@
 
 <ul>
 
-  <li><a href="https://pybit.es/articles/building-confidence-and-overcoming-challenges-by-using-positive-self-talk/" target="_blank">Building Confidence and Overcoming Challenges by Using Positive Self-Talk</a> - 2023-07-28</li>
+  <li><a href="https://pybit.es/articles/building-confidence-and-overcoming-challenges-by-using-positive-self-talk/" target="_blank">The importance of positive self-taslk</a> - 2023-07-28</li>
 
   <li><a href="https://pybit.es/articles/from-teacher-to-python-developer-by-building-a-community-platform-using-django/" target="_blank">From Teacher to Python Developer by Building a Community Platform Using Django</a> - 2023-07-19</li>
 
