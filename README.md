@@ -6,15 +6,15 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/add-makefile-to-python-project/" target="_blank">How to better streamline your Python project using a Makefile</a> - 2023-08-02</li>
+
+  <li><a href="https://pybit.es/articles/the-importance-of-having-a-growth-mindset/" target="_blank">The Importance of Having a Growth Mindset</a> - 2023-08-01</li>
+
+  <li><a href="https://pybit.es/articles/why-is-flat-better-than-nested-zen-of-python/" target="_blank">Why is Flat Better Than Nested? (Zen of Python)</a> - 2023-08-01</li>
+
   <li><a href="https://pybit.es/articles/building-confidence-and-overcoming-challenges-by-using-positive-self-talk/" target="_blank">The importance of positive self-taslk</a> - 2023-07-28</li>
 
   <li><a href="https://pybit.es/articles/from-teacher-to-python-developer-by-building-a-community-platform-using-django/" target="_blank">From Teacher to Python Developer by Building a Community Platform Using Django</a> - 2023-07-19</li>
-
-  <li><a href="https://pybit.es/articles/using-python-and-fastapi-to-support-pfas-research/" target="_blank">Using Python (and FastAPI) to support PFAS research</a> - 2023-07-14</li>
-
-  <li><a href="https://pybit.es/articles/what-to-do-after-being-made-redundant-or-laid-off/" target="_blank">What to do after being made redundant or laid off</a> - 2023-07-04</li>
-
-  <li><a href="https://pybit.es/articles/python-coding-interview-learning-path/" target="_blank">Python Coding Interview Learning Path</a> - 2023-06-27</li>
 
 </ul>
 
