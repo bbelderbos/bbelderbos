@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/python-errors-should-not-pass-silently/" target="_blank">Avoiding Silent Failures in Python: Best Practices for Error Handling</a> - 2023-08-07</li>
+
   <li><a href="https://pybit.es/articles/how-the-pygmalion-effect-can-improve-your-teams-performance/" target="_blank">How the Pygmalion Effect can improve your team’s performance</a> - 2023-08-04</li>
 
   <li><a href="https://pybit.es/articles/the-power-of-mind-mapping/" target="_blank">The power of mind mapping: why to start your project with one and how</a> - 2023-08-03</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/add-makefile-to-python-project/" target="_blank">How to better streamline your Python project using a Makefile</a> - 2023-08-02</li>
 
   <li><a href="https://pybit.es/articles/the-importance-of-having-a-growth-mindset/" target="_blank">The Importance of Having a Growth Mindset</a> - 2023-08-01</li>
-
-  <li><a href="https://pybit.es/articles/why-is-flat-better-than-nested-zen-of-python/" target="_blank">Why is Flat Better Than Nested? (Zen of Python)</a> - 2023-08-01</li>
 
 </ul>
 
