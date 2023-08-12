@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/when-to-refactor-your-code/" target="_blank">When to refactor your code?</a> - 2023-08-11</li>
+
   <li><a href="https://pybit.es/articles/how-the-flocking-rules-can-help-you-refactor-your-code/" target="_blank">How the Flocking Rules Can Help You Refactor Your Code</a> - 2023-08-10</li>
 
   <li><a href="https://pybit.es/articles/the-arbitrary-keyword-arguments-args-and-kwargs-dont-come-for-free-in-python/" target="_blank">The Arbitrary (Keyword) Arguments (args and kwargs) don’t come “for free” in Python</a> - 2023-08-09</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/why-our-python-mentoring-beats-the-traditional-coding-bootcamp/" target="_blank">Why Our Python Mentoring Beats the Traditional Coding Bootcamp</a> - 2023-08-08</li>
 
   <li><a href="https://pybit.es/articles/python-errors-should-not-pass-silently/" target="_blank">Avoiding Silent Failures in Python: Best Practices for Error Handling</a> - 2023-08-07</li>
-
-  <li><a href="https://pybit.es/articles/how-the-pygmalion-effect-can-improve-your-teams-performance/" target="_blank">How the Pygmalion Effect can improve your team’s performance</a> - 2023-08-04</li>
 
 </ul>
 
