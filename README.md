@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/why-you-should-avoid-import-in-python/" target="_blank">⚠️Why you should avoid import * in Python 🐍</a> - 2023-08-15</li>
+
   <li><a href="https://pybit.es/articles/when-to-refactor-your-code/" target="_blank">When to refactor your code?</a> - 2023-08-11</li>
 
   <li><a href="https://pybit.es/articles/how-the-flocking-rules-can-help-you-refactor-your-code/" target="_blank">How the Flocking Rules Can Help You Refactor Your Code</a> - 2023-08-10</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/the-arbitrary-keyword-arguments-args-and-kwargs-dont-come-for-free-in-python/" target="_blank">The Arbitrary (Keyword) Arguments (args and kwargs) don’t come “for free” in Python</a> - 2023-08-09</li>
 
   <li><a href="https://pybit.es/articles/why-our-python-mentoring-beats-the-traditional-coding-bootcamp/" target="_blank">Why Our Python Mentoring Beats the Traditional Coding Bootcamp</a> - 2023-08-08</li>
-
-  <li><a href="https://pybit.es/articles/python-errors-should-not-pass-silently/" target="_blank">Avoiding Silent Failures in Python: Best Practices for Error Handling</a> - 2023-08-07</li>
 
 </ul>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>People newer to Python often get confused by the statement: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110893088164738774" target="_blank">2023-08-15</a>
+  </blockquote>
+
+  <blockquote>
+  <p>&quot;Readability counts&quot; - Zen of Python ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110893086278338953" target="_blank">2023-08-15</a>
+  </blockquote>
+
+  <blockquote>
   <p>How to Remove Duplicates From a <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> List (And Keep Order) <a href="https://youtu.be/lUXl0cK8s08" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/lUXl0cK8s08</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110730328277039647" target="_blank">2023-07-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>How Andrew Changed His Approach to Building <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> Software Through PDM <a href="https://youtu.be/uhfrFPAIKCU" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/uhfrFPAIKCU</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110702401248101657" target="_blank">2023-07-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>5 things you can do with <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> f-strings <a href="https://youtu.be/O8KFVxpxIZk" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/O8KFVxpxIZk</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110690950812696921" target="_blank">2023-07-10</a>
   </blockquote>
 
 
