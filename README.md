@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230817110202.md" target="_blank">Make an entry point to your python package</a> - 2023-08-17</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230816183323.md" target="_blank">Parse import statements</a> - 2023-08-16</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230601094256.md" target="_blank">Exception groups</a> - 2023-06-01</li>
@@ -41,8 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230113130529.md" target="_blank">Make a datetime timezone aware</a> - 2023-01-13</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230110131408.md" target="_blank">Tuples are immutable</a> - 2023-01-10</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>I learned on LinkedIn that there is a cool alternative called LibCST: <a href="https://libcst.readthedocs.io/en/latest/why_libcst.html" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">libcst.readthedocs.io/en/lates</span><span class="invisible">t/why_libcst.html</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110904087365198167" target="_blank">2023-08-17</a>
+  <p>4️⃣Run the package: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110904866996928817" target="_blank">2023-08-17</a>
   </blockquote>
 
   <blockquote>
-  <p>Ever heard of SimpleNamespace? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110904067055665719" target="_blank">2023-08-17</a>
+  <p>3️⃣Add your entry point code to __main__.py: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110904866608219579" target="_blank">2023-08-17</a>
   </blockquote>
 
   <blockquote>
-  <p>I like PySimpleGUI to quickly build a GUI to prototype my app (although command line / Typer and Flask are great too for this) 🐍 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110903941146908019" target="_blank">2023-08-17</a>
+  <p>2️⃣ Create a __main__.py file: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110904866171272746" target="_blank">2023-08-17</a>
   </blockquote>
 
 
