@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230821155645.md" target="_blank">How to add a console script to your #python package:</a> - 2023-08-21</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230817110202.md" target="_blank">Make an entry point to your python package</a> - 2023-08-17</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230816183323.md" target="_blank">Parse import statements</a> - 2023-08-16</li>
@@ -41,8 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230130102312.md" target="_blank">Test the random module</a> - 2023-01-30</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230113130529.md" target="_blank">Make a datetime timezone aware</a> - 2023-01-13</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>4️⃣Run the package: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110904866996928817" target="_blank">2023-08-17</a>
+  <p>Build a package from A-Z inside our PDM coaching program, some examples of what people have built with us over the years:<br /><a href="https://pybit.es/pdm-projects/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybit.es/pdm-projects/</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110929353210854500" target="_blank">2023-08-21</a>
   </blockquote>
 
   <blockquote>
-  <p>3️⃣Add your entry point code to __main__.py: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110904866608219579" target="_blank">2023-08-17</a>
+  <p>Check out our &quot;Teaching packaging by building a Python package&quot; podcast / training here:<br /><a href="https://www.youtube.com/watch?v=P6Xar-jegGg" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=P6Xar-jegG</span><span class="invisible">g</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110929350707706563" target="_blank">2023-08-21</a>
   </blockquote>
 
   <blockquote>
-  <p>2️⃣ Create a __main__.py file: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/110904866171272746" target="_blank">2023-08-17</a>
+  <p>5️⃣Test it out in a virtual env: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/110929349046386960" target="_blank">2023-08-21</a>
   </blockquote>
 
 
