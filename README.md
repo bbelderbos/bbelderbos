@@ -6,15 +6,15 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/make-each-line-count-keeping-things-simple-in-python/" target="_blank">Make Each Line Count, Keeping Things Simple in Python</a> - 2023-08-24</li>
+
+  <li><a href="https://pybit.es/articles/harnessing-downtime-the-power-of-disconnecting/" target="_blank">Harnessing Downtime: The Power of Disconnecting</a> - 2023-08-23</li>
+
   <li><a href="https://pybit.es/articles/no-more-tutorial-hell-code-python-on-our-platform/" target="_blank">Break Out of Tutorial Hell, Build up The Python Coding Habit on Our Platform 💪</a> - 2023-08-16</li>
 
   <li><a href="https://pybit.es/articles/why-you-should-avoid-import-in-python/" target="_blank">⚠️Why you should avoid import * in Python 🐍</a> - 2023-08-15</li>
 
   <li><a href="https://pybit.es/articles/when-to-refactor-your-code/" target="_blank">When to refactor your code?</a> - 2023-08-11</li>
-
-  <li><a href="https://pybit.es/articles/how-the-flocking-rules-can-help-you-refactor-your-code/" target="_blank">How the Flocking Rules Can Help You Refactor Your Code</a> - 2023-08-10</li>
-
-  <li><a href="https://pybit.es/articles/the-arbitrary-keyword-arguments-args-and-kwargs-dont-come-for-free-in-python/" target="_blank">The Arbitrary (Keyword) Arguments (args and kwargs) don’t come “for free” in Python</a> - 2023-08-09</li>
 
 </ul>
 
@@ -26,6 +26,8 @@
 ### Latest Python tips
 
 <ul>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230824175324.md" target="_blank">Os vs pathlib</a> - 2023-08-24</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230824103843.md" target="_blank">Customizing class creation with __init_subclass__</a> - 2023-08-24</li>
 
@@ -40,8 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230215143414.md" target="_blank">Get all subclasses</a> - 2023-02-15</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230215131208.md" target="_blank">Code uses list comprehensions?</a> - 2023-02-15</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230130103011.md" target="_blank">Caching api calls</a> - 2023-01-30</li>
 
 </ul>
 
