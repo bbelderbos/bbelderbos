@@ -27,6 +27,14 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230829192509.md" target="_blank">How to read from standard input (stdin) in python?</a> - 2023-08-29</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230829122531.md" target="_blank">5 things you might not know f-strings can do 💡 🧵</a> - 2023-08-29</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230829122437.md" target="_blank">Computed (and readonly) fields / attributes</a> - 2023-08-29</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230828204211.md" target="_blank">Speed up repetitive function calls with caching 💡</a> - 2023-08-28</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230824175324.md" target="_blank">Os vs pathlib</a> - 2023-08-24</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230824103843.md" target="_blank">Customizing class creation with __init_subclass__</a> - 2023-08-24</li>
@@ -34,14 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230821155645.md" target="_blank">How to add a console script to your #python package:</a> - 2023-08-21</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230817110202.md" target="_blank">Make an entry point to your python package</a> - 2023-08-17</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230816183323.md" target="_blank">Parse import statements</a> - 2023-08-16</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230601094256.md" target="_blank">Exception groups</a> - 2023-06-01</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230215143414.md" target="_blank">Get all subclasses</a> - 2023-02-15</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230215131208.md" target="_blank">Code uses list comprehensions?</a> - 2023-02-15</li>
 
 </ul>
 
