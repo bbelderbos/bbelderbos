@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/build-real-world-python-projects/" target="_blank">Empower Your Python Ambitions – From Idea Paralysis to Real-World Projects</a> - 2023-08-31</li>
+
   <li><a href="https://pybit.es/articles/make-each-line-count-keeping-things-simple-in-python/" target="_blank">Make Each Line Count, Keeping Things Simple in Python</a> - 2023-08-24</li>
 
   <li><a href="https://pybit.es/articles/harnessing-downtime-the-power-of-disconnecting/" target="_blank">Harnessing Downtime: The Power of Disconnecting</a> - 2023-08-23</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/no-more-tutorial-hell-code-python-on-our-platform/" target="_blank">Break Out of Tutorial Hell, Build up The Python Coding Habit on Our Platform 💪</a> - 2023-08-16</li>
 
   <li><a href="https://pybit.es/articles/why-you-should-avoid-import-in-python/" target="_blank">⚠️Why you should avoid import * in Python 🐍</a> - 2023-08-15</li>
-
-  <li><a href="https://pybit.es/articles/when-to-refactor-your-code/" target="_blank">When to refactor your code?</a> - 2023-08-11</li>
 
 </ul>
 
