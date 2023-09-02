@@ -6,7 +6,7 @@
 
 <ul>
 
-  <li><a href="https://pybit.es/articles/build-real-world-python-projects/" target="_blank">Empower Your Python Ambitions – From Idea Paralysis to Real-World Projects</a> - 2023-08-31</li>
+  <li><a href="https://pybit.es/articles/build-real-world-python-projects/" target="_blank">From Idea Paralysis to Real-World Python Projects</a> - 2023-08-31</li>
 
   <li><a href="https://pybit.es/articles/make-each-line-count-keeping-things-simple-in-python/" target="_blank">Make Each Line Count, Keeping Things Simple in Python</a> - 2023-08-24</li>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>New Pybites YouTube video: <br /><a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> Web Scraping with Beautiful Soup: Extracting Book Data <br /><a href="https://youtu.be/m4XRp2Sk2Ok?si=LX1w0KAnK7ryAp_t" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">youtu.be/m4XRp2Sk2Ok?si=LX1w0K</span><span class="invisible">AnK7ryAp_t</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/110990995381990696" target="_blank">2023-09-01</a>
+  </blockquote>
+
+  <blockquote>
   <p>New article: <br />Make Each Line Count, Keeping Things Simple in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a><br /><a href="https://pybit.es/articles/make-each-line-count-keeping-things-simple-in-python/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">pybit.es/articles/make-each-li</span><span class="invisible">ne-count-keeping-things-simple-in-python/</span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110943611207507258" target="_blank">2023-08-24</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Build a package from A-Z inside our PDM coaching program, some examples of what people have built with us over the years:<br /><a href="https://pybit.es/pdm-projects/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybit.es/pdm-projects/</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110929353210854500" target="_blank">2023-08-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Check out our &quot;Teaching packaging by building a Python package&quot; podcast / training here:<br /><a href="https://www.youtube.com/watch?v=P6Xar-jegGg" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=P6Xar-jegG</span><span class="invisible">g</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110929350707706563" target="_blank">2023-08-21</a>
   </blockquote>
 
 
