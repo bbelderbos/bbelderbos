@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Every wondered how to make plots in the terminal? 💡 😎 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111019208438023896" target="_blank">2023-09-06</a>
+  </blockquote>
+
+  <blockquote>
   <p>New <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> YouTube video:  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111008331580016371" target="_blank">2023-09-04</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>New Pybites YouTube video: <br /><a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> Web Scraping with Beautiful Soup: Extracting Book Data <br /><a href="https://youtu.be/m4XRp2Sk2Ok?si=LX1w0KAnK7ryAp_t" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">youtu.be/m4XRp2Sk2Ok?si=LX1w0K</span><span class="invisible">AnK7ryAp_t</span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/110990995381990696" target="_blank">2023-09-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New article: <br />Make Each Line Count, Keeping Things Simple in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a><br /><a href="https://pybit.es/articles/make-each-line-count-keeping-things-simple-in-python/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">pybit.es/articles/make-each-li</span><span class="invisible">ne-count-keeping-things-simple-in-python/</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110943611207507258" target="_blank">2023-08-24</a>
   </blockquote>
 
 
