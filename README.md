@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/excel-embraces-python-opening-doors-to-new-roles-and-how-pdi-can-help/" target="_blank">Excel Embraces Python, Opening Doors to New Roles and How PDI Can Help</a> - 2023-09-08</li>
+
   <li><a href="https://pybit.es/articles/10-tips-to-make-your-developer-resume-stand-out/" target="_blank">10 Tips to Make Your Developer Resume Stand Out</a> - 2023-09-04</li>
 
   <li><a href="https://pybit.es/articles/build-real-world-python-projects/" target="_blank">From Idea Paralysis to Real-World Python Projects</a> - 2023-08-31</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/make-each-line-count-keeping-things-simple-in-python/" target="_blank">Make Each Line Count, Keeping Things Simple in Python</a> - 2023-08-24</li>
 
   <li><a href="https://pybit.es/articles/harnessing-downtime-the-power-of-disconnecting/" target="_blank">Harnessing Downtime: The Power of Disconnecting</a> - 2023-08-23</li>
-
-  <li><a href="https://pybit.es/articles/no-more-tutorial-hell-code-python-on-our-platform/" target="_blank">Break Out of Tutorial Hell, Build up The Python Coding Habit on Our Platform 💪</a> - 2023-08-16</li>
 
 </ul>
 
