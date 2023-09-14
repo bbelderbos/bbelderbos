@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/debunking-7-myths-about-software-development-coaching/" target="_blank">Debunking 7 Myths About Software Development Coaching</a> - 2023-09-12</li>
+
   <li><a href="https://pybit.es/articles/excel-embraces-python-opening-doors-to-new-roles-and-how-pdi-can-help/" target="_blank">Excel Embraces Python, Opening Doors to New Roles and How PDI Can Help</a> - 2023-09-08</li>
 
   <li><a href="https://pybit.es/articles/10-tips-to-make-your-developer-resume-stand-out/" target="_blank">10 Tips to Make Your Developer Resume Stand Out</a> - 2023-09-04</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/build-real-world-python-projects/" target="_blank">From Idea Paralysis to Real-World Python Projects</a> - 2023-08-31</li>
 
   <li><a href="https://pybit.es/articles/make-each-line-count-keeping-things-simple-in-python/" target="_blank">Make Each Line Count, Keeping Things Simple in Python</a> - 2023-08-24</li>
-
-  <li><a href="https://pybit.es/articles/harnessing-downtime-the-power-of-disconnecting/" target="_blank">Harnessing Downtime: The Power of Disconnecting</a> - 2023-08-23</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Ever used a join() in print() like so? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111062340317850914" target="_blank">2023-09-14</a>
+  </blockquote>
+
+  <blockquote>
   <p>Every wondered how to make plots in the terminal? 💡 😎 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111019208438023896" target="_blank">2023-09-06</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>New <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> YouTube video:  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111008331580016371" target="_blank">2023-09-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>New Pybites YouTube video: <br /><a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> Web Scraping with Beautiful Soup: Extracting Book Data <br /><a href="https://youtu.be/m4XRp2Sk2Ok?si=LX1w0KAnK7ryAp_t" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">youtu.be/m4XRp2Sk2Ok?si=LX1w0K</span><span class="invisible">AnK7ryAp_t</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/110990995381990696" target="_blank">2023-09-01</a>
   </blockquote>
 
 
