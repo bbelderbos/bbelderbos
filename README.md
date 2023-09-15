@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>Ever used a join() in print() like so? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111062340317850914" target="_blank">2023-09-14</a>
+  <p>This week on our <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast: Code Smells 🎉 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111068228304832301" target="_blank">2023-09-15</a>
   </blockquote>
 
   <blockquote>
-  <p>Every wondered how to make plots in the terminal? 💡 😎 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111019208438023896" target="_blank">2023-09-06</a>
+  <p>Instead of checking for a key before retrieving its value from a <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> dictionary, you can use the get() method. 🐍 😍 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111068156670811508" target="_blank">2023-09-15</a>
   </blockquote>
 
   <blockquote>
-  <p>New <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> YouTube video:  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111008331580016371" target="_blank">2023-09-04</a>
+  <p>Therefor: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111064106076987996" target="_blank">2023-09-14</a>
   </blockquote>
 
 
