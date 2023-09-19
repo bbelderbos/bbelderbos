@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/how-to-be-a-productive-content-creator/" target="_blank">How to Be a Productive Content Creator</a> - 2023-09-18</li>
+
   <li><a href="https://pybit.es/articles/write-more-maintainable-python-code-avoid-these-15-code-smells/" target="_blank">Write more maintainable Python code, avoid these 15 code smells</a> - 2023-09-15</li>
 
   <li><a href="https://pybit.es/articles/debunking-7-myths-about-software-development-coaching/" target="_blank">Debunking 7 Myths About Software Development Coaching</a> - 2023-09-12</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/excel-embraces-python-opening-doors-to-new-roles-and-how-pdi-can-help/" target="_blank">Excel Embraces Python, Opening Doors to New Roles and How PDI Can Help</a> - 2023-09-08</li>
 
   <li><a href="https://pybit.es/articles/10-tips-to-make-your-developer-resume-stand-out/" target="_blank">10 Tips to Make Your Developer Resume Stand Out</a> - 2023-09-04</li>
-
-  <li><a href="https://pybit.es/articles/build-real-world-python-projects/" target="_blank">From Idea Paralysis to Real-World Python Projects</a> - 2023-08-31</li>
 
 </ul>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>We're back with another Pybites Podcast episode, today about <a class="mention hashtag" href="https://fosstodon.org/tags/productivity" rel="tag">#<span>productivity</span></a> ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111087349255861196" target="_blank">2023-09-18</a>
+  </blockquote>
+
+  <blockquote>
+  <p>How to get 10 times the number 1 in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111086495591212835" target="_blank">2023-09-18</a>
+  </blockquote>
+
+  <blockquote>
   <p>This week on our <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast: Code Smells 🎉 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111068228304832301" target="_blank">2023-09-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Instead of checking for a key before retrieving its value from a <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> dictionary, you can use the get() method. 🐍 😍 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111068156670811508" target="_blank">2023-09-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Therefor: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111064106076987996" target="_blank">2023-09-14</a>
   </blockquote>
 
 
