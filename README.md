@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/your-first-python-open-source-contribution-a-step-by-step-guide/" target="_blank">Your First Python Open Source Contribution: A Step-By-Step Guide</a> - 2023-09-20</li>
+
   <li><a href="https://pybit.es/articles/why-start-your-programming-journey-with-python/" target="_blank">Why Start Your Programming Journey With Python?</a> - 2023-09-19</li>
 
   <li><a href="https://pybit.es/articles/how-to-be-a-productive-content-creator/" target="_blank">How to Be a Productive Content Creator</a> - 2023-09-18</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/write-more-maintainable-python-code-avoid-these-15-code-smells/" target="_blank">Write more maintainable Python code, avoid these 15 code smells</a> - 2023-09-15</li>
 
   <li><a href="https://pybit.es/articles/debunking-7-myths-about-software-development-coaching/" target="_blank">Debunking 7 Myths About Software Development Coaching</a> - 2023-09-12</li>
-
-  <li><a href="https://pybit.es/articles/excel-embraces-python-opening-doors-to-new-roles-and-how-pdi-can-help/" target="_blank">Excel Embraces Python, Opening Doors to New Roles and How PDI Can Help</a> - 2023-09-08</li>
 
 </ul>
 
