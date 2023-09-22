@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/6-cool-things-you-can-do-with-the-functools-module/" target="_blank">6 Cool Things You Can Do With The Functools Module</a> - 2023-09-21</li>
+
   <li><a href="https://pybit.es/articles/your-first-python-open-source-contribution-a-step-by-step-guide/" target="_blank">Your First Python Open Source Contribution: A Step-By-Step Guide</a> - 2023-09-20</li>
 
   <li><a href="https://pybit.es/articles/why-start-your-programming-journey-with-python/" target="_blank">Why Start Your Programming Journey With Python?</a> - 2023-09-19</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/how-to-be-a-productive-content-creator/" target="_blank">How to Be a Productive Content Creator</a> - 2023-09-18</li>
 
   <li><a href="https://pybit.es/articles/write-more-maintainable-python-code-avoid-these-15-code-smells/" target="_blank">Write more maintainable Python code, avoid these 15 code smells</a> - 2023-09-15</li>
-
-  <li><a href="https://pybit.es/articles/debunking-7-myths-about-software-development-coaching/" target="_blank">Debunking 7 Myths About Software Development Coaching</a> - 2023-09-12</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Today I spent some time digging into the functools module, here are 6 cool things you can do with it:<br /><a href="https://pybit.es/articles/6-cool-things-you-can-do-with-the-functools-module/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">pybit.es/articles/6-cool-thing</span><span class="invisible">s-you-can-do-with-the-functools-module/</span></a>  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111103229182201074" target="_blank">2023-09-21</a>
+  </blockquote>
+
+  <blockquote>
   <p>We're back with another Pybites Podcast episode, today about <a class="mention hashtag" href="https://fosstodon.org/tags/productivity" rel="tag">#<span>productivity</span></a> ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111087349255861196" target="_blank">2023-09-18</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>How to get 10 times the number 1 in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>? ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111086495591212835" target="_blank">2023-09-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>This week on our <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast: Code Smells 🎉 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111068228304832301" target="_blank">2023-09-15</a>
   </blockquote>
 
 
