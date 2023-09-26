@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>I created another refactoring video, today a practical example of &quot;Extract Method&quot; in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a><br /><a href="https://youtu.be/N9sqd1-0_qk?si=7oW0D3c-GdvtrzG-" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">youtu.be/N9sqd1-0_qk?si=7oW0D3</span><span class="invisible">c-GdvtrzG-</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/111130564832236483" target="_blank">2023-09-26</a>
+  </blockquote>
+
+  <blockquote>
+  <p>s/tutorial paralysis/coding every day/g 💪 🔥</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111127123520476908" target="_blank">2023-09-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>Today I spent some time digging into the functools module, here are 6 cool things you can do with it:<br /><a href="https://pybit.es/articles/6-cool-things-you-can-do-with-the-functools-module/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">pybit.es/articles/6-cool-thing</span><span class="invisible">s-you-can-do-with-the-functools-module/</span></a>  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111103229182201074" target="_blank">2023-09-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>We're back with another Pybites Podcast episode, today about <a class="mention hashtag" href="https://fosstodon.org/tags/productivity" rel="tag">#<span>productivity</span></a> ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111087349255861196" target="_blank">2023-09-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>How to get 10 times the number 1 in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111086495591212835" target="_blank">2023-09-18</a>
   </blockquote>
 
 
