@@ -6,7 +6,7 @@
 
 <ul>
 
-  <li><a href="https://pybit.es/articles/meet-will-raphaelson-from-script-to-production-flow-with-prefect-marvin-ai/" target="_blank">Meet Will Raphaelson: From Script to Production Flow With Prefect & Marvin AI</a> - 2023-09-25</li>
+  <li><a href="https://pybit.es/articles/meet-will-raphaelson-from-script-to-production-flow-with-prefect-marvin-ai/" target="_blank">From Script to Production Flow With Prefect & Marvin AI</a> - 2023-09-25</li>
 
   <li><a href="https://pybit.es/articles/6-cool-things-you-can-do-with-the-functools-module/" target="_blank">6 Cool Things You Can Do With The Functools Module</a> - 2023-09-21</li>
 
