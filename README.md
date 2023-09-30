@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>❗Why?  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111147734793637053" target="_blank">2023-09-29</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🐍 Python pitfall: don’t modify a list while iterating over it 😱 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111147734299616327" target="_blank">2023-09-29</a>
+  </blockquote>
+
+  <blockquote>
   <p>The Zen of <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> warns about nested code, it better be flat! ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111142631602255869" target="_blank">2023-09-28</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I created another refactoring video, today a practical example of &quot;Extract Method&quot; in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a><br /><a href="https://youtu.be/N9sqd1-0_qk?si=7oW0D3c-GdvtrzG-" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">youtu.be/N9sqd1-0_qk?si=7oW0D3</span><span class="invisible">c-GdvtrzG-</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/111130564832236483" target="_blank">2023-09-26</a>
-  </blockquote>
-
-  <blockquote>
-  <p>s/tutorial paralysis/coding every day/g 💪 🔥</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111127123520476908" target="_blank">2023-09-25</a>
   </blockquote>
 
 
