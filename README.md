@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231005125327.md" target="_blank">Get all callables from a file</a> - 2023-10-05</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230829192509.md" target="_blank">How to read from standard input (stdin) in python?</a> - 2023-08-29</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230829122531.md" target="_blank">5 things you might not know f-strings can do 💡 🧵</a> - 2023-08-29</li>
@@ -40,8 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230824103843.md" target="_blank">Customizing class creation with __init_subclass__</a> - 2023-08-24</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230821155645.md" target="_blank">How to add a console script to your #python package:</a> - 2023-08-21</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230817110202.md" target="_blank">Make an entry point to your python package</a> - 2023-08-17</li>
 
 </ul>
 
