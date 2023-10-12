@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/what-the-heck-is-yield-for/" target="_blank">What The Heck Is Yield For?</a> - 2023-10-11</li>
+
   <li><a href="https://pybit.es/articles/using-python-in-excel-with-pyxll/" target="_blank">Using Python in Excel with PyXLL</a> - 2023-10-10</li>
 
   <li><a href="https://pybit.es/articles/meet-will-raphaelson-from-script-to-production-flow-with-prefect-marvin-ai/" target="_blank">From Script to Production Flow With Prefect & Marvin AI</a> - 2023-09-25</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/6-cool-things-you-can-do-with-the-functools-module/" target="_blank">6 Cool Things You Can Do With The Functools Module</a> - 2023-09-21</li>
 
   <li><a href="https://pybit.es/articles/your-first-python-open-source-contribution-a-step-by-step-guide/" target="_blank">Your First Python Open Source Contribution: A Step-By-Step Guide</a> - 2023-09-20</li>
-
-  <li><a href="https://pybit.es/articles/why-start-your-programming-journey-with-python/" target="_blank">Why Start Your Programming Journey With Python?</a> - 2023-09-19</li>
 
 </ul>
 
