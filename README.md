@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/maximizing-your-dx-with-adam-johnson/" target="_blank">Maximizing Your Developer Experience (DX) with Adam Johnson: Git Mastery, Django and Open Source</a> - 2023-11-09</li>
+
   <li><a href="https://pybit.es/articles/new-pybites-python-developer-certificates-and-how-they-are-different/" target="_blank">New Pybites Python Developer Certificates and How They Are Different</a> - 2023-11-01</li>
 
   <li><a href="https://pybit.es/articles/sentry-a-developers-partner-interview-with-co-founder-david-cramer/" target="_blank">Sentry, a Developer’s Partner, Interview with Co-Founder David Cramer</a> - 2023-10-30</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/from-concepts-to-mvps-validate-your-idea-in-few-lines-of-code-with-streamlit/" target="_blank">From concepts to MVPs: Validate Your Idea in few Lines of Code with Streamlit</a> - 2023-10-25</li>
 
   <li><a href="https://pybit.es/articles/how-to-land-a-dev-job-in-2023-proven-strategies-mistakes-to-avoid/" target="_blank">How to Land a Dev Job in 2023: Proven Strategies & Mistakes to Avoid</a> - 2023-10-24</li>
-
-  <li><a href="https://pybit.es/articles/our-concern-with-programming-certifications/" target="_blank">Our Concern with Programming Certifications</a> - 2023-10-17</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Join me for my wide ranging conversation with <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@adamchainz">@<span>adamchainz</span></a></span> about git, developer experience, Django, web dev, open source, books and more ... 🔥 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111380157499824326" target="_blank">2023-11-09</a>
+  </blockquote>
+
+  <blockquote>
   <p>❗Why?  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111147734793637053" target="_blank">2023-09-29</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>🐍 Python pitfall: don’t modify a list while iterating over it 😱 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111147734299616327" target="_blank">2023-09-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The Zen of <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> warns about nested code, it better be flat! ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111142631602255869" target="_blank">2023-09-28</a>
   </blockquote>
 
 
