@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>New <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> refactoring video: From Long List of Arguments to Object<br /><a href="https://www.youtube.com/watch?v=fJmZAsulP7g" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=fJmZAsulP7</span><span class="invisible">g</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/111409666918669559" target="_blank">2023-11-14</a>
+  </blockquote>
+
+  <blockquote>
   <p>Join me for my wide ranging conversation with <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@adamchainz">@<span>adamchainz</span></a></span> about git, developer experience, Django, web dev, open source, books and more ... 🔥 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111380157499824326" target="_blank">2023-11-09</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>❗Why?  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111147734793637053" target="_blank">2023-09-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🐍 Python pitfall: don’t modify a list while iterating over it 😱 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111147734299616327" target="_blank">2023-09-29</a>
   </blockquote>
 
 
