@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>In today's <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> refactoring video I show you how to go from a set of related functions to a simple class, leading to cleaner code, better data encapsulation and even a possible efficiency gain -&gt; <a href="https://youtu.be/btBFH5GKd-k?si=Zaa7daieoHOh6G3V" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">youtu.be/btBFH5GKd-k?si=Zaa7da</span><span class="invisible">ieoHOh6G3V</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/111419277440785545" target="_blank">2023-11-16</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Did you know you can use <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>'s difflib module (Standard Library) to calculate the similarity between two strings?  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111413995638424155" target="_blank">2023-11-15</a>
+  </blockquote>
+
+  <blockquote>
   <p>New <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> refactoring video: From Long List of Arguments to Object<br /><a href="https://www.youtube.com/watch?v=fJmZAsulP7g" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=fJmZAsulP7</span><span class="invisible">g</span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/111409666918669559" target="_blank">2023-11-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Join me for my wide ranging conversation with <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@adamchainz">@<span>adamchainz</span></a></span> about git, developer experience, Django, web dev, open source, books and more ... 🔥 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111380157499824326" target="_blank">2023-11-09</a>
-  </blockquote>
-
-  <blockquote>
-  <p>❗Why?  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111147734793637053" target="_blank">2023-09-29</a>
   </blockquote>
 
 
