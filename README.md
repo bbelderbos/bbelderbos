@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Ever wondered if you can run other scripts than just linters upon making commits to your repo?  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111464447888916213" target="_blank">2023-11-24</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Refactoring Code with Enums: Enhance Your <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>  Projects 🐍 🚀 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111461018993047059" target="_blank">2023-11-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>Love geeking out over DALL-E in ChatGPT! ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111453551290230991" target="_blank">2023-11-22</a>
-  </blockquote>
-
-  <blockquote>
-  <p>In today's <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> refactoring video I show you how to go from a set of related functions to a simple class, leading to cleaner code, better data encapsulation and even a possible efficiency gain -&gt; <a href="https://youtu.be/btBFH5GKd-k?si=Zaa7daieoHOh6G3V" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">youtu.be/btBFH5GKd-k?si=Zaa7da</span><span class="invisible">ieoHOh6G3V</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/111419277440785545" target="_blank">2023-11-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Did you know you can use <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>'s difflib module (Standard Library) to calculate the similarity between two strings?  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111413995638424155" target="_blank">2023-11-15</a>
   </blockquote>
 
 
