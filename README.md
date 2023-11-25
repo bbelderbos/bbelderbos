@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>In <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> you can swap variables without intermediate variable, just:  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111465686326490401" target="_blank">2023-11-24</a>
+  </blockquote>
+
+  <blockquote>
   <p>Ever wondered if you can run other scripts than just linters upon making commits to your repo?  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111464447888916213" target="_blank">2023-11-24</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Refactoring Code with Enums: Enhance Your <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>  Projects 🐍 🚀 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111461018993047059" target="_blank">2023-11-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Love geeking out over DALL-E in ChatGPT! ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111453551290230991" target="_blank">2023-11-22</a>
   </blockquote>
 
 
