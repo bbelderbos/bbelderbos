@@ -27,21 +27,21 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231207123339.md" target="_blank">How to redirect standard output?</a> - 2023-12-07</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231207122530.md" target="_blank">Get the zen of python into variable(s)</a> - 2023-12-07</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231123134715.md" target="_blank">Reverse an iterable</a> - 2023-11-23</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231117182646.md" target="_blank">Enums</a> - 2023-11-17</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231115110439.md" target="_blank">Calculate similarity between two files</a> - 2023-11-15</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231005125327.md" target="_blank">Get all callables from a file</a> - 2023-10-05</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230829192509.md" target="_blank">How to read from standard input (stdin) in python?</a> - 2023-08-29</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230829122531.md" target="_blank">5 things you might not know f-strings can do 💡 🧵</a> - 2023-08-29</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230829122437.md" target="_blank">Computed (and readonly) fields / attributes</a> - 2023-08-29</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230828204211.md" target="_blank">Speed up repetitive function calls with caching 💡</a> - 2023-08-28</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230824175324.md" target="_blank">Os vs pathlib</a> - 2023-08-24</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230824103843.md" target="_blank">Customizing class creation with __init_subclass__</a> - 2023-08-24</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20230821155645.md" target="_blank">How to add a console script to your #python package:</a> - 2023-08-21</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Was great having Will Frey back on the podcast to talk about becoming a Python coach, a cool generator refactoring he did, and software design. Check it out here: <a href="https://www.youtube.com/watch?v=eXw2KTWtEqo" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=eXw2KTWtEq</span><span class="invisible">o</span></a> ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111538481078050984" target="_blank">2023-12-07</a>
+  </blockquote>
+
+  <blockquote>
   <p>In <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> you can swap variables without intermediate variable, just:  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111465686326490401" target="_blank">2023-11-24</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Ever wondered if you can run other scripts than just linters upon making commits to your repo?  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/111464447888916213" target="_blank">2023-11-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Refactoring Code with Enums: Enhance Your <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>  Projects 🐍 🚀 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111461018993047059" target="_blank">2023-11-23</a>
   </blockquote>
 
 
