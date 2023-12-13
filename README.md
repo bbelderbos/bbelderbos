@@ -27,6 +27,10 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231213075301.md" target="_blank">Automic database transactions</a> - 2023-12-13</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231212143456.md" target="_blank">Sparse is better than dense.</a> - 2023-12-12</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231212064259.md" target="_blank">The power of context managers</a> - 2023-12-12</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231212064158.md" target="_blank">Use capwords for title-casing</a> - 2023-12-12</li>
@@ -38,10 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231207123339.md" target="_blank">How to capture the zen of python (and redirect standard output)?</a> - 2023-12-07</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231123134715.md" target="_blank">Reverse an iterable</a> - 2023-11-23</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231117182646.md" target="_blank">Enums</a> - 2023-11-17</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231115110439.md" target="_blank">Calculate similarity between two files</a> - 2023-11-15</li>
 
 </ul>
 
