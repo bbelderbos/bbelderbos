@@ -27,6 +27,10 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231215082936.md" target="_blank">Install a package in editable mode</a> - 2023-12-15</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231214205946.md" target="_blank">Special cases aren't special enough to break the rules.</a> - 2023-12-14</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231213183435.md" target="_blank">Readability counts.</a> - 2023-12-13</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231213125842.md" target="_blank">How to match overlapping strings in python?</a> - 2023-12-13</li>
@@ -38,10 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231212143456.md" target="_blank">Sparse is better than dense.</a> - 2023-12-12</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231212064259.md" target="_blank">The power of context managers</a> - 2023-12-12</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231212064158.md" target="_blank">Use capwords for title-casing</a> - 2023-12-12</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231212063701.md" target="_blank">Run pytest tests in parallel</a> - 2023-12-12</li>
 
 </ul>
 
