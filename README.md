@@ -27,6 +27,14 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231216211604.md" target="_blank">Easily iterate over pairs in a sequence</a> - 2023-12-16</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231216210001.md" target="_blank">Split an iterable into pairs</a> - 2023-12-16</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231216095149.md" target="_blank">Errors should never pass silently.</a> - 2023-12-16</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231215184629.md" target="_blank">Although practicality beats purity.</a> - 2023-12-15</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231215082936.md" target="_blank">Install a package in editable mode</a> - 2023-12-15</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231214205946.md" target="_blank">Special cases aren't special enough to break the rules.</a> - 2023-12-14</li>
@@ -34,14 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231213183435.md" target="_blank">Readability counts.</a> - 2023-12-13</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231213125842.md" target="_blank">How to match overlapping strings in python?</a> - 2023-12-13</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231213075301.md" target="_blank">Automic database transactions</a> - 2023-12-13</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231212213659.md" target="_blank">Beautiful is better than ugly.</a> - 2023-12-12</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231212143456.md" target="_blank">Sparse is better than dense.</a> - 2023-12-12</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231212064259.md" target="_blank">The power of context managers</a> - 2023-12-12</li>
 
 </ul>
 
