@@ -27,21 +27,11 @@
 
 <ul>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231220073947.md" target="_blank">There should be one-- and preferably only one --obvious way to do it.</a> - 2023-12-20</li>
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20220817104442.md" target="_blank">Pathlib</a> - 2022-08-17</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231220064430.md" target="_blank">In the face of ambiguity, refuse the temptation to guess.</a> - 2023-12-20</li>
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20220817104441.md" target="_blank">Enumerate</a> - 2022-08-17</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231218175630.md" target="_blank">Unless explicitly silenced</a> - 2023-12-18</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231218133029.md" target="_blank">More performant string building</a> - 2023-12-18</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231216211604.md" target="_blank">Easily iterate over pairs in a sequence</a> - 2023-12-16</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231216210001.md" target="_blank">Split a sequence into pairs</a> - 2023-12-16</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231216095149.md" target="_blank">Errors should never pass silently.</a> - 2023-12-16</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231215184629.md" target="_blank">Although practicality beats purity.</a> - 2023-12-15</li>
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20220817104440.md" target="_blank">Pybites productivity tips</a> - 2022-08-17</li>
 
 </ul>
 
