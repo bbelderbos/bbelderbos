@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231229164623.md" target="_blank">How to validate an ip address in python?</a> - 2023-12-29</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231221194410.md" target="_blank">Now is better than never.</a> - 2023-12-21</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231221192642.md" target="_blank">Getting exchange rates</a> - 2023-12-21</li>
@@ -40,8 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231218175630.md" target="_blank">Unless explicitly silenced</a> - 2023-12-18</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231218133029.md" target="_blank">More performant string building</a> - 2023-12-18</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231216211604.md" target="_blank">Easily iterate over pairs in a sequence</a> - 2023-12-16</li>
 
 </ul>
 
