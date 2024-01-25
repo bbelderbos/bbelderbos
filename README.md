@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/exploring-the-role-of-static-methods-in-python-a-functional-perspective/" target="_blank">Exploring the Role of Static Methods in Python: A Functional Perspective</a> - 2024-01-24</li>
+
   <li><a href="https://pybit.es/articles/real-world-python-developer-certifications/" target="_blank">Elevating Python Mastery With Pybites Real-World Developer Certifications</a> - 2023-12-06</li>
 
   <li><a href="https://pybit.es/articles/salary-negotiation-tips/" target="_blank">Salary Negotiation Tips</a> - 2023-11-17</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/maximizing-your-dx-with-adam-johnson/" target="_blank">Maximizing Your Developer Experience (DX) with Adam Johnson: Git Mastery, Django and Open Source</a> - 2023-11-09</li>
 
   <li><a href="https://pybit.es/articles/new-pybites-python-developer-certificates-and-how-they-are-different/" target="_blank">New Pybites Python Developer Certificates and How They Are Different</a> - 2023-11-01</li>
-
-  <li><a href="https://pybit.es/articles/sentry-a-developers-partner-interview-with-co-founder-david-cramer/" target="_blank">Sentry, a Developer’s Partner, Interview with Co-Founder David Cramer</a> - 2023-10-30</li>
 
 </ul>
 
