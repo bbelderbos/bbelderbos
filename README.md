@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/typing-protocol-abc-alternative/" target="_blank">Leveraging typing.Protocol: Faster Error Detection And Beyond Inheritance</a> - 2024-02-09</li>
+
   <li><a href="https://pybit.es/articles/how-to-send-email-notifications-using-sendgrid-and-github-actions/" target="_blank">How to Send Email Notifications Using Sendgrid and GitHub Actions</a> - 2024-02-07</li>
 
   <li><a href="https://pybit.es/articles/elevate-your-python-harnessing-the-power-of-abstract-base-classes-abcs/" target="_blank">Elevate Your Python: Harnessing the Power of Abstract Base Classes (ABCs)</a> - 2024-01-26</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/exploring-the-role-of-static-methods-in-python-a-functional-perspective/" target="_blank">Exploring the Role of Static Methods in Python: A Functional Perspective</a> - 2024-01-24</li>
 
   <li><a href="https://pybit.es/articles/real-world-python-developer-certifications/" target="_blank">Elevating Python Mastery With Pybites Real-World Developer Certifications</a> - 2023-12-06</li>
-
-  <li><a href="https://pybit.es/articles/salary-negotiation-tips/" target="_blank">Salary Negotiation Tips</a> - 2023-11-17</li>
 
 </ul>
 
