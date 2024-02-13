@@ -27,21 +27,21 @@
 
 <ul>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231229164623.md" target="_blank">How to validate an ip address in python?</a> - 2023-12-29</li>
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240212164917.md" target="_blank">A powerful parser</a> - 2024-02-12</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231221194410.md" target="_blank">Now is better than never.</a> - 2023-12-21</li>
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240212145044.md" target="_blank">Get the domain from a url</a> - 2024-02-12</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231221192642.md" target="_blank">Getting exchange rates</a> - 2023-12-21</li>
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240209140325.md" target="_blank">Heap queues</a> - 2024-02-09</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231220154535.md" target="_blank">When to use classes in python?</a> - 2023-12-20</li>
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240209135049.md" target="_blank">Method resolution order</a> - 2024-02-09</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231220073947.md" target="_blank">There should be one-- and preferably only one --obvious way to do it.</a> - 2023-12-20</li>
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240208104128.md" target="_blank">Setattr for setting attributes</a> - 2024-02-08</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231220064430.md" target="_blank">In the face of ambiguity, refuse the temptation to guess.</a> - 2023-12-20</li>
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240206131146.md" target="_blank">Statistical calculations</a> - 2024-02-06</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231218175630.md" target="_blank">Unless explicitly silenced</a> - 2023-12-18</li>
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240206102145.md" target="_blank">Getattr for safely access attributes</a> - 2024-02-06</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20231218133029.md" target="_blank">More performant string building</a> - 2023-12-18</li>
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240202112418.md" target="_blank">Is vs ==</a> - 2024-02-02</li>
 
 </ul>
 
