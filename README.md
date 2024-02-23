@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/stuck-in-import-hell-walk-your-way-out/" target="_blank">Stuck in import hell? Walk your way out.</a> - 2024-02-22</li>
+
   <li><a href="https://pybit.es/articles/typing-protocol-abc-alternative/" target="_blank">Leveraging typing.Protocol: Faster Error Detection And Beyond Inheritance</a> - 2024-02-09</li>
 
   <li><a href="https://pybit.es/articles/how-to-send-email-notifications-using-sendgrid-and-github-actions/" target="_blank">How to Send Email Notifications Using Sendgrid and GitHub Actions</a> - 2024-02-07</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/elevate-your-python-harnessing-the-power-of-abstract-base-classes-abcs/" target="_blank">Elevate Your Python: Harnessing the Power of Abstract Base Classes (ABCs)</a> - 2024-01-26</li>
 
   <li><a href="https://pybit.es/articles/exploring-the-role-of-static-methods-in-python-a-functional-perspective/" target="_blank">Exploring the Role of Static Methods in Python: A Functional Perspective</a> - 2024-01-24</li>
-
-  <li><a href="https://pybit.es/articles/real-world-python-developer-certifications/" target="_blank">Elevating Python Mastery With Pybites Real-World Developer Certifications</a> - 2023-12-06</li>
 
 </ul>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>Easy caching in Python 🐍😍 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111565699223385738" target="_blank">2023-12-12</a>
+  <p>📣 New <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> article: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111976747356897081" target="_blank">2024-02-22</a>
   </blockquote>
 
   <blockquote>
-  <p>Context Managers, a must-use 🐍 Python feature 😍 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111565696355067042" target="_blank">2023-12-12</a>
+  <p>Crafting clean + maintainable code is a lot about managing complexity and striving for simplicity. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111975980375242014" target="_blank">2024-02-22</a>
   </blockquote>
 
   <blockquote>
-  <p>Was great having <span class="h-card"><a class="u-url mention" href="https://mastodon.social/@ambv">@<span>ambv</span></a></span> on the show to talk about his work on Black, &quot;the uncompromising Python code formatter&quot;. 🐍 🎉 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111563356123643707" target="_blank">2023-12-11</a>
+  <p>Love what people build with us ... ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111975645779901165" target="_blank">2024-02-22</a>
   </blockquote>
 
 
