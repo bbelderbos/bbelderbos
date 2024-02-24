@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240223145038.md" target="_blank">Dataclass with extra construction</a> - 2024-02-23</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240212164917.md" target="_blank">A powerful parser</a> - 2024-02-12</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240212145044.md" target="_blank">Get the domain from a url</a> - 2024-02-12</li>
@@ -41,8 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240206102145.md" target="_blank">Getattr for safely access attributes</a> - 2024-02-06</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240202112418.md" target="_blank">Is vs ==</a> - 2024-02-02</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>📣 New <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> article: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111976747356897081" target="_blank">2024-02-22</a>
+  <p>To see more <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>  projects people have built with us over the years, head over to <a href="https://pybit.es/pdm-projects/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybit.es/pdm-projects/</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/111981457087153081" target="_blank">2024-02-23</a>
   </blockquote>
 
   <blockquote>
-  <p>Crafting clean + maintainable code is a lot about managing complexity and striving for simplicity. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111975980375242014" target="_blank">2024-02-22</a>
+  <p>As you probably know dataclasses automate object construction, so you don't need to write an `__init__` method. 🎉 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111981447292948460" target="_blank">2024-02-23</a>
   </blockquote>
 
   <blockquote>
-  <p>Love what people build with us ... ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111975645779901165" target="_blank">2024-02-22</a>
+  <p>Have you used Taipy yet?  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/111981441632874296" target="_blank">2024-02-23</a>
   </blockquote>
 
 
