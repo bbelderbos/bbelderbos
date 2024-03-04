@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>sorry broken link: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112033435991937473" target="_blank">2024-03-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>Exciting new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast episode: ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112021691566523833" target="_blank">2024-03-01</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>To see more <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>  projects people have built with us over the years, head over to <a href="https://pybit.es/pdm-projects/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybit.es/pdm-projects/</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/111981457087153081" target="_blank">2024-02-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>As you probably know dataclasses automate object construction, so you don't need to write an `__init__` method. 🎉 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/111981447292948460" target="_blank">2024-02-23</a>
   </blockquote>
 
 
