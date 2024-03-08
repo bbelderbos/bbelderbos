@@ -6,15 +6,15 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/why-you-should-never-put-your-virtualenv-inside-your-projects-folder/" target="_blank">Why You Should Never Put Your Virtualenv Inside Your Project’s Folder</a> - 2024-03-07</li>
+
+  <li><a href="https://pybit.es/articles/build-a-route-planner-for-maps-using-python/" target="_blank">Build a route planner for maps using Python</a> - 2024-03-07</li>
+
+  <li><a href="https://pybit.es/articles/case-study-github-copilot-and-the-deceiving-ladder/" target="_blank">Case Study: GitHub Copilot and the deceiving ladder</a> - 2024-03-07</li>
+
   <li><a href="https://pybit.es/articles/stuck-in-import-hell-walk-your-way-out/" target="_blank">Stuck in import hell? Walk your way out.</a> - 2024-02-22</li>
 
   <li><a href="https://pybit.es/articles/typing-protocol-abc-alternative/" target="_blank">Leveraging typing.Protocol: Faster Error Detection And Beyond Inheritance</a> - 2024-02-09</li>
-
-  <li><a href="https://pybit.es/articles/how-to-send-email-notifications-using-sendgrid-and-github-actions/" target="_blank">How to Send Email Notifications Using Sendgrid and GitHub Actions</a> - 2024-02-07</li>
-
-  <li><a href="https://pybit.es/articles/elevate-your-python-harnessing-the-power-of-abstract-base-classes-abcs/" target="_blank">Elevate Your Python: Harnessing the Power of Abstract Base Classes (ABCs)</a> - 2024-01-26</li>
-
-  <li><a href="https://pybit.es/articles/exploring-the-role-of-static-methods-in-python-a-functional-perspective/" target="_blank">Exploring the Role of Static Methods in Python: A Functional Perspective</a> - 2024-01-24</li>
 
 </ul>
 
