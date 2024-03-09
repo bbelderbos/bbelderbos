@@ -6,7 +6,7 @@
 
 <ul>
 
-  <li><a href="https://pybit.es/articles/why-you-should-never-put-your-virtualenv-inside-your-projects-folder/" target="_blank">Why You Should Never Put Your Virtualenv Inside Your Project’s Folder</a> - 2024-03-07</li>
+  <li><a href="https://pybit.es/articles/a-better-place-to-put-your-python-virtual-environments/" target="_blank">A Better Place to Put Your Python Virtual Environments</a> - 2024-03-07</li>
 
   <li><a href="https://pybit.es/articles/build-a-route-planner-for-maps-using-python/" target="_blank">Build a route planner for maps using Python</a> - 2024-03-07</li>
 
