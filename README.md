@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/python-f-string-codes-i-use-every-day/" target="_blank">Python F-String Codes I Use Every Day</a> - 2024-04-05</li>
+
   <li><a href="https://pybit.es/articles/a-better-place-to-put-your-python-virtual-environments/" target="_blank">A Better Place to Put Your Python Virtual Environments</a> - 2024-03-07</li>
 
   <li><a href="https://pybit.es/articles/build-a-route-planner-for-maps-using-python/" target="_blank">Build a route planner for maps using Python</a> - 2024-03-07</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/case-study-github-copilot-and-the-deceiving-ladder/" target="_blank">Case Study: GitHub Copilot and the deceiving ladder</a> - 2024-03-07</li>
 
   <li><a href="https://pybit.es/articles/stuck-in-import-hell-walk-your-way-out/" target="_blank">Stuck in import hell? Walk your way out.</a> - 2024-02-22</li>
-
-  <li><a href="https://pybit.es/articles/typing-protocol-abc-alternative/" target="_blank">Leveraging typing.Protocol: Faster Error Detection And Beyond Inheritance</a> - 2024-02-09</li>
 
 </ul>
 
