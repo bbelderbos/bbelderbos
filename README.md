@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240410190949.md" target="_blank">Get a youtube video transcript</a> - 2024-04-10</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240228143839.md" target="_blank">F-string formatting techniques</a> - 2024-02-28</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240223145038.md" target="_blank">Dataclass with extra construction</a> - 2024-02-23</li>
@@ -40,8 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240209135049.md" target="_blank">Method resolution order</a> - 2024-02-09</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240208104128.md" target="_blank">Setattr for setting attributes</a> - 2024-02-08</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240206131146.md" target="_blank">Statistical calculations</a> - 2024-02-06</li>
 
 </ul>
 
