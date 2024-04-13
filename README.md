@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240412111523.md" target="_blank">Using assembly ai to transcribe podcast audio files</a> - 2024-04-12</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240410190949.md" target="_blank">Get a youtube video transcript</a> - 2024-04-10</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240228143839.md" target="_blank">F-string formatting techniques</a> - 2024-02-28</li>
@@ -40,8 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240209140325.md" target="_blank">Heap queues</a> - 2024-02-09</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240209135049.md" target="_blank">Method resolution order</a> - 2024-02-09</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240208104128.md" target="_blank">Setattr for setting attributes</a> - 2024-02-08</li>
 
 </ul>
 
