@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/openstreetmaps-overpass-api-and-python/" target="_blank">OpenStreetMaps, Overpass API and Python</a> - 2024-04-17</li>
+
   <li><a href="https://pybit.es/articles/adventures-in-import-land-part-ii/" target="_blank">Adventures in Import-land, Part II</a> - 2024-04-08</li>
 
   <li><a href="https://pybit.es/articles/python-f-string-codes-i-use-every-day/" target="_blank">Python F-String Codes I Use Every Day</a> - 2024-04-05</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/a-better-place-to-put-your-python-virtual-environments/" target="_blank">A Better Place to Put Your Python Virtual Environments</a> - 2024-03-07</li>
 
   <li><a href="https://pybit.es/articles/build-a-route-planner-for-maps-using-python/" target="_blank">Build a route planner for maps using Python</a> - 2024-03-07</li>
-
-  <li><a href="https://pybit.es/articles/case-study-github-copilot-and-the-deceiving-ladder/" target="_blank">Case Study: GitHub Copilot and the deceiving ladder</a> - 2024-03-07</li>
 
 </ul>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>Resting on weekends is the most underrated <a class="mention hashtag" href="https://fosstodon.org/tags/productivity" rel="tag">#<span>productivity</span></a> hack 😍 💪 📈</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112276441227448248" target="_blank">2024-04-15</a>
+  <p>Really enjoying Cal Newport's new Slow <a class="mention hashtag" href="https://fosstodon.org/tags/Productivity" rel="tag">#<span>Productivity</span></a> book. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112291165556187183" target="_blank">2024-04-18</a>
   </blockquote>
 
   <blockquote>
-  <p>Exciting new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast episode: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112021691566523833" target="_blank">2024-03-01</a>
+  <p>Did you know <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>'s Standard Library includes a module for generating UUIDs or Universal Unique Identifiers?  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112287894630991634" target="_blank">2024-04-17</a>
   </blockquote>
 
   <blockquote>
-  <p>To see more <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>  projects people have built with us over the years, head over to <a href="https://pybit.es/pdm-projects/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybit.es/pdm-projects/</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/111981457087153081" target="_blank">2024-02-23</a>
+  <p>I think I read this in the Well-grounded Python <a class="mention hashtag" href="https://fosstodon.org/tags/developer" rel="tag">#<span>developer</span></a>:  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112287156609281013" target="_blank">2024-04-17</a>
   </blockquote>
 
 
