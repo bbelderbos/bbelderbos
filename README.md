@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>Really enjoying Cal Newport's new Slow <a class="mention hashtag" href="https://fosstodon.org/tags/Productivity" rel="tag">#<span>Productivity</span></a> book. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112291165556187183" target="_blank">2024-04-18</a>
+  <p>We're back with a new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> episode! 🎙️  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112296591538850962" target="_blank">2024-04-19</a>
   </blockquote>
 
   <blockquote>
-  <p>Did you know <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>'s Standard Library includes a module for generating UUIDs or Universal Unique Identifiers?  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112287894630991634" target="_blank">2024-04-17</a>
+  <p>How voluntary work can boost your career ... ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112291637593082605" target="_blank">2024-04-18</a>
   </blockquote>
 
   <blockquote>
-  <p>I think I read this in the Well-grounded Python <a class="mention hashtag" href="https://fosstodon.org/tags/developer" rel="tag">#<span>developer</span></a>:  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112287156609281013" target="_blank">2024-04-17</a>
+  <p>Wow somebody just introduced me to ptipython 🐍 😍 which sits somewhere between bpython/ptpython and a full jupyter experience 🤯 - including the convenience of ? and ?? to inspect modules/methods/etc - pretty powerful! 📈🔥 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112291405244986183" target="_blank">2024-04-18</a>
   </blockquote>
 
 
