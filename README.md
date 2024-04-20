@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Exciting what people build with us in PDM - project highlight: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112302596224629567" target="_blank">2024-04-20</a>
+  </blockquote>
+
+  <blockquote>
+  <p>One of the best mindset changes as a <a class="mention hashtag" href="https://fosstodon.org/tags/developer" rel="tag">#<span>developer</span></a>: JIT learning. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112297482207878939" target="_blank">2024-04-19</a>
+  </blockquote>
+
+  <blockquote>
   <p>We're back with a new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> episode! 🎙️  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112296591538850962" target="_blank">2024-04-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p>How voluntary work can boost your career ... ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112291637593082605" target="_blank">2024-04-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Wow somebody just introduced me to ptipython 🐍 😍 which sits somewhere between bpython/ptpython and a full jupyter experience 🤯 - including the convenience of ? and ?? to inspect modules/methods/etc - pretty powerful! 📈🔥 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112291405244986183" target="_blank">2024-04-18</a>
   </blockquote>
 
 
