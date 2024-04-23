@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>In <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>, using mutable objects (e.g. lists / dicts) as default arguments in functions can lead to unexpected behavior.  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112319241250509920" target="_blank">2024-04-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>The advantage of keeping a blog is that you build up a collection of problems + solutions, for yourself and others.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112307916414199671" target="_blank">2024-04-21</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Exciting what people build with us in PDM - project highlight: ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112302596224629567" target="_blank">2024-04-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>One of the best mindset changes as a <a class="mention hashtag" href="https://fosstodon.org/tags/developer" rel="tag">#<span>developer</span></a>: JIT learning. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112297482207878939" target="_blank">2024-04-19</a>
   </blockquote>
 
 
