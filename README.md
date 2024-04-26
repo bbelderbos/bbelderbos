@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>For more <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> tips and discussion, join our community: <a href="https://pybites.circle.so/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybites.circle.so/</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/112332647566141046" target="_blank">2024-04-25</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Did you know you can use <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>'s zipapp 🐍 module to make an executable zipfile? 💡 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112332647532308245" target="_blank">2024-04-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>Struggling with indents in multiline string comparisons, for example in your test code?  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112330768241678288" target="_blank">2024-04-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p><a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> <a class="mention hashtag" href="https://fosstodon.org/tags/tip" rel="tag">#<span>tip</span></a>: split(&quot;\n&quot;) usually gets you what you want. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112325613195182900" target="_blank">2024-04-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>In <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>, using mutable objects (e.g. lists / dicts) as default arguments in functions can lead to unexpected behavior.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112319241250509920" target="_blank">2024-04-23</a>
   </blockquote>
 
 
