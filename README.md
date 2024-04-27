@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Subscribe to our newsletter for 250 more <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> tips: <a href="https://pybit.es/newsletter/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybit.es/newsletter/</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/112337645663634152" target="_blank">2024-04-26</a>
+  </blockquote>
+
+  <blockquote>
+  <p>The divmod() <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> built-in function combines division + modulo operations into one, returning the quotient + remainder. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112337645643047057" target="_blank">2024-04-26</a>
+  </blockquote>
+
+  <blockquote>
   <p>For more <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> tips and discussion, join our community: <a href="https://pybites.circle.so/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybites.circle.so/</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/112332647566141046" target="_blank">2024-04-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Did you know you can use <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>'s zipapp 🐍 module to make an executable zipfile? 💡 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112332647532308245" target="_blank">2024-04-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Struggling with indents in multiline string comparisons, for example in your test code?  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112330768241678288" target="_blank">2024-04-25</a>
   </blockquote>
 
 
