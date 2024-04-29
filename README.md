@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>This is also a cool use case of GitHub Actions by the way: <br /><a href="https://github.com/bbelderbos/bbelderbos/blob/main/.github/workflows/update.yml" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">github.com/bbelderbos/bbelderb</span><span class="invisible">os/blob/main/.github/workflows/update.yml</span></a> ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112348968069024639" target="_blank">2024-04-28</a>
+  </blockquote>
+
+  <blockquote>
+  <p>A cool way to keep your <a class="mention hashtag" href="https://fosstodon.org/tags/GitHub" rel="tag">#<span>GitHub</span></a> profile up2date is by creating a self-updating Readme, a trick I picked up from Simon Willison.  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112348968047631434" target="_blank">2024-04-28</a>
+  </blockquote>
+
+  <blockquote>
   <p>For more <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> <a class="mention hashtag" href="https://fosstodon.org/tags/developer" rel="tag">#<span>developer</span></a> content subscribe to our YouTube channel: <a href="https://www.youtube.com/c/pybites" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="">youtube.com/c/pybites</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/112343306210255176" target="_blank">2024-04-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>pre-commit helps with code quality: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112343306194575256" target="_blank">2024-04-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Subscribe to our newsletter for 250 more <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> tips: <a href="https://pybit.es/newsletter/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybit.es/newsletter/</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/112337645663634152" target="_blank">2024-04-26</a>
   </blockquote>
 
 
