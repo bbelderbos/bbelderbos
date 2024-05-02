@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Set operations are a powerful and concise (requiring little code) technique in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> - here I use the .difference() set operation to see which cities are unique across two sets 🚀</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112365956957905107" target="_blank">2024-05-01</a>
+  </blockquote>
+
+  <blockquote>
   <p>In our new podcast episode, Julian chats with Luis Palacios, who transitioned from custodian to IT Analyst.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112360766683339362" target="_blank">2024-04-30</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>For more bite-sized tips subscribe to our weekly newsletter and you get a free ebook with 250 <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> tips -&gt; <br /><a href="https://pybit.es/newsletter/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybit.es/newsletter/</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/112359821882676052" target="_blank">2024-04-30</a>
-  </blockquote>
-
-  <blockquote>
-  <p><a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>'s enumerate() built-in function is perfect for iteration with indexing. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112359821864776640" target="_blank">2024-04-30</a>
   </blockquote>
 
 
