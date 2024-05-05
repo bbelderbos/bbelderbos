@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Use `removesuffix` for safe suffix removal in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> &gt;= 3.9 (there's also `removeprefix`) 🐍 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112382944056220946" target="_blank">2024-05-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>Managing environment variables in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>, python-dotenv or -decouple? ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112377280664767488" target="_blank">2024-05-03</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Exciting new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> episode: we talk with Pydantic creator <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@samuelcolvin">@<span>samuelcolvin</span></a></span> about how Pydantic came about, how it became a company, future vision, FastUI, and Pydantic's newly released Logfire product 😍 (including a demo 💡). Check it out here:<br /><a href="https://youtu.be/KZHvs_j6fuA" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">youtu.be/KZHvs_j6fuA</span><span class="invisible"></span></a> - enjoy 🎧</p>
   - <a href="https://fosstodon.org/@bbelderbos/112376340046707549" target="_blank">2024-05-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Had a great conversation with @jhodapp to talk about the power of <a class="mention hashtag" href="https://fosstodon.org/tags/coaching" rel="tag">#<span>coaching</span></a> (and mindset) to advance your career as a <a class="mention hashtag" href="https://fosstodon.org/tags/developer" rel="tag">#<span>developer</span></a> 💡 📈 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112373017762768111" target="_blank">2024-05-02</a>
   </blockquote>
 
 
