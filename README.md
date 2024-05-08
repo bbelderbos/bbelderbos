@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>What is the Zen of <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> all about? Robin and I produced a bunch of YouTube shorts a while back. 💪 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112399929606375843" target="_blank">2024-05-07</a>
+  </blockquote>
+
+  <blockquote>
   <p>🔥 Boost your developer skills with our &quot;9 Command Line Tips Every Developer Should Know&quot; training.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112394267882657208" target="_blank">2024-05-06</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>This is how you can figure out on what day you were born in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> ... enter the calendar module:</p>
   - <a href="https://fosstodon.org/@bbelderbos/112388605292750919" target="_blank">2024-05-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Use `removesuffix` for safe suffix removal in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> &gt;= 3.9 (there's also `removeprefix`) 🐍 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112382944056220946" target="_blank">2024-05-04</a>
   </blockquote>
 
 
