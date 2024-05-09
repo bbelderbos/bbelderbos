@@ -27,6 +27,10 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240508134342.md" target="_blank">Writing decorators function- vs class-based</a> - 2024-05-08</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240508132544.md" target="_blank">Getting test data with faker</a> - 2024-05-08</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240412111523.md" target="_blank">Using assembly ai to transcribe podcast audio files</a> - 2024-04-12</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240410190949.md" target="_blank">Get a youtube video transcript</a> - 2024-04-10</li>
@@ -39,10 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240212145044.md" target="_blank">Get the domain from a url</a> - 2024-02-12</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240209140325.md" target="_blank">Heap queues</a> - 2024-02-09</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240209135049.md" target="_blank">Method resolution order</a> - 2024-02-09</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Custom exceptions boost code clarity and intent in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>, aligning with the Zen's &quot;explicit is better than implicit.&quot;  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112405593467063977" target="_blank">2024-05-08</a>
+  </blockquote>
+
+  <blockquote>
   <p>What is the Zen of <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> all about? Robin and I produced a bunch of YouTube shorts a while back. 💪 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112399929606375843" target="_blank">2024-05-07</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>🔥 Boost your developer skills with our &quot;9 Command Line Tips Every Developer Should Know&quot; training.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112394267882657208" target="_blank">2024-05-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>This is how you can figure out on what day you were born in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> ... enter the calendar module:</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112388605292750919" target="_blank">2024-05-05</a>
   </blockquote>
 
 
