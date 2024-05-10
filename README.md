@@ -27,6 +27,10 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240509112058.md" target="_blank">Add bias to random</a> - 2024-05-09</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240509111232.md" target="_blank">Composition over inheritance</a> - 2024-05-09</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240508134342.md" target="_blank">Writing decorators function- vs class-based</a> - 2024-05-08</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240508132544.md" target="_blank">Getting test data with faker</a> - 2024-05-08</li>
@@ -39,10 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240223145038.md" target="_blank">Dataclass with extra construction</a> - 2024-02-23</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240212164917.md" target="_blank">A powerful parser</a> - 2024-02-12</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240212145044.md" target="_blank">Get the domain from a url</a> - 2024-02-12</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Here is a walk-through video:<br /><a href="https://www.youtube.com/watch?v=YmJ0TACm8oE" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=YmJ0TACm8o</span><span class="invisible">E</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/112411256433192795" target="_blank">2024-05-09</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Bootstrap might seem a bit unoriginal, but it's also a quick + easy way to make your <a class="mention hashtag" href="https://fosstodon.org/tags/Django" rel="tag">#<span>Django</span></a> app/MVP look 'good enough'. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112411256418470821" target="_blank">2024-05-09</a>
+  </blockquote>
+
+  <blockquote>
   <p>Custom exceptions boost code clarity and intent in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>, aligning with the Zen's &quot;explicit is better than implicit.&quot;  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112405593467063977" target="_blank">2024-05-08</a>
-  </blockquote>
-
-  <blockquote>
-  <p>What is the Zen of <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> all about? Robin and I produced a bunch of YouTube shorts a while back. 💪 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112399929606375843" target="_blank">2024-05-07</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🔥 Boost your developer skills with our &quot;9 Command Line Tips Every Developer Should Know&quot; training.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112394267882657208" target="_blank">2024-05-06</a>
   </blockquote>
 
 
