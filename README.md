@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>For more <a class="mention hashtag" href="https://fosstodon.org/tags/python" rel="tag">#<span>python</span></a> tips join our weekly newsletter: <a href="https://pybit.es/newsletter/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybit.es/newsletter/</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/112422578907951916" target="_blank">2024-05-11</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Streamline your test data generation in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> with Faker 💡 🎉 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112422578893300093" target="_blank">2024-05-11</a>
+  </blockquote>
+
+  <blockquote>
   <p>Practice <a class="mention hashtag" href="https://fosstodon.org/tags/python" rel="tag">#<span>python</span></a> regex on our platform with this learning path: <a href="https://codechalleng.es/bites/paths/regex" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">codechalleng.es/bites/paths/re</span><span class="invisible">gex</span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/112417157138721362" target="_blank">2024-05-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>In <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> you can use `sub()` from the &quot;re&quot; module to do regex string replacing.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112416917296757433" target="_blank">2024-05-10</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Here is a walk-through video:<br /><a href="https://www.youtube.com/watch?v=YmJ0TACm8oE" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=YmJ0TACm8o</span><span class="invisible">E</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/112411256433192795" target="_blank">2024-05-09</a>
   </blockquote>
 
 
