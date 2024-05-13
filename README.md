@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Continue the discussion in our <a class="mention hashtag" href="https://fosstodon.org/tags/python" rel="tag">#<span>python</span></a> community: <a href="https://pybites.circle.so/c/python-discussion/decorators-the-class-based-way" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">pybites.circle.so/c/python-dis</span><span class="invisible">cussion/decorators-the-class-based-way</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/112428240770755722" target="_blank">2024-05-12</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🔍 The other day I learned via <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pythonbytes">@<span>pythonbytes</span></a></span> that you can also write <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> decorators using classes! 💡 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112428240754248477" target="_blank">2024-05-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>For more <a class="mention hashtag" href="https://fosstodon.org/tags/python" rel="tag">#<span>python</span></a> tips join our weekly newsletter: <a href="https://pybit.es/newsletter/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybit.es/newsletter/</span><span class="invisible"></span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/112422578907951916" target="_blank">2024-05-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Streamline your test data generation in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> with Faker 💡 🎉 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112422578893300093" target="_blank">2024-05-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Practice <a class="mention hashtag" href="https://fosstodon.org/tags/python" rel="tag">#<span>python</span></a> regex on our platform with this learning path: <a href="https://codechalleng.es/bites/paths/regex" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">codechalleng.es/bites/paths/re</span><span class="invisible">gex</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/112417157138721362" target="_blank">2024-05-10</a>
   </blockquote>
 
 
