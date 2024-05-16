@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Sign up for our weekly newsletter and get our <a class="mention hashtag" href="https://fosstodon.org/tags/python" rel="tag">#<span>python</span></a> <a class="mention hashtag" href="https://fosstodon.org/tags/tips" rel="tag">#<span>tips</span></a> ebook for free containing 250 more Pythonic code examples. 🐍 😍 💡 📈  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112445228930083130" target="_blank">2024-05-15</a>
+  </blockquote>
+
+  <blockquote>
+  <p><a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> tip: `random.choices` can be used to generate random samples with bias. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112445228914623961" target="_blank">2024-05-15</a>
+  </blockquote>
+
+  <blockquote>
   <p>Increase flexibility and reusability, reduce coupling, and avoid complex class inheritance issues.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112439568711390418" target="_blank">2024-05-14</a>
-  </blockquote>
-
-  <blockquote>
-  <p>With error handling in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>, handle specific exceptions (known issues) first.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112433904743531337" target="_blank">2024-05-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Continue the discussion in our <a class="mention hashtag" href="https://fosstodon.org/tags/python" rel="tag">#<span>python</span></a> community: <a href="https://pybites.circle.so/c/python-discussion/decorators-the-class-based-way" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">pybites.circle.so/c/python-dis</span><span class="invisible">cussion/decorators-the-class-based-way</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/112428240770755722" target="_blank">2024-05-12</a>
   </blockquote>
 
 
