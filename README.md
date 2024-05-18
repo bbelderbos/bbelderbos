@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Need unique values from a list in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>?  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112456555707154222" target="_blank">2024-05-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>🚀 Quickly jump from your local <a class="mention hashtag" href="https://fosstodon.org/tags/git" rel="tag">#<span>git</span></a> repository to its corresponding GitHub page with this handy shell alias! ✨ ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112450894044784716" target="_blank">2024-05-16</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Sign up for our weekly newsletter and get our <a class="mention hashtag" href="https://fosstodon.org/tags/python" rel="tag">#<span>python</span></a> <a class="mention hashtag" href="https://fosstodon.org/tags/tips" rel="tag">#<span>tips</span></a> ebook for free containing 250 more Pythonic code examples. 🐍 😍 💡 📈  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112445228930083130" target="_blank">2024-05-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p><a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> tip: `random.choices` can be used to generate random samples with bias. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112445228914623961" target="_blank">2024-05-15</a>
   </blockquote>
 
 
