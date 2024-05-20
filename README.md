@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>You want emojis in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>?  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112467877311268512" target="_blank">2024-05-19</a>
+  </blockquote>
+
+  <blockquote>
   <p><a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> tip: you can use `random.seed()` to make random's outputs predictable 🎲🔄 - example below. ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112462215054777403" target="_blank">2024-05-18</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Need unique values from a list in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>?  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112456555707154222" target="_blank">2024-05-17</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🚀 Quickly jump from your local <a class="mention hashtag" href="https://fosstodon.org/tags/git" rel="tag">#<span>git</span></a> repository to its corresponding GitHub page with this handy shell alias! ✨ ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112450894044784716" target="_blank">2024-05-16</a>
   </blockquote>
 
 
