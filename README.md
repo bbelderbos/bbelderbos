@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Looking back upon an amazing <a class="mention hashtag" href="https://fosstodon.org/tags/PyConUS" rel="tag">#<span>PyConUS</span></a> 🐍🤯 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112479202680136451" target="_blank">2024-05-21</a>
+  </blockquote>
+
+  <blockquote>
   <p>In our latest <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast I list out 10 essential things to add to your <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> project on <a class="mention hashtag" href="https://fosstodon.org/tags/GitHub" rel="tag">#<span>GitHub</span></a>. ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112473539013100726" target="_blank">2024-05-20</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>You want emojis in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>?  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112467877311268512" target="_blank">2024-05-19</a>
-  </blockquote>
-
-  <blockquote>
-  <p><a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> tip: you can use `random.seed()` to make random's outputs predictable 🎲🔄 - example below. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112462215054777403" target="_blank">2024-05-18</a>
   </blockquote>
 
 
