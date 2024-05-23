@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Practice it yourself in this <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> Bite exercise: <br /><a href="https://codechalleng.es/bites/promo/pandas2024" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">codechalleng.es/bites/promo/pa</span><span class="invisible">ndas2024</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/112484864316914819" target="_blank">2024-05-22</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🐼📊 Skip unnecessary rows &amp; columns when loading Excel data with <a class="mention hashtag" href="https://fosstodon.org/tags/pandas" rel="tag">#<span>pandas</span></a> ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112484864296949312" target="_blank">2024-05-22</a>
+  </blockquote>
+
+  <blockquote>
   <p>Looking back upon an amazing <a class="mention hashtag" href="https://fosstodon.org/tags/PyConUS" rel="tag">#<span>PyConUS</span></a> 🐍🤯 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112479202680136451" target="_blank">2024-05-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>In our latest <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast I list out 10 essential things to add to your <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> project on <a class="mention hashtag" href="https://fosstodon.org/tags/GitHub" rel="tag">#<span>GitHub</span></a>. ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112473539013100726" target="_blank">2024-05-20</a>
-  </blockquote>
-
-  <blockquote>
-  <p>You want emojis in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>?  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112467877311268512" target="_blank">2024-05-19</a>
   </blockquote>
 
 
