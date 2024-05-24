@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>🚀 Speed up your <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> code 🐍 with caching ... 💡 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112490447122826874" target="_blank">2024-05-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>Practice it yourself in this <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> Bite exercise: <br /><a href="https://codechalleng.es/bites/promo/pandas2024" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">codechalleng.es/bites/promo/pa</span><span class="invisible">ndas2024</span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/112484864316914819" target="_blank">2024-05-22</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>🐼📊 Skip unnecessary rows &amp; columns when loading Excel data with <a class="mention hashtag" href="https://fosstodon.org/tags/pandas" rel="tag">#<span>pandas</span></a> ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112484864296949312" target="_blank">2024-05-22</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Looking back upon an amazing <a class="mention hashtag" href="https://fosstodon.org/tags/PyConUS" rel="tag">#<span>PyConUS</span></a> 🐍🤯 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112479202680136451" target="_blank">2024-05-21</a>
   </blockquote>
 
 
