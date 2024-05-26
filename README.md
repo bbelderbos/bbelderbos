@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>And we're back with a new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> <a class="mention hashtag" href="https://fosstodon.org/tags/podcast" rel="tag">#<span>podcast</span></a> episode debriefing Pycon US 2024: favorite moments, takeaways / lessons, inspiration, and more. 😍 📈 🔥 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112502839941085723" target="_blank">2024-05-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>Related video:  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112495773641040529" target="_blank">2024-05-24</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Tip: you can create an entry point to your <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> package by adding a __main__.py module to it.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112495752823578773" target="_blank">2024-05-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🚀 Speed up your <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> code 🐍 with caching ... 💡 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112490447122826874" target="_blank">2024-05-23</a>
   </blockquote>
 
 
