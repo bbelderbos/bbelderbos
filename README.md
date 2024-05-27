@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>How do you automate pushing <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> 🐍 projects to PyPI? 💡 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112507513052136213" target="_blank">2024-05-26</a>
+  </blockquote>
+
+  <blockquote>
   <p>And we're back with a new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> <a class="mention hashtag" href="https://fosstodon.org/tags/podcast" rel="tag">#<span>podcast</span></a> episode debriefing Pycon US 2024: favorite moments, takeaways / lessons, inspiration, and more. 😍 📈 🔥 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112502839941085723" target="_blank">2024-05-25</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Related video:  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112495773641040529" target="_blank">2024-05-24</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Tip: you can create an entry point to your <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> package by adding a __main__.py module to it.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112495752823578773" target="_blank">2024-05-24</a>
   </blockquote>
 
 
