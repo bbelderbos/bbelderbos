@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>To do this in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> code, loading a module from a string, you can use importlib like this:</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112512718873895056" target="_blank">2024-05-27</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🔍 Terminal Tip: Instant <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> Source Viewer! 🐍 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112512718756809825" target="_blank">2024-05-27</a>
+  </blockquote>
+
+  <blockquote>
   <p>How do you automate pushing <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> 🐍 projects to PyPI? 💡 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112507513052136213" target="_blank">2024-05-26</a>
-  </blockquote>
-
-  <blockquote>
-  <p>And we're back with a new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> <a class="mention hashtag" href="https://fosstodon.org/tags/podcast" rel="tag">#<span>podcast</span></a> episode debriefing Pycon US 2024: favorite moments, takeaways / lessons, inspiration, and more. 😍 📈 🔥 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112502839941085723" target="_blank">2024-05-25</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Related video:  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112495773641040529" target="_blank">2024-05-24</a>
   </blockquote>
 
 
