@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Clean code tip: break long functions into smaller ones.  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112518852846568255" target="_blank">2024-05-28</a>
+  </blockquote>
+
+  <blockquote>
   <p>To do this in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> code, loading a module from a string, you can use importlib like this:</p>
   - <a href="https://fosstodon.org/@bbelderbos/112512718873895056" target="_blank">2024-05-27</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>🔍 Terminal Tip: Instant <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> Source Viewer! 🐍 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112512718756809825" target="_blank">2024-05-27</a>
-  </blockquote>
-
-  <blockquote>
-  <p>How do you automate pushing <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> 🐍 projects to PyPI? 💡 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112507513052136213" target="_blank">2024-05-26</a>
   </blockquote>
 
 
