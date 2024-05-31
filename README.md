@@ -27,6 +27,10 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240531100650.md" target="_blank">Using requests head</a> - 2024-05-31</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240530111719.md" target="_blank">Setting the package version in your init file</a> - 2024-05-30</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240529114443.md" target="_blank">Pretty print to a file</a> - 2024-05-29</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240509112058.md" target="_blank">Add bias to random</a> - 2024-05-09</li>
@@ -39,10 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240412111523.md" target="_blank">Using assembly ai to transcribe podcast audio files</a> - 2024-04-12</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240410190949.md" target="_blank">Get a youtube video transcript</a> - 2024-04-10</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240228143839.md" target="_blank">F-string formatting techniques</a> - 2024-02-28</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>🚀 Tip: automate __version__ population in your package's __init__.py file using importlib.metadata. 📦 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112530637356066665" target="_blank">2024-05-30</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Interesting: <a class="mention hashtag" href="https://fosstodon.org/tags/Django" rel="tag">#<span>Django</span></a> 5.1 ships with the new `LoginRequiredMiddleware` which &quot;redirects all unauthenticated requests to a login page.&quot; 💡 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112529455589380458" target="_blank">2024-05-30</a>
+  </blockquote>
+
+  <blockquote>
   <p>Yesterday I used maturin/PyO3 to get some Rust code working in Python showing a major speed up. 💡💪 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112524002590457557" target="_blank">2024-05-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Clean code tip: break long functions into smaller ones.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112518852846568255" target="_blank">2024-05-28</a>
-  </blockquote>
-
-  <blockquote>
-  <p>To do this in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> code, loading a module from a string, you can use importlib like this:</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112512718873895056" target="_blank">2024-05-27</a>
   </blockquote>
 
 
