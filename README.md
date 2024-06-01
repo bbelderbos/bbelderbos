@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240601101301.md" target="_blank">When / how was a line of code last changed?</a> - 2024-06-01</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240531100650.md" target="_blank">Using requests head</a> - 2024-05-31</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240530111719.md" target="_blank">Setting the package version in your init file</a> - 2024-05-30</li>
@@ -41,8 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240508132544.md" target="_blank">Getting test data with faker</a> - 2024-05-08</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240412111523.md" target="_blank">Using assembly ai to transcribe podcast audio files</a> - 2024-04-12</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Did you know about this <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> optimization tip? 💡 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112535117695839237" target="_blank">2024-05-31</a>
+  </blockquote>
+
+  <blockquote>
   <p>🚀 Tip: automate __version__ population in your package's __init__.py file using importlib.metadata. 📦 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112530637356066665" target="_blank">2024-05-30</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Interesting: <a class="mention hashtag" href="https://fosstodon.org/tags/Django" rel="tag">#<span>Django</span></a> 5.1 ships with the new `LoginRequiredMiddleware` which &quot;redirects all unauthenticated requests to a login page.&quot; 💡 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112529455589380458" target="_blank">2024-05-30</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Yesterday I used maturin/PyO3 to get some Rust code working in Python showing a major speed up. 💡💪 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112524002590457557" target="_blank">2024-05-29</a>
   </blockquote>
 
 
