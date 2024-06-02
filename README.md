@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>I also made a video about this: <a href="https://www.youtube.com/watch?v=ubpFY7_dAW4" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=ubpFY7_dAW</span><span class="invisible">4</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/112541487551484873" target="_blank">2024-06-01</a>
+  </blockquote>
+
+  <blockquote>
+  <p>What is <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>'s `if __name__ == &quot;__main__&quot;:` all about?  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112541487536833350" target="_blank">2024-06-01</a>
+  </blockquote>
+
+  <blockquote>
   <p>Did you know about this <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> optimization tip? 💡 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112535117695839237" target="_blank">2024-05-31</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🚀 Tip: automate __version__ population in your package's __init__.py file using importlib.metadata. 📦 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112530637356066665" target="_blank">2024-05-30</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Interesting: <a class="mention hashtag" href="https://fosstodon.org/tags/Django" rel="tag">#<span>Django</span></a> 5.1 ships with the new `LoginRequiredMiddleware` which &quot;redirects all unauthenticated requests to a login page.&quot; 💡 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112529455589380458" target="_blank">2024-05-30</a>
   </blockquote>
 
 
