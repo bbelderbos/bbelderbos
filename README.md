@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>I also made a video about this: <a href="https://www.youtube.com/watch?v=ubpFY7_dAW4" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=ubpFY7_dAW</span><span class="invisible">4</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/112541487551484873" target="_blank">2024-06-01</a>
+  <p>We're back with an inspiring new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast episode. 🎉📈 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112551602211827837" target="_blank">2024-06-03</a>
   </blockquote>
 
   <blockquote>
-  <p>What is <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>'s `if __name__ == &quot;__main__&quot;:` all about?  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112541487536833350" target="_blank">2024-06-01</a>
+  <p>Related article: <a href="https://pybit.es/articles/pytest-timeout/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">pybit.es/articles/pytest-timeo</span><span class="invisible">ut/</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/112547227546949338" target="_blank">2024-06-02</a>
   </blockquote>
 
   <blockquote>
-  <p>Did you know about this <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> optimization tip? 💡 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112535117695839237" target="_blank">2024-05-31</a>
+  <p>Ever wondered how to debug a hanging test in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112547227531949972" target="_blank">2024-06-02</a>
   </blockquote>
 
 
