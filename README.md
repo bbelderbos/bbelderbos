@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Need to check if a resource exists? 💡 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112564137447547124" target="_blank">2024-06-05</a>
+  </blockquote>
+
+  <blockquote>
   <p>I was in the <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> debugger the other day and I was wondering how to write a sorted dictionary to a file while there. 💪 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112557766382101083" target="_blank">2024-06-04</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>We're back with an inspiring new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast episode. 🎉📈 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112551602211827837" target="_blank">2024-06-03</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Related article: <a href="https://pybit.es/articles/pytest-timeout/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">pybit.es/articles/pytest-timeo</span><span class="invisible">ut/</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/112547227546949338" target="_blank">2024-06-02</a>
   </blockquote>
 
 
