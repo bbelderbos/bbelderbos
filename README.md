@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Here is my setup: <br /><a href="https://apythonistalearningrust.com/blog-with-zola/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">apythonistalearningrust.com/bl</span><span class="invisible">og-with-zola/</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/112569598754910454" target="_blank">2024-06-06</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Are you looking to create your own tech blog? 💡 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112569598738122344" target="_blank">2024-06-06</a>
+  </blockquote>
+
+  <blockquote>
   <p>Need to check if a resource exists? 💡 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112564137447547124" target="_blank">2024-06-05</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I was in the <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> debugger the other day and I was wondering how to write a sorted dictionary to a file while there. 💪 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112557766382101083" target="_blank">2024-06-04</a>
-  </blockquote>
-
-  <blockquote>
-  <p>We're back with an inspiring new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast episode. 🎉📈 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112551602211827837" target="_blank">2024-06-03</a>
   </blockquote>
 
 
