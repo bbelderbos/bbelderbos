@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Check it out here: <a href="https://www.pythonmorsels.com/cli-tools/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://www.</span><span class="">pythonmorsels.com/cli-tools/</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/112575698626640947" target="_blank">2024-06-07</a>
+  </blockquote>
+
+  <blockquote>
+  <p><span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@treyhunner">@<span>treyhunner</span></a></span> does a deep dive of <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>'s many command-line utilities. 🙏 🔥 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112575698611091952" target="_blank">2024-06-07</a>
+  </blockquote>
+
+  <blockquote>
   <p>Here is my setup: <br /><a href="https://apythonistalearningrust.com/blog-with-zola/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">apythonistalearningrust.com/bl</span><span class="invisible">og-with-zola/</span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/112569598754910454" target="_blank">2024-06-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Are you looking to create your own tech blog? 💡 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112569598738122344" target="_blank">2024-06-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Need to check if a resource exists? 💡 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112564137447547124" target="_blank">2024-06-05</a>
   </blockquote>
 
 
