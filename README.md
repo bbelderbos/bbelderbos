@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240610105621.md" target="_blank">Reading toml files</a> - 2024-06-10</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240601101301.md" target="_blank">When / how was a line of code last changed?</a> - 2024-06-01</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240531100650.md" target="_blank">Using requests head</a> - 2024-05-31</li>
@@ -41,8 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240508134342.md" target="_blank">Writing decorators function- vs class-based</a> - 2024-05-08</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240508132544.md" target="_blank">Getting test data with faker</a> - 2024-05-08</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Slack bots automate tasks, enhance team collaboration, and manage reports/alerts. 😎 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112592463538702363" target="_blank">2024-06-10</a>
+  </blockquote>
+
+  <blockquote>
   <p>How to find the last change to a particular line of code? 💡 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112586816447983449" target="_blank">2024-06-09</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Here is how, including automating the process with GitHub Actions: <a href="https://apythonistalearningrust.com/shipped-first-crate/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">apythonistalearningrust.com/sh</span><span class="invisible">ipped-first-crate/</span></a> 📈 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112581625828483105" target="_blank">2024-06-08</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I shipped my first crate (= <a class="mention hashtag" href="https://fosstodon.org/tags/rust" rel="tag">#<span>rust</span></a> package) to <a href="https://crates.io" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">crates.io</span><span class="invisible"></span></a> (= package index) 🎉 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112581625813174655" target="_blank">2024-06-08</a>
   </blockquote>
 
 
