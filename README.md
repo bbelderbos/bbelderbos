@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Definitely my experience using <a class="mention hashtag" href="https://fosstodon.org/tags/Rust" rel="tag">#<span>Rust</span></a> 🦀 😍 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112608370597323548" target="_blank">2024-06-13</a>
+  </blockquote>
+
+  <blockquote>
+  <p>Reading Patrick Viafore's Robust <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> again. 🐍 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112603839661147402" target="_blank">2024-06-12</a>
+  </blockquote>
+
+  <blockquote>
   <p>TIL: you can also do `from pprint import pp`</p>
   - <a href="https://fosstodon.org/@bbelderbos/112599062921561438" target="_blank">2024-06-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p>This is how you can use the tomllib module to work with TOML (Tom’s Obvious Minimal Language) files in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> &gt;= 3.11.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112598111212589423" target="_blank">2024-06-11</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Slack bots automate tasks, enhance team collaboration, and manage reports/alerts. 😎 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112592463538702363" target="_blank">2024-06-10</a>
   </blockquote>
 
 
