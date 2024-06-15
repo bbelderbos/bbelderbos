@@ -27,6 +27,12 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240614172758.md" target="_blank">Depndency injection use case</a> - 2024-06-14</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240614165322.md" target="_blank">Repository pattern</a> - 2024-06-14</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240614124008.md" target="_blank">Use match/case over if/elisf/else</a> - 2024-06-14</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240610105621.md" target="_blank">Reading toml files</a> - 2024-06-10</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240601101301.md" target="_blank">When / how was a line of code last changed?</a> - 2024-06-01</li>
@@ -36,12 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240530111719.md" target="_blank">Setting the package version in your init file</a> - 2024-05-30</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240529114443.md" target="_blank">Pretty print to a file</a> - 2024-05-29</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240509112058.md" target="_blank">Add bias to random</a> - 2024-05-09</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240509111232.md" target="_blank">Composition over inheritance</a> - 2024-05-09</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240508134342.md" target="_blank">Writing decorators function- vs class-based</a> - 2024-05-08</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Python 3.10 introduced `match/case` which is a more powerful + readable alternative to `if/elif/else` statements. 🐍 😍 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112614571148934663" target="_blank">2024-06-14</a>
+  </blockquote>
+
+  <blockquote>
   <p>Definitely my experience using <a class="mention hashtag" href="https://fosstodon.org/tags/Rust" rel="tag">#<span>Rust</span></a> 🦀 😍 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112608370597323548" target="_blank">2024-06-13</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Reading Patrick Viafore's Robust <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> again. 🐍 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112603839661147402" target="_blank">2024-06-12</a>
-  </blockquote>
-
-  <blockquote>
-  <p>TIL: you can also do `from pprint import pp`</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112599062921561438" target="_blank">2024-06-11</a>
   </blockquote>
 
 
