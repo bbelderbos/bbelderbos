@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>When developing in <a class="mention hashtag" href="https://fosstodon.org/tags/Django" rel="tag">#<span>Django</span></a> 🐍, it's crucial to understand the N+1 problem to avoid unnecessary ORM queries. 😱 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112621466939779574" target="_blank">2024-06-15</a>
+  </blockquote>
+
+  <blockquote>
   <p>Python 3.10 introduced `match/case` which is a more powerful + readable alternative to `if/elif/else` statements. 🐍 😍 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112614571148934663" target="_blank">2024-06-14</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Definitely my experience using <a class="mention hashtag" href="https://fosstodon.org/tags/Rust" rel="tag">#<span>Rust</span></a> 🦀 😍 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112608370597323548" target="_blank">2024-06-13</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Reading Patrick Viafore's Robust <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> again. 🐍 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112603839661147402" target="_blank">2024-06-12</a>
   </blockquote>
 
 
