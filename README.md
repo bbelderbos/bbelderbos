@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/fastapi-app-as-azure-function-howto/" target="_blank">Deploying a FastAPI App as an Azure Function: A Step-by-Step Guide</a> - 2024-06-17</li>
+
   <li><a href="https://pybit.es/articles/openstreetmaps-overpass-api-and-python/" target="_blank">OpenStreetMaps, Overpass API and Python</a> - 2024-04-17</li>
 
   <li><a href="https://pybit.es/articles/adventures-in-import-land-part-ii/" target="_blank">Adventures in Import-land, Part II</a> - 2024-04-08</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/python-f-string-codes-i-use-every-day/" target="_blank">Python F-String Codes I Use Every Day</a> - 2024-04-05</li>
 
   <li><a href="https://pybit.es/articles/a-better-place-to-put-your-python-virtual-environments/" target="_blank">A Better Place to Put Your Python Virtual Environments</a> - 2024-03-07</li>
-
-  <li><a href="https://pybit.es/articles/build-a-route-planner-for-maps-using-python/" target="_blank">Build a route planner for maps using Python</a> - 2024-03-07</li>
 
 </ul>
 
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Tip: decouple the data access layer using the Repository Pattern 🚀 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112632321289435900" target="_blank">2024-06-17</a>
+  </blockquote>
+
+  <blockquote>
+  <p>`gh` is great for terminal fans like myself that want to do GitHub stuff from the command line. 💡 😍 📈 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112631132642971206" target="_blank">2024-06-17</a>
+  </blockquote>
+
+  <blockquote>
   <p>How to create + use a virtual environment in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a>? ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112627069790819575" target="_blank">2024-06-16</a>
-  </blockquote>
-
-  <blockquote>
-  <p>When developing in <a class="mention hashtag" href="https://fosstodon.org/tags/Django" rel="tag">#<span>Django</span></a> 🐍, it's crucial to understand the N+1 problem to avoid unnecessary ORM queries. 😱 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112621466939779574" target="_blank">2024-06-15</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Python 3.10 introduced `match/case` which is a more powerful + readable alternative to `if/elif/else` statements. 🐍 😍 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112614571148934663" target="_blank">2024-06-14</a>
   </blockquote>
 
 
