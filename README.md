@@ -6,7 +6,7 @@
 
 <ul>
 
-  <li><a href="https://pybit.es/articles/learn-python-from-scratch-with-our-50-newbie-bite-exercises/" target="_blank">Learn Python From Scratch: We Extended Our Newbie Bite Exercises From 25 to 50 🐍 📈</a> - 2024-06-18</li>
+  <li><a href="https://pybit.es/articles/learn-python-from-scratch-with-our-50-newbie-bite-exercises/" target="_blank">Extended Newbie Bites: Learn Python with 50 engaging exercises! 🐍📈</a> - 2024-06-18</li>
 
   <li><a href="https://pybit.es/articles/fastapi-app-as-azure-function-howto/" target="_blank">Deploying a FastAPI App as an Azure Function: A Step-by-Step Guide</a> - 2024-06-17</li>
 
@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240620083150.md" target="_blank">Split's maxspit optional argument</a> - 2024-06-20</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240614172758.md" target="_blank">Depndency injection use case</a> - 2024-06-14</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240614165322.md" target="_blank">Repository pattern</a> - 2024-06-14</li>
@@ -40,8 +42,6 @@
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240531100650.md" target="_blank">Using requests head</a> - 2024-05-31</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240530111719.md" target="_blank">Setting the package version in your init file</a> - 2024-05-30</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240529114443.md" target="_blank">Pretty print to a file</a> - 2024-05-29</li>
 
 </ul>
 
