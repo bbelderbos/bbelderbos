@@ -6,15 +6,15 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/introducing-exact-rag-the-ultimate-local-multimodal-rag/" target="_blank">Introducing eXact-RAG: the ultimate local Multimodal Rag</a> - 2024-06-20</li>
+
+  <li><a href="https://pybit.es/articles/repository-pattern-in-python/" target="_blank">What is the Repository Pattern and How to Use it in Python?</a> - 2024-06-20</li>
+
   <li><a href="https://pybit.es/articles/learn-python-from-scratch-with-our-50-newbie-bite-exercises/" target="_blank">Extended Newbie Bites: Learn Python with 50 engaging exercises! 🐍📈</a> - 2024-06-18</li>
 
   <li><a href="https://pybit.es/articles/fastapi-app-as-azure-function-howto/" target="_blank">Deploying a FastAPI App as an Azure Function: A Step-by-Step Guide</a> - 2024-06-17</li>
 
   <li><a href="https://pybit.es/articles/openstreetmaps-overpass-api-and-python/" target="_blank">OpenStreetMaps, Overpass API and Python</a> - 2024-04-17</li>
-
-  <li><a href="https://pybit.es/articles/adventures-in-import-land-part-ii/" target="_blank">Adventures in Import-land, Part II</a> - 2024-04-08</li>
-
-  <li><a href="https://pybit.es/articles/python-f-string-codes-i-use-every-day/" target="_blank">Python F-String Codes I Use Every Day</a> - 2024-04-05</li>
 
 </ul>
 
@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>We're back with a new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast episode talking about some common <a class="mention hashtag" href="https://fosstodon.org/tags/developer" rel="tag">#<span>developer</span></a> pitfalls, check it out here: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112648161991667230" target="_blank">2024-06-20</a>
+  </blockquote>
+
+  <blockquote>
   <p>I wrote an article on how to deploy a <a class="mention hashtag" href="https://fosstodon.org/tags/FastAPI" rel="tag">#<span>FastAPI</span></a> 🐍 app as an <a class="mention hashtag" href="https://fosstodon.org/tags/Azure" rel="tag">#<span>Azure</span></a> Function.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112641695490795253" target="_blank">2024-06-19</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>More details about setup and examples:<br /><a href="https://apythonistalearningrust.com/rust-analyzer-ale-errors-while-coding/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">apythonistalearningrust.com/ru</span><span class="invisible">st-analyzer-ale-errors-while-coding/</span></a></p>
   - <a href="https://fosstodon.org/@bbelderbos/112638219295050971" target="_blank">2024-06-18</a>
-  </blockquote>
-
-  <blockquote>
-  <p>The sooner you catch errors the faster you can develop! 💡  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112638219279330072" target="_blank">2024-06-18</a>
   </blockquote>
 
 
