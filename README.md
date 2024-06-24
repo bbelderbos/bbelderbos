@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>`maxsplit` determines the maximum number of splits.  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112666206752532312" target="_blank">2024-06-23</a>
+  </blockquote>
+
+  <blockquote>
   <p>Tired of slidedecks as a <a class="mention hashtag" href="https://fosstodon.org/tags/developer" rel="tag">#<span>developer</span></a>?  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112660583583643003" target="_blank">2024-06-22</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Quick <a class="mention hashtag" href="https://fosstodon.org/tags/pytest" rel="tag">#<span>pytest</span></a> tip: you can use `--setup-show` to see fixture scopes 💡 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112654971116717089" target="_blank">2024-06-21</a>
-  </blockquote>
-
-  <blockquote>
-  <p>We're back with a new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast episode talking about some common <a class="mention hashtag" href="https://fosstodon.org/tags/developer" rel="tag">#<span>developer</span></a> pitfalls, check it out here: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112648161991667230" target="_blank">2024-06-20</a>
   </blockquote>
 
 
