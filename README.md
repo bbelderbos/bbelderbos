@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Exciting new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast episode with <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@KellyPared">@<span>KellyPared</span></a></span> talking about teaching <a class="mention hashtag" href="https://fosstodon.org/tags/python" rel="tag">#<span>python</span></a> 🐍, <a class="mention hashtag" href="https://fosstodon.org/tags/ai" rel="tag">#<span>ai</span></a> in education 😍, learning, books, mindset and more ... 💡 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112676674843503063" target="_blank">2024-06-25</a>
+  </blockquote>
+
+  <blockquote>
   <p>Having an engine object in module scope can lead to accidentally using your dev DB during tests, leading to unwanted data and potential bugs! 🐛😱 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112671837826694295" target="_blank">2024-06-24</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>`maxsplit` determines the maximum number of splits.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112666206752532312" target="_blank">2024-06-23</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Tired of slidedecks as a <a class="mention hashtag" href="https://fosstodon.org/tags/developer" rel="tag">#<span>developer</span></a>?  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112660583583643003" target="_blank">2024-06-22</a>
   </blockquote>
 
 
