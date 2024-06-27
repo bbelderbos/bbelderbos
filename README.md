@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>Exciting new <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@pybites">@<span>pybites</span></a></span> podcast episode with <span class="h-card"><a class="u-url mention" href="https://fosstodon.org/@KellyPared">@<span>KellyPared</span></a></span> talking about teaching <a class="mention hashtag" href="https://fosstodon.org/tags/python" rel="tag">#<span>python</span></a> 🐍, <a class="mention hashtag" href="https://fosstodon.org/tags/ai" rel="tag">#<span>ai</span></a> in education 😍, learning, books, mindset and more ... 💡 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112676674843503063" target="_blank">2024-06-25</a>
+  <p>Related article + blog: <a href="https://apythonistalearningrust.com/25-days-learning-rust-takeaways/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">apythonistalearningrust.com/25</span><span class="invisible">-days-learning-rust-takeaways/</span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/112684828187821343" target="_blank">2024-06-26</a>
   </blockquote>
 
   <blockquote>
-  <p>Having an engine object in module scope can lead to accidentally using your dev DB during tests, leading to unwanted data and potential bugs! 🐛😱 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112671837826694295" target="_blank">2024-06-24</a>
+  <p>Takeaways: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112684800336387059" target="_blank">2024-06-26</a>
   </blockquote>
 
   <blockquote>
-  <p>`maxsplit` determines the maximum number of splits.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112666206752532312" target="_blank">2024-06-23</a>
+  <p>25 days into learning <a class="mention hashtag" href="https://fosstodon.org/tags/Rust" rel="tag">#<span>Rust</span></a> and having a blast! 🎉  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112684800320496935" target="_blank">2024-06-26</a>
   </blockquote>
 
 
