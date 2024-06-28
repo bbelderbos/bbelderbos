@@ -27,6 +27,8 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240627192941.md" target="_blank">Dataclass field and post_init</a> - 2024-06-27</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240620083150.md" target="_blank">Split's maxspit optional argument</a> - 2024-06-20</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240614172758.md" target="_blank">Depndency injection use case</a> - 2024-06-14</li>
@@ -41,8 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240531100650.md" target="_blank">Using requests head</a> - 2024-05-31</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240530111719.md" target="_blank">Setting the package version in your init file</a> - 2024-05-30</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
-  <p>Related article + blog: <a href="https://apythonistalearningrust.com/25-days-learning-rust-takeaways/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="ellipsis">apythonistalearningrust.com/25</span><span class="invisible">-days-learning-rust-takeaways/</span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/112684828187821343" target="_blank">2024-06-26</a>
+  <p>To learn more Python, join our Circle community:<br /><a href="https://pybites.circle.so/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybites.circle.so/</span><span class="invisible"></span></a></p>
+  - <a href="https://fosstodon.org/@bbelderbos/112689789804288730" target="_blank">2024-06-27</a>
   </blockquote>
 
   <blockquote>
-  <p>Takeaways: ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112684800336387059" target="_blank">2024-06-26</a>
+  <p>Tips: ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112689774466254277" target="_blank">2024-06-27</a>
   </blockquote>
 
   <blockquote>
-  <p>25 days into learning <a class="mention hashtag" href="https://fosstodon.org/tags/Rust" rel="tag">#<span>Rust</span></a> and having a blast! 🎉  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112684800320496935" target="_blank">2024-06-26</a>
+  <p>The other day I had a `fields` tuple I wanted to turn into a <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> dataclass, and I could use some nice features of this data structure 🐍 😍</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112689774451017697" target="_blank">2024-06-27</a>
   </blockquote>
 
 
