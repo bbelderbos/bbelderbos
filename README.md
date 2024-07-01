@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>✨ In this video we look at how to make readonly attributes with the property decorator in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> 🐍<br /> <br />- How to control setting attributes with a setter? <br />- Why is nothing really &quot;internal&quot; in Python?<br />- And what does &quot;we're consenting adults&quot; mean here? ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112705972508738050" target="_blank">2024-06-30</a>
+  </blockquote>
+
+  <blockquote>
   <p>Enums are great to group constants together making your code more readable and maintainable.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112700816195512360" target="_blank">2024-06-29</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>I just used Marvin AI to get geo locations from unstructured location strings 💡 🎉 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112695654568195151" target="_blank">2024-06-28</a>
-  </blockquote>
-
-  <blockquote>
-  <p>To learn more Python, join our Circle community:<br /><a href="https://pybites.circle.so/" rel="nofollow noopener noreferrer" target="_blank"><span class="invisible">https://</span><span class="">pybites.circle.so/</span><span class="invisible"></span></a></p>
-  - <a href="https://fosstodon.org/@bbelderbos/112689789804288730" target="_blank">2024-06-27</a>
   </blockquote>
 
 
