@@ -27,6 +27,10 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240702100917.md" target="_blank">Use itertools + random to simulate rolling dice</a> - 2024-07-02</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240702100735.md" target="_blank">Image classification with marvin ai</a> - 2024-07-02</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240628165703.md" target="_blank">Using marvin ai to extract geo locations</a> - 2024-06-28</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240627192941.md" target="_blank">Dataclass field and post_init</a> - 2024-06-27</li>
@@ -39,10 +43,6 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240614124008.md" target="_blank">Use match/case over if/elisf/else</a> - 2024-06-14</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240610105621.md" target="_blank">Reading toml files</a> - 2024-06-10</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240601101301.md" target="_blank">When / how was a line of code last changed?</a> - 2024-06-01</li>
-
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
@@ -54,18 +54,18 @@
 
 
   <blockquote>
+  <p>Another cool thing you can do with Marvin AI is classifying images. 💡 💪 ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112715859422465326" target="_blank">2024-07-02</a>
+  </blockquote>
+
+  <blockquote>
+  <p>🎲 <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> Tip: Simulate rolling two 6-sided dice and get all possible outcomes ... `range` + `itertools` + `random` are great for this:</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112712802052609213" target="_blank">2024-07-01</a>
+  </blockquote>
+
+  <blockquote>
   <p>✨ In this video we look at how to make readonly attributes with the property decorator in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> 🐍<br /> <br />- How to control setting attributes with a setter? <br />- Why is nothing really &quot;internal&quot; in Python?<br />- And what does &quot;we're consenting adults&quot; mean here? ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112705972508738050" target="_blank">2024-06-30</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Enums are great to group constants together making your code more readable and maintainable.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112700816195512360" target="_blank">2024-06-29</a>
-  </blockquote>
-
-  <blockquote>
-  <p>I just used Marvin AI to get geo locations from unstructured location strings 💡 🎉 ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112695654568195151" target="_blank">2024-06-28</a>
   </blockquote>
 
 
