@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>pipdeptree is a useful command line utility for displaying installed <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> packages as a dependency tree, for example:</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112722849554264519" target="_blank">2024-07-03</a>
+  </blockquote>
+
+  <blockquote>
   <p>Another cool thing you can do with Marvin AI is classifying images. 💡 💪 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112715859422465326" target="_blank">2024-07-02</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>🎲 <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> Tip: Simulate rolling two 6-sided dice and get all possible outcomes ... `range` + `itertools` + `random` are great for this:</p>
   - <a href="https://fosstodon.org/@bbelderbos/112712802052609213" target="_blank">2024-07-01</a>
-  </blockquote>
-
-  <blockquote>
-  <p>✨ In this video we look at how to make readonly attributes with the property decorator in <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> 🐍<br /> <br />- How to control setting attributes with a setter? <br />- Why is nothing really &quot;internal&quot; in Python?<br />- And what does &quot;we're consenting adults&quot; mean here? ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112705972508738050" target="_blank">2024-06-30</a>
   </blockquote>
 
 
