@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>💡 Test mocks are a powerful tool, but ideally, you can refactor your code to minimize their use. However, sometimes they're essential, like when using external services. ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112728343701760410" target="_blank">2024-07-04</a>
+  </blockquote>
+
+  <blockquote>
   <p>pipdeptree is a useful command line utility for displaying installed <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> packages as a dependency tree, for example:</p>
   - <a href="https://fosstodon.org/@bbelderbos/112722849554264519" target="_blank">2024-07-03</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>Another cool thing you can do with Marvin AI is classifying images. 💡 💪 ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112715859422465326" target="_blank">2024-07-02</a>
-  </blockquote>
-
-  <blockquote>
-  <p>🎲 <a class="mention hashtag" href="https://fosstodon.org/tags/Python" rel="tag">#<span>Python</span></a> Tip: Simulate rolling two 6-sided dice and get all possible outcomes ... `range` + `itertools` + `random` are great for this:</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112712802052609213" target="_blank">2024-07-01</a>
   </blockquote>
 
 
