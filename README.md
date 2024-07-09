@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>With config settings you often need to have good validation, environment variable support and have config file integration.  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112751228268272377" target="_blank">2024-07-08</a>
+  </blockquote>
+
+  <blockquote>
   <p>In TDD, you write tests before the code 🤯  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112746025493046934" target="_blank">2024-07-07</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>We always say how important it is to keep a tech blog (we all teach, better learning, get your work out there)  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112739297565394094" target="_blank">2024-07-06</a>
-  </blockquote>
-
-  <blockquote>
-  <p>Not using `gh` to manage <a class="mention hashtag" href="https://fosstodon.org/tags/github" rel="tag">#<span>github</span></a> from the cli yet? You're missing out! ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112733403307867499" target="_blank">2024-07-05</a>
   </blockquote>
 
 
