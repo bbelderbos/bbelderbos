@@ -54,6 +54,11 @@
 
 
   <blockquote>
+  <p>Do you want a quick way to get a transcript from a YouTube video?  ...</p>
+  - <a href="https://fosstodon.org/@bbelderbos/112756894636653125" target="_blank">2024-07-09</a>
+  </blockquote>
+
+  <blockquote>
   <p>With config settings you often need to have good validation, environment variable support and have config file integration.  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112751228268272377" target="_blank">2024-07-08</a>
   </blockquote>
@@ -61,11 +66,6 @@
   <blockquote>
   <p>In TDD, you write tests before the code 🤯  ...</p>
   - <a href="https://fosstodon.org/@bbelderbos/112746025493046934" target="_blank">2024-07-07</a>
-  </blockquote>
-
-  <blockquote>
-  <p>We always say how important it is to keep a tech blog (we all teach, better learning, get your work out there)  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112739297565394094" target="_blank">2024-07-06</a>
   </blockquote>
 
 
