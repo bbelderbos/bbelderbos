@@ -18,7 +18,7 @@
 
 </ul>
 
-> <a href="https://pybit.es/articles/" target="_blank">More articles</a>
+> <a href="https://pybit.es/articles/" target="_blank">More &raquo;</a>
 
 
 </td><td valign="top" width="34%">
@@ -26,6 +26,8 @@
 ### Latest Python tips
 
 <ul>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240710135538.md" target="_blank">Write a custom validator in pydantic</a> - 2024-07-10</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240702100917.md" target="_blank">Use itertools + random to simulate rolling dice</a> - 2024-07-02</li>
 
@@ -35,44 +37,30 @@
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240627192941.md" target="_blank">Dataclass field and post_init</a> - 2024-06-27</li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240620083150.md" target="_blank">Split's maxspit optional argument</a> - 2024-06-20</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240614172758.md" target="_blank">Depndency injection use case</a> - 2024-06-14</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240614165322.md" target="_blank">Repository pattern</a> - 2024-06-14</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240614124008.md" target="_blank">Use match/case over if/elisf/else</a> - 2024-06-14</li>
-
 </ul>
 
-> <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
+> <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More &raquo;</a>
 
 
 </td><td valign="top" width="33%">
 
-### Latest Fosstodon toots
+### Latest Rust notes
 
+<ul>
 
-  <blockquote>
-  <p>Do you want a quick way to get a transcript from a YouTube video?  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112756894636653125" target="_blank">2024-07-09</a>
-  </blockquote>
+  <li><a href="https://apythonistalearningrust.com/automating-test-runs-and-checking-coverage/" target="_blank">Automating test runs and checking coverage</a> - 2024-07-06</li>
 
-  <blockquote>
-  <p>With config settings you often need to have good validation, environment variable support and have config file integration.  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112751228268272377" target="_blank">2024-07-08</a>
-  </blockquote>
+  <li><a href="https://apythonistalearningrust.com/testing-in-rust/" target="_blank">How to write unit tests in Rust</a> - 2024-07-03</li>
 
-  <blockquote>
-  <p>In TDD, you write tests before the code 🤯  ...</p>
-  - <a href="https://fosstodon.org/@bbelderbos/112746025493046934" target="_blank">2024-07-07</a>
-  </blockquote>
+  <li><a href="https://apythonistalearningrust.com/from-script-to-library-in-rust/" target="_blank">From script to library in Rust</a> - 2024-06-29</li>
 
+  <li><a href="https://apythonistalearningrust.com/25-days-learning-rust-takeaways/" target="_blank">25 days of learning Rust: what worked + takeaways</a> - 2024-06-26</li>
 
-<br>
+  <li><a href="https://apythonistalearningrust.com/upload-file-to-s3/" target="_blank">Using rusoto to upload a file to S3</a> - 2024-06-24</li>
 
-> <a href="https://fosstodon.org/@bbelderbos" target="_blank">More toots</a>
+</ul>
 
+> <a href="https://apythonistalearningrust.com/" target="_blank">More &raquo;</a>
 
 </td></tr></table>
 
