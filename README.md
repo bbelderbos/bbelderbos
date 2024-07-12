@@ -27,15 +27,15 @@
 
 <ul>
 
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240711112258.md" target="_blank">Split file name and extension</a> - 2024-07-11</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240711112142.md" target="_blank">Merge pdf files</a> - 2024-07-11</li>
+
+  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240711112100.md" target="_blank">Slicing generators</a> - 2024-07-11</li>
+
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240710135538.md" target="_blank">Write a custom validator in pydantic</a> - 2024-07-10</li>
 
   <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240702100917.md" target="_blank">Use itertools + random to simulate rolling dice</a> - 2024-07-02</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240702100735.md" target="_blank">Image classification with marvin ai</a> - 2024-07-02</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240628165703.md" target="_blank">Using marvin ai to extract geo locations</a> - 2024-06-28</li>
-
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240627192941.md" target="_blank">Dataclass field and post_init</a> - 2024-06-27</li>
 
 </ul>
 
