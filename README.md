@@ -48,6 +48,8 @@
 
 <ul>
 
+  <li><a href="https://apythonistalearningrust.com/writing-a-rust-code-validation-api/" target="_blank">Writing a Rust code validation API</a> - 2024-07-12</li>
+
   <li><a href="https://apythonistalearningrust.com/exception-handling-in-rust/" target="_blank">Exception handling in Rust</a> - 2024-07-10</li>
 
   <li><a href="https://apythonistalearningrust.com/automating-test-runs-and-checking-coverage/" target="_blank">Automating test runs and checking coverage</a> - 2024-07-06</li>
@@ -55,8 +57,6 @@
   <li><a href="https://apythonistalearningrust.com/testing-in-rust/" target="_blank">How to write unit tests in Rust</a> - 2024-07-03</li>
 
   <li><a href="https://apythonistalearningrust.com/from-script-to-library-in-rust/" target="_blank">From script to library in Rust</a> - 2024-06-29</li>
-
-  <li><a href="https://apythonistalearningrust.com/25-days-learning-rust-takeaways/" target="_blank">25 days of learning Rust: what worked + takeaways</a> - 2024-06-26</li>
 
 </ul>
 
