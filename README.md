@@ -6,6 +6,8 @@
 
 <ul>
 
+  <li><a href="https://pybit.es/articles/a-practical-example-of-the-pipeline-pattern-in-python/" target="_blank">A Practical Example of the Pipeline Pattern in Python</a> - 2024-11-08</li>
+
   <li><a href="https://pybit.es/articles/from-python-script-to-web-app-and-product/" target="_blank">How to convert a Python script into a web app, a product others can use</a> - 2024-07-19</li>
 
   <li><a href="https://pybit.es/articles/introducing-exact-rag-the-ultimate-local-multimodal-rag/" target="_blank">Introducing eXact-RAG: the ultimate local Multimodal Rag</a> - 2024-06-20</li>
@@ -13,8 +15,6 @@
   <li><a href="https://pybit.es/articles/repository-pattern-in-python/" target="_blank">What is the Repository Pattern and How to Use it in Python?</a> - 2024-06-20</li>
 
   <li><a href="https://pybit.es/articles/learn-python-from-scratch-with-our-50-newbie-bite-exercises/" target="_blank">Extended Newbie Bites: Learn Python with 50 engaging exercises! 🐍📈</a> - 2024-06-18</li>
-
-  <li><a href="https://pybit.es/articles/fastapi-app-as-azure-function-howto/" target="_blank">Deploying a FastAPI App as an Azure Function: A Step-by-Step Guide</a> - 2024-06-17</li>
 
 </ul>
 
