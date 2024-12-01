@@ -13,17 +13,13 @@ README_FILE = ROOT_DIR / "README.md"
 TEMPLATE_FILE = ROOT_DIR / "TEMPLATE.md"
 NOTE_URL = "https://github.com/bbelderbos/bobcodesit/blob/main/{note_filename}"
 NOTES_INDEX = "https://raw.githubusercontent.com/bbelderbos/bobcodesit/main/index.md"
-ARTICLE_FEED = "https://codechalleng.es/api/articles/"
-RUST_BLOG_FEED = "https://apythonistalearningrust.com/atom.xml"
+BLUESKY_FEED = "https://bsky.app/profile/did:plc:uay2bzai5qhnwqcqz7ivsvzg/rss"
 
 
 class ContentPiece(typing.NamedTuple):
     url: str
     title: str
     date: str
-
-
-ContentPieces = list[ContentPiece]
 
 
 def _parse_notes_index() -> set[tuple[str, str]]:
@@ -38,7 +34,7 @@ def _parse_notes_index() -> set[tuple[str, str]]:
     return set(notes)
 
 
-def get_latest_tips(num_items: int = 5) -> ContentPieces:
+def get_latest_tips(num_items: int = 5) -> list[ContentPiece]:
     """
     Get the last tips from bobcodesit tips GitHub repo
     """
@@ -59,34 +55,16 @@ def get_latest_tips(num_items: int = 5) -> ContentPieces:
     return content_pieces
 
 
-def get_latest_articles(num_items: int = 5) -> ContentPieces:
+def get_latest_bluesky_posts(num_items: int = 5) -> list[ContentPiece]:
     """
-    Get the last articles from Pybites blog
+    Get the last bluesly posts from feed
     """
-    resp = httpx.get(ARTICLE_FEED)
-    return [
-        ContentPiece(
-            url=row["link"], title=row["title"], date=row["publish_date"].split()[0]
-        )
-        for row in resp.json()
-    ][:num_items]
-
-
-def _parse_rust_blog_feed() -> list[feedparser.util.FeedParserDict]:
-    entries = feedparser.parse(RUST_BLOG_FEED).entries
-    return entries
-
-
-def get_latest_rust_notes(num_items: int = 5) -> list[ContentPiece]:
-    """
-    Get latest Rust notes / articles from my other blog
-    """
-    entries = _parse_rust_blog_feed()
-
+    entries = feedparser.parse(BLUESKY_FEED).entries
     data = []
     for entry in entries[:num_items]:
-        data.append(ContentPiece(url=entry.link, title=entry.title, date=entry.published[:10]))
-
+        data.append(
+            ContentPiece(url=entry.link, title=entry.title, date=entry.published[:10])
+        )
     return data
 
 
@@ -102,8 +80,7 @@ def generate_readme(content: dict[str, list[ContentPiece]]) -> None:
 
 if __name__ == "__main__":
     content = dict(
-        articles=get_latest_articles(),
+        posts=get_latest_bluesky_posts(),
         tips=get_latest_tips(),
-        notes=get_latest_rust_notes(),
     )
     generate_readme(content)
