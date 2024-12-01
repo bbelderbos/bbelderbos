@@ -10,7 +10,9 @@
 
 <ul>
 {% for post in posts %}
-  <li>{{ post.title }} - {{ post.date }}</li>
+  <li>
+    {{ post.title }} ({{ post.date }}) - <a href="{{ post.url }}" target="_blank">link</a>
+  </li>
 {% endfor %}
 </ul>
 
@@ -23,11 +25,13 @@
 
 <ul>
 {% for tip in tips %}
-  <li><a href="{{ tip.url }}" target="_blank">{{ tip.title }}</a> - {{ tip.date }}</li>
+  <li>
+    {{ tip.title }} ({{ tip.date }}) - <a href="{{ tip.url }}" target="_blank">link</a>
+  </li>
 {% endfor %}
 </ul>
 
-> <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More &raquo;</a>
+> <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More Python tips &raquo;</a>
 
 </td>
 </tr></table>

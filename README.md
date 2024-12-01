@@ -1,67 +1,83 @@
-> 👋 Hi there, I am a software developer passionate about building useful tools and helping people grow their Python + programming skills through <a href="https://pybit.es" target="_blank">Pybites</a>.
+### Hi there! 👋
 
-<table><tr><td valign="top" width="33%">
+- 🐍 Python software developer
+- 💻 Co-Founder of PyBites
+- 📚 Love books/reading
 
-### Latest Pybites articles
+<table><tr><td valign="top" width="50%">
+
+### Latest Bluesky posts
 
 <ul>
 
-  <li><a href="https://pybit.es/articles/a-practical-example-of-the-pipeline-pattern-in-python/" target="_blank">A Practical Example of the Pipeline Pattern in Python</a> - 2024-11-08</li>
+  <li>
+    I just completed "Historian Hysteria" - Day 1 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/1 (01 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcaezky2x22j" target="_blank">link</a>
+  </li>
 
-  <li><a href="https://pybit.es/articles/from-python-script-to-web-app-and-product/" target="_blank">How to convert a Python script into a web app, a product others can use</a> - 2024-07-19</li>
+  <li>
+    OMG I just solved part 1 of AoC day 1 using #rust
 
-  <li><a href="https://pybit.es/articles/introducing-exact-rag-the-ultimate-local-multimodal-rag/" target="_blank">Introducing eXact-RAG: the ultimate local Multimodal Rag</a> - 2024-06-20</li>
+AOC is really cool to practice something you're not as comfortable with as Python :) (01 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcae74g32s2n" target="_blank">link</a>
+  </li>
 
-  <li><a href="https://pybit.es/articles/repository-pattern-in-python/" target="_blank">What is the Repository Pattern and How to Use it in Python?</a> - 2024-06-20</li>
+  <li>
+    1/3rd through Winds of War, it's really good, mix of history lesson and family story during wartime.
 
-  <li><a href="https://pybit.es/articles/learn-python-from-scratch-with-our-50-newbie-bite-exercises/" target="_blank">Extended Newbie Bites: Learn Python with 50 engaging exercises! 🐍📈</a> - 2024-06-18</li>
+Had never heard of the book, I literally stumbled upon it 🎉
+
+#books (01 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcacug4wvc2w" target="_blank">link</a>
+  </li>
+
+  <li>
+    I am actually using the home page / feed here 😍
+
+s/X/bsky/g (01 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcacpwysgs2w" target="_blank">link</a>
+  </li>
+
+  <li>
+    In software development, I try not to fall into shiny object syndrome and often go back to basics. 
+
+Kobe Bryant's quote below is a good reminder of this.
+
+Software engineering can be complex, but it’s not necessarily complicated if you go deep on the essentials. (01 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcachjlmj22w" target="_blank">link</a>
+  </li>
 
 </ul>
 
-> <a href="https://pybit.es/articles/" target="_blank">More &raquo;</a>
+> <a href="https://bsky.app/profile/bbelderbos.bsky.social" target="_blank">Follow me &raquo;</a>
 
 
-</td><td valign="top" width="34%">
+</td><td valign="top" width="50%">
 
 ### Latest Python tips
 
 <ul>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111622.md" target="_blank">Timing code in python</a> - 2024-07-26</li>
+  <li>
+    Timing code in Python: Using `timeit` to compare merging dictionaries in #Python: Old way with `**` unpacking vs. new way with `|`. (26 Jul 2024) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111622.md" target="_blank">link</a>
+  </li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111507.md" target="_blank">Merging dictionaries</a> - 2024-07-26</li>
+  <li>
+    Merging dictionaries: Old way: `{**dict1, **dict2}` (26 Jul 2024) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111507.md" target="_blank">link</a>
+  </li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111223.md" target="_blank">You can now use | for typing</a> - 2024-07-26</li>
+  <li>
+    You can now use | for typing: `|` got added to type hints >= 3.10, not needing the `typing` import anymore for these: (26 Jul 2024) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111223.md" target="_blank">link</a>
+  </li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240713105037.md" target="_blank">Dict dispatch pattern</a> - 2024-07-13</li>
+  <li>
+    dict dispatch pattern: Tired of long and unmaintainable `if-elif-elif-else` chains? 😱 (13 Jul 2024) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240713105037.md" target="_blank">link</a>
+  </li>
 
-  <li><a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240711112258.md" target="_blank">Split file name and extension</a> - 2024-07-11</li>
+  <li>
+    split file name and extension: `pathlib` has you covered, just make a `Path` object and access the `stem` and `suffix` attributes: (11 Jul 2024) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240711112258.md" target="_blank">link</a>
+  </li>
 
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More &raquo;</a>
 
-
-</td><td valign="top" width="33%">
-
-### Latest Rust notes
-
-<ul>
-
-  <li><a href="https://apythonistalearningrust.com/writing-a-rust-code-validation-api/" target="_blank">Writing a Rust code validation API</a> - 2024-07-12</li>
-
-  <li><a href="https://apythonistalearningrust.com/exception-handling-in-rust/" target="_blank">Exception handling in Rust</a> - 2024-07-10</li>
-
-  <li><a href="https://apythonistalearningrust.com/automating-test-runs-and-checking-coverage/" target="_blank">Automating test runs and checking coverage</a> - 2024-07-06</li>
-
-  <li><a href="https://apythonistalearningrust.com/testing-in-rust/" target="_blank">How to write unit tests in Rust</a> - 2024-07-03</li>
-
-  <li><a href="https://apythonistalearningrust.com/from-script-to-library-in-rust/" target="_blank">From script to library in Rust</a> - 2024-06-29</li>
-
-</ul>
-
-> <a href="https://apythonistalearningrust.com/" target="_blank">More &raquo;</a>
-
-</td></tr></table>
+</td>
+</tr></table>
 
 <a href="https://github.com/bbelderbos/bbelderbos/actions" target="_blank"><img src="https://github.com/bbelderbos/bbelderbos/workflows/Daily%20Update/badge.svg" align="right" alt="Build README"></a>Roll your own: <a href="https://pybit.es/articles/how-to-create-a-self-updating-github-readme/" target="_blank">How to create a self updating GitHub Readme</a>.
