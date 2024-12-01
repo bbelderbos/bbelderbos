@@ -63,7 +63,7 @@ def get_latest_bluesky_posts(num_items: int = 5) -> list[ContentPiece]:
     data = []
     for entry in entries[:num_items]:
         data.append(
-            ContentPiece(url=entry.link, title=entry.title, date=entry.published[:10])
+            ContentPiece(url=entry.link, title=entry.description, date=entry.published[:10])
         )
     return data
 
