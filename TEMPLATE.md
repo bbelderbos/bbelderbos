@@ -10,7 +10,7 @@
 {% endfor %}
 </ul>
 
-> <a href="https://pybit.es/articles/" target="_blank">More articles</a>
+> <a href="https://pybit.es/articles/" target="_blank">More &raquo;</a>
 
 
 </td><td valign="top" width="34%">
@@ -23,24 +23,20 @@
 {% endfor %}
 </ul>
 
-> <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More tips</a>
+> <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More &raquo;</a>
 
 
 </td><td valign="top" width="33%">
 
-### Latest Fosstodon toots
+### Latest Rust notes
 
-{% for toot in toots %}
-  <blockquote>
-  {{toot.title}}
-  - <a href="{{ toot.url }}" target="_blank">{{ toot.date }}</a>
-  </blockquote>
+<ul>
+{% for note in notes %}
+  <li><a href="{{ note.url }}" target="_blank">{{ note.title }}</a> - {{ note.date }}</li>
 {% endfor %}
+</ul>
 
-<br>
-
-> <a href="https://fosstodon.org/@bbelderbos" target="_blank">More toots</a>
-
+> <a href="https://apythonistalearningrust.com/" target="_blank">More &raquo;</a>
 
 </td></tr></table>
 

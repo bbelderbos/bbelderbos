@@ -14,7 +14,7 @@ TEMPLATE_FILE = ROOT_DIR / "TEMPLATE.md"
 NOTE_URL = "https://github.com/bbelderbos/bobcodesit/blob/main/{note_filename}"
 NOTES_INDEX = "https://raw.githubusercontent.com/bbelderbos/bobcodesit/main/index.md"
 ARTICLE_FEED = "https://codechalleng.es/api/articles/"
-FOSSTODON_USER = "bbelderbos"
+RUST_BLOG_FEED = "https://apythonistalearningrust.com/atom.xml"
 
 
 class ContentPiece(typing.NamedTuple):
@@ -32,20 +32,18 @@ def _parse_notes_index() -> set[tuple[str, str]]:
     (title, note_file)
     """
     resp = httpx.get(NOTES_INDEX)
-    notes = re.findall(r'notes/\d+\.md', resp.text)
-    pat = re.compile(r'\[(.*?)\]\((notes/\d+\.md)')
+    notes = re.findall(r"notes/\d+\.md", resp.text)
+    pat = re.compile(r"\[(.*?)\]\((notes/\d+\.md)")
     notes = re.findall(pat, resp.text)
     return set(notes)
 
 
-def get_latest_tips(num_items: int = 8) -> ContentPieces:
+def get_latest_tips(num_items: int = 5) -> ContentPieces:
     """
     Get the last tips from bobcodesit tips GitHub repo
     """
     notes = _parse_notes_index()
-    last_notes = sorted(
-        notes, key=operator.itemgetter(1), reverse=True
-    )[:num_items]
+    last_notes = sorted(notes, key=operator.itemgetter(1), reverse=True)[:num_items]
 
     content_pieces = []
     for note in last_notes:
@@ -54,13 +52,10 @@ def get_latest_tips(num_items: int = 8) -> ContentPieces:
         url = NOTE_URL.format(note_filename=md_file)
 
         tstamp_number = re.sub(r"notes/(\d+)\.md", r"\1", md_file)
-        tstamp_dt = datetime.datetime.strptime(
-            tstamp_number, "%Y%m%d%H%M%S")
+        tstamp_dt = datetime.datetime.strptime(tstamp_number, "%Y%m%d%H%M%S")
         date_readable = tstamp_dt.strftime("%Y-%m-%d")
 
-        content_pieces.append(
-            ContentPiece(url=url, title=title, date=date_readable)
-        )
+        content_pieces.append(ContentPiece(url=url, title=title, date=date_readable))
     return content_pieces
 
 
@@ -77,36 +72,20 @@ def get_latest_articles(num_items: int = 5) -> ContentPieces:
     ][:num_items]
 
 
-def _parse_fosstodon_feed(username: str) -> list[feedparser.util.FeedParserDict]:
-    url = f"https://fosstodon.org/@{FOSSTODON_USER}.rss"
-    entries = feedparser.parse(url).entries
+def _parse_rust_blog_feed() -> list[feedparser.util.FeedParserDict]:
+    entries = feedparser.parse(RUST_BLOG_FEED).entries
     return entries
 
 
-def get_latest_toots(num_items: int = 3) -> ContentPieces:
+def get_latest_rust_notes(num_items: int = 5) -> list[ContentPiece]:
     """
-    Get latest toots from Fosstodon.
-    I was using the local cached db first, but let's use RSS = always up2date.
+    Get latest Rust notes / articles from my other blog
     """
-    entries = _parse_fosstodon_feed(FOSSTODON_USER)
+    entries = _parse_rust_blog_feed()
 
     data = []
-    for entry in entries[:num_items]:  # should have newest first
-        if entry.summary.count("<p>") > 1:
-            # if multiple paragraphs extract the first one
-            summary = re.sub(
-                r"^(<p>.*?)</p>.*$", r"\1 ...</p>", entry.summary
-            )
-        else:
-            summary = entry.summary
-
-        date = datetime.datetime(
-            *entry.published_parsed[:6]
-        ).strftime("%Y-%m-%d")
-
-        data.append(
-            ContentPiece(url=entry.id, title=summary, date=date)
-        )
+    for entry in entries[:num_items]:
+        data.append(ContentPiece(url=entry.link, title=entry.title, date=entry.published[:10]))
 
     return data
 
@@ -125,6 +104,6 @@ if __name__ == "__main__":
     content = dict(
         articles=get_latest_articles(),
         tips=get_latest_tips(),
-        toots=get_latest_toots(),
+        notes=get_latest_rust_notes(),
     )
     generate_readme(content)
