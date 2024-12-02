@@ -11,21 +11,20 @@
 <ul>
 
   <li>
-    I just completed "Historian Hysteria" - Day 1 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/1 (01 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcaezky2x22j" target="_blank">link</a>
+    TIL that #rust has a nice equivalent to Python's itertools.pairwise()
+
+let vec = vec![1, 2, 3, 4, 5];
+for pair in vec.windows(2) {
+    println!("{:?}", pair);
+} (02 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lccpk4wrok2v" target="_blank">link</a>
   </li>
 
   <li>
-    OMG I just solved part 1 of AoC day 1 using #rust
-
-AOC is really cool to practice something you're not as comfortable with as Python :) (01 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcae74g32s2n" target="_blank">link</a>
+    I just completed "Red-Nosed Reports" - Day 2 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/2 (02 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lccozgcgv22v" target="_blank">link</a>
   </li>
 
   <li>
-    1/3rd through Winds of War, it's really good, mix of history lesson and family story during wartime.
-
-Had never heard of the book, I literally stumbled upon it 🎉
-
-#books (01 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcacug4wvc2w" target="_blank">link</a>
+    Nice reminder (Louridas’ algo book) (01 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcanlaya7k24" target="_blank">link</a>
   </li>
 
 </ul>
