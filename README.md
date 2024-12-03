@@ -11,20 +11,30 @@
 <ul>
 
   <li>
-    TIL that #rust has a nice equivalent to Python's itertools.pairwise()
+    I just completed "Mull It Over" - Day 3 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/3
 
-let vec = vec![1, 2, 3, 4, 5];
-for pair in vec.windows(2) {
-    println!("{:?}", pair);
-} (02 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lccpk4wrok2v" target="_blank">link</a>
+Some nice regex + string parsing practice today :)
+https://adventofcode.com/2024/day/3 (03 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcfb3d6ddk2o" target="_blank">link</a>
   </li>
 
   <li>
-    I just completed "Red-Nosed Reports" - Day 2 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/2 (02 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lccozgcgv22v" target="_blank">link</a>
+    Did you know that the `pathlib.Path` class implements the `__truediv__` method, enabling the `/` operator to be used for joining paths, e.g. 
+
+```
+from pathlib import Path
+
+path = Path("/tmp")
+file = "file.txt"
+path / file  # operator overloading
+```
+
+Really elegant 🐍 😍
+
+#python (02 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcdhzs5ebk2y" target="_blank">link</a>
   </li>
 
   <li>
-    Nice reminder (Louridas’ algo book) (01 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcanlaya7k24" target="_blank">link</a>
+    What are you coding this week? (02 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcddbo35wk24" target="_blank">link</a>
   </li>
 
 </ul>
