@@ -11,30 +11,35 @@
 <ul>
 
   <li>
-    I just completed "Mull It Over" - Day 3 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/3
+    Having a tech blog has many benefits, one being notes to future self. 
 
-Some nice regex + string parsing practice today :)
-https://adventofcode.com/2024/day/3 (03 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcfb3d6ddk2o" target="_blank">link</a>
+Today it was nice to go back and set up Rust linting with pre-commit: 
+
+https://apythonistalearningrust.com/linting-with-clippy/
+
+(of course you can use ChatGPT as well, but it's nice to see more context / learning you did back then ...) (03 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcfyp2p3322p" target="_blank">link</a>
   </li>
 
   <li>
-    Did you know that the `pathlib.Path` class implements the `__truediv__` method, enabling the `/` operator to be used for joining paths, e.g. 
+    Django signals (receiver decorator) are really useful to react to model changes without tightly coupling code. 
 
-```
-from pathlib import Path
+For example setting attributes on related models, sending a notification or other integrations (e.g. we used it for our v1->v2 migration).
 
-path = Path("/tmp")
-file = "file.txt"
-path / file  # operator overloading
-```
+How have you used this?
 
-Really elegant 🐍 😍
-
-#python (02 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcdhzs5ebk2y" target="_blank">link</a>
+#django (03 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcfyhpinek2p" target="_blank">link</a>
   </li>
 
   <li>
-    What are you coding this week? (02 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcddbo35wk24" target="_blank">link</a>
+    Stuck with coding?
+
+A walk always helps (diffused mind!)
+
+Another thing that worked for me today was to fix a smaller problem first (I also happened to do it in Python before going back to Rust).
+
+Sometimes your problem scope is too big -> reduce it. 
+
+What techniques help you get unstuck? (03 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcfvwoc4ws2m" target="_blank">link</a>
   </li>
 
 </ul>
