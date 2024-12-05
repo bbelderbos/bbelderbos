@@ -11,35 +11,19 @@
 <ul>
 
   <li>
-    Having a tech blog has many benefits, one being notes to future self. 
+    #Django app performance checklist
 
-Today it was nice to go back and set up Rust linting with pre-commit: 
+Indeed few of those have been critical for our v2!
 
-https://apythonistalearningrust.com/linting-with-clippy/
-
-(of course you can use ChatGPT as well, but it's nice to see more context / learning you did back then ...) (03 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcfyp2p3322p" target="_blank">link</a>
+https://medium.com/django-unleashed/django-application-performance-optimization-a-checklist-63e2c6d69e4e (05 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lck74lwx722e" target="_blank">link</a>
   </li>
 
   <li>
-    Django signals (receiver decorator) are really useful to react to model changes without tightly coupling code. 
-
-For example setting attributes on related models, sending a notification or other integrations (e.g. we used it for our v1->v2 migration).
-
-How have you used this?
-
-#django (03 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcfyhpinek2p" target="_blank">link</a>
+    You got me bluesky lol, time to get coding now! (05 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lck3ofxft22u" target="_blank">link</a>
   </li>
 
   <li>
-    Stuck with coding?
-
-A walk always helps (diffused mind!)
-
-Another thing that worked for me today was to fix a smaller problem first (I also happened to do it in Python before going back to Rust).
-
-Sometimes your problem scope is too big -> reduce it. 
-
-What techniques help you get unstuck? (03 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcfvwoc4ws2m" target="_blank">link</a>
+    Cannot skimp on sleep, it’s so important (05 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lck3n7no6s2u" target="_blank">link</a>
   </li>
 
 </ul>
