@@ -11,19 +11,17 @@
 <ul>
 
   <li>
-    #Django app performance checklist
+    Interesting video on some of the challenges and speed ups of uv: https://www.youtube.com/watch?v=gSKTfG1GXYQ - thanks @crmarsh.com 
 
-Indeed few of those have been critical for our v2!
-
-https://medium.com/django-unleashed/django-application-performance-optimization-a-checklist-63e2c6d69e4e (05 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lck74lwx722e" target="_blank">link</a>
+#python #rust (06 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcmp75hfy22o" target="_blank">link</a>
   </li>
 
   <li>
-    You got me bluesky lol, time to get coding now! (05 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lck3ofxft22u" target="_blank">link</a>
+    Curious how to use Bluesky's api, I made a script to backup my new posts here daily: https://github.com/bbelderbos/bluesky-backup (05 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lckznxhw2s2j" target="_blank">link</a>
   </li>
 
   <li>
-    Cannot skimp on sleep, it’s so important (05 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lck3n7no6s2u" target="_blank">link</a>
+    If you have a lot of inline comments you can probably refactor more, remember each new function or object adds an opportunity to name more things and better ... (05 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lckxkrov4c2j" target="_blank">link</a>
   </li>
 
 </ul>
