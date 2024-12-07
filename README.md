@@ -11,17 +11,23 @@
 <ul>
 
   <li>
+    How to debug when a test fails?
+
+pytest —pdb
+
+#python (06 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcn3gydbos2j" target="_blank">link</a>
+  </li>
+
+  <li>
+    V2 deserved some nicer ninja belts, here they are!
+
+#python (06 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcmwbay4rs2j" target="_blank">link</a>
+  </li>
+
+  <li>
     Interesting video on some of the challenges and speed ups of uv: https://www.youtube.com/watch?v=gSKTfG1GXYQ - thanks @crmarsh.com 
 
 #python #rust (06 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcmp75hfy22o" target="_blank">link</a>
-  </li>
-
-  <li>
-    Curious how to use Bluesky's api, I made a script to backup my new posts here daily: https://github.com/bbelderbos/bluesky-backup (05 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lckznxhw2s2j" target="_blank">link</a>
-  </li>
-
-  <li>
-    If you have a lot of inline comments you can probably refactor more, remember each new function or object adds an opportunity to name more things and better ... (05 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lckxkrov4c2j" target="_blank">link</a>
   </li>
 
 </ul>
