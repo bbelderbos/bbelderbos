@@ -11,6 +11,11 @@
 <ul>
 
   <li>
+    I've completed "Bridge Repair" - Day 7 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/7
+https://adventofcode.com/2024/day/7 (07 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcpw7zxmjs2g" target="_blank">link</a>
+  </li>
+
+  <li>
     How to debug when a test fails?
 
 pytest —pdb
@@ -22,12 +27,6 @@ pytest —pdb
     V2 deserved some nicer ninja belts, here they are!
 
 #python (06 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcmwbay4rs2j" target="_blank">link</a>
-  </li>
-
-  <li>
-    Interesting video on some of the challenges and speed ups of uv: https://www.youtube.com/watch?v=gSKTfG1GXYQ - thanks @crmarsh.com 
-
-#python #rust (06 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcmp75hfy22o" target="_blank">link</a>
   </li>
 
 </ul>
