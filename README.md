@@ -11,22 +11,34 @@
 <ul>
 
   <li>
-    I've completed "Bridge Repair" - Day 7 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/7
-https://adventofcode.com/2024/day/7 (07 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcpw7zxmjs2g" target="_blank">link</a>
+    I really like that uv has two modes of usage. 
+
+Almost always I use uv init + add etc., but today I just wanted a quick venv + requests, so I used uv venv + uv pip
+
+Robust tool! (10 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcwu3g53nk2l" target="_blank">link</a>
   </li>
 
   <li>
-    How to debug when a test fails?
+    Finished chapter 1, really explains #python concurrency + asyncio well, looking forward to the next chapters ...
 
-pytest —pdb
-
-#python (06 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcn3gydbos2j" target="_blank">link</a>
+https://www.manning.com/books/python-concurrency-with-asyncio (10 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcwtzqou4c2l" target="_blank">link</a>
   </li>
 
   <li>
-    V2 deserved some nicer ninja belts, here they are!
+    The csv mod has a sniffer, just used it like this:
 
-#python (06 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcmwbay4rs2j" target="_blank">link</a>
+>>> with open('cc1.csv', 'r') as f:
+...     sniffer = csv.Sniffer()
+...     sniffer.has_header(f.read(2048))
+...
+False
+>>> with open('cc2.csv', 'r') as f:
+...     sniffer = csv.Sniffer()
+...     sniffer.has_header(f.read(2048))
+...
+True 
+
+#python (09 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcuropjqqk2q" target="_blank">link</a>
   </li>
 
 </ul>
