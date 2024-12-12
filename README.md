@@ -11,6 +11,15 @@
 <ul>
 
   <li>
+    #Python properties provide an elegant + intuitive way to achieve encapsulation and other OOP features (e.g. composed attributes, setter/deleter, attribute like access)
+
+Here is a short video explaining them:
+https://www.youtube.com/watch?v=8BbngXWouzo
+
+(I should use notebooks more again!) (11 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcztdygywk2d" target="_blank">link</a>
+  </li>
+
+  <li>
     I really like that uv has two modes of usage. 
 
 Almost always I use uv init + add etc., but today I just wanted a quick venv + requests, so I used uv venv + uv pip
@@ -22,23 +31,6 @@ Robust tool! (10 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.s
     Finished chapter 1, really explains #python concurrency + asyncio well, looking forward to the next chapters ...
 
 https://www.manning.com/books/python-concurrency-with-asyncio (10 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcwtzqou4c2l" target="_blank">link</a>
-  </li>
-
-  <li>
-    The csv mod has a sniffer, just used it like this:
-
->>> with open('cc1.csv', 'r') as f:
-...     sniffer = csv.Sniffer()
-...     sniffer.has_header(f.read(2048))
-...
-False
->>> with open('cc2.csv', 'r') as f:
-...     sniffer = csv.Sniffer()
-...     sniffer.has_header(f.read(2048))
-...
-True 
-
-#python (09 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcuropjqqk2q" target="_blank">link</a>
   </li>
 
 </ul>
