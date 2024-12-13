@@ -11,26 +11,21 @@
 <ul>
 
   <li>
-    #Python properties provide an elegant + intuitive way to achieve encapsulation and other OOP features (e.g. composed attributes, setter/deleter, attribute like access)
-
-Here is a short video explaining them:
-https://www.youtube.com/watch?v=8BbngXWouzo
-
-(I should use notebooks more again!) (11 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcztdygywk2d" target="_blank">link</a>
+    I've completed "Read the docs" on @pybites.bsky.social 🐍🎉 - https://pybitesplatform.com/bites/read-the-docs/ (12 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ld4kk5jfwc2v" target="_blank">link</a>
   </li>
 
   <li>
-    I really like that uv has two modes of usage. 
+    Learning asyncio atm and curious:
 
-Almost always I use uv init + add etc., but today I just wanted a quick venv + requests, so I used uv venv + uv pip
+• Where have you used it?
 
-Robust tool! (10 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcwu3g53nk2l" target="_blank">link</a>
+• Threading vs asyncio - what's your take?
+
+#python (12 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ld4k5l5za22j" target="_blank">link</a>
   </li>
 
   <li>
-    Finished chapter 1, really explains #python concurrency + asyncio well, looking forward to the next chapters ...
-
-https://www.manning.com/books/python-concurrency-with-asyncio (10 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lcwtzqou4c2l" target="_blank">link</a>
+    TIL about the 'flood fill' algo #aoc (12 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ld4h4mi7ps2j" target="_blank">link</a>
   </li>
 
 </ul>
