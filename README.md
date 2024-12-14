@@ -11,21 +11,25 @@
 <ul>
 
   <li>
-    I've completed "Read the docs" on @pybites.bsky.social 🐍🎉 - https://pybitesplatform.com/bites/read-the-docs/ (12 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ld4kk5jfwc2v" target="_blank">link</a>
+    Hell yeah, that's the nice thing on our platform (pybitesplatform.com) - solve a Bite -> go into the forum and look at other solutions, you learn so much from that!
+
+#python
+
+[contains quote post or other embedded content] (13 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ld72plsdw227" target="_blank">link</a>
   </li>
 
   <li>
-    Learning asyncio atm and curious:
-
-• Where have you used it?
-
-• Threading vs asyncio - what's your take?
-
-#python (12 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ld4k5l5za22j" target="_blank">link</a>
+    Was nice to learn how to implement a BFS today #aoc (13 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ld6tquz7s22j" target="_blank">link</a>
   </li>
 
   <li>
-    TIL about the 'flood fill' algo #aoc (12 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ld4h4mi7ps2j" target="_blank">link</a>
+    Reading:
+
+Advanced Analytics for Business - Generative AI and machine learning for tabular data
+
+TIL that ML is better for tabular data than Deep Learning / LLMs
+
+#ai #ml (13 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ld6mxzdfg22r" target="_blank">link</a>
   </li>
 
 </ul>
