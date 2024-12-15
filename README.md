@@ -11,6 +11,11 @@
 <ul>
 
   <li>
+    I've completed "Plutonian Pebbles" - Day 11 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/11 - nice optimization technique in part 2, well in both parts actually. 💡 📈
+https://adventofcode.com/2024/day/11 (14 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldcdk2m26s2m" target="_blank">link</a>
+  </li>
+
+  <li>
     Hell yeah, that's the nice thing on our platform (pybitesplatform.com) - solve a Bite -> go into the forum and look at other solutions, you learn so much from that!
 
 #python
@@ -20,16 +25,6 @@
 
   <li>
     Was nice to learn how to implement a BFS today #aoc (13 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ld6tquz7s22j" target="_blank">link</a>
-  </li>
-
-  <li>
-    Reading:
-
-Advanced Analytics for Business - Generative AI and machine learning for tabular data
-
-TIL that ML is better for tabular data than Deep Learning / LLMs
-
-#ai #ml (13 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ld6mxzdfg22r" target="_blank">link</a>
   </li>
 
 </ul>
