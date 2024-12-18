@@ -11,20 +11,19 @@
 <ul>
 
   <li>
-    I've completed "Plutonian Pebbles" - Day 11 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/11 - nice optimization technique in part 2, well in both parts actually. 💡 📈
-https://adventofcode.com/2024/day/11 (14 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldcdk2m26s2m" target="_blank">link</a>
+    Since being active here, I have not felt the need / desire to go back to X :) (18 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldkt55ivek2f" target="_blank">link</a>
   </li>
 
   <li>
-    Hell yeah, that's the nice thing on our platform (pybitesplatform.com) - solve a Bite -> go into the forum and look at other solutions, you learn so much from that!
+    Just love Python 🐍 😍
 
-#python
+sum(count * digit for count, digit in enumerate(some_iterable))
 
-[contains quote post or other embedded content] (13 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ld72plsdw227" target="_blank">link</a>
+(somewhere in #aoc) (18 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldksxkvjrc2f" target="_blank">link</a>
   </li>
 
   <li>
-    Was nice to learn how to implement a BFS today #aoc (13 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ld6tquz7s22j" target="_blank">link</a>
+    Really looking forward to the break, you? (18 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldksv7l2ys2f" target="_blank">link</a>
   </li>
 
 </ul>
