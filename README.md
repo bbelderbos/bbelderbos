@@ -11,19 +11,34 @@
 <ul>
 
   <li>
+    Nice article @trey.io: Lazy self-installing #Python scripts with uv
+
+https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/
+
+The inline script metadata adoption by uv is indeed really neat - I already have some of those scripts in my ~/bin 💡
+
+Using uv for all my projects now, top notch tool! 😍 📈 (18 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldkzd2nf4c2l" target="_blank">link</a>
+  </li>
+
+  <li>
+    Interesting: 
+
+The State of #Python 2024 ->
+https://blog.jetbrains.com/pycharm/2024/12/the-state-of-python/
+
+Highlights for me:
+
+• 41% Python devs relatively new -> important data point for senior devs 💡
+
+• Django still going strong + large % Flask 📈
+
+• 47% containerized deployment 😎
+
+• uv takes Python packaging by storm 😍 (18 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldkz3tvfys27" target="_blank">link</a>
+  </li>
+
+  <li>
     Since being active here, I have not felt the need / desire to go back to X :) (18 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldkt55ivek2f" target="_blank">link</a>
-  </li>
-
-  <li>
-    Just love Python 🐍 😍
-
-sum(count * digit for count, digit in enumerate(some_iterable))
-
-(somewhere in #aoc) (18 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldksxkvjrc2f" target="_blank">link</a>
-  </li>
-
-  <li>
-    Really looking forward to the break, you? (18 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldksv7l2ys2f" target="_blank">link</a>
   </li>
 
 </ul>
