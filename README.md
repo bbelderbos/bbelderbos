@@ -11,6 +11,26 @@
 <ul>
 
   <li>
+    New podcast episode 🎧
+
+#178 - Bridging Africa’s Employment Gap With Our New Coding Platform 🎉 
+
+https://youtu.be/p4zy9UZYa0o?si=jU3KgDSLUdpImpcI 
+
+#python (19 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldo2xompk22w" target="_blank">link</a>
+  </li>
+
+  <li>
+    Woke up feeling like a real birthday -> 8 years of @pybites.bsky.social 🥳
+
+Proud of what we achieved, excited for what is to come in '25 ... 😎
+
+Grateful for what we get to do each day + impact on people worldwide. 😍
+
+Last but not least, thanks to everybody that has been and keeps being part of it! 🙏 (19 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldnwhzd4rk2f" target="_blank">link</a>
+  </li>
+
+  <li>
     Nice article @trey.io: Lazy self-installing #Python scripts with uv
 
 https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/
@@ -18,27 +38,6 @@ https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/
 The inline script metadata adoption by uv is indeed really neat - I already have some of those scripts in my ~/bin 💡
 
 Using uv for all my projects now, top notch tool! 😍 📈 (18 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldkzd2nf4c2l" target="_blank">link</a>
-  </li>
-
-  <li>
-    Interesting: 
-
-The State of #Python 2024 ->
-https://blog.jetbrains.com/pycharm/2024/12/the-state-of-python/
-
-Highlights for me:
-
-• 41% Python devs relatively new -> important data point for senior devs 💡
-
-• Django still going strong + large % Flask 📈
-
-• 47% containerized deployment 😎
-
-• uv takes Python packaging by storm 😍 (18 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldkz3tvfys27" target="_blank">link</a>
-  </li>
-
-  <li>
-    Since being active here, I have not felt the need / desire to go back to X :) (18 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldkt55ivek2f" target="_blank">link</a>
   </li>
 
 </ul>
