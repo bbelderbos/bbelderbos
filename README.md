@@ -11,33 +11,17 @@
 <ul>
 
   <li>
-    New podcast episode 🎧
-
-#178 - Bridging Africa’s Employment Gap With Our New Coding Platform 🎉 
-
-https://youtu.be/p4zy9UZYa0o?si=jU3KgDSLUdpImpcI 
-
-#python (19 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldo2xompk22w" target="_blank">link</a>
+    I just completed "RAM Run" - Day 18 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/18
+https://adventofcode.com/2024/day/18 (22 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lduze7a4cs2z" target="_blank">link</a>
   </li>
 
   <li>
-    Woke up feeling like a real birthday -> 8 years of @pybites.bsky.social 🥳
-
-Proud of what we achieved, excited for what is to come in '25 ... 😎
-
-Grateful for what we get to do each day + impact on people worldwide. 😍
-
-Last but not least, thanks to everybody that has been and keeps being part of it! 🙏 (19 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldnwhzd4rk2f" target="_blank">link</a>
+    Xmas movies ... red one | die hard | other? 😄 🌲 (22 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lduwzjspo22y" target="_blank">link</a>
   </li>
 
   <li>
-    Nice article @trey.io: Lazy self-installing #Python scripts with uv
-
-https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/
-
-The inline script metadata adoption by uv is indeed really neat - I already have some of those scripts in my ~/bin 💡
-
-Using uv for all my projects now, top notch tool! 😍 📈 (18 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldkzd2nf4c2l" target="_blank">link</a>
+    I just completed "Reindeer Maze" - Day 16 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/16
+https://adventofcode.com/2024/day/16 (22 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lduwrx43gs2y" target="_blank">link</a>
   </li>
 
 </ul>
