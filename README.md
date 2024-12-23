@@ -11,17 +11,16 @@
 <ul>
 
   <li>
+    Are you coding anything cool with #python (or #rust) over the break? (22 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldvrfzdw7c2g" target="_blank">link</a>
+  </li>
+
+  <li>
     I just completed "RAM Run" - Day 18 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/18
 https://adventofcode.com/2024/day/18 (22 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lduze7a4cs2z" target="_blank">link</a>
   </li>
 
   <li>
     Xmas movies ... red one | die hard | other? 😄 🌲 (22 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lduwzjspo22y" target="_blank">link</a>
-  </li>
-
-  <li>
-    I just completed "Reindeer Maze" - Day 16 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/16
-https://adventofcode.com/2024/day/16 (22 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lduwrx43gs2y" target="_blank">link</a>
   </li>
 
 </ul>
