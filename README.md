@@ -11,16 +11,23 @@
 <ul>
 
   <li>
-    Are you coding anything cool with #python (or #rust) over the break? (22 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldvrfzdw7c2g" target="_blank">link</a>
+    TIL you can use int() with base 2 to convert binary to decimal #python 
+
+>>> int("0011111101000")
+11111101000
+>>> int("0011111101000", 2)
+2024 (24 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldzxubirfs2a" target="_blank">link</a>
   </li>
 
   <li>
-    I just completed "RAM Run" - Day 18 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/18
-https://adventofcode.com/2024/day/18 (22 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lduze7a4cs2z" target="_blank">link</a>
+    I've completed "LAN Party" - Day 23 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/23 - TIL the Bron–Kerbosch algorithm to find cliques 😎 💡
+https://adventofcode.com/2024/day/23 (23 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldxlssm5j22h" target="_blank">link</a>
   </li>
 
   <li>
-    Xmas movies ... red one | die hard | other? 😄 🌲 (22 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lduwzjspo22y" target="_blank">link</a>
+    TIL that moving files to a subdirectory while having a file pattern in .gitignore, effectively removes them from version control. 💡
+
+#git (23 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldxlrj25ws2f" target="_blank">link</a>
   </li>
 
 </ul>
