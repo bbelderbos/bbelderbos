@@ -11,6 +11,14 @@
 <ul>
 
   <li>
+    What could there be more after the awesome 3 body problem you might think? 
+
+Read the Dark Forest, halfway through it, really good!
+
+#books (29 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3legqdzope22t" target="_blank">link</a>
+  </li>
+
+  <li>
     TIL you can use int() with base 2 to convert binary to decimal #python 
 
 >>> int("0011111101000")
@@ -22,12 +30,6 @@
   <li>
     I've completed "LAN Party" - Day 23 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/23 - TIL the Bron–Kerbosch algorithm to find cliques 😎 💡
 https://adventofcode.com/2024/day/23 (23 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldxlssm5j22h" target="_blank">link</a>
-  </li>
-
-  <li>
-    TIL that moving files to a subdirectory while having a file pattern in .gitignore, effectively removes them from version control. 💡
-
-#git (23 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldxlrj25ws2f" target="_blank">link</a>
   </li>
 
 </ul>
