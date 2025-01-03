@@ -11,6 +11,16 @@
 <ul>
 
   <li>
+    #Python Refactoring: From Long List of Arguments to Object
+
+https://youtu.be/fJmZAsulP7g?si=zI0LZu-YFyReWSSg
+
+- will do some more refactoring videos this year ...
+
+Happy 2025! (02 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lerqge66s226" target="_blank">link</a>
+  </li>
+
+  <li>
     What could there be more after the awesome 3 body problem you might think? 
 
 Read the Dark Forest, halfway through it, really good!
@@ -25,11 +35,6 @@ Read the Dark Forest, halfway through it, really good!
 11111101000
 >>> int("0011111101000", 2)
 2024 (24 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldzxubirfs2a" target="_blank">link</a>
-  </li>
-
-  <li>
-    I've completed "LAN Party" - Day 23 - Advent of Code 2024 #AdventOfCode adventofcode.com/2024/day/23 - TIL the Bron–Kerbosch algorithm to find cliques 😎 💡
-https://adventofcode.com/2024/day/23 (23 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldxlssm5j22h" target="_blank">link</a>
   </li>
 
 </ul>
