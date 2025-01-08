@@ -11,6 +11,16 @@
 <ul>
 
   <li>
+    TIL about Reflex:
+
+Frontend. Backend. Pure #Python.
+reflex.dev
+
+Looking forward to building something with it, maybe a fitness tracker (good time of the year to do so haha)
+https://reflex.dev (07 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lf5s6uu54c2x" target="_blank">link</a>
+  </li>
+
+  <li>
     #Python Refactoring: From Long List of Arguments to Object
 
 https://youtu.be/fJmZAsulP7g?si=zI0LZu-YFyReWSSg
@@ -26,15 +36,6 @@ Happy 2025! (02 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.so
 Read the Dark Forest, halfway through it, really good!
 
 #books (29 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3legqdzope22t" target="_blank">link</a>
-  </li>
-
-  <li>
-    TIL you can use int() with base 2 to convert binary to decimal #python 
-
->>> int("0011111101000")
-11111101000
->>> int("0011111101000", 2)
-2024 (24 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ldzxubirfs2a" target="_blank">link</a>
   </li>
 
 </ul>
