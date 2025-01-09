@@ -11,6 +11,19 @@
 <ul>
 
   <li>
+    What are you building with #python (or #rust) this year? (08 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfaf422ah225" target="_blank">link</a>
+  </li>
+
+  <li>
+    State of the Art #Python in 2024
+https://4zm.org/2024/10/28/state-of-the-art-python-in-2024.html
+
+Maybe Typer > click, but overall some good tips here.
+
+uv 😍 📈 (08 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lf7sm7kjsc2g" target="_blank">link</a>
+  </li>
+
+  <li>
     TIL about Reflex:
 
 Frontend. Backend. Pure #Python.
@@ -18,24 +31,6 @@ reflex.dev
 
 Looking forward to building something with it, maybe a fitness tracker (good time of the year to do so haha)
 https://reflex.dev (07 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lf5s6uu54c2x" target="_blank">link</a>
-  </li>
-
-  <li>
-    #Python Refactoring: From Long List of Arguments to Object
-
-https://youtu.be/fJmZAsulP7g?si=zI0LZu-YFyReWSSg
-
-- will do some more refactoring videos this year ...
-
-Happy 2025! (02 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lerqge66s226" target="_blank">link</a>
-  </li>
-
-  <li>
-    What could there be more after the awesome 3 body problem you might think? 
-
-Read the Dark Forest, halfway through it, really good!
-
-#books (29 Dec 2024) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3legqdzope22t" target="_blank">link</a>
   </li>
 
 </ul>
