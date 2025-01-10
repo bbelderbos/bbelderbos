@@ -11,26 +11,25 @@
 <ul>
 
   <li>
+    Workout 3/3 in, fitness2025 off to a good start, feels amazing (dopamine is real!) 
+
+What works for me:
+
+- fixed time, ideally early morning before it gets busy
+
+- don't overperfect the workout, KISS, better simple workout than none
+
+- share progress with accountability buddy
+
+- build tracker (TODO) (09 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfcqy4vu6s2y" target="_blank">link</a>
+  </li>
+
+  <li>
+    Wow #python is really everywhere + growing (source: TIOBE index) (09 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfcqtbkn3k2y" target="_blank">link</a>
+  </li>
+
+  <li>
     What are you building with #python (or #rust) this year? (08 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfaf422ah225" target="_blank">link</a>
-  </li>
-
-  <li>
-    State of the Art #Python in 2024
-https://4zm.org/2024/10/28/state-of-the-art-python-in-2024.html
-
-Maybe Typer > click, but overall some good tips here.
-
-uv 😍 📈 (08 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lf7sm7kjsc2g" target="_blank">link</a>
-  </li>
-
-  <li>
-    TIL about Reflex:
-
-Frontend. Backend. Pure #Python.
-reflex.dev
-
-Looking forward to building something with it, maybe a fitness tracker (good time of the year to do so haha)
-https://reflex.dev (07 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lf5s6uu54c2x" target="_blank">link</a>
   </li>
 
 </ul>
