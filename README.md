@@ -11,6 +11,21 @@
 <ul>
 
   <li>
+    Does my csv file have a header? 
+
+Ask #Python, using csv -> Sniffer: (10 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lffbl5hy5c22" target="_blank">link</a>
+  </li>
+
+  <li>
+    #Python's if __name__ == "__main__": explained
+https://www.youtube.com/watch?v=ubpFY7_dAW4
+
+Use case: on our platform you want to call a function that has input(), if not wrapped in this if block, the test will hang 😱
+
+And in general, this is useful for code that should NOT be run upon importing your module. (10 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lff55htius2a" target="_blank">link</a>
+  </li>
+
+  <li>
     Workout 3/3 in, fitness2025 off to a good start, feels amazing (dopamine is real!) 
 
 What works for me:
@@ -22,14 +37,6 @@ What works for me:
 - share progress with accountability buddy
 
 - build tracker (TODO) (09 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfcqy4vu6s2y" target="_blank">link</a>
-  </li>
-
-  <li>
-    Wow #python is really everywhere + growing (source: TIOBE index) (09 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfcqtbkn3k2y" target="_blank">link</a>
-  </li>
-
-  <li>
-    What are you building with #python (or #rust) this year? (08 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfaf422ah225" target="_blank">link</a>
   </li>
 
 </ul>
