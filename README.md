@@ -11,25 +11,23 @@
 <ul>
 
   <li>
-    Need to get back to the #rust platform, the MVP I built a few months ago is pretty cool :)
-
-10 exercises are there: rustplatform.com/exercises - ideas for new ones are welcome ...
-https://rustplatform.com/exercises (11 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfi64sapi224" target="_blank">link</a>
+    Love the #python built-ins! 🐍 😍 (14 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfoukw3hss2o" target="_blank">link</a>
   </li>
 
   <li>
-    Does my csv file have a header? 
+    You need a unique ID in #Python? 
 
-Ask #Python, using csv -> Sniffer: (10 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lffbl5hy5c22" target="_blank">link</a>
+Use the uuid module:
+
+>>> from uuid import uuid4
+>>> uuid4()
+UUID('fcbb0369-7bd9-464d-b23c-9622d40fdcda')
+>>> uuid4()
+UUID('3e8e68b4-172b-42db-bcf7-07c12e0c9660') (13 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfn24iqmi22m" target="_blank">link</a>
   </li>
 
   <li>
-    #Python's if __name__ == "__main__": explained
-https://www.youtube.com/watch?v=ubpFY7_dAW4
-
-Use case: on our platform you want to call a function that has input(), if not wrapped in this if block, the test will hang 😱
-
-And in general, this is useful for code that should NOT be run upon importing your module. (10 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lff55htius2a" target="_blank">link</a>
+    I really enjoy coding platform gamification - adding things that motivate people (including myself) to do more 💪 😎 (13 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfmqi3abl22n" target="_blank">link</a>
   </li>
 
 </ul>
