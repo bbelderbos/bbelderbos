@@ -11,23 +11,15 @@
 <ul>
 
   <li>
+    What are your 5 desert island skills as a #Python developer? 🏝️ Let’s hear them! 🔧🐍 (14 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfplnwzx5s2g" target="_blank">link</a>
+  </li>
+
+  <li>
+    Incredible how much more the docs make sense when you first try building something (aka JIT learning)💡- just did that with the Reflex framework 😎 (14 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfpllurer22g" target="_blank">link</a>
+  </li>
+
+  <li>
     Love the #python built-ins! 🐍 😍 (14 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfoukw3hss2o" target="_blank">link</a>
-  </li>
-
-  <li>
-    You need a unique ID in #Python? 
-
-Use the uuid module:
-
->>> from uuid import uuid4
->>> uuid4()
-UUID('fcbb0369-7bd9-464d-b23c-9622d40fdcda')
->>> uuid4()
-UUID('3e8e68b4-172b-42db-bcf7-07c12e0c9660') (13 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfn24iqmi22m" target="_blank">link</a>
-  </li>
-
-  <li>
-    I really enjoy coding platform gamification - adding things that motivate people (including myself) to do more 💪 😎 (13 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfmqi3abl22n" target="_blank">link</a>
   </li>
 
 </ul>
