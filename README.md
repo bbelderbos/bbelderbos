@@ -11,15 +11,45 @@
 <ul>
 
   <li>
-    What are your 5 desert island skills as a #Python developer? 🏝️ Let’s hear them! 🔧🐍 (14 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfplnwzx5s2g" target="_blank">link</a>
+    #Django has many great template filters, I just used `intcomma` (requires `humanize`) and `pluralize` :)
+
+And you can roll your own as well:
+
+1. create a [your_app]/templatetags/tags.py
+
+2.
+from django import template
+register = template.Library()
+
+3.
+@register.filter
+... write your function ... (15 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfs6r6g4422u" target="_blank">link</a>
   </li>
 
   <li>
-    Incredible how much more the docs make sense when you first try building something (aka JIT learning)💡- just did that with the Reflex framework 😎 (14 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfpllurer22g" target="_blank">link</a>
+    You can use zfill or an f-string to add leading zeros:
+
+>>> var = 1
+>>> str(var).zfill(2)
+'01'
+>>> f"{var:2}"
+' 1'
+>>> f"{var:02}"
+'01'
+>>> f"{var:03}"
+'001'
+
+#python (15 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfrlaiz6os27" target="_blank">link</a>
   </li>
 
   <li>
-    Love the #python built-ins! 🐍 😍 (14 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfoukw3hss2o" target="_blank">link</a>
+    You can use SequenceMatcher (#python difflib module) to analyze similarity between strings. 🐍 😍
+
+Django's manage.py uses this for example:
+
+$ uv run python manage.py migra
+Unknown command: 'migra'. Did you mean migrate?
+Type 'manage.py help' for usage. (15 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfrfqhk6ss2x" target="_blank">link</a>
   </li>
 
 </ul>
