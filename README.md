@@ -11,45 +11,34 @@
 <ul>
 
   <li>
-    #Django has many great template filters, I just used `intcomma` (requires `humanize`) and `pluralize` :)
+    Cool TIL about textwrap.shorten()
 
-And you can roll your own as well:
+> Collapse and truncate the given text to fit in the given width.
 
-1. create a [your_app]/templatetags/tags.py
+https://docs.python.org/3/library/textwrap.html#textwrap.shorten
 
-2.
-from django import template
-register = template.Library()
-
-3.
-@register.filter
-... write your function ... (15 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfs6r6g4422u" target="_blank">link</a>
+#python (16 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfuedamncc2y" target="_blank">link</a>
   </li>
 
   <li>
-    You can use zfill or an f-string to add leading zeros:
+    Reflex: write nice looking full stack #Python web apps, no JS skills required 😎
 
->>> var = 1
->>> str(var).zfill(2)
-'01'
->>> f"{var:2}"
-' 1'
->>> f"{var:02}"
-'01'
->>> f"{var:03}"
-'001'
+I hadn't even heard of this framework till last week 💡 so I built a little fitness tracker app:
 
-#python (15 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfrlaiz6os27" target="_blank">link</a>
+https://pybit.es/articles/fitness-tracker-app-with-python-reflex/
+
+I hope this guide helps you get started with this cool new framework 📈 (16 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfud4avt3s2z" target="_blank">link</a>
   </li>
 
   <li>
-    You can use SequenceMatcher (#python difflib module) to analyze similarity between strings. 🐍 😍
+    I love the Zola static site generator 😍
 
-Django's manage.py uses this for example:
+Make changes, git commit + push -> GH workflow -> changes are up 🔥
 
-$ uv run python manage.py migra
-Unknown command: 'migra'. Did you mean migrate?
-Type 'manage.py help' for usage. (15 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfrfqhk6ss2x" target="_blank">link</a>
+Here is how to get going: 
+https://apythonistalearningrust.com/blog-with-zola/
+
+#rust (16 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfu4xd63p22z" target="_blank">link</a>
   </li>
 
 </ul>
