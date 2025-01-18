@@ -11,34 +11,42 @@
 <ul>
 
   <li>
-    Cool TIL about textwrap.shorten()
+    🚀 Create quick #Python utilities w/o fully fledged projects, e.g.
 
-> Collapse and truncate the given text to fit in the given width.
+✅ Search books w/ Google Books API
 
-https://docs.python.org/3/library/textwrap.html#textwrap.shorten
+✅ Summarize YouTube vids w/ Marvin AI
 
-#python (16 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfuedamncc2y" target="_blank">link</a>
+✅ Scrape articles w/ Newspaper3k
+
+No venv, no pyproject.toml, just 'inline metadata' + #uv 🛠️
+
+👉 New article: https://pybit.es/articles/create-project-less-python-utilities-with-uv-and-inline-script-metadata/ (18 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfysadpau22c" target="_blank">link</a>
   </li>
 
   <li>
-    Reflex: write nice looking full stack #Python web apps, no JS skills required 😎
+    Ever needed a nested #Python defaultdict?
 
-I hadn't even heard of this framework till last week 💡 so I built a little fitness tracker app:
+You can do it like this:
 
-https://pybit.es/articles/fitness-tracker-app-with-python-reflex/
+`defaultdict(lambda: Counter())`
 
-I hope this guide helps you get started with this cool new framework 📈 (16 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfud4avt3s2z" target="_blank">link</a>
+Or using a different factory:
+
+`defaultdict(lambda: defaultdict(list))`
+
+🐍✨ (17 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfwrqsj6jk2x" target="_blank">link</a>
   </li>
 
   <li>
-    I love the Zola static site generator 😍
+    Is it often premature to use classes in #Python? 🤔
 
-Make changes, git commit + push -> GH workflow -> changes are up 🔥
+Some time ago, I wrote an article that sheds light on this:
 
-Here is how to get going: 
-https://apythonistalearningrust.com/blog-with-zola/
+When to Write Classes in Python And Why it Matters
+https://pybit.es/articles/when-classes
 
-#rust (16 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfu4xd63p22z" target="_blank">link</a>
+💡 Check it out and let me know your thoughts! (17 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfwqdeqzyk27" target="_blank">link</a>
   </li>
 
 </ul>
