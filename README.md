@@ -11,42 +11,19 @@
 <ul>
 
   <li>
-    🚀 Create quick #Python utilities w/o fully fledged projects, e.g.
+    Love #python set operations 🐍 😍
 
-✅ Search books w/ Google Books API
+`bites_done = set(bite_ids) & completed_bites_ids`
 
-✅ Summarize YouTube vids w/ Marvin AI
-
-✅ Scrape articles w/ Newspaper3k
-
-No venv, no pyproject.toml, just 'inline metadata' + #uv 🛠️
-
-👉 New article: https://pybit.es/articles/create-project-less-python-utilities-with-uv-and-inline-script-metadata/ (18 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfysadpau22c" target="_blank">link</a>
+-> here I use a 'set intersection' to efficiently calculate the intersection of a learning path's exercise id's with the ones a user has done. (19 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lg4gaaphtc2k" target="_blank">link</a>
   </li>
 
   <li>
-    Ever needed a nested #Python defaultdict?
-
-You can do it like this:
-
-`defaultdict(lambda: Counter())`
-
-Or using a different factory:
-
-`defaultdict(lambda: defaultdict(list))`
-
-🐍✨ (17 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfwrqsj6jk2x" target="_blank">link</a>
+    You can create a #python dictionary of two iterables using the zip() built-in 🐍 😍 (19 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lg3ndtadsk2r" target="_blank">link</a>
   </li>
 
   <li>
-    Is it often premature to use classes in #Python? 🤔
-
-Some time ago, I wrote an article that sheds light on this:
-
-When to Write Classes in Python And Why it Matters
-https://pybit.es/articles/when-classes
-
-💡 Check it out and let me know your thoughts! (17 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lfwqdeqzyk27" target="_blank">link</a>
+    Just made the v2 leaderboard page much faster, thanks to caching :) (19 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lg3n5hej4c2a" target="_blank">link</a>
   </li>
 
 </ul>
