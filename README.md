@@ -11,6 +11,10 @@
 <ul>
 
   <li>
+    Perfection is the enemy of shipped 😱 🚀 (20 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lg5zvn6l7s26" target="_blank">link</a>
+  </li>
+
+  <li>
     Love #python set operations 🐍 😍
 
 `bites_done = set(bite_ids) & completed_bites_ids`
@@ -20,10 +24,6 @@
 
   <li>
     You can create a #python dictionary of two iterables using the zip() built-in 🐍 😍 (19 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lg3ndtadsk2r" target="_blank">link</a>
-  </li>
-
-  <li>
-    Just made the v2 leaderboard page much faster, thanks to caching :) (19 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lg3n5hej4c2a" target="_blank">link</a>
   </li>
 
 </ul>
