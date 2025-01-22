@@ -11,19 +11,17 @@
 <ul>
 
   <li>
+    Interesting learning today: Tahoe-LAFS (Tahoe Least-Authority File Store), a free and open, secure, decentralized, fault-tolerant, distributed data store and distributed file system.
+
+Have you used this for anything? (21 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lgbdwcfhik2f" target="_blank">link</a>
+  </li>
+
+  <li>
+    First time I used GraphQL today to work with an API, pretty cool! (21 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lgan2tdhhk26" target="_blank">link</a>
+  </li>
+
+  <li>
     Perfection is the enemy of shipped 😱 🚀 (20 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lg5zvn6l7s26" target="_blank">link</a>
-  </li>
-
-  <li>
-    Love #python set operations 🐍 😍
-
-`bites_done = set(bite_ids) & completed_bites_ids`
-
--> here I use a 'set intersection' to efficiently calculate the intersection of a learning path's exercise id's with the ones a user has done. (19 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lg4gaaphtc2k" target="_blank">link</a>
-  </li>
-
-  <li>
-    You can create a #python dictionary of two iterables using the zip() built-in 🐍 😍 (19 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lg3ndtadsk2r" target="_blank">link</a>
   </li>
 
 </ul>
