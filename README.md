@@ -11,6 +11,16 @@
 <ul>
 
   <li>
+    Easily add ordering to #Python dataclasses 💡
+
+Dataclasses aren't orderable by default. Add `order=True` to auto-generate comparison methods like __lt__ & __gt__.
+
+This makes sorting/compare tasks seamless! Check out an example 👇
+
+How do you use dataclasses in your projects? 🚀 (28 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lgsrbkzrks2j" target="_blank">link</a>
+  </li>
+
+  <li>
     Ever needed to target a single test in a parametrized pytest function? 
 
 Solution: add an equal length `ids` list: https://docs.pytest.org/en/stable/example/parametrize.html#different-options-for-test-ids
@@ -21,14 +31,6 @@ This way you can target a single test using `pytest -k` (27 Jan 2025) - <a href=
   <li>
     Have you fully embraced uv?
 What do you still find confusing about the tool? (27 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lgpoe6rf7225" target="_blank">link</a>
-  </li>
-
-  <li>
-    TIL there is a #uv buildpack for #Heroku, nice!
-
-https://github.com/dropseed/heroku-buildpack-uv
-
-This saves me the manual step of generating the requirements.txt from an updated pyproject.toml with git-based (not Docker) deployments 😍 📈 (22 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lgdnto2ges2d" target="_blank">link</a>
   </li>
 
 </ul>
