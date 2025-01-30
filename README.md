@@ -11,6 +11,17 @@
 <ul>
 
   <li>
+    🚀 is vs == in Python: Object Identity vs Value Equality 🐍
+
+🔹 is → checks if two variables refer to the same object in memory
+🔹 == → checks if two objects have the same value
+
+Use id() to verify object identity 👇
+
+#Python #CodingTips (29 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lguwfkryx22p" target="_blank">link</a>
+  </li>
+
+  <li>
     Easily add ordering to #Python dataclasses 💡
 
 Dataclasses aren't orderable by default. Add `order=True` to auto-generate comparison methods like __lt__ & __gt__.
@@ -26,11 +37,6 @@ How do you use dataclasses in your projects? 🚀 (28 Jan 2025) - <a href="https
 Solution: add an equal length `ids` list: https://docs.pytest.org/en/stable/example/parametrize.html#different-options-for-test-ids
 
 This way you can target a single test using `pytest -k` (27 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lgqmykxl6c2h" target="_blank">link</a>
-  </li>
-
-  <li>
-    Have you fully embraced uv?
-What do you still find confusing about the tool? (27 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lgpoe6rf7225" target="_blank">link</a>
   </li>
 
 </ul>
