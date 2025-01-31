@@ -11,6 +11,16 @@
 <ul>
 
   <li>
+    🚀 Python Tip: Stop checking if a key exists before adding values!
+
+Use defaultdict() from the collections module to auto-create default values. Clean & Pythonic! 🐍 📈
+
+(Need counts? Use Counter() rather 💡🔥)
+
+#Python #CodeTips (30 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lgxkagspnk2s" target="_blank">link</a>
+  </li>
+
+  <li>
     🚀 is vs == in Python: Object Identity vs Value Equality 🐍
 
 🔹 is → checks if two variables refer to the same object in memory
@@ -29,14 +39,6 @@ Dataclasses aren't orderable by default. Add `order=True` to auto-generate compa
 This makes sorting/compare tasks seamless! Check out an example 👇
 
 How do you use dataclasses in your projects? 🚀 (28 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lgsrbkzrks2j" target="_blank">link</a>
-  </li>
-
-  <li>
-    Ever needed to target a single test in a parametrized pytest function? 
-
-Solution: add an equal length `ids` list: https://docs.pytest.org/en/stable/example/parametrize.html#different-options-for-test-ids
-
-This way you can target a single test using `pytest -k` (27 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lgqmykxl6c2h" target="_blank">link</a>
   </li>
 
 </ul>
