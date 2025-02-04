@@ -11,6 +11,24 @@
 <ul>
 
   <li>
+    More #AI reading this + coming weeks 💡
+
+• Nexus: A Brief History of Information Networks from the Stone Age to AI (Harari)
+
+• The Singularity Is Nearer (Kurzweil)
+
+What #books 📘 are you reading? (03 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhbniv7bdk2e" target="_blank">link</a>
+  </li>
+
+  <li>
+    Easily Parse RSS Feeds in #Python 🐍 😍
+
+Here's how you can parse an RSS feed in just a few lines of code using feedparser. 📈
+
+In this example, we parse our blog feed and retrieve entry data by attribute (you could also use dict keys, but attribute access is nicer): (03 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhbffyq5js2x" target="_blank">link</a>
+  </li>
+
+  <li>
     🚀 Python Tip: Stop checking if a key exists before adding values!
 
 Use defaultdict() from the collections module to auto-create default values. Clean & Pythonic! 🐍 📈
@@ -18,27 +36,6 @@ Use defaultdict() from the collections module to auto-create default values. Cle
 (Need counts? Use Counter() rather 💡🔥)
 
 #Python #CodeTips (30 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lgxkagspnk2s" target="_blank">link</a>
-  </li>
-
-  <li>
-    🚀 is vs == in Python: Object Identity vs Value Equality 🐍
-
-🔹 is → checks if two variables refer to the same object in memory
-🔹 == → checks if two objects have the same value
-
-Use id() to verify object identity 👇
-
-#Python #CodingTips (29 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lguwfkryx22p" target="_blank">link</a>
-  </li>
-
-  <li>
-    Easily add ordering to #Python dataclasses 💡
-
-Dataclasses aren't orderable by default. Add `order=True` to auto-generate comparison methods like __lt__ & __gt__.
-
-This makes sorting/compare tasks seamless! Check out an example 👇
-
-How do you use dataclasses in your projects? 🚀 (28 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lgsrbkzrks2j" target="_blank">link</a>
   </li>
 
 </ul>
