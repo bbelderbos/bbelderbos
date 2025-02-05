@@ -11,31 +11,25 @@
 <ul>
 
   <li>
-    More #AI reading this + coming weeks 💡
+    Amazing how easy you can make AI apps these days using OpenAI's API + a bit of Python / Marvin AI 💡
 
-• Nexus: A Brief History of Information Networks from the Stone Age to AI (Harari)
-
-• The Singularity Is Nearer (Kurzweil)
-
-What #books 📘 are you reading? (03 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhbniv7bdk2e" target="_blank">link</a>
+Here is a quick book recommender script 😎 - I only really needed a Pydantic model, a decorator, and a prompt in docstring ... 📈 (04 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhdzjxnry22v" target="_blank">link</a>
   </li>
 
   <li>
-    Easily Parse RSS Feeds in #Python 🐍 😍
+    TIL about an interesting design pattern 💡
 
-Here's how you can parse an RSS feed in just a few lines of code using feedparser. 📈
+> The command query responsibility segregation (CQRS) pattern separates the data mutation, or the command part of a system, from the query part
 
-In this example, we parse our blog feed and retrieve entry data by attribute (you could also use dict keys, but attribute access is nicer): (03 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhbffyq5js2x" target="_blank">link</a>
+Decoupling the reads you can make them faster, for example by using Redis caching 📈 (04 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhdrgk66ds2l" target="_blank">link</a>
   </li>
 
   <li>
-    🚀 Python Tip: Stop checking if a key exists before adding values!
+    Ever had a #Python function 🐍 behave strangely, remembering values between calls when it shouldn’t? 😱
 
-Use defaultdict() from the collections module to auto-create default values. Clean & Pythonic! 🐍 📈
+Enter mutable default parameters, which persist across function calls leading to unexpected behavior. Learn why + how to avoid this in our new article💡
 
-(Need counts? Use Counter() rather 💡🔥)
-
-#Python #CodeTips (30 Jan 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lgxkagspnk2s" target="_blank">link</a>
+https://pybit.es/articles/the-mutable-trap-avoiding-unintended-side-effects-in-python/ (04 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhdpzfhboc2k" target="_blank">link</a>
   </li>
 
 </ul>
