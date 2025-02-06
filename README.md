@@ -11,25 +11,26 @@
 <ul>
 
   <li>
-    Amazing how easy you can make AI apps these days using OpenAI's API + a bit of Python / Marvin AI 💡
+    The Repository Pattern keeps your business logic clean by abstracting data access. 
 
-Here is a quick book recommender script 😎 - I only really needed a Pydantic model, a decorator, and a prompt in docstring ... 📈 (04 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhdzjxnry22v" target="_blank">link</a>
+Swap databases, improve testability, and keep code more maintainable.
+
+Here's an example using sqlmodel & CSV with the same interface. 
+
+#Python #DesignPatterns #CleanCode (05 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhgofjtu3225" target="_blank">link</a>
   </li>
 
   <li>
-    TIL about an interesting design pattern 💡
-
-> The command query responsibility segregation (CQRS) pattern separates the data mutation, or the command part of a system, from the query part
-
-Decoupling the reads you can make them faster, for example by using Redis caching 📈 (04 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhdrgk66ds2l" target="_blank">link</a>
+    Working on some more #rust exercises, coming soon ... (05 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhg7rgx3ik2y" target="_blank">link</a>
   </li>
 
   <li>
-    Ever had a #Python function 🐍 behave strangely, remembering values between calls when it shouldn’t? 😱
+    I implemented Command-Query Responsibility Segregation (CQRS) in FastAPI yesterday. 💡
 
-Enter mutable default parameters, which persist across function calls leading to unexpected behavior. Learn why + how to avoid this in our new article💡
+I probably won't need it any time soon, but this exercise had me think about design 📈 (I also used the 'unit of work' pattern using a context manager 😎)
 
-https://pybit.es/articles/the-mutable-trap-avoiding-unintended-side-effects-in-python/ (04 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhdpzfhboc2k" target="_blank">link</a>
+Great read:
+https://www.cosmicpython.com/book/chapter_12_cqrs.html (05 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhg7qcjyc22y" target="_blank">link</a>
   </li>
 
 </ul>
