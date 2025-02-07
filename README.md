@@ -11,6 +11,24 @@
 <ul>
 
   <li>
+    Interesting article by Tim O’Reilly on #AI and the future of #programming:
+
+ > This is not the end of programming. It is the beginning of its latest reinvention.
+
+https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/ (06 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhjhdducpc2g" target="_blank">link</a>
+  </li>
+
+  <li>
+    💡 Python Tip: Use Abstract Base Classes (ABCs) to enforce consistent interfaces in your code!
+
+They help structure your OOP design while keeping it flexible. Great for maintainability & scalability.
+
+Have you used ABCs? Share your experience! 🚀 
+
+#Python #OOP (06 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhitgpqjus2z" target="_blank">link</a>
+  </li>
+
+  <li>
     The Repository Pattern keeps your business logic clean by abstracting data access. 
 
 Swap databases, improve testability, and keep code more maintainable.
@@ -18,19 +36,6 @@ Swap databases, improve testability, and keep code more maintainable.
 Here's an example using sqlmodel & CSV with the same interface. 
 
 #Python #DesignPatterns #CleanCode (05 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhgofjtu3225" target="_blank">link</a>
-  </li>
-
-  <li>
-    Working on some more #rust exercises, coming soon ... (05 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhg7rgx3ik2y" target="_blank">link</a>
-  </li>
-
-  <li>
-    I implemented Command-Query Responsibility Segregation (CQRS) in FastAPI yesterday. 💡
-
-I probably won't need it any time soon, but this exercise had me think about design 📈 (I also used the 'unit of work' pattern using a context manager 😎)
-
-Great read:
-https://www.cosmicpython.com/book/chapter_12_cqrs.html (05 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhg7qcjyc22y" target="_blank">link</a>
   </li>
 
 </ul>
