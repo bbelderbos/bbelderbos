@@ -11,31 +11,33 @@
 <ul>
 
   <li>
+    Deeply nested if statements? 😱 Refactor with guard clauses for better readability & maintainability.
+
+✅ Less indentation
+✅ More readable logic
+✅ Easier debugging
+
+As the Zen of Python says: "Flat is better than nested." 🐍 😍 (08 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhnn4iydds2a" target="_blank">link</a>
+  </li>
+
+  <li>
+    Python tip: Since 3.8, you can enforce interfaces using typing.Protocol! 💡
+
+✅ Static type checking
+✅ No inheritance required
+✅ Structural subtyping for flexibility
+
+Unlike ABCs, Protocols catch errors early while keeping Python dynamic. Are you using them? 🤔 
+
+#Python #tips (07 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhlahjhs622n" target="_blank">link</a>
+  </li>
+
+  <li>
     Interesting article by Tim O’Reilly on #AI and the future of #programming:
 
  > This is not the end of programming. It is the beginning of its latest reinvention.
 
 https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/ (06 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhjhdducpc2g" target="_blank">link</a>
-  </li>
-
-  <li>
-    💡 Python Tip: Use Abstract Base Classes (ABCs) to enforce consistent interfaces in your code!
-
-They help structure your OOP design while keeping it flexible. Great for maintainability & scalability.
-
-Have you used ABCs? Share your experience! 🚀 
-
-#Python #OOP (06 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhitgpqjus2z" target="_blank">link</a>
-  </li>
-
-  <li>
-    The Repository Pattern keeps your business logic clean by abstracting data access. 
-
-Swap databases, improve testability, and keep code more maintainable.
-
-Here's an example using sqlmodel & CSV with the same interface. 
-
-#Python #DesignPatterns #CleanCode (05 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhgofjtu3225" target="_blank">link</a>
   </li>
 
 </ul>
