@@ -11,6 +11,10 @@
 <ul>
 
   <li>
+    Was reminded today of this neat #python trick when you have issues parsing json: try to convert it to a dict using `ast.literal_eval()` -> (11 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhvrdhne3k2h" target="_blank">link</a>
+  </li>
+
+  <li>
     Deeply nested if statements? 😱 Refactor with guard clauses for better readability & maintainability.
 
 ✅ Less indentation
@@ -30,14 +34,6 @@ As the Zen of Python says: "Flat is better than nested." 🐍 😍 (08 Feb 2025)
 Unlike ABCs, Protocols catch errors early while keeping Python dynamic. Are you using them? 🤔 
 
 #Python #tips (07 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhlahjhs622n" target="_blank">link</a>
-  </li>
-
-  <li>
-    Interesting article by Tim O’Reilly on #AI and the future of #programming:
-
- > This is not the end of programming. It is the beginning of its latest reinvention.
-
-https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/ (06 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhjhdducpc2g" target="_blank">link</a>
   </li>
 
 </ul>
