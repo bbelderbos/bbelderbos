@@ -11,6 +11,14 @@
 <ul>
 
   <li>
+    How many unique pairs can you make from 4 friends, colleagues, or family members?
+
+`itertools.combinations` makes it easy 🐍🚀
+
+#Python #tips (17 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lif3qgam3c2k" target="_blank">link</a>
+  </li>
+
+  <li>
     I've completed "Implement the Repository Pattern for a Book Library" on @pybites.bsky.social 🐍🎉 - https://pybitesplatform.com/bites/implement-the-repository-pattern-for-a-book-library/ (13 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3li34vb5lxk2l" target="_blank">link</a>
   </li>
 
@@ -18,10 +26,6 @@
     Did you know f-strings can do date formatting? 🐍 😍
 
 #python #tips (12 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhye2gbeek23" target="_blank">link</a>
-  </li>
-
-  <li>
-    Was reminded today of this neat #python trick when you have issues parsing json: try to convert it to a dict using `ast.literal_eval()` -> (11 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhvrdhne3k2h" target="_blank">link</a>
   </li>
 
 </ul>
