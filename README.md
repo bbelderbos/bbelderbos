@@ -11,6 +11,14 @@
 <ul>
 
   <li>
+    Did you know that by adding `__enter__` and `__exit__` to a class, you can turn it into a context manager? 💡
+
+Here’s an example where a transaction automatically rolls back if the balance goes negative—ensuring safer operations. 🚀
+
+#python #tips (18 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lihrjq3mcs2y" target="_blank">link</a>
+  </li>
+
+  <li>
     How many unique pairs can you make from 4 friends, colleagues, or family members?
 
 `itertools.combinations` makes it easy 🐍🚀
@@ -20,12 +28,6 @@
 
   <li>
     I've completed "Implement the Repository Pattern for a Book Library" on @pybites.bsky.social 🐍🎉 - https://pybitesplatform.com/bites/implement-the-repository-pattern-for-a-book-library/ (13 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3li34vb5lxk2l" target="_blank">link</a>
-  </li>
-
-  <li>
-    Did you know f-strings can do date formatting? 🐍 😍
-
-#python #tips (12 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lhye2gbeek23" target="_blank">link</a>
   </li>
 
 </ul>
