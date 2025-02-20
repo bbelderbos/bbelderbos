@@ -11,6 +11,22 @@
 <ul>
 
   <li>
+    👉 Ever wondered how @ login_required works (e.g. in Flask)?
+
+It’s a #Python decorator modifying function behavior—without touching the original code! 
+
+Example below 🚀
+
+Why care?
+
+✅ Cleaner code 💡
+✅ Reusable code 📈
+✅ More extensible😎
+
+A must-know design pattern! 🔥 (19 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lijlgef2i22k" target="_blank">link</a>
+  </li>
+
+  <li>
     Did you know that by adding `__enter__` and `__exit__` to a class, you can turn it into a context manager? 💡
 
 Here’s an example where a transaction automatically rolls back if the balance goes negative—ensuring safer operations. 🚀
@@ -24,10 +40,6 @@ Here’s an example where a transaction automatically rolls back if the balance 
 `itertools.combinations` makes it easy 🐍🚀
 
 #Python #tips (17 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lif3qgam3c2k" target="_blank">link</a>
-  </li>
-
-  <li>
-    I've completed "Implement the Repository Pattern for a Book Library" on @pybites.bsky.social 🐍🎉 - https://pybitesplatform.com/bites/implement-the-repository-pattern-for-a-book-library/ (13 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3li34vb5lxk2l" target="_blank">link</a>
   </li>
 
 </ul>
