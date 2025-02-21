@@ -11,6 +11,16 @@
 <ul>
 
   <li>
+    Using #NLP to apply 80/20 to improving Bite Exercises 🚀
+
+With #Python + TextBlob, I automated review sentiment analysis to:
+
+✅ Spot which exercises need improvement 📊
+✅ Highlight top-rated Bites 💡
+✅ Taking it one step further, using #AI to better detect sarcasm + context 🤖 (20 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3limfmuiops2t" target="_blank">link</a>
+  </li>
+
+  <li>
     👉 Ever wondered how @ login_required works (e.g. in Flask)?
 
 It’s a #Python decorator modifying function behavior—without touching the original code! 
@@ -32,14 +42,6 @@ A must-know design pattern! 🔥 (19 Feb 2025) - <a href="https://bsky.app/profi
 Here’s an example where a transaction automatically rolls back if the balance goes negative—ensuring safer operations. 🚀
 
 #python #tips (18 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lihrjq3mcs2y" target="_blank">link</a>
-  </li>
-
-  <li>
-    How many unique pairs can you make from 4 friends, colleagues, or family members?
-
-`itertools.combinations` makes it easy 🐍🚀
-
-#Python #tips (17 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lif3qgam3c2k" target="_blank">link</a>
   </li>
 
 </ul>
