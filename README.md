@@ -11,6 +11,14 @@
 <ul>
 
   <li>
+    #Python’s Standard Lib keeps blowing my mind. 🐍
+
+Need a month calendar? Use `calendar.monthcalendar()` - a simple matrix with sensible defaults, very clean! 🚀
+
+Or use `calendar.Calendar()` + `.itermonthdates()` to iterate over all month dates (lazily loaded with a generator 😍) (21 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lionckmrdk2q" target="_blank">link</a>
+  </li>
+
+  <li>
     Using #NLP to apply 80/20 to improving Bite Exercises 🚀
 
 With #Python + TextBlob, I automated review sentiment analysis to:
@@ -34,14 +42,6 @@ Why care?
 ✅ More extensible😎
 
 A must-know design pattern! 🔥 (19 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lijlgef2i22k" target="_blank">link</a>
-  </li>
-
-  <li>
-    Did you know that by adding `__enter__` and `__exit__` to a class, you can turn it into a context manager? 💡
-
-Here’s an example where a transaction automatically rolls back if the balance goes negative—ensuring safer operations. 🚀
-
-#python #tips (18 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lihrjq3mcs2y" target="_blank">link</a>
   </li>
 
 </ul>
