@@ -11,6 +11,18 @@
 <ul>
 
   <li>
+    How to add a console script to your #Python package with uv 🚀
+
+1️⃣ Init a package: uv init --lib mypackage
+2️⃣ Add function to module
+3️⃣ Define [project.scripts] in pyproject.toml
+4️⃣ Build: uv build
+5️⃣ Install + run: uv pip install -e . && uv run hello
+
+Detailed steps 👇 (24 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3liwgfia6ok2s" target="_blank">link</a>
+  </li>
+
+  <li>
     #Python’s Standard Lib keeps blowing my mind. 🐍
 
 Need a month calendar? Use `calendar.monthcalendar()` - a simple matrix with sensible defaults, very clean! 🚀
@@ -26,22 +38,6 @@ With #Python + TextBlob, I automated review sentiment analysis to:
 ✅ Spot which exercises need improvement 📊
 ✅ Highlight top-rated Bites 💡
 ✅ Taking it one step further, using #AI to better detect sarcasm + context 🤖 (20 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3limfmuiops2t" target="_blank">link</a>
-  </li>
-
-  <li>
-    👉 Ever wondered how @ login_required works (e.g. in Flask)?
-
-It’s a #Python decorator modifying function behavior—without touching the original code! 
-
-Example below 🚀
-
-Why care?
-
-✅ Cleaner code 💡
-✅ Reusable code 📈
-✅ More extensible😎
-
-A must-know design pattern! 🔥 (19 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lijlgef2i22k" target="_blank">link</a>
   </li>
 
 </ul>
