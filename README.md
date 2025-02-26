@@ -11,6 +11,16 @@
 <ul>
 
   <li>
+    🚀 Just started exploring Django Ninja—FastAPI-style routing inside Django!
+
+Built my first endpoint for a books app, and it’s fast & intuitive.
+
+Django devs, this is worth checking out! Anyone else using it? 👇
+
+#Django #FastAPI #Python #DjangoNinja (25 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3liz6nufjp22v" target="_blank">link</a>
+  </li>
+
+  <li>
     How to add a console script to your #Python package with uv 🚀
 
 1️⃣ Init a package: uv init --lib mypackage
@@ -28,16 +38,6 @@ Detailed steps 👇 (24 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos
 Need a month calendar? Use `calendar.monthcalendar()` - a simple matrix with sensible defaults, very clean! 🚀
 
 Or use `calendar.Calendar()` + `.itermonthdates()` to iterate over all month dates (lazily loaded with a generator 😍) (21 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lionckmrdk2q" target="_blank">link</a>
-  </li>
-
-  <li>
-    Using #NLP to apply 80/20 to improving Bite Exercises 🚀
-
-With #Python + TextBlob, I automated review sentiment analysis to:
-
-✅ Spot which exercises need improvement 📊
-✅ Highlight top-rated Bites 💡
-✅ Taking it one step further, using #AI to better detect sarcasm + context 🤖 (20 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3limfmuiops2t" target="_blank">link</a>
   </li>
 
 </ul>
