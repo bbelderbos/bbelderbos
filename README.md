@@ -11,33 +11,26 @@
 <ul>
 
   <li>
-    🚀 Just started exploring Django Ninja—FastAPI-style routing inside Django!
+    OK I think it's time for a #sqlmodel learning path on our platform now ...
 
-Built my first endpoint for a books app, and it’s fast & intuitive.
-
-Django devs, this is worth checking out! Anyone else using it? 👇
-
-#Django #FastAPI #Python #DjangoNinja (25 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3liz6nufjp22v" target="_blank">link</a>
+#python #workinprogress (26 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lj3qhqxiac2a" target="_blank">link</a>
   </li>
 
   <li>
-    How to add a console script to your #Python package with uv 🚀
+    🐍 #Python Tip: Save memory with `__slots__` 🚀
 
-1️⃣ Init a package: uv init --lib mypackage
-2️⃣ Add function to module
-3️⃣ Define [project.scripts] in pyproject.toml
-4️⃣ Build: uv build
-5️⃣ Install + run: uv pip install -e . && uv run hello
+Instead of a dynamic `__dict__`, it defines a static structure, preventing new attributes but saving significant memory. 💡
 
-Detailed steps 👇 (24 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3liwgfia6ok2s" target="_blank">link</a>
+w1.a = 1 ✅
+w2.a = 1 ❌ (AttributeError)
+
+📌 Check the image for full code & memory comparison below.
+
+Have you used __slots__? 💡👇 (26 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lj3e7zy6u22j" target="_blank">link</a>
   </li>
 
   <li>
-    #Python’s Standard Lib keeps blowing my mind. 🐍
-
-Need a month calendar? Use `calendar.monthcalendar()` - a simple matrix with sensible defaults, very clean! 🚀
-
-Or use `calendar.Calendar()` + `.itermonthdates()` to iterate over all month dates (lazily loaded with a generator 😍) (21 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lionckmrdk2q" target="_blank">link</a>
+    Nice, my #Django Debug Toolbar YouTube video got featured in their docs 🎉 😎 (26 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lj37nda43s2j" target="_blank">link</a>
   </li>
 
 </ul>
