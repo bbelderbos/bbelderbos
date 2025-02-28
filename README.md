@@ -11,26 +11,32 @@
 <ul>
 
   <li>
+    What is this `if __name__ == "__main__":` at the end of a #Python script? 🐍
+
+It's typically used to include code that 💡
+• ONLY should run if the module / script is called directly,
+• and NOT upon importing it.   
+
+Quick example to see this in action -> (28 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lj7zlh5ui224" target="_blank">link</a>
+  </li>
+
+  <li>
+    Found this cool #Python decorator trick! 🐍🚀
+
+Instead of manually adding | (pipe) support to classes, use a decorator + metaclass to centralize it (= more DRY!):
+
+@add_llm(llm)
+class Recipe(BaseModel): ...
+
+Similar to pathlib.Path / "file"—elegant operator overloading! 😍
+
+Full code 👇 (27 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lj5zfyv4622v" target="_blank">link</a>
+  </li>
+
+  <li>
     OK I think it's time for a #sqlmodel learning path on our platform now ...
 
 #python #workinprogress (26 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lj3qhqxiac2a" target="_blank">link</a>
-  </li>
-
-  <li>
-    🐍 #Python Tip: Save memory with `__slots__` 🚀
-
-Instead of a dynamic `__dict__`, it defines a static structure, preventing new attributes but saving significant memory. 💡
-
-w1.a = 1 ✅
-w2.a = 1 ❌ (AttributeError)
-
-📌 Check the image for full code & memory comparison below.
-
-Have you used __slots__? 💡👇 (26 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lj3e7zy6u22j" target="_blank">link</a>
-  </li>
-
-  <li>
-    Nice, my #Django Debug Toolbar YouTube video got featured in their docs 🎉 😎 (26 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lj37nda43s2j" target="_blank">link</a>
   </li>
 
 </ul>
