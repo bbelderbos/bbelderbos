@@ -11,6 +11,16 @@
 <ul>
 
   <li>
+    🐍 Python vs. Rust: Iteration Compared 🦀
+
+Python's zip() makes pairing iterables simple. 
+
+Rust does the same with method chaining on iterators—a different but powerful approach.
+
+Check out the difference 👇 (28 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ljaabe6l7k2p" target="_blank">link</a>
+  </li>
+
+  <li>
     What is this `if __name__ == "__main__":` at the end of a #Python script? 🐍
 
 It's typically used to include code that 💡
@@ -31,12 +41,6 @@ class Recipe(BaseModel): ...
 Similar to pathlib.Path / "file"—elegant operator overloading! 😍
 
 Full code 👇 (27 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lj5zfyv4622v" target="_blank">link</a>
-  </li>
-
-  <li>
-    OK I think it's time for a #sqlmodel learning path on our platform now ...
-
-#python #workinprogress (26 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lj3qhqxiac2a" target="_blank">link</a>
   </li>
 
 </ul>
