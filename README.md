@@ -11,36 +11,39 @@
 <ul>
 
   <li>
-    🐍 Python vs. Rust: Iteration Compared 🦀
+    "The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie
 
-Python's zip() makes pairing iterables simple. 
+No CS degree. Went from Excel macros to #Python 🚀
 
-Rust does the same with method chaining on iterators—a different but powerful approach.
+Code wasn’t that clean at first, but by building a real-world solution I launched my dev career 💡
 
-Check out the difference 👇 (28 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ljaabe6l7k2p" target="_blank">link</a>
+Build first, polish later! 📈 (21 Mar 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lkvtxi3hn22o" target="_blank">link</a>
   </li>
 
   <li>
-    What is this `if __name__ == "__main__":` at the end of a #Python script? 🐍
+    List vs Generator in Python 🐍💡
 
-It's typically used to include code that 💡
-• ONLY should run if the module / script is called directly,
-• and NOT upon importing it.   
+List: 835MB, 0.99s
+Generator: 192B, 0.00s 😲
 
-Quick example to see this in action -> (28 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lj7zlh5ui224" target="_blank">link</a>
+• Use `sys.getsizeof()` to check memory.
+• Use generators when you don’t need all values at once.
+
+Small change, big difference! 📈
+
+#Python #tips #performance (20 Mar 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lksa4rjbbk25" target="_blank">link</a>
   </li>
 
   <li>
-    Found this cool #Python decorator trick! 🐍🚀
+    @Pybites Books v2 is live! 🚀
 
-Instead of manually adding | (pipe) support to classes, use a decorator + metaclass to centralize it (= more DRY!):
+Simple, fast book tracking that incentivizes you to keep #reading 😎
 
-@add_llm(llm)
-class Recipe(BaseModel): ...
+Gamified, clean design (Tailwind + Htmx 🙏), and loved by users already. 😍
 
-Similar to pathlib.Path / "file"—elegant operator overloading! 😍
+Let’s keep #books alive 💡, especially in this day and age. 📈
 
-Full code 👇 (27 Feb 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lj5zfyv4622v" target="_blank">link</a>
+Try it → pybitesbooks.com 📚 (19 Mar 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lkqhvyoldc27" target="_blank">link</a>
   </li>
 
 </ul>
