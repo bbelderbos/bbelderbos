@@ -11,39 +11,45 @@
 <ul>
 
   <li>
-    "The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie
+    Another #python stdlib gem 💎 + context manager 😎
 
-No CS degree. Went from Excel macros to #Python 🚀
+`tempfile.TemporaryDirectory()`
 
-Code wasn’t that clean at first, but by building a real-world solution I launched my dev career 💡
+- Creates a real temp dir on disk (e.g. /tmp/...)
+- Cleans up automatically after the with block, no need to delete manually.
 
-Build first, polish later! 📈 (21 Mar 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lkvtxi3hn22o" target="_blank">link</a>
+Eg: 
+
+with TemporaryDirectory() as tmpdir:
+... do stuff
+
+# dir removed here (01 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3llqz4au4422c" target="_blank">link</a>
   </li>
 
   <li>
-    List vs Generator in Python 🐍💡
+    Oh I have pillow in this env - how so?
 
-List: 835MB, 0.99s
-Generator: 192B, 0.00s 😲
+$ pipdeptree -r -p pillow
+pillow==10.4.0
+└── newspaper3k==0.2.8 [requires: pillow>=3.3.0]
 
-• Use `sys.getsizeof()` to check memory.
-• Use generators when you don’t need all values at once.
+Ok, got it!
 
-Small change, big difference! 📈
+Turns out you can also just use (uv) pip:
 
-#Python #tips #performance (20 Mar 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lksa4rjbbk25" target="_blank">link</a>
+$ pip show pillow
+...
+Requires:
+Required-by: newspaper3k
+
+#python (01 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3llqwwsnqu22a" target="_blank">link</a>
   </li>
 
   <li>
-    @Pybites Books v2 is live! 🚀
+    Stumbled upon this nice quote today = great reminder as well:
 
-Simple, fast book tracking that incentivizes you to keep #reading 😎
-
-Gamified, clean design (Tailwind + Htmx 🙏), and loved by users already. 😍
-
-Let’s keep #books alive 💡, especially in this day and age. 📈
-
-Try it → pybitesbooks.com 📚 (19 Mar 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lkqhvyoldc27" target="_blank">link</a>
+"Heroism doesn’t always have to consist of spectacular deeds. Someone who quietly, persistently does what needs to be done in his or her life is also a hero."
+- Stephen Fry (01 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3llqvbwyfbk2v" target="_blank">link</a>
   </li>
 
 </ul>
