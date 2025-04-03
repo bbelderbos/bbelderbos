@@ -11,45 +11,19 @@
 <ul>
 
   <li>
-    Another #python stdlib gem 💎 + context manager 😎
-
-`tempfile.TemporaryDirectory()`
-
-- Creates a real temp dir on disk (e.g. /tmp/...)
-- Cleans up automatically after the with block, no need to delete manually.
-
-Eg: 
-
-with TemporaryDirectory() as tmpdir:
-... do stuff
-
-# dir removed here (01 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3llqz4au4422c" target="_blank">link</a>
+    Have been using #tailwind manually in #django, but noice! This does make it a lot easier! https://django-tailwind.readthedocs.io/en/latest/installation.html (03 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3llviiiildc2b" target="_blank">link</a>
   </li>
 
   <li>
-    Oh I have pillow in this env - how so?
-
-$ pipdeptree -r -p pillow
-pillow==10.4.0
-└── newspaper3k==0.2.8 [requires: pillow>=3.3.0]
-
-Ok, got it!
-
-Turns out you can also just use (uv) pip:
-
-$ pip show pillow
-...
-Requires:
-Required-by: newspaper3k
-
-#python (01 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3llqwwsnqu22a" target="_blank">link</a>
+    pytest is awesome no? what is your favorite feature or plugin? (03 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3llvfybcpgk2e" target="_blank">link</a>
   </li>
 
   <li>
-    Stumbled upon this nice quote today = great reminder as well:
+    Finally learned how to make an 'em dash' (—) on Mac :) 
 
-"Heroism doesn’t always have to consist of spectacular deeds. Someone who quietly, persistently does what needs to be done in his or her life is also a hero."
-- Stephen Fry (01 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3llqvbwyfbk2v" target="_blank">link</a>
+Shift + Option + -
+
+(Spanish keyboard also gets you nice « » (html @raquo and &laquo;) chars using curlies) (02 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lltneoqg722x" target="_blank">link</a>
   </li>
 
 </ul>
