@@ -11,6 +11,10 @@
 <ul>
 
   <li>
+    AI won't take your job as a programmer. But resisting it might. 😱 (08 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmbzs4frnk2h" target="_blank">link</a>
+  </li>
+
+  <li>
     Nice, TIL that <details> +  tags are pure HTML5, supported by modern browsers. No JavaScript needed 😎 🚀 (04 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3llytfb7rb22u" target="_blank">link</a>
   </li>
 
@@ -20,10 +24,6 @@ Focus on programmatic thinking
 Not learning yet another shiny new tool per se
 
 [contains quote post or other embedded content] (04 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lly3llayqc2z" target="_blank">link</a>
-  </li>
-
-  <li>
-    Have been using #tailwind manually in #django, but noice! This does make it a lot easier! https://django-tailwind.readthedocs.io/en/latest/installation.html (03 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3llviiiildc2b" target="_blank">link</a>
   </li>
 
 </ul>
