@@ -11,19 +11,23 @@
 <ul>
 
   <li>
+    Defensive coding 101 💡👇
+
+🛡️ 1. Validate early, fail fast
+💥 2. No mutable default args
+🔐 3. Use context managers
+😵 4. Handle the weird / unexpected edge cases
+😅 5. Expect misuse
+🔄 6. Make side effects obvious
+🧪 7. Break your own code with tests (more than just happy path) (09 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmeouj4ggs23" target="_blank">link</a>
+  </li>
+
+  <li>
     AI won't take your job as a programmer. But resisting it might. 😱 (08 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmbzs4frnk2h" target="_blank">link</a>
   </li>
 
   <li>
     Nice, TIL that <details> +  tags are pure HTML5, supported by modern browsers. No JavaScript needed 😎 🚀 (04 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3llytfb7rb22u" target="_blank">link</a>
-  </li>
-
-  <li>
-    Well said!
-Focus on programmatic thinking
-Not learning yet another shiny new tool per se
-
-[contains quote post or other embedded content] (04 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lly3llayqc2z" target="_blank">link</a>
   </li>
 
 </ul>
