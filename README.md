@@ -11,6 +11,12 @@
 <ul>
 
   <li>
+    Pydantic is awesome for data cleaning + validation, but if you want something quick + stdlib only, you can also use dataclasses + `__post_init__` 🐍 😍 - see example below. 🚀
+
+#python #tips (11 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmjpzqsoik24" target="_blank">link</a>
+  </li>
+
+  <li>
     Defensive coding 101 💡👇
 
 🛡️ 1. Validate early, fail fast
@@ -24,10 +30,6 @@
 
   <li>
     AI won't take your job as a programmer. But resisting it might. 😱 (08 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmbzs4frnk2h" target="_blank">link</a>
-  </li>
-
-  <li>
-    Nice, TIL that <details> +  tags are pure HTML5, supported by modern browsers. No JavaScript needed 😎 🚀 (04 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3llytfb7rb22u" target="_blank">link</a>
   </li>
 
 </ul>
