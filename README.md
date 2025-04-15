@@ -11,6 +11,19 @@
 <ul>
 
   <li>
+    De-duped our books category page by reconciling similar titles, e.g.
+
+think & grow rich → think and grow rich
+everything is f*cked → everything is # @%!ed
+
+Just stdlib -> `difflib`, no external deps 🚀
+
+(Fun fact: Django’s manage.py uses this too btw 😎) 
+
+#python #tips (14 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmr6wfanzk2o" target="_blank">link</a>
+  </li>
+
+  <li>
     Pydantic is awesome for data cleaning + validation, but if you want something quick + stdlib only, you can also use dataclasses + `__post_init__` 🐍 😍 - see example below. 🚀
 
 #python #tips (11 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmjpzqsoik24" target="_blank">link</a>
@@ -26,10 +39,6 @@
 😅 5. Expect misuse
 🔄 6. Make side effects obvious
 🧪 7. Break your own code with tests (more than just happy path) (09 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmeouj4ggs23" target="_blank">link</a>
-  </li>
-
-  <li>
-    AI won't take your job as a programmer. But resisting it might. 😱 (08 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmbzs4frnk2h" target="_blank">link</a>
   </li>
 
 </ul>
