@@ -11,6 +11,32 @@
 <ul>
 
   <li>
+    A common #Polars saying:
+
+"𝙄 𝙘𝙖𝙢𝙚 𝙛𝙤𝙧 𝙩𝙝𝙚 𝙨𝙥𝙚𝙚𝙙, 𝙗𝙪𝙩 𝙨𝙩𝙖𝙮𝙚𝙙 𝙛𝙤𝙧 𝙩𝙝𝙚 𝙨𝙮𝙣𝙩𝙖𝙭" 😍
+
+I see why now — it's 𝗯𝗲𝗮𝘂𝘁𝗶𝗳𝘂𝗹 and 𝗳𝗮𝘀𝘁. 📈
+
+Switched from Pandas?
+What’s been your biggest win (or pain)? 🤔
+
+#Python #Rust #DataAnalytics (16 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmw6peaxkk2v" target="_blank">link</a>
+  </li>
+
+  <li>
+    After just 3 weeks in our upcoming cohort (halfway point), you’ll have a working CLI journal app:
+
+✅ Typer
+✅ clean code
+✅ testing
+✅ real end-to-end project
+
+We’ve coached 100s of devs 1:1 — now bringing that magic to our new cohort programs 🎉
+
+🔗 pybitescoaching.com (15 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmtzsd7rm22t" target="_blank">link</a>
+  </li>
+
+  <li>
     De-duped our books category page by reconciling similar titles, e.g.
 
 think & grow rich → think and grow rich
@@ -21,24 +47,6 @@ Just stdlib -> `difflib`, no external deps 🚀
 (Fun fact: Django’s manage.py uses this too btw 😎) 
 
 #python #tips (14 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmr6wfanzk2o" target="_blank">link</a>
-  </li>
-
-  <li>
-    Pydantic is awesome for data cleaning + validation, but if you want something quick + stdlib only, you can also use dataclasses + `__post_init__` 🐍 😍 - see example below. 🚀
-
-#python #tips (11 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmjpzqsoik24" target="_blank">link</a>
-  </li>
-
-  <li>
-    Defensive coding 101 💡👇
-
-🛡️ 1. Validate early, fail fast
-💥 2. No mutable default args
-🔐 3. Use context managers
-😵 4. Handle the weird / unexpected edge cases
-😅 5. Expect misuse
-🔄 6. Make side effects obvious
-🧪 7. Break your own code with tests (more than just happy path) (09 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmeouj4ggs23" target="_blank">link</a>
   </li>
 
 </ul>
