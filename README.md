@@ -11,42 +11,38 @@
 <ul>
 
   <li>
-    A common #Polars saying:
+    Do you know all these 5 powerful uses of * in #Python?
 
-"𝙄 𝙘𝙖𝙢𝙚 𝙛𝙤𝙧 𝙩𝙝𝙚 𝙨𝙥𝙚𝙚𝙙, 𝙗𝙪𝙩 𝙨𝙩𝙖𝙮𝙚𝙙 𝙛𝙤𝙧 𝙩𝙝𝙚 𝙨𝙮𝙣𝙩𝙖𝙭" 😍
+– Keyword-only args
+– Extended unpacking
+– Flexible funcs with *args
+– Unpack into func calls
+– Merge iterables
 
-I see why now — it's 𝗯𝗲𝗮𝘂𝘁𝗶𝗳𝘂𝗹 and 𝗳𝗮𝘀𝘁. 📈
+👇 See examples below — which ones do you use the most, and which ones are new to you?
 
-Switched from Pandas?
-What’s been your biggest win (or pain)? 🤔
-
-#Python #Rust #DataAnalytics (16 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmw6peaxkk2v" target="_blank">link</a>
+#coding #tips (18 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ln37qhmtmc2z" target="_blank">link</a>
   </li>
 
   <li>
-    After just 3 weeks in our upcoming cohort (halfway point), you’ll have a working CLI journal app:
+    'Scratch your own itch' is a good driver to build stuff. 💪
 
-✅ Typer
-✅ clean code
-✅ testing
-✅ real end-to-end project
+And even trivial things can lead to interesting projects. 💡
 
-We’ve coached 100s of devs 1:1 — now bringing that magic to our new cohort programs 🎉
+See this emoji searcher project for example, I still use this every day to find + copy emojis 🚀
+https://github.com/bbelderbos/emojisearcher
 
-🔗 pybitescoaching.com (15 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmtzsd7rm22t" target="_blank">link</a>
+What are you building with #Python? (18 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ln36pwfulc2d" target="_blank">link</a>
   </li>
 
   <li>
-    De-duped our books category page by reconciling similar titles, e.g.
+    Becoming a proficient #Python dev isn’t just about syntax, it’s about building usable apps with clean, testable, well-structured code.
 
-think & grow rich → think and grow rich
-everything is f*cked → everything is # @%!ed
+That’s what we coach in our 6-week cohort starting next month.
 
-Just stdlib -> `difflib`, no external deps 🚀
+Real apps. Real feedback. Real growth. 💪
 
-(Fun fact: Django’s manage.py uses this too btw 😎) 
-
-#python #tips (14 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmr6wfanzk2o" target="_blank">link</a>
+More info: pybitescoaching.com (17 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lmzfrpkaec25" target="_blank">link</a>
   </li>
 
 </ul>
