@@ -11,6 +11,16 @@
 <ul>
 
   <li>
+    Potentially underused #Python 🐍 feature: 𝘀𝗲𝘁 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 💡 
+
+Here's an example how we can remove or update tags, casting new + old into sets, then performing 𝘴𝘦𝘵 𝘰𝘱𝘦𝘳𝘢𝘵𝘪𝘰𝘯𝘴 🔥
+
+Have you used them, how? 😍
+
+(Still on the fence about 𝘸𝘢𝘭𝘳𝘶𝘴, but couldn't bear doing 𝘴𝘵𝘳𝘪𝘱() twice 😅) (25 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnml5fdrrs2u" target="_blank">link</a>
+  </li>
+
+  <li>
     Seems pydantic validators don't hit with sqlmodel table=True - have you hit this and if so, how have you added validation to your model (e.g. min length field = N characters)? (24 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnkbdbe75k2t" target="_blank">link</a>
   </li>
 
@@ -22,20 +32,6 @@ In the example below, we first use 𝘛𝘦𝘮𝘱𝘰𝘳𝘢𝘳𝘺𝘋𝘪�
 This is a great example of using a 𝗰𝗼𝗻𝘁𝗲𝘅𝘁 𝗺𝗮𝗻𝗮𝗴𝗲𝗿 — a clean way to automatically clean up resources.
 
 pytest makes it even easier using the 𝘵𝘮𝘱_𝘱𝘢𝘵𝘩 fixture: (23 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnhu53c3bk2b" target="_blank">link</a>
-  </li>
-
-  <li>
-    Do you know all these 5 powerful uses of * in #Python?
-
-– Keyword-only args
-– Extended unpacking
-– Flexible funcs with *args
-– Unpack into func calls
-– Merge iterables
-
-👇 See examples below — which ones do you use the most, and which ones are new to you?
-
-#coding #tips (18 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ln37qhmtmc2z" target="_blank">link</a>
   </li>
 
 </ul>
