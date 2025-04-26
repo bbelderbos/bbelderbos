@@ -11,6 +11,22 @@
 <ul>
 
   <li>
+    𝟱 𝗰𝗼𝗼𝗹 𝘄𝗮𝘆𝘀 to use the underscore in #Python 🐍💡
+
+• Ignore 𝘃𝗮𝗹𝘂𝗲𝘀 when unpacking
+
+• Loop 𝗽𝗹𝗮𝗰𝗲𝗵𝗼𝗹𝗱𝗲𝗿
+
+• Access 𝗹𝗮𝘀𝘁 𝗿𝗲𝘀𝘂𝗹𝘁 in REPL
+
+• Format 𝗹𝗮𝗿𝗴𝗲 𝗻𝘂𝗺𝗯𝗲𝗿𝘀
+
+• Define "𝗽𝗿𝗶𝘃𝗮𝘁𝗲" methods (convention)
+
+See below 👇 (25 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnnfd6ukvs2t" target="_blank">link</a>
+  </li>
+
+  <li>
     Potentially underused #Python 🐍 feature: 𝘀𝗲𝘁 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 💡 
 
 Here's an example how we can remove or update tags, casting new + old into sets, then performing 𝘴𝘦𝘵 𝘰𝘱𝘦𝘳𝘢𝘵𝘪𝘰𝘯𝘴 🔥
@@ -22,16 +38,6 @@ Have you used them, how? 😍
 
   <li>
     Seems pydantic validators don't hit with sqlmodel table=True - have you hit this and if so, how have you added validation to your model (e.g. min length field = N characters)? (24 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnkbdbe75k2t" target="_blank">link</a>
-  </li>
-
-  <li>
-    Making a temporary file/dur is very useful for 𝘁𝗲𝘀𝘁𝗶𝗻𝗴.
-
-In the example below, we first use 𝘛𝘦𝘮𝘱𝘰𝘳𝘢𝘳𝘺𝘋𝘪𝘳𝘦𝘤𝘵𝘰𝘳𝘺 to create 5 temp files. 
-
-This is a great example of using a 𝗰𝗼𝗻𝘁𝗲𝘅𝘁 𝗺𝗮𝗻𝗮𝗴𝗲𝗿 — a clean way to automatically clean up resources.
-
-pytest makes it even easier using the 𝘵𝘮𝘱_𝘱𝘢𝘵𝘩 fixture: (23 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnhu53c3bk2b" target="_blank">link</a>
   </li>
 
 </ul>
