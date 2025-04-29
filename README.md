@@ -11,6 +11,20 @@
 <ul>
 
   <li>
+    🚀 Build real software, not just more tutorials.
+
+Join our 6-week Pybites Developer Cohort (PDC Professional) and ship a real app:
+
+✅ Clean arch + TDD
+✅ CLI + FastAPI
+✅ CI/CD + Cloud deploy
+✅ Portfolio-ready repo
+
+Start May 12 → pybitescoaching.com
+https://pybitescoaching.com/ (29 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnwrzctyds26" target="_blank">link</a>
+  </li>
+
+  <li>
     𝟱 𝗰𝗼𝗼𝗹 𝘄𝗮𝘆𝘀 to use the underscore in #Python 🐍💡
 
 • Ignore 𝘃𝗮𝗹𝘂𝗲𝘀 when unpacking
@@ -34,10 +48,6 @@ Here's an example how we can remove or update tags, casting new + old into sets,
 Have you used them, how? 😍
 
 (Still on the fence about 𝘸𝘢𝘭𝘳𝘶𝘴, but couldn't bear doing 𝘴𝘵𝘳𝘪𝘱() twice 😅) (25 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnml5fdrrs2u" target="_blank">link</a>
-  </li>
-
-  <li>
-    Seems pydantic validators don't hit with sqlmodel table=True - have you hit this and if so, how have you added validation to your model (e.g. min length field = N characters)? (24 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnkbdbe75k2t" target="_blank">link</a>
   </li>
 
 </ul>
