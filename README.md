@@ -11,6 +11,22 @@
 <ul>
 
   <li>
+    7 adjacent skills that made me a better #developer (early on):
+
+💻 Vim + CLI
+🛠 Support/troubleshooting
+🚢 Building complete apps
+✍️ Writing/blogging
+✅ Automating tasks
+🔁 Git
+🤝 Mentoring/teaching
+
+Code is just the start. These built the real foundation.
+
+#developers #python (02 May 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lo6l36ind22h" target="_blank">link</a>
+  </li>
+
+  <li>
     #vibecoding, is it doing more harm than good? (29 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnxfsqldhs2f" target="_blank">link</a>
   </li>
 
@@ -20,20 +36,6 @@
 📄 Write text in latin-1 ➡️ try to read as utf-8 ➡️ 💥 UnicodeDecodeError.
 
 👨‍💻 Solution: (29 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnwzypu5l22m" target="_blank">link</a>
-  </li>
-
-  <li>
-    🚀 Build real software, not just more tutorials.
-
-Join our 6-week Pybites Developer Cohort (PDC Professional) and ship a real app:
-
-✅ Clean arch + TDD
-✅ CLI + FastAPI
-✅ CI/CD + Cloud deploy
-✅ Portfolio-ready repo
-
-Start May 12 → pybitescoaching.com
-https://pybitescoaching.com/ (29 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnwrzctyds26" target="_blank">link</a>
   </li>
 
 </ul>
