@@ -11,6 +11,14 @@
 <ul>
 
   <li>
+    🚀 Built a #Streamlit front-end on top of a #FastAPI backend for our next cohort (starting next week!) 🚀
+
+Great stack for quickly prototyping a front-end, all #Python, no JS 😎
+
+(For more serious web apps you definitely want JS and/or htmlx though 💡) (06 May 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lojdbozwrk2v" target="_blank">link</a>
+  </li>
+
+  <li>
     7 adjacent skills that made me a better #developer (early on):
 
 💻 Vim + CLI
@@ -28,14 +36,6 @@ Code is just the start. These built the real foundation.
 
   <li>
     #vibecoding, is it doing more harm than good? (29 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnxfsqldhs2f" target="_blank">link</a>
-  </li>
-
-  <li>
-    TIL about the 🔥 chardet library — it guesses unknown file encodings!
-
-📄 Write text in latin-1 ➡️ try to read as utf-8 ➡️ 💥 UnicodeDecodeError.
-
-👨‍💻 Solution: (29 Apr 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lnwzypu5l22m" target="_blank">link</a>
   </li>
 
 </ul>
