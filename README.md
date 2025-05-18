@@ -47,6 +47,26 @@ Great stack for quickly prototyping a front-end, all #Python, no JS 😎
 
 <ul>
 
+  <li>
+    Detect file encoding with chardet: The *chardet* library is super handy for guessing unknown file encodings. ... (29 Apr 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250429120228.md" target="_blank">link</a>
+  </li>
+
+  <li>
+    Temporary files / directories: Making a temporary file/directory is very useful for testing. ... (23 Apr 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250423104954.md" target="_blank">link</a>
+  </li>
+
+  <li>
+    Timing code in Python: Using `timeit` to compare merging dictionaries in #Python: Old way with `**` unpacking vs. new way with `|`. ... (26 Jul 2024) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111622.md" target="_blank">link</a>
+  </li>
+
+  <li>
+    Merging dictionaries: Old way: `{**dict1, **dict2}` ... (26 Jul 2024) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111507.md" target="_blank">link</a>
+  </li>
+
+  <li>
+    You can now use | for typing: `|` got added to type hints >= 3.10, not needing the `typing` import anymore for these: ... (26 Jul 2024) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111223.md" target="_blank">link</a>
+  </li>
+
 </ul>
 
 > <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More Python tips &raquo;</a>
