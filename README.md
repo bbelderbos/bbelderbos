@@ -11,6 +11,18 @@
 <ul>
 
   <li>
+    Thanks for joining us 🎧 @tiangolo.com  🎉 and for all you do with @fastapi.tiangolo.com, other libs, and now FastAPI Cloud 😍  
+
+It will be so nice to deploy FastAPI apps with just: `fastapi deploy`  🚀
+
+https://www.youtube.com/watch?v=Q_8aXh33Cpk (27 May 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lq66sby3x22j" target="_blank">link</a>
+  </li>
+
+  <li>
+    I've completed "Build unix' wc program in python" on @pybites.bsky.social 🐍🎉 - https://pybitesplatform.com/bites/build-unix-wc-program-in-python/ (27 May 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lq66nwtcos2j" target="_blank">link</a>
+  </li>
+
+  <li>
     snakeviz == nice for profiling + visualizing 💡 💪 🐍
 
 uv run python -m cProfile -o profile.out -m script_or_package
@@ -20,20 +32,6 @@ uv run snakeviz profile.out
 (Screenshot: me profiling slow Pandas code as a candidate to refactor using Polars 🔥)
 
 #python #debugging (09 May 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3loqrry4ohk24" target="_blank">link</a>
-  </li>
-
-  <li>
-    I've completed "Pybites date generator" on @pybites.bsky.social 🐍🎉 - https://pybitesplatform.com/bites/pybites-date-generator/ 
-
-#python (09 May 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3loqrmtzggc24" target="_blank">link</a>
-  </li>
-
-  <li>
-    🚀 Built a #Streamlit front-end on top of a #FastAPI backend for our next cohort (starting next week!) 🚀
-
-Great stack for quickly prototyping a front-end, all #Python, no JS 😎
-
-(For more serious web apps you definitely want JS and/or htmlx though 💡) (06 May 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lojdbozwrk2v" target="_blank">link</a>
   </li>
 
 </ul>
