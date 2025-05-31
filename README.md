@@ -46,6 +46,10 @@ uv run snakeviz profile.out
 <ul>
 
   <li>
+    Simplify layered dict lookups with ChainMap: Problem: you need to look up a key across multiple dictionaries in priority order — later groups should override earlier ones. Nesting `.get()`s works but becomes messy and hard to maintain. ... (31 May 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250531085240.md" target="_blank">link</a>
+  </li>
+
+  <li>
     Detect file encoding with chardet: The *chardet* library is super handy for guessing unknown file encodings. ... (29 Apr 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250429120228.md" target="_blank">link</a>
   </li>
 
@@ -59,10 +63,6 @@ uv run snakeviz profile.out
 
   <li>
     Merging dictionaries: Old way: `{**dict1, **dict2}` ... (26 Jul 2024) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111507.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    You can now use | for typing: `|` got added to type hints >= 3.10, not needing the `typing` import anymore for these: ... (26 Jul 2024) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111223.md" target="_blank">link</a>
   </li>
 
 </ul>
