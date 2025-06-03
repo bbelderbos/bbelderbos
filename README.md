@@ -46,6 +46,10 @@ uv run snakeviz profile.out
 <ul>
 
   <li>
+    How Counter and defaultdict work in Python: Python’s `__missing__` method is the secret behind the magic of Counter and defaultdict 🔍🐍 ... (02 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250602145533.md" target="_blank">link</a>
+  </li>
+
+  <li>
     Simplify layered dict lookups with ChainMap: Problem: you need to look up a key across multiple dictionaries in priority order — later groups should override earlier ones. Nesting `.get()`s works but becomes messy and hard to maintain. ... (31 May 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250531085240.md" target="_blank">link</a>
   </li>
 
@@ -59,10 +63,6 @@ uv run snakeviz profile.out
 
   <li>
     Timing code in Python: Using `timeit` to compare merging dictionaries in #Python: Old way with `**` unpacking vs. new way with `|`. ... (26 Jul 2024) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111622.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Merging dictionaries: Old way: `{**dict1, **dict2}` ... (26 Jul 2024) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111507.md" target="_blank">link</a>
   </li>
 
 </ul>
