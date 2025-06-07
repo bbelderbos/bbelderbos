@@ -46,6 +46,10 @@ uv run snakeviz profile.out
 <ul>
 
   <li>
+    Effortless Grouping with defaultdict + Geo Mapping 🌍: Want to group countries by continent using their 2-letter codes? ... (06 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250606150610.md" target="_blank">link</a>
+  </li>
+
+  <li>
     How Counter and defaultdict work in Python: Python’s `__missing__` method is the secret behind the magic of Counter and defaultdict 🔍🐍 ... (02 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250602145533.md" target="_blank">link</a>
   </li>
 
@@ -59,10 +63,6 @@ uv run snakeviz profile.out
 
   <li>
     Temporary files / directories: Making a temporary file/directory is very useful for testing. ... (23 Apr 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250423104954.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Timing code in Python: Using `timeit` to compare merging dictionaries in #Python: Old way with `**` unpacking vs. new way with `|`. ... (26 Jul 2024) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20240726111622.md" target="_blank">link</a>
   </li>
 
 </ul>
