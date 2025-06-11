@@ -46,6 +46,10 @@ uv run snakeviz profile.out
 <ul>
 
   <li>
+    __slots__: Do you want leaner, faster Python objects with stricter attribute control? ... (11 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250611084917.md" target="_blank">link</a>
+  </li>
+
+  <li>
     Effortless Grouping with defaultdict + Geo Mapping 🌍: Want to group countries by continent using their 2-letter codes? ... (06 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250606150610.md" target="_blank">link</a>
   </li>
 
@@ -59,10 +63,6 @@ uv run snakeviz profile.out
 
   <li>
     Detect file encoding with chardet: The *chardet* library is super handy for guessing unknown file encodings. ... (29 Apr 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250429120228.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Temporary files / directories: Making a temporary file/directory is very useful for testing. ... (23 Apr 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250423104954.md" target="_blank">link</a>
   </li>
 
 </ul>
