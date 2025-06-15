@@ -46,6 +46,10 @@ uv run snakeviz profile.out
 <ul>
 
   <li>
+    copy to OS clipboard: Did you know you can use `pyperclip` to copy to your OS clipboard in #Python? ... (14 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250614182623.md" target="_blank">link</a>
+  </li>
+
+  <li>
     __slots__: Do you want leaner, faster Python objects with stricter attribute control? ... (11 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250611084917.md" target="_blank">link</a>
   </li>
 
@@ -59,10 +63,6 @@ uv run snakeviz profile.out
 
   <li>
     Simplify layered dict lookups with ChainMap: Problem: you need to look up a key across multiple dictionaries in priority order — later groups should override earlier ones. Nesting `.get()`s works but becomes messy and hard to maintain. ... (31 May 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250531085240.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Detect file encoding with chardet: The *chardet* library is super handy for guessing unknown file encodings. ... (29 Apr 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250429120228.md" target="_blank">link</a>
   </li>
 
 </ul>
