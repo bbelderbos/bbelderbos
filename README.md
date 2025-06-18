@@ -11,6 +11,10 @@
 <ul>
 
   <li>
+    Heads up I am running another Snipster #Python training cohort next week - we'll build this cool app: (17 Jun 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lrsitvcqz22b" target="_blank">link</a>
+  </li>
+
+  <li>
     Thanks for joining us 🎧 @tiangolo.com  🎉 and for all you do with @fastapi.tiangolo.com, other libs, and now FastAPI Cloud 😍  
 
 It will be so nice to deploy FastAPI apps with just: `fastapi deploy`  🚀
@@ -20,18 +24,6 @@ https://www.youtube.com/watch?v=Q_8aXh33Cpk (27 May 2025) - <a href="https://bsk
 
   <li>
     I've completed "Build unix' wc program in python" on @pybites.bsky.social 🐍🎉 - https://pybitesplatform.com/bites/build-unix-wc-program-in-python/ (27 May 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lq66nwtcos2j" target="_blank">link</a>
-  </li>
-
-  <li>
-    snakeviz == nice for profiling + visualizing 💡 💪 🐍
-
-uv run python -m cProfile -o profile.out -m script_or_package
-uv add --dev snakeviz
-uv run snakeviz profile.out
-
-(Screenshot: me profiling slow Pandas code as a candidate to refactor using Polars 🔥)
-
-#python #debugging (09 May 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3loqrry4ohk24" target="_blank">link</a>
   </li>
 
 </ul>
@@ -46,6 +38,14 @@ uv run snakeviz profile.out
 <ul>
 
   <li>
+    Get pipes in Python: Like Unix piping, you can create a pipeline of functions in Python using a custom `Pipe` class overriding the `__or__` method. This allows you to create a sequence of operations where the output of one function becomes the input of the next. Simple example below. ... (17 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250617181115.md" target="_blank">link</a>
+  </li>
+
+  <li>
+    Selenium style command line automation: You can use heredoc to simulate typing input into an interactive command line application. This is useful for testing or automating command line tools that require user input. ... (17 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250617154947.md" target="_blank">link</a>
+  </li>
+
+  <li>
     copy to OS clipboard: Did you know you can use `pyperclip` to copy to your OS clipboard in #Python? ... (14 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250614182623.md" target="_blank">link</a>
   </li>
 
@@ -55,14 +55,6 @@ uv run snakeviz profile.out
 
   <li>
     Effortless Grouping with defaultdict + Geo Mapping 🌍: Want to group countries by continent using their 2-letter codes? ... (06 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250606150610.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    How Counter and defaultdict work in Python: Python’s `__missing__` method is the secret behind the magic of Counter and defaultdict 🔍🐍 ... (02 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250602145533.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Simplify layered dict lookups with ChainMap: Problem: you need to look up a key across multiple dictionaries in priority order — later groups should override earlier ones. Nesting `.get()`s works but becomes messy and hard to maintain. ... (31 May 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250531085240.md" target="_blank">link</a>
   </li>
 
 </ul>
