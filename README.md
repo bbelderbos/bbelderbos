@@ -38,6 +38,10 @@ https://www.youtube.com/watch?v=Q_8aXh33Cpk (27 May 2025) - <a href="https://bsk
 <ul>
 
   <li>
+    Literal to constrain values: Want to make your code safer and more self-documenting? ... (19 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250619155518.md" target="_blank">link</a>
+  </li>
+
+  <li>
     Get pipes in Python: Like Unix piping, you can create a pipeline of functions in Python using a custom `Pipe` class overriding the `__or__` method. This allows you to create a sequence of operations where the output of one function becomes the input of the next. Simple example below. ... (17 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250617181115.md" target="_blank">link</a>
   </li>
 
@@ -51,10 +55,6 @@ https://www.youtube.com/watch?v=Q_8aXh33Cpk (27 May 2025) - <a href="https://bsk
 
   <li>
     __slots__: Do you want leaner, faster Python objects with stricter attribute control? ... (11 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250611084917.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Effortless Grouping with defaultdict + Geo Mapping 🌍: Want to group countries by continent using their 2-letter codes? ... (06 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250606150610.md" target="_blank">link</a>
   </li>
 
 </ul>
