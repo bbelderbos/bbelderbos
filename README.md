@@ -38,6 +38,10 @@ https://www.youtube.com/watch?v=Q_8aXh33Cpk (27 May 2025) - <a href="https://bsk
 <ul>
 
   <li>
+    Parse any date format with dateutil: Tired of manually parsing date strings? Use `dateutil.parser.parse` to auto-detect and convert nearly any date format to a datetime object, even fuzzy, partial, or timezone-tagged strings. 😍 🚀 ... (25 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250625100843.md" target="_blank">link</a>
+  </li>
+
+  <li>
     Literal to constrain values: Want to make your code safer and more self-documenting? ... (19 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250619155518.md" target="_blank">link</a>
   </li>
 
@@ -51,10 +55,6 @@ https://www.youtube.com/watch?v=Q_8aXh33Cpk (27 May 2025) - <a href="https://bsk
 
   <li>
     copy to OS clipboard: Did you know you can use `pyperclip` to copy to your OS clipboard in #Python? ... (14 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250614182623.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    __slots__: Do you want leaner, faster Python objects with stricter attribute control? ... (11 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250611084917.md" target="_blank">link</a>
   </li>
 
 </ul>
