@@ -38,6 +38,10 @@ https://www.youtube.com/watch?v=Q_8aXh33Cpk (27 May 2025) - <a href="https://bsk
 <ul>
 
   <li>
+    Counter vs defaultdict(int) performance: `collections.Counter` isn’t just the most convenient way to count items in Python, it’s also shorter and faster, nearly 2× faster than a manual defaultdict approach. 🏃 ... (22 Jul 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250722185526.md" target="_blank">link</a>
+  </li>
+
+  <li>
     Keyword-only arguments for dataclasses: You can force keyword-only arguments in dataclasses (Python 🐍 3.10+) 🔥 ... (10 Jul 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250710131114.md" target="_blank">link</a>
   </li>
 
@@ -51,10 +55,6 @@ https://www.youtube.com/watch?v=Q_8aXh33Cpk (27 May 2025) - <a href="https://bsk
 
   <li>
     Get pipes in Python: Like Unix piping, you can create a pipeline of functions in Python using a custom `Pipe` class overriding the `__or__` method. This allows you to create a sequence of operations where the output of one function becomes the input of the next. Simple example below. ... (17 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250617181115.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Selenium style command line automation: You can use heredoc to simulate typing input into an interactive command line application. This is useful for testing or automating command line tools that require user input. ... (17 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250617154947.md" target="_blank">link</a>
   </li>
 
 </ul>
