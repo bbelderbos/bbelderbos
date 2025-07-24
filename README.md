@@ -11,19 +11,15 @@
 <ul>
 
   <li>
+    What are you doing with #python this week? (23 Jul 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lun6o6tvyk24" target="_blank">link</a>
+  </li>
+
+  <li>
+    Haven't been here in a while? What's happening? (23 Jul 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lun2d5qvwc2l" target="_blank">link</a>
+  </li>
+
+  <li>
     Heads up I am running another Snipster #Python training cohort next week - we'll build this cool app: (17 Jun 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lrsitvcqz22b" target="_blank">link</a>
-  </li>
-
-  <li>
-    Thanks for joining us 🎧 @tiangolo.com  🎉 and for all you do with @fastapi.tiangolo.com, other libs, and now FastAPI Cloud 😍  
-
-It will be so nice to deploy FastAPI apps with just: `fastapi deploy`  🚀
-
-https://www.youtube.com/watch?v=Q_8aXh33Cpk (27 May 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lq66sby3x22j" target="_blank">link</a>
-  </li>
-
-  <li>
-    I've completed "Build unix' wc program in python" on @pybites.bsky.social 🐍🎉 - https://pybitesplatform.com/bites/build-unix-wc-program-in-python/ (27 May 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lq66nwtcos2j" target="_blank">link</a>
   </li>
 
 </ul>
