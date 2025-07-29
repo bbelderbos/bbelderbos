@@ -11,15 +11,15 @@
 <ul>
 
   <li>
+    I really like the retry use case to demonstrate #python decorators: (29 Jul 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lv3oywuow22l" target="_blank">link</a>
+  </li>
+
+  <li>
     What are you doing with #python this week? (23 Jul 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lun6o6tvyk24" target="_blank">link</a>
   </li>
 
   <li>
     Haven't been here in a while? What's happening? (23 Jul 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lun2d5qvwc2l" target="_blank">link</a>
-  </li>
-
-  <li>
-    Heads up I am running another Snipster #Python training cohort next week - we'll build this cool app: (17 Jun 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lrsitvcqz22b" target="_blank">link</a>
   </li>
 
 </ul>
@@ -32,6 +32,10 @@
 ### Latest Python tips
 
 <ul>
+
+  <li>
+    retry decorator: I suggested a decorator in a code review today. 😎 ... (28 Jul 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250728142551.md" target="_blank">link</a>
+  </li>
 
   <li>
     Counter vs defaultdict(int) performance: `collections.Counter` isn’t just the most convenient way to count items in Python, it’s also shorter and faster, nearly 2× faster than a manual defaultdict approach. 🏃 ... (22 Jul 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250722185526.md" target="_blank">link</a>
@@ -47,10 +51,6 @@
 
   <li>
     Literal to constrain values: Want to make your code safer and more self-documenting? ... (19 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250619155518.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Get pipes in Python: Like Unix piping, you can create a pipeline of functions in Python using a custom `Pipe` class overriding the `__or__` method. This allows you to create a sequence of operations where the output of one function becomes the input of the next. Simple example below. ... (17 Jun 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250617181115.md" target="_blank">link</a>
   </li>
 
 </ul>
