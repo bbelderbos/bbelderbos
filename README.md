@@ -34,6 +34,10 @@
 <ul>
 
   <li>
+    Context managers vs decorators: Sometimes I see @contextmanager code that could also be written as a decorator. ... (04 Aug 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250804143601.md" target="_blank">link</a>
+  </li>
+
+  <li>
     iterators are consumed once: 🧠 Python gotcha: iterators are consumed once! 💡 ... (29 Jul 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250729112057.md" target="_blank">link</a>
   </li>
 
@@ -47,10 +51,6 @@
 
   <li>
     Counter vs defaultdict(int) performance: `collections.Counter` isn’t just the most convenient way to count items in Python, it’s also shorter and faster, nearly 2× faster than a manual defaultdict approach. 🏃 ... (22 Jul 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250722185526.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Keyword-only arguments for dataclasses: You can force keyword-only arguments in dataclasses (Python 🐍 3.10+) 🔥 ... (10 Jul 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250710131114.md" target="_blank">link</a>
   </li>
 
 </ul>
