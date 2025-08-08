@@ -34,6 +34,10 @@
 <ul>
 
   <li>
+    string enum: Ever wondered why your enum comparison in Python didn't work? ... (07 Aug 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250807145320.md" target="_blank">link</a>
+  </li>
+
+  <li>
     Context managers vs decorators: Sometimes I see @contextmanager code that could also be written as a decorator. ... (04 Aug 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250804143601.md" target="_blank">link</a>
   </li>
 
@@ -47,10 +51,6 @@
 
   <li>
     retry decorator: I suggested a decorator in a code review today. 😎 ... (28 Jul 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250728142551.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Counter vs defaultdict(int) performance: `collections.Counter` isn’t just the most convenient way to count items in Python, it’s also shorter and faster, nearly 2× faster than a manual defaultdict approach. 🏃 ... (22 Jul 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250722185526.md" target="_blank">link</a>
   </li>
 
 </ul>
