@@ -11,15 +11,19 @@
 <ul>
 
   <li>
+    New Bite on the platform:
+
+Subclassing: Vehicles in Motion
+
+#python (11 Aug 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lw4mafbo6s23" target="_blank">link</a>
+  </li>
+
+  <li>
     I really like the retry use case to demonstrate #python decorators: (29 Jul 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lv3oywuow22l" target="_blank">link</a>
   </li>
 
   <li>
     What are you doing with #python this week? (23 Jul 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lun6o6tvyk24" target="_blank">link</a>
-  </li>
-
-  <li>
-    Haven't been here in a while? What's happening? (23 Jul 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lun2d5qvwc2l" target="_blank">link</a>
   </li>
 
 </ul>
