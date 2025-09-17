@@ -38,6 +38,10 @@ Subclassing: Vehicles in Motion
 <ul>
 
   <li>
+    document your regexes: Did you know you can make your regex patterns more readable with re.VERBOSE (re.X) so you can split them across lines and add comments. 💡📈 ... (16 Sep 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250916102913.md" target="_blank">link</a>
+  </li>
+
+  <li>
     string enum: Ever wondered why your enum comparison in Python didn't work? ... (07 Aug 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250807145320.md" target="_blank">link</a>
   </li>
 
@@ -51,10 +55,6 @@ Subclassing: Vehicles in Motion
 
   <li>
     handle uncaught exceptions: How do tools like Sentry catch uncaught Python exceptions? 🐍 ... (29 Jul 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250729111830.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    retry decorator: I suggested a decorator in a code review today. 😎 ... (28 Jul 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250728142551.md" target="_blank">link</a>
   </li>
 
 </ul>
