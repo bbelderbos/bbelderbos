@@ -38,7 +38,15 @@ Subclassing: Vehicles in Motion
 <ul>
 
   <li>
+    FIFO vs LIFO: Using the right data structure matters 💡 ... (17 Sep 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250917125957.md" target="_blank">link</a>
+  </li>
+
+  <li>
     document your regexes: Did you know you can make your regex patterns more readable with re.VERBOSE (re.X) so you can split them across lines and add comments. 💡📈 ... (16 Sep 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250916102913.md" target="_blank">link</a>
+  </li>
+
+  <li>
+    Avoid accidental shared references in Python 🐍: Using `[[0] * width] * height` creates multiple references to the same inner list. ... (03 Sep 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250903144441.md" target="_blank">link</a>
   </li>
 
   <li>
@@ -47,14 +55,6 @@ Subclassing: Vehicles in Motion
 
   <li>
     Context managers vs decorators: Sometimes I see @contextmanager code that could also be written as a decorator. ... (04 Aug 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250804143601.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    iterators are consumed once: 🧠 Python gotcha: iterators are consumed once! 💡 ... (29 Jul 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250729112057.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    handle uncaught exceptions: How do tools like Sentry catch uncaught Python exceptions? 🐍 ... (29 Jul 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250729111830.md" target="_blank">link</a>
   </li>
 
 </ul>
