@@ -38,6 +38,14 @@ Subclassing: Vehicles in Motion
 <ul>
 
   <li>
+    divmod built-in: Ever needed both integer division (`//`) and remainder (`%`)? 🤔 ... (13 Oct 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251013163518.md" target="_blank">link</a>
+  </li>
+
+  <li>
+    Sort by callable: Did you know that the key argument of 🐍 `sorted()` accepts any callable that transforms items before comparison, e.g. built-ins like `str.lower` or `len`, or your own custom functions 😍💡 ... (13 Oct 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251013160006.md" target="_blank">link</a>
+  </li>
+
+  <li>
     FIFO vs LIFO: Using the right data structure matters 💡 ... (17 Sep 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250917125957.md" target="_blank">link</a>
   </li>
 
@@ -47,14 +55,6 @@ Subclassing: Vehicles in Motion
 
   <li>
     Avoid accidental shared references in Python 🐍: Using `[[0] * width] * height` creates multiple references to the same inner list. ... (03 Sep 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250903144441.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    string enum: Ever wondered why your enum comparison in Python didn't work? ... (07 Aug 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250807145320.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Context managers vs decorators: Sometimes I see @contextmanager code that could also be written as a decorator. ... (04 Aug 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250804143601.md" target="_blank">link</a>
   </li>
 
 </ul>
