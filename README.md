@@ -38,6 +38,10 @@ Subclassing: Vehicles in Motion
 <ul>
 
   <li>
+    Priority queues made simple with heapq: Need to schedule tasks by urgency or priority? ... (16 Oct 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251016160229.md" target="_blank">link</a>
+  </li>
+
+  <li>
     divmod built-in: Ever needed both integer division (`//`) and remainder (`%`)? 🤔 ... (13 Oct 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251013163518.md" target="_blank">link</a>
   </li>
 
@@ -51,10 +55,6 @@ Subclassing: Vehicles in Motion
 
   <li>
     document your regexes: Did you know you can make your regex patterns more readable with re.VERBOSE (re.X) so you can split them across lines and add comments. 💡📈 ... (16 Sep 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250916102913.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Avoid accidental shared references in Python 🐍: Using `[[0] * width] * height` creates multiple references to the same inner list. ... (03 Sep 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20250903144441.md" target="_blank">link</a>
   </li>
 
 </ul>
