@@ -11,6 +11,12 @@
 <ul>
 
   <li>
+    TIL #Python 3.14 comes with uuid6 and -7
+
+And really nice: since 3.12 the uuid module can be executed as a script from the command line 📈 - so with a bit of uv we get to a pretty powerful command 😍 👇 (11 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5e3clryxc2s" target="_blank">link</a>
+  </li>
+
+  <li>
     New Bite on the platform:
 
 Subclassing: Vehicles in Motion
@@ -20,10 +26,6 @@ Subclassing: Vehicles in Motion
 
   <li>
     I really like the retry use case to demonstrate #python decorators: (29 Jul 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lv3oywuow22l" target="_blank">link</a>
-  </li>
-
-  <li>
-    What are you doing with #python this week? (23 Jul 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lun6o6tvyk24" target="_blank">link</a>
   </li>
 
 </ul>
