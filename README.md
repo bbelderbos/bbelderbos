@@ -11,6 +11,12 @@
 <ul>
 
   <li>
+    I like #Python books and reading source code for inspiration, but don't underestimate the power of the docs.
+
+This week I learned that uuid now supports v7 and that random + sqlite3 added command-line scripts in recent versions. (12 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5ghk2i7bx2t" target="_blank">link</a>
+  </li>
+
+  <li>
     TIL #Python 3.14 comes with uuid6 and -7
 
 And really nice: since 3.12 the uuid module can be executed as a script from the command line 📈 - so with a bit of uv we get to a pretty powerful command 😍 👇 (11 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5e3clryxc2s" target="_blank">link</a>
@@ -22,10 +28,6 @@ And really nice: since 3.12 the uuid module can be executed as a script from the
 Subclassing: Vehicles in Motion
 
 #python (11 Aug 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lw4mafbo6s23" target="_blank">link</a>
-  </li>
-
-  <li>
-    I really like the retry use case to demonstrate #python decorators: (29 Jul 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3lv3oywuow22l" target="_blank">link</a>
   </li>
 
 </ul>
