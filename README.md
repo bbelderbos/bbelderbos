@@ -11,6 +11,16 @@
 <ul>
 
   <li>
+    One of my favorite design patterns: the Repository Pattern. 😍
+
+It keeps business logic separate from the data layer. 📈
+
+Need to swap SQL for CSV or add an API backend later? Plug it in, the interface stays the same.
+
+Example below 👇 (14 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5ligsvegz27" target="_blank">link</a>
+  </li>
+
+  <li>
     I solved a Bite today and used collections.Counter() 🙂
 
 Good reminder: the right data structure saves a lot of code. 🐍 
@@ -24,12 +34,6 @@ Clean, fast, readable. 🚀 (13 Nov 2025) - <a href="https://bsky.app/profile/bb
     I like #Python books and reading source code for inspiration, but don't underestimate the power of the docs.
 
 This week I learned that uuid now supports v7 and that random + sqlite3 added command-line scripts in recent versions. (12 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5ghk2i7bx2t" target="_blank">link</a>
-  </li>
-
-  <li>
-    TIL #Python 3.14 comes with uuid6 and -7
-
-And really nice: since 3.12 the uuid module can be executed as a script from the command line 📈 - so with a bit of uv we get to a pretty powerful command 😍 👇 (11 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5e3clryxc2s" target="_blank">link</a>
   </li>
 
 </ul>
