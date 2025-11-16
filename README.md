@@ -11,6 +11,16 @@
 <ul>
 
   <li>
+    A script for everything 📈
+
+A bad habit among us programmers: going without breaks. 😅
+
+But the body reminds us: back pain, dry eyes, tension.
+
+So why not use our coding chops to fix that? 👇 (15 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5o24ayyiy2a" target="_blank">link</a>
+  </li>
+
+  <li>
     One of my favorite design patterns: the Repository Pattern. 😍
 
 It keeps business logic separate from the data layer. 📈
@@ -28,12 +38,6 @@ Good reminder: the right data structure saves a lot of code. 🐍
 In this case: apart from a small helper function, you get the top stock by symbol using most_common()
 
 Clean, fast, readable. 🚀 (13 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5jown3wx727" target="_blank">link</a>
-  </li>
-
-  <li>
-    I like #Python books and reading source code for inspiration, but don't underestimate the power of the docs.
-
-This week I learned that uuid now supports v7 and that random + sqlite3 added command-line scripts in recent versions. (12 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5ghk2i7bx2t" target="_blank">link</a>
   </li>
 
 </ul>
