@@ -11,6 +11,14 @@
 <ul>
 
   <li>
+    I love shell aliases, here is my shortcut to make a code image from what I have on my OS clipboard:
+
+alias carbonc="uvx --from pybites-carbon carbon -c -d ~/Downloads -t vscode -b #3DA9FC -l python"
+
+(-c from clipboard / -d where to put the image png / rest = styling) (16 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5qkl2cig527" target="_blank">link</a>
+  </li>
+
+  <li>
     A script for everything 📈
 
 A bad habit among us programmers: going without breaks. 😅
@@ -28,16 +36,6 @@ It keeps business logic separate from the data layer. 📈
 Need to swap SQL for CSV or add an API backend later? Plug it in, the interface stays the same.
 
 Example below 👇 (14 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5ligsvegz27" target="_blank">link</a>
-  </li>
-
-  <li>
-    I solved a Bite today and used collections.Counter() 🙂
-
-Good reminder: the right data structure saves a lot of code. 🐍 
-
-In this case: apart from a small helper function, you get the top stock by symbol using most_common()
-
-Clean, fast, readable. 🚀 (13 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5jown3wx727" target="_blank">link</a>
   </li>
 
 </ul>
