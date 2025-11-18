@@ -11,6 +11,15 @@
 <ul>
 
   <li>
+    `itertools.pairwise()` 🐍 use case: detect (and forbid) consecutive characters that are the same👇
+
+>>> list(it.pairwise("hello"))
+[('h', 'e'), ('e', 'l'), ('l', 'l'), ('l', 'o')]
+
+#Python #tips (17 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5tceqseg22a" target="_blank">link</a>
+  </li>
+
+  <li>
     I love shell aliases, here is my shortcut to make a code image from what I have on my OS clipboard:
 
 alias carbonc="uvx --from pybites-carbon carbon -c -d ~/Downloads -t vscode -b #3DA9FC -l python"
@@ -26,16 +35,6 @@ A bad habit among us programmers: going without breaks. 😅
 But the body reminds us: back pain, dry eyes, tension.
 
 So why not use our coding chops to fix that? 👇 (15 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5o24ayyiy2a" target="_blank">link</a>
-  </li>
-
-  <li>
-    One of my favorite design patterns: the Repository Pattern. 😍
-
-It keeps business logic separate from the data layer. 📈
-
-Need to swap SQL for CSV or add an API backend later? Plug it in, the interface stays the same.
-
-Example below 👇 (14 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5ligsvegz27" target="_blank">link</a>
   </li>
 
 </ul>
