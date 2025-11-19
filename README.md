@@ -11,6 +11,10 @@
 <ul>
 
   <li>
+    TIL that pyproject.toml might require one #Python version, but what you actually get also depends on the Python version(s) you have installed. (18 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5wewk7rpx2s" target="_blank">link</a>
+  </li>
+
+  <li>
     `itertools.pairwise()` 🐍 use case: detect (and forbid) consecutive characters that are the same👇
 
 >>> list(it.pairwise("hello"))
@@ -25,16 +29,6 @@
 alias carbonc="uvx --from pybites-carbon carbon -c -d ~/Downloads -t vscode -b #3DA9FC -l python"
 
 (-c from clipboard / -d where to put the image png / rest = styling) (16 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5qkl2cig527" target="_blank">link</a>
-  </li>
-
-  <li>
-    A script for everything 📈
-
-A bad habit among us programmers: going without breaks. 😅
-
-But the body reminds us: back pain, dry eyes, tension.
-
-So why not use our coding chops to fix that? 👇 (15 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5o24ayyiy2a" target="_blank">link</a>
   </li>
 
 </ul>
