@@ -1,7 +1,7 @@
 # Hi there, I'm Bob 👋
 
 - 🐍 Python software developer & coach
-- 🧠 Co-Founder of [Pybites](https://pybit.es) – practical training for working devs
+- 🧠 Co-Founder of [Pybites](https://pybit.es) – practical, project-driven Python training
 - 📚 I love books / reading, yet my focus is shipping real projects, not just consuming more tutorials.
 
 ---
