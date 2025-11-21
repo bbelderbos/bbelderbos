@@ -96,6 +96,14 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    I love `all()` but sometimes a set operation is more succinct in #Python 
+
+Here `issubset` reads as: 
+
+"Are all required checks contained in what’s done?" (20 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m62mgurxjh2k" target="_blank">link</a>
+  </li>
+
+  <li>
     From explicit to declarative / expressive #Python
 
 Had a super cool ensemble coding session today solving the “Analyze stock data” Bite. 🚀
@@ -107,15 +115,6 @@ Here’s how our final function evolved: (19 Nov 2025) - <a href="https://bsky.a
 
   <li>
     TIL that pyproject.toml might require one #Python version, but what you actually get also depends on the Python version(s) you have installed. (18 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5wewk7rpx2s" target="_blank">link</a>
-  </li>
-
-  <li>
-    `itertools.pairwise()` 🐍 use case: detect (and forbid) consecutive characters that are the same👇
-
->>> list(it.pairwise("hello"))
-[('h', 'e'), ('e', 'l'), ('l', 'l'), ('l', 'o')]
-
-#Python #tips (17 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5tceqseg22a" target="_blank">link</a>
   </li>
 
 </ul>
