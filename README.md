@@ -96,6 +96,14 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    🎙️ New podcast: Building reactive Python notebooks with #Marimo 💪🚀
+
+Have you tried Marimo yet? 
+
+It fixes a lot of classic Jupyter pains: hidden state, brittle execution order, and notebooks that are hard to reuse. (21 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m65kcvadfu27" target="_blank">link</a>
+  </li>
+
+  <li>
     I love `all()` but sometimes a set operation is more succinct in #Python 
 
 Here `issubset` reads as: 
@@ -111,10 +119,6 @@ Had a super cool ensemble coding session today solving the “Analyze stock data
 It was a great reminder of how far you can refactor a function by leaning on built-ins 🐍
 
 Here’s how our final function evolved: (19 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5ynxg522b2t" target="_blank">link</a>
-  </li>
-
-  <li>
-    TIL that pyproject.toml might require one #Python version, but what you actually get also depends on the Python version(s) you have installed. (18 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5wewk7rpx2s" target="_blank">link</a>
   </li>
 
 </ul>
