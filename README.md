@@ -96,6 +96,16 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Nice way to learn more Rust 🦀 (or other target language) 🚀
+ 
+- take an AoC, solve it in Python (no AI)
+- now you have a spec + approach
+- rewrite in target lang (use AI tools to help debug + explain things)
+
+This easily led to >=3 learning moments today I can now write about 💡 (22 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m67m276zez2e" target="_blank">link</a>
+  </li>
+
+  <li>
     🎙️ New podcast: Building reactive Python notebooks with #Marimo 💪🚀
 
 Have you tried Marimo yet? 
@@ -109,16 +119,6 @@ It fixes a lot of classic Jupyter pains: hidden state, brittle execution order, 
 Here `issubset` reads as: 
 
 "Are all required checks contained in what’s done?" (20 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m62mgurxjh2k" target="_blank">link</a>
-  </li>
-
-  <li>
-    From explicit to declarative / expressive #Python
-
-Had a super cool ensemble coding session today solving the “Analyze stock data” Bite. 🚀
-
-It was a great reminder of how far you can refactor a function by leaning on built-ins 🐍
-
-Here’s how our final function evolved: (19 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5ynxg522b2t" target="_blank">link</a>
   </li>
 
 </ul>
