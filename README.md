@@ -96,6 +96,16 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    I needed to see which packages were pulling in six. 
+
+Two ways:
+
+- uv tree --package six --invert → quick “who depends on this?” from uv.lock
+
+- uv pip tree --package six --invert --show-version-specifiers → more pipdeptree-style, constraint-aware view from the actual env (23 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6ceki7tgi2a" target="_blank">link</a>
+  </li>
+
+  <li>
     Nice way to learn more Rust 🦀 (or other target language) 🚀
  
 - take an AoC, solve it in Python (no AI)
@@ -111,14 +121,6 @@ This easily led to >=3 learning moments today I can now write about 💡 (22 Nov
 Have you tried Marimo yet? 
 
 It fixes a lot of classic Jupyter pains: hidden state, brittle execution order, and notebooks that are hard to reuse. (21 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m65kcvadfu27" target="_blank">link</a>
-  </li>
-
-  <li>
-    I love `all()` but sometimes a set operation is more succinct in #Python 
-
-Here `issubset` reads as: 
-
-"Are all required checks contained in what’s done?" (20 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m62mgurxjh2k" target="_blank">link</a>
   </li>
 
 </ul>
