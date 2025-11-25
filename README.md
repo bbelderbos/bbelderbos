@@ -96,6 +96,12 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    One of my favourite #Python tooling combos right now: Vim + Ruff. 🔥
+
+For a long time I ran Ruff (linter and formatter) via pre-commit, which is great… but I kept getting slightly annoyed at how often I’d: (24 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6eldlzbxi2j" target="_blank">link</a>
+  </li>
+
+  <li>
     I needed to see which packages were pulling in six. 
 
 Two ways:
@@ -113,14 +119,6 @@ Two ways:
 - rewrite in target lang (use AI tools to help debug + explain things)
 
 This easily led to >=3 learning moments today I can now write about 💡 (22 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m67m276zez2e" target="_blank">link</a>
-  </li>
-
-  <li>
-    🎙️ New podcast: Building reactive Python notebooks with #Marimo 💪🚀
-
-Have you tried Marimo yet? 
-
-It fixes a lot of classic Jupyter pains: hidden state, brittle execution order, and notebooks that are hard to reuse. (21 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m65kcvadfu27" target="_blank">link</a>
   </li>
 
 </ul>
