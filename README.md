@@ -96,6 +96,12 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Reading 'Learn #Rust in a Month of Lunches' by David MacLeod 🦀 
+
+It explains concepts really well by using easy to understand analogies, for example around ownership and borrowing, which can be hard to grasp at first. 💡 (25 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6hfik42sy2o" target="_blank">link</a>
+  </li>
+
+  <li>
     One of my favourite #Python tooling combos right now: Vim + Ruff. 🔥
 
 For a long time I ran Ruff (linter and formatter) via pre-commit, which is great… but I kept getting slightly annoyed at how often I’d: (24 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6eldlzbxi2j" target="_blank">link</a>
@@ -109,16 +115,6 @@ Two ways:
 - uv tree --package six --invert → quick “who depends on this?” from uv.lock
 
 - uv pip tree --package six --invert --show-version-specifiers → more pipdeptree-style, constraint-aware view from the actual env (23 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6ceki7tgi2a" target="_blank">link</a>
-  </li>
-
-  <li>
-    Nice way to learn more Rust 🦀 (or other target language) 🚀
- 
-- take an AoC, solve it in Python (no AI)
-- now you have a spec + approach
-- rewrite in target lang (use AI tools to help debug + explain things)
-
-This easily led to >=3 learning moments today I can now write about 💡 (22 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m67m276zez2e" target="_blank">link</a>
   </li>
 
 </ul>
