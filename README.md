@@ -96,6 +96,12 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Python tip 🐍 itertools.groupby() for the win 🧠
+
+Context: I was solving an AoC which required a valid password to have a digit that appeared in a run of exactly two (not part of 111 or 2222, etc). (26 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6k4nl54yz2l" target="_blank">link</a>
+  </li>
+
+  <li>
     Reading 'Learn #Rust in a Month of Lunches' by David MacLeod 🦀 
 
 It explains concepts really well by using easy to understand analogies, for example around ownership and borrowing, which can be hard to grasp at first. 💡 (25 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6hfik42sy2o" target="_blank">link</a>
@@ -105,16 +111,6 @@ It explains concepts really well by using easy to understand analogies, for exam
     One of my favourite #Python tooling combos right now: Vim + Ruff. 🔥
 
 For a long time I ran Ruff (linter and formatter) via pre-commit, which is great… but I kept getting slightly annoyed at how often I’d: (24 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6eldlzbxi2j" target="_blank">link</a>
-  </li>
-
-  <li>
-    I needed to see which packages were pulling in six. 
-
-Two ways:
-
-- uv tree --package six --invert → quick “who depends on this?” from uv.lock
-
-- uv pip tree --package six --invert --show-version-specifiers → more pipdeptree-style, constraint-aware view from the actual env (23 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6ceki7tgi2a" target="_blank">link</a>
   </li>
 
 </ul>
@@ -129,6 +125,14 @@ Two ways:
 <ul>
 
   <li>
+    power of the right data structure: stacks: From ~9 seconds to ~0.1 seconds… just by changing the data structure. ... (26 Nov 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251126100749.md" target="_blank">link</a>
+  </li>
+
+  <li>
+    Logging memory usage: Cool debugging trick I picked up from: ... (20 Nov 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251120150338.md" target="_blank">link</a>
+  </li>
+
+  <li>
     find dependency dependencies: I needed to see which packages were pulling in six. ... (20 Nov 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251120074703.md" target="_blank">link</a>
   </li>
 
@@ -138,14 +142,6 @@ Two ways:
 
   <li>
     Priority queues made simple with heapq: Need to schedule tasks by urgency or priority? ... (16 Oct 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251016160229.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    divmod built-in: Ever needed both integer division (`//`) and remainder (`%`)? 🤔 ... (13 Oct 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251013163518.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Sort by callable: Did you know that the key argument of 🐍 `sorted()` accepts any callable that transforms items before comparison, e.g. built-ins like `str.lower` or `len`, or your own custom functions 😍💡 ... (13 Oct 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251013160006.md" target="_blank">link</a>
   </li>
 
 </ul>
