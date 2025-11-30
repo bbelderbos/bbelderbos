@@ -96,6 +96,14 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    From messy to clean numbers with `removeprefix` / `removesuffix`
+
+With `removeprefix("$")` and `removesuffix(suffix)` you strip only what you *expect* to be there, then `float(cap) * multiplier` does the rest.
+
+Classic EAFP: try to parse, fall back to `0.0` when the data is junk. (29 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6rhdvdbos2y" target="_blank">link</a>
+  </li>
+
+  <li>
     Cool debugging trick I picked up from this article:
 
 Django bulk_update memory issue
@@ -108,12 +116,6 @@ Bonus: comparing list comp vs gen expression 🐍 😍 📈 (28 Nov 2025) - <a h
 
   <li>
     Really enjoyed my chat with Kishan Patel on our @pybites podcast. (27 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6me224ejq2a" target="_blank">link</a>
-  </li>
-
-  <li>
-    Python tip 🐍 itertools.groupby() for the win 🧠
-
-Context: I was solving an AoC which required a valid password to have a digit that appeared in a run of exactly two (not part of 111 or 2222, etc). (26 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6k4nl54yz2l" target="_blank">link</a>
   </li>
 
 </ul>
