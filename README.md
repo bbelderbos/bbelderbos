@@ -96,6 +96,12 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    From ~9 seconds to ~0.1 seconds… just by changing the data structure.
+
+In a recent @Pybites code ensemble session we tackled an Advent of Code puzzle where you repeatedly “react” a polymer string by removing adjacent units like aA / Bb. (30 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6u6ja7nvx2a" target="_blank">link</a>
+  </li>
+
+  <li>
     From messy to clean numbers with `removeprefix` / `removesuffix`
 
 With `removeprefix("$")` and `removesuffix(suffix)` you strip only what you *expect* to be there, then `float(cap) * multiplier` does the rest.
@@ -112,10 +118,6 @@ https://blog.pecar.me/django-bulk-update-memory-issue
 Logging memory usage in #Python using `psutil` - example below 👇
 
 Bonus: comparing list comp vs gen expression 🐍 😍 📈 (28 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6owv7cqbz2j" target="_blank">link</a>
-  </li>
-
-  <li>
-    Really enjoyed my chat with Kishan Patel on our @pybites podcast. (27 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6me224ejq2a" target="_blank">link</a>
   </li>
 
 </ul>
