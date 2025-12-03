@@ -96,6 +96,14 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Writing your own list chunking helpers? Check out #Python’s `itertools.batched()` that can do this for you 🚀
+
+✅ Works with any iterable.
+✅ Handles a smaller final chunk automatically.
+✅ Use `strict=True` (Python 3.13+) to raise a `ValueError` when the final batch isn’t full. (02 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6z43wnyfl2z" target="_blank">link</a>
+  </li>
+
+  <li>
     I was reading Kobzol’s excellent article “Writing #Python like it’s #Rust”, and it perfectly captures how Rust can upgrade the way you write Python. 💡
 
 Here are some takeaways I keep coming back to: (01 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6woygachk2t" target="_blank">link</a>
@@ -105,14 +113,6 @@ Here are some takeaways I keep coming back to: (01 Dec 2025) - <a href="https://
     From ~9 seconds to ~0.1 seconds… just by changing the data structure.
 
 In a recent @Pybites code ensemble session we tackled an Advent of Code puzzle where you repeatedly “react” a polymer string by removing adjacent units like aA / Bb. (30 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6u6ja7nvx2a" target="_blank">link</a>
-  </li>
-
-  <li>
-    From messy to clean numbers with `removeprefix` / `removesuffix`
-
-With `removeprefix("$")` and `removesuffix(suffix)` you strip only what you *expect* to be there, then `float(cap) * multiplier` does the rest.
-
-Classic EAFP: try to parse, fall back to `0.0` when the data is junk. (29 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6rhdvdbos2y" target="_blank">link</a>
   </li>
 
 </ul>
