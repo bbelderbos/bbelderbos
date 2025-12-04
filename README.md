@@ -96,6 +96,16 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Refactored a long if/elif ladder into match/case the other day 👇
+
+`case 1 | 2` groups opcodes that share behavior
+
+`case 5 if part2` keeps the extra condition right next to the logic ("flat is better than nested")
+
+Feels more like a clean dispatcher than a pile of conditionals. (03 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m73pw5km2i25" target="_blank">link</a>
+  </li>
+
+  <li>
     Writing your own list chunking helpers? Check out #Python’s `itertools.batched()` that can do this for you 🚀
 
 ✅ Works with any iterable.
@@ -107,12 +117,6 @@ Now I help others escape tutorial hell, ship things, and build careers around it
     I was reading Kobzol’s excellent article “Writing #Python like it’s #Rust”, and it perfectly captures how Rust can upgrade the way you write Python. 💡
 
 Here are some takeaways I keep coming back to: (01 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6woygachk2t" target="_blank">link</a>
-  </li>
-
-  <li>
-    From ~9 seconds to ~0.1 seconds… just by changing the data structure.
-
-In a recent @Pybites code ensemble session we tackled an Advent of Code puzzle where you repeatedly “react” a polymer string by removing adjacent units like aA / Bb. (30 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6u6ja7nvx2a" target="_blank">link</a>
   </li>
 
 </ul>
