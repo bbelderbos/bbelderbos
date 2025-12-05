@@ -96,6 +96,13 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Refactoring win from a Codeflash the other day 👇
+
+I only needed the worst N files / most complex N functions…
+but the code was doing a full sort and then [:top_n]. (04 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m76afl63yn2a" target="_blank">link</a>
+  </li>
+
+  <li>
     Refactored a long if/elif ladder into match/case the other day 👇
 
 `case 1 | 2` groups opcodes that share behavior
@@ -111,12 +118,6 @@ Feels more like a clean dispatcher than a pile of conditionals. (03 Dec 2025) - 
 ✅ Works with any iterable.
 ✅ Handles a smaller final chunk automatically.
 ✅ Use `strict=True` (Python 3.13+) to raise a `ValueError` when the final batch isn’t full. (02 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6z43wnyfl2z" target="_blank">link</a>
-  </li>
-
-  <li>
-    I was reading Kobzol’s excellent article “Writing #Python like it’s #Rust”, and it perfectly captures how Rust can upgrade the way you write Python. 💡
-
-Here are some takeaways I keep coming back to: (01 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6woygachk2t" target="_blank">link</a>
   </li>
 
 </ul>
