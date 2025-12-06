@@ -96,6 +96,12 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    I built my first TUI for the @pybites monthly code challenge, I really like Textual so far! 🚀
+
+It's a wrapper around a script I made the other day to benchmark code quality -> (05 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7adqbmv7i2a" target="_blank">link</a>
+  </li>
+
+  <li>
     Refactoring win from a Codeflash the other day 👇
 
 I only needed the worst N files / most complex N functions…
@@ -110,14 +116,6 @@ but the code was doing a full sort and then [:top_n]. (04 Dec 2025) - <a href="h
 `case 5 if part2` keeps the extra condition right next to the logic ("flat is better than nested")
 
 Feels more like a clean dispatcher than a pile of conditionals. (03 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m73pw5km2i25" target="_blank">link</a>
-  </li>
-
-  <li>
-    Writing your own list chunking helpers? Check out #Python’s `itertools.batched()` that can do this for you 🚀
-
-✅ Works with any iterable.
-✅ Handles a smaller final chunk automatically.
-✅ Use `strict=True` (Python 3.13+) to raise a `ValueError` when the final batch isn’t full. (02 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m6z43wnyfl2z" target="_blank">link</a>
   </li>
 
 </ul>
