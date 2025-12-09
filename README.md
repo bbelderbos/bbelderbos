@@ -96,6 +96,21 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Always more concise ways to do things in #Python 🐍 😍
+
+>>> from operator import mul
+>>> from functools import reduce
+>>> reduce(mul, [1, 2, 3, 4])
+24
+
+Turns out that since 3.8 the math module has `prod` -> 
+
+>>> from math import prod
+>>> prod([1, 2, 3, 4])
+24 (08 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7i5gntzki2q" target="_blank">link</a>
+  </li>
+
+  <li>
     I built my first TUI for the @pybites monthly code challenge, I really like Textual so far! 🚀
 
 It's a wrapper around a script I made the other day to benchmark code quality -> (05 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7adqbmv7i2a" target="_blank">link</a>
@@ -106,16 +121,6 @@ It's a wrapper around a script I made the other day to benchmark code quality ->
 
 I only needed the worst N files / most complex N functions…
 but the code was doing a full sort and then [:top_n]. (04 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m76afl63yn2a" target="_blank">link</a>
-  </li>
-
-  <li>
-    Refactored a long if/elif ladder into match/case the other day 👇
-
-`case 1 | 2` groups opcodes that share behavior
-
-`case 5 if part2` keeps the extra condition right next to the logic ("flat is better than nested")
-
-Feels more like a clean dispatcher than a pile of conditionals. (03 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m73pw5km2i25" target="_blank">link</a>
   </li>
 
 </ul>
