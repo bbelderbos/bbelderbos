@@ -96,6 +96,18 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Set operations are so concise in #Python 🐍😍
+
+Here's a neat way to get the characters that appear in every group 👇
+
+`set.intersection(*...)` returns the items that exist in all given sets. It can take multiple sets as args, which we "splat" (`*`) unpack from a gen expression. (11 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7p6hrcqc32o" target="_blank">link</a>
+  </li>
+
+  <li>
+    TIL that >= #python 3.10 you can call `total()` on a Counter object: (11 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7p6efarxc2s" target="_blank">link</a>
+  </li>
+
+  <li>
     Always more concise ways to do things in #Python 🐍 😍
 
 >>> from operator import mul
@@ -110,19 +122,6 @@ Turns out that since 3.8 the math module has `prod` ->
 24 (08 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7i5gntzki2q" target="_blank">link</a>
   </li>
 
-  <li>
-    I built my first TUI for the @pybites monthly code challenge, I really like Textual so far! 🚀
-
-It's a wrapper around a script I made the other day to benchmark code quality -> (05 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7adqbmv7i2a" target="_blank">link</a>
-  </li>
-
-  <li>
-    Refactoring win from a Codeflash the other day 👇
-
-I only needed the worst N files / most complex N functions…
-but the code was doing a full sort and then [:top_n]. (04 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m76afl63yn2a" target="_blank">link</a>
-  </li>
-
 </ul>
 
 > <a href="https://bsky.app/profile/bbelderbos.bsky.social" target="_blank">Follow me &raquo;</a>
@@ -133,6 +132,10 @@ but the code was doing a full sort and then [:top_n]. (04 Dec 2025) - <a href="h
 ### Latest Python tips
 
 <ul>
+
+  <li>
+    get elements common to all groups: Set operations are so concise in #Python 🐍😍 ... (10 Dec 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251210112336.md" target="_blank">link</a>
+  </li>
 
   <li>
     power of the right data structure: stacks: From ~9 seconds to ~0.1 seconds… just by changing the data structure. ... (26 Nov 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251126100749.md" target="_blank">link</a>
@@ -148,10 +151,6 @@ but the code was doing a full sort and then [:top_n]. (04 Dec 2025) - <a href="h
 
   <li>
     from messy to clean numbers with `removeprefix` / `removesuffix`: With `removeprefix("$")` and `removesuffix(suffix)` you strip only what you *expect* to be there, then `float(cap) * multiplier` does the rest. Classic EAFP: try to parse, fall back to `0.0` when the data is junk. ... (20 Nov 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251120071001.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Priority queues made simple with heapq: Need to schedule tasks by urgency or priority? ... (16 Oct 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251016160229.md" target="_blank">link</a>
   </li>
 
 </ul>
