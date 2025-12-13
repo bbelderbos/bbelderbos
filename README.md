@@ -96,6 +96,10 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    jq is really cool for ad-hoc JSON inspection/ parsing (of course use Python when it turns into more of a program) -> (12 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7sdrknc7m2v" target="_blank">link</a>
+  </li>
+
+  <li>
     Set operations are so concise in #Python 🐍😍
 
 Here's a neat way to get the characters that appear in every group 👇
@@ -105,21 +109,6 @@ Here's a neat way to get the characters that appear in every group 👇
 
   <li>
     TIL that >= #python 3.10 you can call `total()` on a Counter object: (11 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7p6efarxc2s" target="_blank">link</a>
-  </li>
-
-  <li>
-    Always more concise ways to do things in #Python 🐍 😍
-
->>> from operator import mul
->>> from functools import reduce
->>> reduce(mul, [1, 2, 3, 4])
-24
-
-Turns out that since 3.8 the math module has `prod` -> 
-
->>> from math import prod
->>> prod([1, 2, 3, 4])
-24 (08 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7i5gntzki2q" target="_blank">link</a>
   </li>
 
 </ul>
