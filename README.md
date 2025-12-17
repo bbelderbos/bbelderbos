@@ -96,6 +96,10 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Advent of Code solving is one thing — the real 2–3× value is in refactoring afterwards, finding new creative ways of doing things. 💡 (16 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ma4jdcfqyp2l" target="_blank">link</a>
+  </li>
+
+  <li>
     We are all AI developers now in a sense ...
 
 The game has changed. With AI handling more routine coding tasks, the developers who will lead the future are the ones who can transcend their traditional role. (15 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7zul3wpcv2i" target="_blank">link</a>
@@ -103,14 +107,6 @@ The game has changed. With AI handling more routine coding tasks, the developers
 
   <li>
     jq is really cool for ad-hoc JSON inspection/ parsing (of course use Python when it turns into more of a program) -> (12 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7sdrknc7m2v" target="_blank">link</a>
-  </li>
-
-  <li>
-    Set operations are so concise in #Python 🐍😍
-
-Here's a neat way to get the characters that appear in every group 👇
-
-`set.intersection(*...)` returns the items that exist in all given sets. It can take multiple sets as args, which we "splat" (`*`) unpack from a gen expression. (11 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7p6hrcqc32o" target="_blank">link</a>
   </li>
 
 </ul>
