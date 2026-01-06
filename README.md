@@ -96,17 +96,19 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Python tip: validate strings with `re.fullmatch()` ✅
+
+- search() matches anywhere
+- match() matches from the start (can still allow trailing junk)
+- fullmatch() matches the whole string (like `^...$`, no anchors needed) (05 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mboxtjum7x2i" target="_blank">link</a>
+  </li>
+
+  <li>
     I came across this quote recently: (17 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ma6wh6fzki2a" target="_blank">link</a>
   </li>
 
   <li>
     Advent of Code solving is one thing — the real 2–3× value is in refactoring afterwards, finding new creative ways of doing things. 💡 (16 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ma4jdcfqyp2l" target="_blank">link</a>
-  </li>
-
-  <li>
-    We are all AI developers now in a sense ...
-
-The game has changed. With AI handling more routine coding tasks, the developers who will lead the future are the ones who can transcend their traditional role. (15 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m7zul3wpcv2i" target="_blank">link</a>
   </li>
 
 </ul>
