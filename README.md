@@ -123,23 +123,23 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
-    get elements common to all groups: Set operations are so concise in #Python 🐍😍 ... (10 Dec 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251210112336.md" target="_blank">link</a>
+    Retrieving GitHub Issue Comments with PyGithub: You can use PyGithub to load issue comments from a GitHub repository. ... (11 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260111131841.md" target="_blank">link</a>
   </li>
 
   <li>
-    power of the right data structure: stacks: From ~9 seconds to ~0.1 seconds… just by changing the data structure. ... (26 Nov 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251126100749.md" target="_blank">link</a>
+    PEP 723 inline script metadata: Declare script dependencies directly in your Python file with PEP 723 👇 ... (18 Dec 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251218125432.md" target="_blank">link</a>
   </li>
 
   <li>
-    Logging memory usage: Cool debugging trick I picked up from: ... (20 Nov 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251120150338.md" target="_blank">link</a>
+    Memoization with frozenset for immutable state: Use functools.cache with frozenset to memoize graph traversal in #Python 👇 ... (18 Dec 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251218125431.md" target="_blank">link</a>
   </li>
 
   <li>
-    find dependency dependencies: I needed to see which packages were pulling in six. ... (20 Nov 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251120074703.md" target="_blank">link</a>
+    Using Z3 solver for optimization problems: Solve complex constraint problems with z3-solver in #Python 👇 ... (18 Dec 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251218125430.md" target="_blank">link</a>
   </li>
 
   <li>
-    from messy to clean numbers with `removeprefix` / `removesuffix`: With `removeprefix("$")` and `removesuffix(suffix)` you strip only what you *expect* to be there, then `float(cap) * multiplier` does the rest. Classic EAFP: try to parse, fall back to `0.0` when the data is junk. ... (20 Nov 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251120071001.md" target="_blank">link</a>
+    Frozen dataclasses and itertools.pairwise: Combining immutable dataclasses with pairwise iteration in #Python 👇 ... (18 Dec 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251218125429.md" target="_blank">link</a>
   </li>
 
 </ul>
