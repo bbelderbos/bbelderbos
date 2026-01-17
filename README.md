@@ -96,6 +96,10 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Adding some helpers and built-ins can make your code so much more concise, example of an AoC refactoring the other day: (16 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcjzjo7t5l22" target="_blank">link</a>
+  </li>
+
+  <li>
     Python tip: validate strings with `re.fullmatch()` ✅
 
 - search() matches anywhere
@@ -105,10 +109,6 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 
   <li>
     I came across this quote recently: (17 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ma6wh6fzki2a" target="_blank">link</a>
-  </li>
-
-  <li>
-    Advent of Code solving is one thing — the real 2–3× value is in refactoring afterwards, finding new creative ways of doing things. 💡 (16 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ma4jdcfqyp2l" target="_blank">link</a>
   </li>
 
 </ul>
@@ -121,6 +121,10 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 ### Latest Python tips
 
 <ul>
+
+  <li>
+    Live debugging with sys.remote_exec: TIL: Python 3.14 added a live debugging hook: ... (16 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260116154303.md" target="_blank">link</a>
+  </li>
 
   <li>
     Retrieving GitHub Issue Comments with PyGithub: You can use PyGithub to load issue comments from a GitHub repository. ... (11 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260111131841.md" target="_blank">link</a>
@@ -136,10 +140,6 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 
   <li>
     Using Z3 solver for optimization problems: Solve complex constraint problems with z3-solver in #Python 👇 ... (18 Dec 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251218125430.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Frozen dataclasses and itertools.pairwise: Combining immutable dataclasses with pairwise iteration in #Python 👇 ... (18 Dec 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251218125429.md" target="_blank">link</a>
   </li>
 
 </ul>
