@@ -96,19 +96,23 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Can you spot the bug? 🐛
+
+Most Python developers get this wrong on the first try. Take a look at this snippet: (19 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcrz6jqknb2i" target="_blank">link</a>
+  </li>
+
+  <li>
+    Why `uv` changes everything for Python 💡 📈
+
+Finding venv slow? Or annoyed you need different tooling to pull in Python versions, or do packaging?
+
+Well, good news: Python packaging is finally fixed. ⚡️
+
+No more minutes to setting up a fresh new dev environment. (19 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcrnw6wvit2n" target="_blank">link</a>
+  </li>
+
+  <li>
     Adding some helpers and built-ins can make your code so much more concise, example of an AoC refactoring the other day: (16 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcjzjo7t5l22" target="_blank">link</a>
-  </li>
-
-  <li>
-    Python tip: validate strings with `re.fullmatch()` ✅
-
-- search() matches anywhere
-- match() matches from the start (can still allow trailing junk)
-- fullmatch() matches the whole string (like `^...$`, no anchors needed) (05 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mboxtjum7x2i" target="_blank">link</a>
-  </li>
-
-  <li>
-    I came across this quote recently: (17 Dec 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3ma6wh6fzki2a" target="_blank">link</a>
   </li>
 
 </ul>
