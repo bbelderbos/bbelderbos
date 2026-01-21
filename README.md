@@ -96,6 +96,12 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    When you explore the `collections` module, you’ll often see `Counter`, `defaultdict`, and `namedtuple` (I prefer `typing.NamedTuple`). 
+
+One often-overlooked tool is `ChainMap`: (21 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcvzkvfm422e" target="_blank">link</a>
+  </li>
+
+  <li>
     Can you spot the bug? 🐛
 
 Most Python developers get this wrong on the first try. Take a look at this snippet: (19 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcrz6jqknb2i" target="_blank">link</a>
@@ -109,10 +115,6 @@ Finding venv slow? Or annoyed you need different tooling to pull in Python versi
 Well, good news: Python packaging is finally fixed. ⚡️
 
 No more minutes to setting up a fresh new dev environment. (19 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcrnw6wvit2n" target="_blank">link</a>
-  </li>
-
-  <li>
-    Adding some helpers and built-ins can make your code so much more concise, example of an AoC refactoring the other day: (16 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcjzjo7t5l22" target="_blank">link</a>
   </li>
 
 </ul>
