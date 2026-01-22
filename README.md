@@ -96,25 +96,23 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
-    When you explore the `collections` module, you’ll often see `Counter`, `defaultdict`, and `namedtuple` (I prefer `typing.NamedTuple`). 
+    🐍 Pythonista → 🦀 Rustacean?
 
-One often-overlooked tool is `ChainMap`: (21 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcvzkvfm422e" target="_blank">link</a>
+I’ve built a Rust Cohort for Pythonistas with Jim Hodapp, a 6-week, project-driven journey where you’ll:
+
+Build a real JSON parser, in Rust 🏗️ (22 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcyn7fmiz52t" target="_blank">link</a>
   </li>
 
   <li>
-    Can you spot the bug? 🐛
-
-Most Python developers get this wrong on the first try. Take a look at this snippet: (19 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcrz6jqknb2i" target="_blank">link</a>
+    Did you know about the following 5 Python 🐍 debugging tips? 🧵 (21 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcwvn73o6u2i" target="_blank">link</a>
   </li>
 
   <li>
-    Why `uv` changes everything for Python 💡 📈
+    Watching 10 hours of video tutorials makes you a viewer, not a coder.
 
-Finding venv slow? Or annoyed you need different tooling to pull in Python versions, or do packaging?
+Passive consumption is the "silent killer" of engineering careers.
 
-Well, good news: Python packaging is finally fixed. ⚡️
-
-No more minutes to setting up a fresh new dev environment. (19 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcrnw6wvit2n" target="_blank">link</a>
+And after talking to hundreds of developers over the years, it's still all too common. 😱 (21 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcwsyxordw2f" target="_blank">link</a>
   </li>
 
 </ul>
