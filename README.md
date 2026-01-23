@@ -96,23 +96,34 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Why you probably don't need React 💡
+
+"I need a React frontend for my SaaS."
+
+Do you? Or do you just want a smooth UI?
+
+The complexity cost of a decoupled frontend is massive:
+- State synchronization
+- JWT/Auth handling
+- API serialization overhead (22 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3md23dttb262v" target="_blank">link</a>
+  </li>
+
+  <li>
+    We just shipped a new SQLModel Learning Path on the Pybites Platform:
+
+🔹 Learn the Python ORM to focus on next
+
+🔹 Get type-safe models with Pydantic-style, high-performance validation
+
+🔹 See how cleanly SQLModel plugs into FastAPI for real-world APIs (22 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mczt4gnzhd2i" target="_blank">link</a>
+  </li>
+
+  <li>
     🐍 Pythonista → 🦀 Rustacean?
 
 I’ve built a Rust Cohort for Pythonistas with Jim Hodapp, a 6-week, project-driven journey where you’ll:
 
 Build a real JSON parser, in Rust 🏗️ (22 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcyn7fmiz52t" target="_blank">link</a>
-  </li>
-
-  <li>
-    Did you know about the following 5 Python 🐍 debugging tips? 🧵 (21 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcwvn73o6u2i" target="_blank">link</a>
-  </li>
-
-  <li>
-    Watching 10 hours of video tutorials makes you a viewer, not a coder.
-
-Passive consumption is the "silent killer" of engineering careers.
-
-And after talking to hundreds of developers over the years, it's still all too common. 😱 (21 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcwsyxordw2f" target="_blank">link</a>
   </li>
 
 </ul>
