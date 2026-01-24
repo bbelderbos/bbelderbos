@@ -96,6 +96,20 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    The difference between a Junior and Senior dev isn't syntax. It's this.
+
+Most developers can write a script to fetch data from an API. They get it to work, then they move on. (23 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3md42jtdgki2o" target="_blank">link</a>
+  </li>
+
+  <li>
+    You don’t learn by watching. You learn by breaking things. 💡
+
+We've spoken with developers who’d watched multiple 10+ hour Udemy courses. 
+
+They knew the theory: Django, Docker, AsyncIO. (23 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3md3nneg24r2s" target="_blank">link</a>
+  </li>
+
+  <li>
     Why you probably don't need React 💡
 
 "I need a React frontend for my SaaS."
@@ -106,24 +120,6 @@ The complexity cost of a decoupled frontend is massive:
 - State synchronization
 - JWT/Auth handling
 - API serialization overhead (22 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3md23dttb262v" target="_blank">link</a>
-  </li>
-
-  <li>
-    We just shipped a new SQLModel Learning Path on the Pybites Platform:
-
-🔹 Learn the Python ORM to focus on next
-
-🔹 Get type-safe models with Pydantic-style, high-performance validation
-
-🔹 See how cleanly SQLModel plugs into FastAPI for real-world APIs (22 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mczt4gnzhd2i" target="_blank">link</a>
-  </li>
-
-  <li>
-    🐍 Pythonista → 🦀 Rustacean?
-
-I’ve built a Rust Cohort for Pythonistas with Jim Hodapp, a 6-week, project-driven journey where you’ll:
-
-Build a real JSON parser, in Rust 🏗️ (22 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mcyn7fmiz52t" target="_blank">link</a>
   </li>
 
 </ul>
