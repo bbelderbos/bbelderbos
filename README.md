@@ -96,6 +96,12 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Let's talk about Rust vs Python and type safety today.
+
+Coming from Python, you might think of Enums as just a list of named constants: `Color.RED`, `Color.BLUE`, etc. (24 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3md62qqfm3s2o" target="_blank">link</a>
+  </li>
+
+  <li>
     The difference between a Junior and Senior dev isn't syntax. It's this.
 
 Most developers can write a script to fetch data from an API. They get it to work, then they move on. (23 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3md42jtdgki2o" target="_blank">link</a>
@@ -107,19 +113,6 @@ Most developers can write a script to fetch data from an API. They get it to wor
 We've spoken with developers who’d watched multiple 10+ hour Udemy courses. 
 
 They knew the theory: Django, Docker, AsyncIO. (23 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3md3nneg24r2s" target="_blank">link</a>
-  </li>
-
-  <li>
-    Why you probably don't need React 💡
-
-"I need a React frontend for my SaaS."
-
-Do you? Or do you just want a smooth UI?
-
-The complexity cost of a decoupled frontend is massive:
-- State synchronization
-- JWT/Auth handling
-- API serialization overhead (22 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3md23dttb262v" target="_blank">link</a>
   </li>
 
 </ul>
