@@ -96,23 +96,24 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Confidence comes from Shipping
+
+There is no better feeling than `git push` -> `Deployed`. 🚀
+
+Last week, one of our PDC Foundations students went from "I've never packaged an app" to having their CLI tool installable via `pip` - we love seeing these lightbulb moments. 💡 (26 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdcrr6grf52p" target="_blank">link</a>
+  </li>
+
+  <li>
+    Agents are Interfaces, not just Chatbots
+
+The real power of LLMs unlocks when you give them typed tools.
+In Python, we can define a function and expose it to the model using Pydantic schemas. (25 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdbjf6n7zn2j" target="_blank">link</a>
+  </li>
+
+  <li>
     Let's talk about Rust vs Python and type safety today.
 
 Coming from Python, you might think of Enums as just a list of named constants: `Color.RED`, `Color.BLUE`, etc. (24 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3md62qqfm3s2o" target="_blank">link</a>
-  </li>
-
-  <li>
-    The difference between a Junior and Senior dev isn't syntax. It's this.
-
-Most developers can write a script to fetch data from an API. They get it to work, then they move on. (23 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3md42jtdgki2o" target="_blank">link</a>
-  </li>
-
-  <li>
-    You don’t learn by watching. You learn by breaking things. 💡
-
-We've spoken with developers who’d watched multiple 10+ hour Udemy courses. 
-
-They knew the theory: Django, Docker, AsyncIO. (23 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3md3nneg24r2s" target="_blank">link</a>
   </li>
 
 </ul>
@@ -127,23 +128,23 @@ They knew the theory: Django, Docker, AsyncIO. (23 Jan 2026) - <a href="https://
 <ul>
 
   <li>
-    Live debugging with sys.remote_exec: TIL: Python 3.14 added a live debugging hook: ... (16 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260116154303.md" target="_blank">link</a>
+    Custom Django template filters for cleaner templates: Stop cluttering templates with logic. Write a simple filter, register it, and your templates stay readable. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126094004.md" target="_blank">link</a>
   </li>
 
   <li>
-    Retrieving GitHub Issue Comments with PyGithub: You can use PyGithub to load issue comments from a GitHub repository. ... (11 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260111131841.md" target="_blank">link</a>
+    Prompt engineering patterns: config as data: Don't hardcode AI prompts and channel rules in your code. Store them as data structures so they're easy to tweak and extend. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126093953.md" target="_blank">link</a>
   </li>
 
   <li>
-    PEP 723 inline script metadata: Declare script dependencies directly in your Python file with PEP 723 👇 ... (18 Dec 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251218125432.md" target="_blank">link</a>
+    Model properties for computed state in Django: Instead of scattering state checks across views and templates, put them on the model as `@property` methods. Self-documenting and DRY. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126093943.md" target="_blank">link</a>
   </li>
 
   <li>
-    Memoization with frozenset for immutable state: Use functools.cache with frozenset to memoize graph traversal in #Python 👇 ... (18 Dec 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251218125431.md" target="_blank">link</a>
+    Decorator composition for access control in Django: Stack decorators to build layered access control. Each decorator handles one concern—authentication, org membership, feature flags—and they compose cleanly. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126093932.md" target="_blank">link</a>
   </li>
 
   <li>
-    Using Z3 solver for optimization problems: Solve complex constraint problems with z3-solver in #Python 👇 ... (18 Dec 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251218125430.md" target="_blank">link</a>
+    State machines in Django with transitions: Stop writing scattered if-statements to manage workflow states. The `transitions` library makes it declarative. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126091531.md" target="_blank">link</a>
   </li>
 
 </ul>
