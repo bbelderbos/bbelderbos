@@ -96,6 +96,16 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    I just discovered a neat package to convert Markdown to HTML: markdown-it-py
+
+I just used it to send a weekly markdown report, which now looks so much better :)
+
+`markdown-it-py` made it trivial 👇
+
+Works great with SendGrid, SES, or any email service that accepts HTML content. (26 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdds6lu6zm2i" target="_blank">link</a>
+  </li>
+
+  <li>
     Confidence comes from Shipping
 
 There is no better feeling than `git push` -> `Deployed`. 🚀
@@ -110,12 +120,6 @@ The real power of LLMs unlocks when you give them typed tools.
 In Python, we can define a function and expose it to the model using Pydantic schemas. (25 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdbjf6n7zn2j" target="_blank">link</a>
   </li>
 
-  <li>
-    Let's talk about Rust vs Python and type safety today.
-
-Coming from Python, you might think of Enums as just a list of named constants: `Color.RED`, `Color.BLUE`, etc. (24 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3md62qqfm3s2o" target="_blank">link</a>
-  </li>
-
 </ul>
 
 > <a href="https://bsky.app/profile/bbelderbos.bsky.social" target="_blank">Follow me &raquo;</a>
@@ -128,23 +132,23 @@ Coming from Python, you might think of Enums as just a list of named constants: 
 <ul>
 
   <li>
+    PyPI Trusted Publishing - No More API Tokens: PyPI now supports trusted publishing via OpenID Connect (OIDC). Instead of managing API tokens, you let PyPI verify requests came from your GitHub Actions workflow directly. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126174640.md" target="_blank">link</a>
+  </li>
+
+  <li>
+    Auto-discover documentation pages from markdown with YAML frontmatter: Skip the database for documentation. Drop markdown files in a folder, parse YAML frontmatter for metadata, and auto-discover them at runtime. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126103126.md" target="_blank">link</a>
+  </li>
+
+  <li>
+    Match is not switch, it's structural pattern matching: Python 3.10 introduced match statements. 🐍 😍 ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126103049.md" target="_blank">link</a>
+  </li>
+
+  <li>
     Custom Django template filters for cleaner templates: Stop cluttering templates with logic. Write a simple filter, register it, and your templates stay readable. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126094004.md" target="_blank">link</a>
   </li>
 
   <li>
     Prompt engineering patterns: config as data: Don't hardcode AI prompts and channel rules in your code. Store them as data structures so they're easy to tweak and extend. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126093953.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Model properties for computed state in Django: Instead of scattering state checks across views and templates, put them on the model as `@property` methods. Self-documenting and DRY. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126093943.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Decorator composition for access control in Django: Stack decorators to build layered access control. Each decorator handles one concern—authentication, org membership, feature flags—and they compose cleanly. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126093932.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    State machines in Django with transitions: Stop writing scattered if-statements to manage workflow states. The `transitions` library makes it declarative. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126091531.md" target="_blank">link</a>
   </li>
 
 </ul>
