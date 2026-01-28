@@ -96,6 +96,20 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Can you spot the bug? 🐛
+
+You’ve finally moved your logic into a proper src/ layout so you can structure your pytest tests properly. (27 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdfwq76xyf2d" target="_blank">link</a>
+  </li>
+
+  <li>
+    Don't argue about formatting in code reviews. Let the machine do it.
+
+If you are still manually fixing spaces or imports, you are wasting brain cycles.
+
+Your `.pre-commit-config.yaml` should be your best friend. (27 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdfjbpyxni2f" target="_blank">link</a>
+  </li>
+
+  <li>
     I just discovered a neat package to convert Markdown to HTML: markdown-it-py
 
 I just used it to send a weekly markdown report, which now looks so much better :)
@@ -103,21 +117,6 @@ I just used it to send a weekly markdown report, which now looks so much better 
 `markdown-it-py` made it trivial 👇
 
 Works great with SendGrid, SES, or any email service that accepts HTML content. (26 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdds6lu6zm2i" target="_blank">link</a>
-  </li>
-
-  <li>
-    Confidence comes from Shipping
-
-There is no better feeling than `git push` -> `Deployed`. 🚀
-
-Last week, one of our PDC Foundations students went from "I've never packaged an app" to having their CLI tool installable via `pip` - we love seeing these lightbulb moments. 💡 (26 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdcrr6grf52p" target="_blank">link</a>
-  </li>
-
-  <li>
-    Agents are Interfaces, not just Chatbots
-
-The real power of LLMs unlocks when you give them typed tools.
-In Python, we can define a function and expose it to the model using Pydantic schemas. (25 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdbjf6n7zn2j" target="_blank">link</a>
   </li>
 
 </ul>
@@ -130,6 +129,10 @@ In Python, we can define a function and expose it to the model using Pydantic sc
 ### Latest Python tips
 
 <ul>
+
+  <li>
+    Create GitHub issues faster from the CLI: Combine `gh`, `fzf`, and your `$EDITOR` to create issues without leaving the terminal: ... (27 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260127072418.md" target="_blank">link</a>
+  </li>
 
   <li>
     PyPI Trusted Publishing - No More API Tokens: PyPI now supports trusted publishing via OpenID Connect (OIDC). Instead of managing API tokens, you let PyPI verify requests came from your GitHub Actions workflow directly. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126174640.md" target="_blank">link</a>
@@ -145,10 +148,6 @@ In Python, we can define a function and expose it to the model using Pydantic sc
 
   <li>
     Custom Django template filters for cleaner templates: Stop cluttering templates with logic. Write a simple filter, register it, and your templates stay readable. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126094004.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Prompt engineering patterns: config as data: Don't hardcode AI prompts and channel rules in your code. Store them as data structures so they're easy to tweak and extend. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126093953.md" target="_blank">link</a>
   </li>
 
 </ul>
