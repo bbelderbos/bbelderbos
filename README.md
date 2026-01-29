@@ -96,27 +96,23 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Watching 10 hours of video tutorials makes you a viewer, not a coder. 
+
+Most developers stay in "Passive Consumption" mode because it feels safe. You watch an instructor set up a pytest environment or configure a Docker container and think, "I get it." (28 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdimprtqrh2q" target="_blank">link</a>
+  </li>
+
+  <li>
+    Errors should not pass silently, so stop hiding them.
+
+In Week 2 of our Pybites dev Rust cohort, we're tackling one of Rust's most powerful features: explicit error handling.
+
+Here's the mental shift that changes everything: (28 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdidd25a372i" target="_blank">link</a>
+  </li>
+
+  <li>
     Can you spot the bug? 🐛
 
 You’ve finally moved your logic into a proper src/ layout so you can structure your pytest tests properly. (27 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdfwq76xyf2d" target="_blank">link</a>
-  </li>
-
-  <li>
-    Don't argue about formatting in code reviews. Let the machine do it.
-
-If you are still manually fixing spaces or imports, you are wasting brain cycles.
-
-Your `.pre-commit-config.yaml` should be your best friend. (27 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdfjbpyxni2f" target="_blank">link</a>
-  </li>
-
-  <li>
-    I just discovered a neat package to convert Markdown to HTML: markdown-it-py
-
-I just used it to send a weekly markdown report, which now looks so much better :)
-
-`markdown-it-py` made it trivial 👇
-
-Works great with SendGrid, SES, or any email service that accepts HTML content. (26 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdds6lu6zm2i" target="_blank">link</a>
   </li>
 
 </ul>
@@ -131,6 +127,14 @@ Works great with SendGrid, SES, or any email service that accepts HTML content. 
 <ul>
 
   <li>
+    Reliable CI Benchmarks with pytest-codspeed: Traditional CI benchmarks are noisy (10-30% variance) because they measure wall-clock time. CodSpeed uses CPU instruction simulation instead, giving you <1% variance—so you can actually trust the results. ... (28 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260128144037.md" target="_blank">link</a>
+  </li>
+
+  <li>
+    Convert any Jupyter notebook to Markdown (fast): If you want to extract a notebook into a clean, shareable text format (great for READMEs, docs, or blog drafts), convert `.ipynb` → Markdown with MyST: ... (28 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260128110313.md" target="_blank">link</a>
+  </li>
+
+  <li>
     Create GitHub issues faster from the CLI: Combine `gh`, `fzf`, and your `$EDITOR` to create issues without leaving the terminal: ... (27 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260127072418.md" target="_blank">link</a>
   </li>
 
@@ -140,14 +144,6 @@ Works great with SendGrid, SES, or any email service that accepts HTML content. 
 
   <li>
     Auto-discover documentation pages from markdown with YAML frontmatter: Skip the database for documentation. Drop markdown files in a folder, parse YAML frontmatter for metadata, and auto-discover them at runtime. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126103126.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Match is not switch, it's structural pattern matching: Python 3.10 introduced match statements. 🐍 😍 ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126103049.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Custom Django template filters for cleaner templates: Stop cluttering templates with logic. Write a simple filter, register it, and your templates stay readable. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126094004.md" target="_blank">link</a>
   </li>
 
 </ul>
