@@ -96,23 +96,23 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Stop writing scripts, start building systems. (29 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdllau2w462w" target="_blank">link</a>
+  </li>
+
+  <li>
+    "The borrow checker is fighting me!" 🥊
+
+No, it's not. It's saving you from a 3 AM debugging session three months from now.
+
+In Python, variables are references. You pass an object around, everyone shares it.
+
+In Rust, by default, Ownership is exclusive. (29 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdkts55h542j" target="_blank">link</a>
+  </li>
+
+  <li>
     Watching 10 hours of video tutorials makes you a viewer, not a coder. 
 
 Most developers stay in "Passive Consumption" mode because it feels safe. You watch an instructor set up a pytest environment or configure a Docker container and think, "I get it." (28 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdimprtqrh2q" target="_blank">link</a>
-  </li>
-
-  <li>
-    Errors should not pass silently, so stop hiding them.
-
-In Week 2 of our Pybites dev Rust cohort, we're tackling one of Rust's most powerful features: explicit error handling.
-
-Here's the mental shift that changes everything: (28 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdidd25a372i" target="_blank">link</a>
-  </li>
-
-  <li>
-    Can you spot the bug? 🐛
-
-You’ve finally moved your logic into a proper src/ layout so you can structure your pytest tests properly. (27 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdfwq76xyf2d" target="_blank">link</a>
   </li>
 
 </ul>
