@@ -96,23 +96,25 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Your favorite #Python 🐍 libraries are lying to you.
+
+• `pip install orjson` - that's Rust.
+• `pip install polars` - Rust.
+• `pip install cryptography` - Rust.
+• `pip install pydantic` - the core is Rust.
+• `pip install ruff` - Rust again. (30 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdnmcywrmw2j" target="_blank">link</a>
+  </li>
+
+  <li>
+    Create GitHub issues faster from the CLI
+
+Combine `gh`, `fzf`, and your `$EDITOR` to create issues without leaving the terminal 👇
+
+This gives you fuzzy search for assignees and your familiar editor for composing the issue body—much faster than the web UI. (30 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdnear3ifr2j" target="_blank">link</a>
+  </li>
+
+  <li>
     Stop writing scripts, start building systems. (29 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdllau2w462w" target="_blank">link</a>
-  </li>
-
-  <li>
-    "The borrow checker is fighting me!" 🥊
-
-No, it's not. It's saving you from a 3 AM debugging session three months from now.
-
-In Python, variables are references. You pass an object around, everyone shares it.
-
-In Rust, by default, Ownership is exclusive. (29 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdkts55h542j" target="_blank">link</a>
-  </li>
-
-  <li>
-    Watching 10 hours of video tutorials makes you a viewer, not a coder. 
-
-Most developers stay in "Passive Consumption" mode because it feels safe. You watch an instructor set up a pytest environment or configure a Docker container and think, "I get it." (28 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdimprtqrh2q" target="_blank">link</a>
   </li>
 
 </ul>
