@@ -96,6 +96,12 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Stop scattering `if/elif` checks across your code to manage workflow states.
+
+If your feature has a real lifecycle (draft → review → approved → published), model it as a **state machine**. (02 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdvalrmnw72q" target="_blank">link</a>
+  </li>
+
+  <li>
     Your favorite #Python 🐍 libraries are lying to you.
 
 • `pip install orjson` - that's Rust.
@@ -111,10 +117,6 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 Combine `gh`, `fzf`, and your `$EDITOR` to create issues without leaving the terminal 👇
 
 This gives you fuzzy search for assignees and your familiar editor for composing the issue body—much faster than the web UI. (30 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdnear3ifr2j" target="_blank">link</a>
-  </li>
-
-  <li>
-    Stop writing scripts, start building systems. (29 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdllau2w462w" target="_blank">link</a>
   </li>
 
 </ul>
