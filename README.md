@@ -96,6 +96,12 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Learning #Rust made me a better #Python programmer.
+
+Not because I write Rust at work. Because Rust forced me to think about things I'd been ignoring and I never realized this fact. (03 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdy5lqi3de2w" target="_blank">link</a>
+  </li>
+
+  <li>
     Stop scattering `if/elif` checks across your code to manage workflow states.
 
 If your feature has a real lifecycle (draft → review → approved → published), model it as a **state machine**. (02 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdvalrmnw72q" target="_blank">link</a>
@@ -109,14 +115,6 @@ If your feature has a real lifecycle (draft → review → approved → publishe
 • `pip install cryptography` - Rust.
 • `pip install pydantic` - the core is Rust.
 • `pip install ruff` - Rust again. (30 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdnmcywrmw2j" target="_blank">link</a>
-  </li>
-
-  <li>
-    Create GitHub issues faster from the CLI
-
-Combine `gh`, `fzf`, and your `$EDITOR` to create issues without leaving the terminal 👇
-
-This gives you fuzzy search for assignees and your familiar editor for composing the issue body—much faster than the web UI. (30 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdnear3ifr2j" target="_blank">link</a>
   </li>
 
 </ul>
