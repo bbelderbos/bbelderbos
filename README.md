@@ -96,25 +96,27 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Formatting timestamps with manual string slicing? That can be fragile.
+
+Instead of formatting timestamps all over your code, keep the formatting close to the data (encapsulation). (04 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me2kp3xpd22j" target="_blank">link</a>
+  </li>
+
+  <li>
+    “I need a CLI tool. I’ll build a CLI tool.”
+
+Then someone asked:
+
+“Can I access this via a REST API?”
+
+My answer used to be:
+
+“No… I’d have to rewrite everything.” 😬 (04 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdzxfgbuwu2e" target="_blank">link</a>
+  </li>
+
+  <li>
     Learning #Rust made me a better #Python programmer.
 
 Not because I write Rust at work. Because Rust forced me to think about things I'd been ignoring and I never realized this fact. (03 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdy5lqi3de2w" target="_blank">link</a>
-  </li>
-
-  <li>
-    Stop scattering `if/elif` checks across your code to manage workflow states.
-
-If your feature has a real lifecycle (draft → review → approved → published), model it as a **state machine**. (02 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdvalrmnw72q" target="_blank">link</a>
-  </li>
-
-  <li>
-    Your favorite #Python 🐍 libraries are lying to you.
-
-• `pip install orjson` - that's Rust.
-• `pip install polars` - Rust.
-• `pip install cryptography` - Rust.
-• `pip install pydantic` - the core is Rust.
-• `pip install ruff` - Rust again. (30 Jan 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdnmcywrmw2j" target="_blank">link</a>
   </li>
 
 </ul>
