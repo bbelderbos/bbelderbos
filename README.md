@@ -96,27 +96,31 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    TIL that #GitHub renders Mermaid diagrams natively in markdown files. Just use a fenced code block with `mermaid` as the language. 🚀
+
+Works in READMEs, issues, PRs, and wikis. 
+No external tools needed, the diagram lives in your md, version-controlled with your code. 😍 (05 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me4gmvnxo32q" target="_blank">link</a>
+  </li>
+
+  <li>
+    Spotted in a code review:
+
+```python
+if units == "f":
+    temp_str = f"{celsius}°F"
+else:
+    temp_str = f"{celsius}°C"
+
+# Later in another file...
+units = console.input("Units? (c/f): ").strip() or "c"
+
+# And in yet another place... (05 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me4aeluhf62s" target="_blank">link</a>
+  </li>
+
+  <li>
     Formatting timestamps with manual string slicing? That can be fragile.
 
 Instead of formatting timestamps all over your code, keep the formatting close to the data (encapsulation). (04 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me2kp3xpd22j" target="_blank">link</a>
-  </li>
-
-  <li>
-    “I need a CLI tool. I’ll build a CLI tool.”
-
-Then someone asked:
-
-“Can I access this via a REST API?”
-
-My answer used to be:
-
-“No… I’d have to rewrite everything.” 😬 (04 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdzxfgbuwu2e" target="_blank">link</a>
-  </li>
-
-  <li>
-    Learning #Rust made me a better #Python programmer.
-
-Not because I write Rust at work. Because Rust forced me to think about things I'd been ignoring and I never realized this fact. (03 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mdy5lqi3de2w" target="_blank">link</a>
   </li>
 
 </ul>
@@ -131,6 +135,14 @@ Not because I write Rust at work. Because Rust forced me to think about things I
 <ul>
 
   <li>
+    Binary search: Binary search in Python? Don’t write it yourself. ... (06 Feb 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260206082135.md" target="_blank">link</a>
+  </li>
+
+  <li>
+    Mermaid Diagrams in GitHub READMEs: GitHub renders Mermaid diagrams natively in markdown files. Just use a fenced code block with `mermaid` as the language. ... (05 Feb 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260205134617.md" target="_blank">link</a>
+  </li>
+
+  <li>
     Reliable CI Benchmarks with pytest-codspeed: Traditional CI benchmarks are noisy (10-30% variance) because they measure wall-clock time. CodSpeed uses CPU instruction simulation instead, giving you <1% variance—so you can actually trust the results. ... (28 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260128144037.md" target="_blank">link</a>
   </li>
 
@@ -140,14 +152,6 @@ Not because I write Rust at work. Because Rust forced me to think about things I
 
   <li>
     Create GitHub issues faster from the CLI: Combine `gh`, `fzf`, and your `$EDITOR` to create issues without leaving the terminal: ... (27 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260127072418.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    PyPI Trusted Publishing - No More API Tokens: PyPI now supports trusted publishing via OpenID Connect (OIDC). Instead of managing API tokens, you let PyPI verify requests came from your GitHub Actions workflow directly. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126174640.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Auto-discover documentation pages from markdown with YAML frontmatter: Skip the database for documentation. Drop markdown files in a folder, parse YAML frontmatter for metadata, and auto-discover them at runtime. ... (26 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260126103126.md" target="_blank">link</a>
   </li>
 
 </ul>
