@@ -96,6 +96,12 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    I love how we go deep into Rust core features in our Scripter to Rust cohort.
+
+Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me7bl4halw2f" target="_blank">link</a>
+  </li>
+
+  <li>
     TIL that #GitHub renders Mermaid diagrams natively in markdown files. Just use a fenced code block with `mermaid` as the language. 🚀
 
 Works in READMEs, issues, PRs, and wikis. 
@@ -115,12 +121,6 @@ else:
 units = console.input("Units? (c/f): ").strip() or "c"
 
 # And in yet another place... (05 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me4aeluhf62s" target="_blank">link</a>
-  </li>
-
-  <li>
-    Formatting timestamps with manual string slicing? That can be fragile.
-
-Instead of formatting timestamps all over your code, keep the formatting close to the data (encapsulation). (04 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me2kp3xpd22j" target="_blank">link</a>
   </li>
 
 </ul>
