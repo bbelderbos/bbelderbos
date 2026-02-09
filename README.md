@@ -96,6 +96,14 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    "Rust is too hard."
+
+I hear this constantly from Python developers. The borrow checker. Lifetimes. Ownership. It sounds intimidating.
+
+Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mee75orfdt2t" target="_blank">link</a>
+  </li>
+
+  <li>
     I love how we go deep into Rust core features in our Scripter to Rust cohort.
 
 Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me7bl4halw2f" target="_blank">link</a>
@@ -106,21 +114,6 @@ Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbe
 
 Works in READMEs, issues, PRs, and wikis. 
 No external tools needed, the diagram lives in your md, version-controlled with your code. 😍 (05 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me4gmvnxo32q" target="_blank">link</a>
-  </li>
-
-  <li>
-    Spotted in a code review:
-
-```python
-if units == "f":
-    temp_str = f"{celsius}°F"
-else:
-    temp_str = f"{celsius}°C"
-
-# Later in another file...
-units = console.input("Units? (c/f): ").strip() or "c"
-
-# And in yet another place... (05 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me4aeluhf62s" target="_blank">link</a>
   </li>
 
 </ul>
