@@ -96,6 +96,14 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    I feel that it's safe to say that every Python dev here has faced this error at some point:
+
+AttributeError: 'NoneType' object has no attribute 'get'
+
+Somewhere, somehow, a function returned None when you expected data. (09 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3meh5camtaw2s" target="_blank">link</a>
+  </li>
+
+  <li>
     "Rust is too hard."
 
 I hear this constantly from Python developers. The borrow checker. Lifetimes. Ownership. It sounds intimidating.
@@ -107,13 +115,6 @@ Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https:
     I love how we go deep into Rust core features in our Scripter to Rust cohort.
 
 Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me7bl4halw2f" target="_blank">link</a>
-  </li>
-
-  <li>
-    TIL that #GitHub renders Mermaid diagrams natively in markdown files. Just use a fenced code block with `mermaid` as the language. 🚀
-
-Works in READMEs, issues, PRs, and wikis. 
-No external tools needed, the diagram lives in your md, version-controlled with your code. 😍 (05 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me4gmvnxo32q" target="_blank">link</a>
   </li>
 
 </ul>
