@@ -129,6 +129,10 @@ Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbe
 <ul>
 
   <li>
+    Dataclass config flags: Most devs stop at @dataclass. But stack these flags and you get production-grade data containers: ... (12 Feb 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260212105547.md" target="_blank">link</a>
+  </li>
+
+  <li>
     Binary search: Binary search in Python? Don’t write it yourself. ... (06 Feb 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260206082135.md" target="_blank">link</a>
   </li>
 
@@ -142,10 +146,6 @@ Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbe
 
   <li>
     Convert any Jupyter notebook to Markdown (fast): If you want to extract a notebook into a clean, shareable text format (great for READMEs, docs, or blog drafts), convert `.ipynb` → Markdown with MyST: ... (28 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260128110313.md" target="_blank">link</a>
-  </li>
-
-  <li>
-    Create GitHub issues faster from the CLI: Combine `gh`, `fzf`, and your `$EDITOR` to create issues without leaving the terminal: ... (27 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260127072418.md" target="_blank">link</a>
   </li>
 
 </ul>
