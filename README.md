@@ -100,7 +100,7 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 
 AttributeError: 'NoneType' object has no attribute 'get'
 
-Somewhere, somehow, a function returned None when you expected data. (09 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3meh5camtaw2s" target="_blank">link</a>
+Somewhere, somehow, a function returned None when you expected data. (09 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3meh5camtaw2s" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
   <li>
@@ -108,18 +108,18 @@ Somewhere, somehow, a function returned None when you expected data. (09 Feb 202
 
 I hear this constantly from Python developers. The borrow checker. Lifetimes. Ownership. It sounds intimidating.
 
-Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mee75orfdt2t" target="_blank">link</a>
+Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mee75orfdt2t" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
   <li>
     I love how we go deep into Rust core features in our Scripter to Rust cohort.
 
-Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me7bl4halw2f" target="_blank">link</a>
+Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me7bl4halw2f" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
 
-> <a href="https://bsky.app/profile/bbelderbos.bsky.social" target="_blank">Follow me &raquo;</a>
+> <a href="https://bsky.app/profile/bbelderbos.bsky.social" target="_blank" rel="noopener noreferrer">Follow me &raquo;</a>
 
 
 </td><td valign="top" width="50%">
@@ -129,34 +129,34 @@ Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbe
 <ul>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/how-to-automate-python-performance-benchmarking-in-your-ci-cd-pipeline/" target="_blank">How to Automate Python Performance Benchmarking in Your CI/CD Pipeline</a>
+    <b>Article</b>: <a href="https://pybit.es/articles/were-launching-60-rust-exercises-designed-for-python-devs/" target="_blank" rel="noopener noreferrer">We’re launching 60 Rust Exercises Designed for Python Devs</a>
   </li>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/the-vibe-coding-trap/" target="_blank">The Vibe Coding trap</a>
+    <b>Article</b>: <a href="https://pybit.es/articles/how-to-automate-python-performance-benchmarking-in-your-ci-cd-pipeline/" target="_blank" rel="noopener noreferrer">How to Automate Python Performance Benchmarking in Your CI/CD Pipeline</a>
   </li>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/dependency-injection-more-testable-code/" target="_blank">How Dependency Injection makes your FastAPI Code Better Testable</a>
+    <b>Article</b>: <a href="https://pybit.es/articles/the-vibe-coding-trap/" target="_blank" rel="noopener noreferrer">The Vibe Coding trap</a>
   </li>
 
   <li>
-    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18654038/18654038-215-arthur-pastel-on-creating-actionable-optimisations-with-codspeed" target="_blank">#215: Arthur Pastel on creating actionable optimisations with CodSpeed</a>
+    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18654038/18654038-215-arthur-pastel-on-creating-actionable-optimisations-with-codspeed" target="_blank" rel="noopener noreferrer">#215: Arthur Pastel on creating actionable optimisations with CodSpeed</a>
   </li>
 
   <li>
-    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18609456/18609456-214-building-useful-ai-from-classroom-to-real-business-impact" target="_blank">#214: Building useful AI - from classroom to real business impact</a>
+    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18609456/18609456-214-building-useful-ai-from-classroom-to-real-business-impact" target="_blank" rel="noopener noreferrer">#214: Building useful AI - from classroom to real business impact</a>
   </li>
 
   <li>
-    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18564716/18564716-213-seven-software-engineering-tips-to-make-real-progress-this-year" target="_blank">#213: Seven software engineering tips to make real progress this year</a>
+    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18564716/18564716-213-seven-software-engineering-tips-to-make-real-progress-this-year" target="_blank" rel="noopener noreferrer">#213: Seven software engineering tips to make real progress this year</a>
   </li>
 
 </ul>
 
-> <a href="https://pybit.es" target="_blank">More at pybit.es &raquo;</a>
+> <a href="https://pybit.es" target="_blank" rel="noopener noreferrer">More at pybit.es &raquo;</a>
 
 </td>
 </tr></table>
 
-<a href="https://github.com/bbelderbos/bbelderbos/actions" target="_blank"><img src="https://github.com/bbelderbos/bbelderbos/workflows/Daily%20Update/badge.svg" align="right" alt="Build README"></a>Roll your own: <a href="https://pybit.es/articles/how-to-create-a-self-updating-github-readme/" target="_blank">How to create a self updating GitHub Readme</a>.
+<a href="https://github.com/bbelderbos/bbelderbos/actions" target="_blank" rel="noopener noreferrer"><img src="https://github.com/bbelderbos/bbelderbos/workflows/Daily%20Update/badge.svg" align="right" alt="Build README"></a>Roll your own: <a href="https://pybit.es/articles/how-to-create-a-self-updating-github-readme/" target="_blank" rel="noopener noreferrer">How to create a self updating GitHub Readme</a>.

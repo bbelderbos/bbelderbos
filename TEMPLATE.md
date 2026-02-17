@@ -96,12 +96,12 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 {% for post in posts %}
   <li>
-    {{ post.title }} ({{ post.date }}) - <a href="{{ post.url }}" target="_blank">link</a>
+    {{ post.title }} ({{ post.date }}) - <a href="{{ post.url }}" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 {% endfor %}
 </ul>
 
-> <a href="https://bsky.app/profile/bbelderbos.bsky.social" target="_blank">Follow me &raquo;</a>
+> <a href="https://bsky.app/profile/bbelderbos.bsky.social" target="_blank" rel="noopener noreferrer">Follow me &raquo;</a>
 
 
 </td><td valign="top" width="50%">
@@ -111,14 +111,14 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 {% for item in pybites_content %}
   <li>
-    <b>{{ item.content_type }}</b>: <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+    <b>{{ item.content_type }}</b>: <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
   </li>
 {% endfor %}
 </ul>
 
-> <a href="https://pybit.es" target="_blank">More at pybit.es &raquo;</a>
+> <a href="https://pybit.es" target="_blank" rel="noopener noreferrer">More at pybit.es &raquo;</a>
 
 </td>
 </tr></table>
 
-<a href="https://github.com/bbelderbos/bbelderbos/actions" target="_blank"><img src="https://github.com/bbelderbos/bbelderbos/workflows/Daily%20Update/badge.svg" align="right" alt="Build README"></a>Roll your own: <a href="https://pybit.es/articles/how-to-create-a-self-updating-github-readme/" target="_blank">How to create a self updating GitHub Readme</a>.
+<a href="https://github.com/bbelderbos/bbelderbos/actions" target="_blank" rel="noopener noreferrer"><img src="https://github.com/bbelderbos/bbelderbos/workflows/Daily%20Update/badge.svg" align="right" alt="Build README"></a>Roll your own: <a href="https://pybit.es/articles/how-to-create-a-self-updating-github-readme/" target="_blank" rel="noopener noreferrer">How to create a self updating GitHub Readme</a>.
