@@ -96,26 +96,25 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
-    From explicit to declarative / expressive #Python
+    I feel that it's safe to say that every Python dev here has faced this error at some point:
 
-Had a super cool ensemble coding session today solving the “Analyze stock data” Bite. 🚀
+AttributeError: 'NoneType' object has no attribute 'get'
 
-It was a great reminder of how far you can refactor a function by leaning on built-ins 🐍
-
-Here’s how our final function evolved: (19 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5ynxg522b2t" target="_blank">link</a>
+Somewhere, somehow, a function returned None when you expected data. (09 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3meh5camtaw2s" target="_blank">link</a>
   </li>
 
   <li>
-    TIL that pyproject.toml might require one #Python version, but what you actually get also depends on the Python version(s) you have installed. (18 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5wewk7rpx2s" target="_blank">link</a>
+    "Rust is too hard."
+
+I hear this constantly from Python developers. The borrow checker. Lifetimes. Ownership. It sounds intimidating.
+
+Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mee75orfdt2t" target="_blank">link</a>
   </li>
 
   <li>
-    `itertools.pairwise()` 🐍 use case: detect (and forbid) consecutive characters that are the same👇
+    I love how we go deep into Rust core features in our Scripter to Rust cohort.
 
->>> list(it.pairwise("hello"))
-[('h', 'e'), ('e', 'l'), ('l', 'l'), ('l', 'o')]
-
-#Python #tips (17 Nov 2025) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3m5tceqseg22a" target="_blank">link</a>
+Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me7bl4halw2f" target="_blank">link</a>
   </li>
 
 </ul>
@@ -130,23 +129,23 @@ Here’s how our final function evolved: (19 Nov 2025) - <a href="https://bsky.a
 <ul>
 
   <li>
-    find dependency dependencies: I needed to see which packages were pulling in six. ... (20 Nov 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251120074703.md" target="_blank">link</a>
+    Dataclass config flags: Most devs stop at @dataclass. But stack these flags and you get production-grade data containers: ... (12 Feb 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260212105547.md" target="_blank">link</a>
   </li>
 
   <li>
-    from messy to clean numbers with `removeprefix` / `removesuffix`: With `removeprefix("$")` and `removesuffix(suffix)` you strip only what you *expect* to be there, then `float(cap) * multiplier` does the rest. Classic EAFP: try to parse, fall back to `0.0` when the data is junk. ... (20 Nov 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251120071001.md" target="_blank">link</a>
+    Binary search: Binary search in Python? Don’t write it yourself. ... (06 Feb 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260206082135.md" target="_blank">link</a>
   </li>
 
   <li>
-    Priority queues made simple with heapq: Need to schedule tasks by urgency or priority? ... (16 Oct 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251016160229.md" target="_blank">link</a>
+    Mermaid Diagrams in GitHub READMEs: GitHub renders Mermaid diagrams natively in markdown files. Just use a fenced code block with `mermaid` as the language. ... (05 Feb 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260205134617.md" target="_blank">link</a>
   </li>
 
   <li>
-    divmod built-in: Ever needed both integer division (`//`) and remainder (`%`)? 🤔 ... (13 Oct 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251013163518.md" target="_blank">link</a>
+    Reliable CI Benchmarks with pytest-codspeed: Traditional CI benchmarks are noisy (10-30% variance) because they measure wall-clock time. CodSpeed uses CPU instruction simulation instead, giving you <1% variance—so you can actually trust the results. ... (28 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260128144037.md" target="_blank">link</a>
   </li>
 
   <li>
-    Sort by callable: Did you know that the key argument of 🐍 `sorted()` accepts any callable that transforms items before comparison, e.g. built-ins like `str.lower` or `len`, or your own custom functions 😍💡 ... (13 Oct 2025) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20251013160006.md" target="_blank">link</a>
+    Convert any Jupyter notebook to Markdown (fast): If you want to extract a notebook into a clean, shareable text format (great for READMEs, docs, or blog drafts), convert `.ipynb` → Markdown with MyST: ... (28 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260128110313.md" target="_blank">link</a>
   </li>
 
 </ul>
