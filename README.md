@@ -30,6 +30,9 @@
 - [**Pybites Books**](http://pybitesbooks.com):
   Django-powered, clutter-free reading tracker to log books, mark favourites, and share what you’re reading — built to inspire reading and help kids (and adults) spend less time on screens.
 
+- [**Pybites Organic**](https://pybites-organic.herokuapp.com/):
+  Ship content like you ship code. A content calendar with PR-style reviews. Visual scheduling, team workflow, and status tracking across all your channels.
+  
 ---
 
 ## How I became a developer (short version)
