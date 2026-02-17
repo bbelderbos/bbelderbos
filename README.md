@@ -129,15 +129,15 @@ Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbe
 <ul>
 
   <li>
+    <b>Article</b>: <a href="https://pybit.es/articles/were-launching-60-rust-exercises-designed-for-python-devs/" target="_blank">We’re launching 60 Rust Exercises Designed for Python Devs</a>
+  </li>
+
+  <li>
     <b>Article</b>: <a href="https://pybit.es/articles/how-to-automate-python-performance-benchmarking-in-your-ci-cd-pipeline/" target="_blank">How to Automate Python Performance Benchmarking in Your CI/CD Pipeline</a>
   </li>
 
   <li>
     <b>Article</b>: <a href="https://pybit.es/articles/the-vibe-coding-trap/" target="_blank">The Vibe Coding trap</a>
-  </li>
-
-  <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/dependency-injection-more-testable-code/" target="_blank">How Dependency Injection makes your FastAPI Code Better Testable</a>
   </li>
 
   <li>
