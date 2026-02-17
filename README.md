@@ -124,33 +124,37 @@ Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbe
 
 </td><td valign="top" width="50%">
 
-### Latest Python tips
+### Latest Pybites content
 
 <ul>
 
   <li>
-    Dataclass config flags: Most devs stop at @dataclass. But stack these flags and you get production-grade data containers: ... (12 Feb 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260212105547.md" target="_blank">link</a>
+    <b>Article</b>: <a href="https://pybit.es/articles/how-to-automate-python-performance-benchmarking-in-your-ci-cd-pipeline/" target="_blank">How to Automate Python Performance Benchmarking in Your CI/CD Pipeline</a>
   </li>
 
   <li>
-    Binary search: Binary search in Python? Don’t write it yourself. ... (06 Feb 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260206082135.md" target="_blank">link</a>
+    <b>Article</b>: <a href="https://pybit.es/articles/the-vibe-coding-trap/" target="_blank">The Vibe Coding trap</a>
   </li>
 
   <li>
-    Mermaid Diagrams in GitHub READMEs: GitHub renders Mermaid diagrams natively in markdown files. Just use a fenced code block with `mermaid` as the language. ... (05 Feb 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260205134617.md" target="_blank">link</a>
+    <b>Article</b>: <a href="https://pybit.es/articles/dependency-injection-more-testable-code/" target="_blank">How Dependency Injection makes your FastAPI Code Better Testable</a>
   </li>
 
   <li>
-    Reliable CI Benchmarks with pytest-codspeed: Traditional CI benchmarks are noisy (10-30% variance) because they measure wall-clock time. CodSpeed uses CPU instruction simulation instead, giving you <1% variance—so you can actually trust the results. ... (28 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260128144037.md" target="_blank">link</a>
+    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18654038/18654038-215-arthur-pastel-on-creating-actionable-optimisations-with-codspeed" target="_blank">#215: Arthur Pastel on creating actionable optimisations with CodSpeed</a>
   </li>
 
   <li>
-    Convert any Jupyter notebook to Markdown (fast): If you want to extract a notebook into a clean, shareable text format (great for READMEs, docs, or blog drafts), convert `.ipynb` → Markdown with MyST: ... (28 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260128110313.md" target="_blank">link</a>
+    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18609456/18609456-214-building-useful-ai-from-classroom-to-real-business-impact" target="_blank">#214: Building useful AI - from classroom to real business impact</a>
+  </li>
+
+  <li>
+    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18564716/18564716-213-seven-software-engineering-tips-to-make-real-progress-this-year" target="_blank">#213: Seven software engineering tips to make real progress this year</a>
   </li>
 
 </ul>
 
-> <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More Python tips &raquo;</a>
+> <a href="https://pybit.es" target="_blank">More at pybit.es &raquo;</a>
 
 </td>
 </tr></table>

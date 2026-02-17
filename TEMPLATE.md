@@ -106,17 +106,17 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 
 </td><td valign="top" width="50%">
 
-### Latest Python tips
+### Latest Pybites content
 
 <ul>
-{% for tip in tips %}
+{% for item in pybites_content %}
   <li>
-    {{ tip.title }} ({{ tip.date }}) - <a href="{{ tip.url }}" target="_blank">link</a>
+    <b>{{ item.content_type }}</b>: <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
   </li>
 {% endfor %}
 </ul>
 
-> <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More Python tips &raquo;</a>
+> <a href="https://pybit.es" target="_blank">More at pybit.es &raquo;</a>
 
 </td>
 </tr></table>
