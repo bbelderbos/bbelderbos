@@ -12,17 +12,18 @@
   1:1 support for people taking their first serious steps into Python.
 
 - [**PDC – Project / Cohort Coaching**](https://pybitescoaching.com):
-  Guided, project-based cohorts where you ship real apps and learn modern dev practices. Beginner and intermediate Python, in progress: Rust, Agentic AI, and Django.
+  Guided, project-based cohorts where you ship real apps and learn modern dev practices. Beginner and intermediate Python + Rust, in progress: Agentic AI + Django.
 
 - [**PDM – Professional Developer Mindset**](https://pybit.es/catalogue/the-pdm-program/):
   Flagship 1:1 intermediate / advanced program: mentoring, systems, and feedback to grow into a trusted senior developer.
 
-- [**Pybites Platform**](https://pybitesplatform.com):
+- [**Python Platform**](https://pybitesplatform.com):
   400+ hands-on Python exercises that teach idiomatic, tested code with instant feedback.
 
-- [**Rust for Python Devs**](https://rsbit.es):
-  - Writing at [rsbit.es](https://rsbit.es) about Rust from a Pythonista’s perspective.
-  - Building [rustplatform.com](https://rustplatform.com) with practical Rust exercises and step up to project building in [our upcoming Rust cohort coaching program](http://scriptertorust.com).
+- [**Rust**](https://rsbit.es):
+  - Platform: [rustplatform.com](https://rustplatform.com) with practical Rust exercises to help Python devs bridge.
+  - Coaching: [Build a JSON parser from scratch](http://scriptertorust.com), a 6-week coaching program to get you up2speed in Rust, including Python integration with PyO3.
+  - Blog: [rsbit.es](https://rsbit.es), writing about Rust learnings, again from a Pythonista’s perspective.
 
 - [**Talk Python “100 Days of Code” courses**](https://training.talkpython.fm/courses):
   Co-created two 100 Days of Code courses with Talk Python ([Python](https://training.talkpython.fm/courses/100-days-of-code-in-python) and [Web dev](https://training.talkpython.fm/courses/100-days-of-code-python-web-projects)) to help people level up through daily practice.
