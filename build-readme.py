@@ -43,13 +43,16 @@ def get_latest_pybites_content(
             ContentPiece(url=item["link"], title=item["title"], content_type="Article")
         )
 
-    for item in _fetch_json(PYBITES_BITES_URL)[:num_items]:
-        url = f"https://pybitesplatform.com/bites/{item['slug']}/"
-        pieces.append(ContentPiece(url=url, title=item["title"], content_type="Bite"))
-
-    for item in _fetch_json(PYBITES_TIPS_URL)[:num_items]:
-        url = f"https://pybitesplatform.com/tips/{item['slug']}/"
-        pieces.append(ContentPiece(url=url, title=item["title"], content_type="Tip"))
+    for api_url, content_type in (
+        (PYBITES_BITES_URL, "Bite"),
+        (PYBITES_TIPS_URL, "Tip"),
+    ):
+        base_url = api_url.replace("/api", "")
+        for item in _fetch_json(api_url)[:num_items]:
+            url = f"{base_url}{item['slug']}/"
+            pieces.append(
+                ContentPiece(url=url, title=item["title"], content_type=content_type)
+            )
 
     return pieces
 
