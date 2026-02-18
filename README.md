@@ -143,23 +143,33 @@ Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https:
   </li>
 
   <li>
-    <b>Bite</b>: <a href="https://pybitesplatform.com/bites/sum-n-numbers/" target="_blank" rel="noopener noreferrer">Sum n numbers</a><br/>
-    <sub>Write a Python function that calculates the sum of a list of (int) numbers: The function should...</sub>
+    <b>Bite</b>: <a href="https://pybitesplatform.com/bites/fastapi-integration-complex-queries/" target="_blank" rel="noopener noreferrer">FastAPI Integration - Complex Queries</a><br/>
+    <sub>Time for the grand finale! You'll build advanced API endpoints that handle the full complexity of...</sub>
   </li>
 
   <li>
-    <b>Bite</b>: <a href="https://pybitesplatform.com/bites/regex-fun/" target="_blank" rel="noopener noreferrer">Regex fun</a><br/>
-    <sub>Learn some Python regular expressions by completing the following three functions. Each function...</sub>
+    <b>Bite</b>: <a href="https://pybitesplatform.com/bites/fastapi-integration-basic-endpoints/" target="_blank" rel="noopener noreferrer">FastAPI Integration - Basic Endpoints</a><br/>
+    <sub>Time to expose your gym database to the world! You'll build a REST API using FastAPI, the modern...</sub>
   </li>
 
   <li>
-    <b>Tip</b>: <a href="https://pybitesplatform.com/tips/swap-2-variables/" target="_blank" rel="noopener noreferrer">swap 2 variables</a><br/>
-    <sub>Need to swap 2 variables in Python? No problemo, just 1 line of code:</sub>
+    <b>Rust article</b>: <a href="https://rsbit.es/rust-iterators-over-loops-one-function-that-shows-why/" target="_blank" rel="noopener noreferrer">Rust iterators over loops: one function that shows why</a><br/>
+    <sub>Most developers reaching for Rust write their first for loop within minutes. But Rust's iterator...</sub>
   </li>
 
   <li>
-    <b>Tip</b>: <a href="https://pybitesplatform.com/tips/split-a-string-into-a-list/" target="_blank" rel="noopener noreferrer">split a string into a list</a><br/>
-    <sub>An easy way to make a list in Python is to use the `str.split` method on a string which splits on...</sub>
+    <b>Rust article</b>: <a href="https://rsbit.es/your-first-rust-function/" target="_blank" rel="noopener noreferrer">Your first Rust function (from a Python perspective)</a><br/>
+    <sub>Here's a Python function: def greet() -> str: return "Hello, Rustacean!" Here's the Rust...</sub>
+  </li>
+
+  <li>
+    <b>Rust exercise</b>: <a href="https://rustplatform.com/exercises/implementing-debug/" target="_blank" rel="noopener noreferrer">Implementing Debug</a><br/>
+    <sub>🎯 In Python, every object has __repr__ for developer-friendly output: class Color: def...</sub>
+  </li>
+
+  <li>
+    <b>Rust exercise</b>: <a href="https://rustplatform.com/exercises/variable-assignment-and-mutability/" target="_blank" rel="noopener noreferrer">Variable Assignment and Mutability</a><br/>
+    <sub>🎯 In Python, all variables are mutable by default: x = 5 x += 1 # no problem Rust flips this:...</sub>
   </li>
 
 </ul>

@@ -13,7 +13,8 @@ TEMPLATE_FILE = ROOT_DIR / "TEMPLATE.md"
 BLUESKY_FEED = "https://bsky.app/profile/did:plc:uay2bzai5qhnwqcqz7ivsvzg/rss"
 PYBITES_ARTICLES_URL = "https://codechalleng.es/api/content/"
 PYBITES_BITES_URL = "https://pybitesplatform.com/api/bites/"
-PYBITES_TIPS_URL = "https://pybitesplatform.com/api/tips/"
+RUST_BLOG_FEED = "https://rsbit.es/atom.xml"
+RUST_EXERCISES_URL = "https://rustplatform.com/api/"
 NUMBER_BLUESKY_POSTS = 3
 NUM_ITEMS_PER_TYPE = 2
 SNIPPET_MAX_LENGTH = 100
@@ -46,7 +47,7 @@ def _fetch_json(url: str) -> list[dict[str, str]]:
 def get_latest_pybites_content(
     num_items: int = NUM_ITEMS_PER_TYPE,
 ) -> list[ContentPiece]:
-    """Get the latest Pybites articles, bites, and tips."""
+    """Get the latest Pybites articles, bites, Rust blog posts, and Rust exercises."""
     pieces: list[ContentPiece] = []
 
     articles = [
@@ -62,21 +63,46 @@ def get_latest_pybites_content(
             )
         )
 
-    for api_url, content_type in (
-        (PYBITES_BITES_URL, "Bite"),
-        (PYBITES_TIPS_URL, "Tip"),
-    ):
-        base_url = api_url.replace("/api", "")
-        for item in _fetch_json(api_url)[:num_items]:
-            url = f"{base_url}{item['slug']}/"
-            pieces.append(
-                ContentPiece(
-                    url=url,
-                    title=item["title"],
-                    content_type=content_type,
-                    snippet=_make_snippet(item.get("description", "")),
-                )
+    bites = list(reversed(_fetch_json(PYBITES_BITES_URL)))
+    base_url = PYBITES_BITES_URL.replace("/api", "")
+    for item in bites[:num_items]:
+        url = f"{base_url}{item['slug']}/"
+        pieces.append(
+            ContentPiece(
+                url=url,
+                title=item["title"],
+                content_type="Bite",
+                snippet=_make_snippet(item.get("description", "")),
             )
+        )
+
+    rust_posts = feedparser.parse(RUST_BLOG_FEED).entries
+    for entry in rust_posts[:num_items]:
+        snippet = _make_snippet(entry.get("content", [{}])[0].get("value", ""))
+        pieces.append(
+            ContentPiece(
+                url=entry.link,
+                title=entry.title,
+                content_type="Rust article",
+                snippet=snippet,
+            )
+        )
+
+    rust_exercises = sorted(
+        _fetch_json(RUST_EXERCISES_URL),
+        key=lambda x: x.get("created_at", ""),
+        reverse=True,
+    )
+    for item in rust_exercises[:num_items]:
+        url = f"https://rustplatform.com/exercises/{item['slug']}/"
+        pieces.append(
+            ContentPiece(
+                url=url,
+                title=item["name"],
+                content_type="Rust exercise",
+                snippet=_make_snippet(item.get("description", "")),
+            )
+        )
 
     return pieces
 

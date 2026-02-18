@@ -28,59 +28,68 @@ FAKE_ARTICLES_RESPONSE = [
         "link": "https://podcast.example.com/1",
         "summary": "A podcast.",
     },
-    {
-        "content_type": "video",
-        "title": "Video One",
-        "link": "https://youtube.com/watch?v=1",
-        "summary": "A video.",
-    },
 ]
 
 FAKE_BITES_RESPONSE = [
     {
         "title": "Sum n numbers",
         "slug": "sum-n-numbers",
-        "description": "...",
+        "description": "Old bite.",
         "level": "beginner",
         "tags": [],
     },
     {
         "title": "Regex fun",
         "slug": "regex-fun",
-        "description": "...",
+        "description": "Middle bite.",
         "level": "intermediate",
         "tags": [],
     },
     {
-        "title": "Word values",
-        "slug": "word-values",
-        "description": "...",
+        "title": "FastAPI Endpoints",
+        "slug": "fastapi-endpoints",
+        "description": "Newest bite.",
         "level": "advanced",
         "tags": [],
     },
 ]
 
-FAKE_TIPS_RESPONSE = [
+
+def _make_rust_blog_entry(link: str, title: str, content_html: str) -> MagicMock:
+    entry = MagicMock()
+    entry.link = link
+    entry.title = title
+    entry.get.return_value = [{"value": content_html}]
+    return entry
+
+
+FAKE_RUST_BLOG_ENTRIES = [
+    _make_rust_blog_entry(
+        "https://rsbit.es/iterators/", "Rust iterators", "<p>Iterators are great.</p>"
+    ),
+    _make_rust_blog_entry(
+        "https://rsbit.es/functions/", "Rust functions", "<p>Functions in Rust.</p>"
+    ),
+]
+
+FAKE_RUST_EXERCISES_RESPONSE = [
     {
-        "title": "swap 2 variables",
-        "slug": "swap-2-variables",
-        "description": "...",
-        "code": "...",
-        "explanation": "...",
+        "name": "Old Exercise",
+        "slug": "old-exercise",
+        "description": "An old one.",
+        "created_at": "2024-09-04T17:24:48.017369Z",
     },
     {
-        "title": "f-strings",
-        "slug": "f-strings",
-        "description": "...",
-        "code": "...",
-        "explanation": "...",
+        "name": "Newest Exercise",
+        "slug": "newest-exercise",
+        "description": "Brand new.",
+        "created_at": "2026-02-14T13:30:55.788849Z",
     },
     {
-        "title": "walrus operator",
-        "slug": "walrus-operator",
-        "description": "...",
-        "code": "...",
-        "explanation": "...",
+        "name": "Second Newest",
+        "slug": "second-newest",
+        "description": "Pretty new.",
+        "created_at": "2026-02-14T13:30:54.408364Z",
     },
 ]
 
@@ -108,35 +117,52 @@ def _mock_fetch_json(url: str) -> list[dict]:
         return FAKE_ARTICLES_RESPONSE
     if url == br.PYBITES_BITES_URL:
         return FAKE_BITES_RESPONSE
-    if url == br.PYBITES_TIPS_URL:
-        return FAKE_TIPS_RESPONSE
+    if url == br.RUST_EXERCISES_URL:
+        return FAKE_RUST_EXERCISES_RESPONSE
     raise ValueError(f"Unexpected URL: {url}")
 
 
+def _mock_feedparser_parse(url: str) -> MagicMock:
+    result = MagicMock()
+    if url == br.RUST_BLOG_FEED:
+        result.entries = FAKE_RUST_BLOG_ENTRIES
+    elif url == br.BLUESKY_FEED:
+        result.entries = FAKE_BLUESKY_ENTRIES
+    else:
+        result.entries = []
+    return result
+
+
+@patch("build_readme.feedparser.parse", side_effect=_mock_feedparser_parse)
 @patch("build_readme._fetch_json", side_effect=_mock_fetch_json)
-def test_get_latest_pybites_content_default(mock_fetch):
+def test_get_latest_pybites_content_default(mock_fetch, mock_feed):
     pieces = br.get_latest_pybites_content()
 
-    assert len(pieces) == 6
+    assert len(pieces) == 8
     assert all(isinstance(p, br.ContentPiece) for p in pieces)
 
     articles = [p for p in pieces if p.content_type == "Article"]
     bites = [p for p in pieces if p.content_type == "Bite"]
-    tips = [p for p in pieces if p.content_type == "Tip"]
+    rust_articles = [p for p in pieces if p.content_type == "Rust article"]
+    rust_exercises = [p for p in pieces if p.content_type == "Rust exercise"]
     assert len(articles) == 2
     assert len(bites) == 2
-    assert len(tips) == 2
+    assert len(rust_articles) == 2
+    assert len(rust_exercises) == 2
 
 
+@patch("build_readme.feedparser.parse", side_effect=_mock_feedparser_parse)
 @patch("build_readme._fetch_json", side_effect=_mock_fetch_json)
-def test_get_latest_pybites_content_num_items(mock_fetch):
+def test_get_latest_pybites_content_num_items(mock_fetch, mock_feed):
     pieces = br.get_latest_pybites_content(num_items=1)
-    assert len(pieces) == 3
-    assert [p.content_type for p in pieces] == ["Article", "Bite", "Tip"]
+    assert len(pieces) == 4
+    types = [p.content_type for p in pieces]
+    assert types == ["Article", "Bite", "Rust article", "Rust exercise"]
 
 
+@patch("build_readme.feedparser.parse", side_effect=_mock_feedparser_parse)
 @patch("build_readme._fetch_json", side_effect=_mock_fetch_json)
-def test_articles_filter_non_article_types(mock_fetch):
+def test_articles_filter_non_article_types(mock_fetch, mock_feed):
     pieces = br.get_latest_pybites_content(num_items=10)
 
     articles = [p for p in pieces if p.content_type == "Article"]
@@ -144,22 +170,38 @@ def test_articles_filter_non_article_types(mock_fetch):
     assert all("pybit.es/articles" in a.url for a in articles)
 
 
+@patch("build_readme.feedparser.parse", side_effect=_mock_feedparser_parse)
 @patch("build_readme._fetch_json", side_effect=_mock_fetch_json)
-def test_bite_urls_use_platform_domain(mock_fetch):
+def test_bites_are_reversed_newest_first(mock_fetch, mock_feed):
     pieces = br.get_latest_pybites_content()
     bites = [p for p in pieces if p.content_type == "Bite"]
 
-    assert bites[0].url == "https://pybitesplatform.com/bites/sum-n-numbers/"
-    assert bites[1].url == "https://pybitesplatform.com/bites/regex-fun/"
+    assert bites[0].title == "FastAPI Endpoints"
+    assert bites[0].url == "https://pybitesplatform.com/bites/fastapi-endpoints/"
+    assert bites[1].title == "Regex fun"
 
 
+@patch("build_readme.feedparser.parse", side_effect=_mock_feedparser_parse)
 @patch("build_readme._fetch_json", side_effect=_mock_fetch_json)
-def test_tip_urls_use_platform_domain(mock_fetch):
+def test_rust_blog_entries(mock_fetch, mock_feed):
     pieces = br.get_latest_pybites_content()
-    tips = [p for p in pieces if p.content_type == "Tip"]
+    rust_articles = [p for p in pieces if p.content_type == "Rust article"]
 
-    assert tips[0].url == "https://pybitesplatform.com/tips/swap-2-variables/"
-    assert tips[1].url == "https://pybitesplatform.com/tips/f-strings/"
+    assert rust_articles[0].url == "https://rsbit.es/iterators/"
+    assert rust_articles[0].title == "Rust iterators"
+
+
+@patch("build_readme.feedparser.parse", side_effect=_mock_feedparser_parse)
+@patch("build_readme._fetch_json", side_effect=_mock_fetch_json)
+def test_rust_exercises_sorted_newest_first(mock_fetch, mock_feed):
+    pieces = br.get_latest_pybites_content()
+    rust_exercises = [p for p in pieces if p.content_type == "Rust exercise"]
+
+    assert rust_exercises[0].title == "Newest Exercise"
+    assert (
+        rust_exercises[0].url == "https://rustplatform.com/exercises/newest-exercise/"
+    )
+    assert rust_exercises[1].title == "Second Newest"
 
 
 @patch("build_readme.feedparser")
@@ -202,8 +244,9 @@ def test_make_snippet_preserves_short_text():
     assert br._make_snippet("Hello world") == "Hello world"
 
 
+@patch("build_readme.feedparser.parse", side_effect=_mock_feedparser_parse)
 @patch("build_readme._fetch_json", side_effect=_mock_fetch_json)
-def test_content_pieces_have_snippets(mock_fetch):
+def test_content_pieces_have_snippets(mock_fetch, mock_feed):
     pieces = br.get_latest_pybites_content()
     assert all(p.snippet for p in pieces)
 
