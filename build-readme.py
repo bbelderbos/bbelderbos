@@ -11,8 +11,8 @@ TEMPLATE_FILE = ROOT_DIR / "TEMPLATE.md"
 BLUESKY_FEED = "https://bsky.app/profile/did:plc:uay2bzai5qhnwqcqz7ivsvzg/rss"
 PYBITES_CONTENT_URL = "https://codechalleng.es/api/content/"
 NUMBER_BLUESKY_POSTS = 3
-CONTENT_PER_TYPE = 3
-CONTENT_TYPES = ("article", "podcast")
+CONTENT_PER_TYPE = 2
+CONTENT_TYPES = ("article", "bite", "tip")
 
 
 class ContentPiece(typing.NamedTuple):

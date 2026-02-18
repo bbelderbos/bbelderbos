@@ -137,19 +137,19 @@ Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbe
   </li>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/the-vibe-coding-trap/" target="_blank" rel="noopener noreferrer">The Vibe Coding trap</a>
+    <b>Bite</b>: <a href="https://codechalleng.es/bites/203" target="_blank" rel="noopener noreferrer">Type hinting practice</a>
   </li>
 
   <li>
-    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18654038/18654038-215-arthur-pastel-on-creating-actionable-optimisations-with-codspeed" target="_blank" rel="noopener noreferrer">#215: Arthur Pastel on creating actionable optimisations with CodSpeed</a>
+    <b>Bite</b>: <a href="https://codechalleng.es/bites/22" target="_blank" rel="noopener noreferrer">Write a decorator with argument</a>
   </li>
 
   <li>
-    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18609456/18609456-214-building-useful-ai-from-classroom-to-real-business-impact" target="_blank" rel="noopener noreferrer">#214: Building useful AI - from classroom to real business impact</a>
+    <b>Tip</b>: <a href="https://codechalleng.es/tips/zen-of-python" target="_blank" rel="noopener noreferrer">Zen of Python</a>
   </li>
 
   <li>
-    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18564716/18564716-213-seven-software-engineering-tips-to-make-real-progress-this-year" target="_blank" rel="noopener noreferrer">#213: Seven software engineering tips to make real progress this year</a>
+    <b>Tip</b>: <a href="https://codechalleng.es/tips/braces" target="_blank" rel="noopener noreferrer">braces?</a>
   </li>
 
 </ul>
