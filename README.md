@@ -133,7 +133,11 @@ Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https:
 <ul>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/were-launching-60-rust-exercises-designed-for-python-devs/" target="_blank" rel="noopener noreferrer">We’re launching 60 Rust Exercises Designed for Python Devs</a>
+    <b>Article</b>: <a href="https://pybit.es/articles/were-launching-60-rust-exercises-designed-for-python-devs/" target="_blank">We’re launching 60 Rust Exercises Designed for Python Devs</a>
+  </li>
+
+  <li>
+    <b>Article</b>: <a href="https://pybit.es/articles/how-to-automate-python-performance-benchmarking-in-your-ci-cd-pipeline/" target="_blank">How to Automate Python Performance Benchmarking in Your CI/CD Pipeline</a>
   </li>
 
   <li>
@@ -141,11 +145,7 @@ Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https:
   </li>
 
   <li>
-    <b>Bite</b>: <a href="https://codechalleng.es/bites/203" target="_blank" rel="noopener noreferrer">Type hinting practice</a>
-  </li>
-
-  <li>
-    <b>Bite</b>: <a href="https://codechalleng.es/bites/22" target="_blank" rel="noopener noreferrer">Write a decorator with argument</a>
+    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18654038/18654038-215-arthur-pastel-on-creating-actionable-optimisations-with-codspeed" target="_blank">#215: Arthur Pastel on creating actionable optimisations with CodSpeed</a>
   </li>
 
   <li>
