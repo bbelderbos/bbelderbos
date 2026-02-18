@@ -164,12 +164,12 @@ Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https:
 
   <li>
     <b>Rust exercise</b>: <a href="https://rustplatform.com/exercises/implementing-debug/" target="_blank" rel="noopener noreferrer">Implementing Debug</a><br/>
-    <sub>🎯 In Python, every object has __repr__ for developer-friendly output: class Color: def...</sub>
+    <sub>🎯 In Python, every object has `__repr__` for developer-friendly output: ```python class Color: def...</sub>
   </li>
 
   <li>
     <b>Rust exercise</b>: <a href="https://rustplatform.com/exercises/variable-assignment-and-mutability/" target="_blank" rel="noopener noreferrer">Variable Assignment and Mutability</a><br/>
-    <sub>🎯 In Python, all variables are mutable by default: x = 5 x += 1 # no problem Rust flips this:...</sub>
+    <sub>🎯 In Python, all variables are mutable by default: ```python x = 5 x += 1 # no problem ``` Rust...</sub>
   </li>
 
 </ul>
