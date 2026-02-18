@@ -9,10 +9,11 @@ ROOT_DIR = pathlib.Path(__file__).parent.resolve()
 README_FILE = ROOT_DIR / "README.md"
 TEMPLATE_FILE = ROOT_DIR / "TEMPLATE.md"
 BLUESKY_FEED = "https://bsky.app/profile/did:plc:uay2bzai5qhnwqcqz7ivsvzg/rss"
-PYBITES_CONTENT_URL = "https://codechalleng.es/api/content/"
+PYBITES_ARTICLES_URL = "https://codechalleng.es/api/content/"
+PYBITES_BITES_URL = "https://pybitesplatform.com/api/bites/"
+PYBITES_TIPS_URL = "https://pybitesplatform.com/api/tips/"
 NUMBER_BLUESKY_POSTS = 3
-CONTENT_PER_TYPE = 3
-CONTENT_TYPES = ("article", "podcast")
+NUM_ITEMS_PER_TYPE = 2
 
 
 class ContentPiece(typing.NamedTuple):
@@ -22,26 +23,38 @@ class ContentPiece(typing.NamedTuple):
     content_type: str = ""
 
 
-def get_latest_pybites_content(
-    per_type: int = CONTENT_PER_TYPE,
-) -> list[ContentPiece]:
-    """Get the latest Pybites articles and podcasts from the content API."""
-    resp = httpx.get(PYBITES_CONTENT_URL)
+def _fetch_json(url: str) -> list[dict[str, str]]:
+    resp = httpx.get(url)
     resp.raise_for_status()
-    items = resp.json()
+    return resp.json()
 
-    content_pieces: list[ContentPiece] = []
-    for ct in CONTENT_TYPES:
-        type_items = [i for i in items if i["content_type"] == ct]
-        for item in type_items[:per_type]:
-            content_pieces.append(
-                ContentPiece(
-                    url=item["link"],
-                    title=item["title"],
-                    content_type=ct.capitalize(),
-                )
+
+def get_latest_pybites_content(
+    num_items: int = NUM_ITEMS_PER_TYPE,
+) -> list[ContentPiece]:
+    """Get the latest Pybites articles, bites, and tips."""
+    pieces: list[ContentPiece] = []
+
+    articles = [
+        i for i in _fetch_json(PYBITES_ARTICLES_URL) if i["content_type"] == "article"
+    ]
+    for item in articles[:num_items]:
+        pieces.append(
+            ContentPiece(url=item["link"], title=item["title"], content_type="Article")
+        )
+
+    for api_url, content_type in (
+        (PYBITES_BITES_URL, "Bite"),
+        (PYBITES_TIPS_URL, "Tip"),
+    ):
+        base_url = api_url.replace("/api", "")
+        for item in _fetch_json(api_url)[:num_items]:
+            url = f"{base_url}{item['slug']}/"
+            pieces.append(
+                ContentPiece(url=url, title=item["title"], content_type=content_type)
             )
-    return content_pieces
+
+    return pieces
 
 
 def get_latest_bluesky_posts(
