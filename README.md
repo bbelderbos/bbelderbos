@@ -133,11 +133,7 @@ Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https:
 <ul>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/were-launching-60-rust-exercises-designed-for-python-devs/" target="_blank">We’re launching 60 Rust Exercises Designed for Python Devs</a>
-  </li>
-
-  <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/how-to-automate-python-performance-benchmarking-in-your-ci-cd-pipeline/" target="_blank">How to Automate Python Performance Benchmarking in Your CI/CD Pipeline</a>
+    <b>Article</b>: <a href="https://pybit.es/articles/were-launching-60-rust-exercises-designed-for-python-devs/" target="_blank" rel="noopener noreferrer">We’re launching 60 Rust Exercises Designed for Python Devs</a>
   </li>
 
   <li>
@@ -145,15 +141,19 @@ Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https:
   </li>
 
   <li>
-    <b>Podcast</b>: <a href="https://www.pybitespodcast.com/18654038/18654038-215-arthur-pastel-on-creating-actionable-optimisations-with-codspeed" target="_blank">#215: Arthur Pastel on creating actionable optimisations with CodSpeed</a>
+    <b>Bite</b>: <a href="https://pybitesplatform.com/bites/sum-n-numbers/" target="_blank" rel="noopener noreferrer">Sum n numbers</a>
   </li>
 
   <li>
-    <b>Tip</b>: <a href="https://codechalleng.es/tips/zen-of-python" target="_blank" rel="noopener noreferrer">Zen of Python</a>
+    <b>Bite</b>: <a href="https://pybitesplatform.com/bites/regex-fun/" target="_blank" rel="noopener noreferrer">Regex fun</a>
   </li>
 
   <li>
-    <b>Tip</b>: <a href="https://codechalleng.es/tips/braces" target="_blank" rel="noopener noreferrer">braces?</a>
+    <b>Tip</b>: <a href="https://pybitesplatform.com/tips/swap-2-variables/" target="_blank" rel="noopener noreferrer">swap 2 variables</a>
+  </li>
+
+  <li>
+    <b>Tip</b>: <a href="https://pybitesplatform.com/tips/split-a-string-into-a-list/" target="_blank" rel="noopener noreferrer">split a string into a list</a>
   </li>
 
 </ul>
