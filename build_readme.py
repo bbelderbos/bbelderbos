@@ -1,4 +1,6 @@
+import html
 import pathlib
+import re
 import typing
 
 import feedparser
@@ -14,6 +16,7 @@ PYBITES_BITES_URL = "https://pybitesplatform.com/api/bites/"
 PYBITES_TIPS_URL = "https://pybitesplatform.com/api/tips/"
 NUMBER_BLUESKY_POSTS = 3
 NUM_ITEMS_PER_TYPE = 2
+SNIPPET_MAX_LENGTH = 100
 
 
 class ContentPiece(typing.NamedTuple):
@@ -21,6 +24,17 @@ class ContentPiece(typing.NamedTuple):
     title: str
     date: str = ""
     content_type: str = ""
+    snippet: str = ""
+
+
+def _make_snippet(text: str, max_length: int = SNIPPET_MAX_LENGTH) -> str:
+    """Strip HTML tags and entities, then truncate to max_length."""
+    text = re.sub(r"<[^>]+>", "", text)
+    text = html.unescape(text)
+    text = " ".join(text.split())
+    if len(text) > max_length:
+        text = text[:max_length].rsplit(" ", 1)[0] + "..."
+    return text
 
 
 def _fetch_json(url: str) -> list[dict[str, str]]:
@@ -40,7 +54,12 @@ def get_latest_pybites_content(
     ]
     for item in articles[:num_items]:
         pieces.append(
-            ContentPiece(url=item["link"], title=item["title"], content_type="Article")
+            ContentPiece(
+                url=item["link"],
+                title=item["title"],
+                content_type="Article",
+                snippet=_make_snippet(item.get("summary", "")),
+            )
         )
 
     for api_url, content_type in (
@@ -51,7 +70,12 @@ def get_latest_pybites_content(
         for item in _fetch_json(api_url)[:num_items]:
             url = f"{base_url}{item['slug']}/"
             pieces.append(
-                ContentPiece(url=url, title=item["title"], content_type=content_type)
+                ContentPiece(
+                    url=url,
+                    title=item["title"],
+                    content_type=content_type,
+                    snippet=_make_snippet(item.get("description", "")),
+                )
             )
 
     return pieces

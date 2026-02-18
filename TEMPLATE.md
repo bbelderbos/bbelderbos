@@ -111,7 +111,8 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 {% for item in pybites_content %}
   <li>
-    <b>{{ item.content_type }}</b>: <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
+    <b>{{ item.content_type }}</b>: <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a><br/>
+    <sub>{{ item.snippet }}</sub>
   </li>
 {% endfor %}
 </ul>

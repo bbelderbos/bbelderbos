@@ -133,27 +133,33 @@ Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https:
 <ul>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/were-launching-60-rust-exercises-designed-for-python-devs/" target="_blank" rel="noopener noreferrer">We’re launching 60 Rust Exercises Designed for Python Devs</a>
+    <b>Article</b>: <a href="https://pybit.es/articles/were-launching-60-rust-exercises-designed-for-python-devs/" target="_blank" rel="noopener noreferrer">We’re launching 60 Rust Exercises Designed for Python Devs</a><br/>
+    <sub>“Rust is too hard.” We hear it all the time from Python developers. But after building 60 Rust...</sub>
   </li>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/how-to-automate-python-performance-benchmarking-in-your-ci-cd-pipeline/" target="_blank" rel="noopener noreferrer">How to Automate Python Performance Benchmarking in Your CI/CD Pipeline</a>
+    <b>Article</b>: <a href="https://pybit.es/articles/how-to-automate-python-performance-benchmarking-in-your-ci-cd-pipeline/" target="_blank" rel="noopener noreferrer">How to Automate Python Performance Benchmarking in Your CI/CD Pipeline</a><br/>
+    <sub>The issue with traditional performance tracking is that it is often an afterthought. We treat...</sub>
   </li>
 
   <li>
-    <b>Bite</b>: <a href="https://pybitesplatform.com/bites/sum-n-numbers/" target="_blank" rel="noopener noreferrer">Sum n numbers</a>
+    <b>Bite</b>: <a href="https://pybitesplatform.com/bites/sum-n-numbers/" target="_blank" rel="noopener noreferrer">Sum n numbers</a><br/>
+    <sub>Write a Python function that calculates the sum of a list of (int) numbers: The function should...</sub>
   </li>
 
   <li>
-    <b>Bite</b>: <a href="https://pybitesplatform.com/bites/regex-fun/" target="_blank" rel="noopener noreferrer">Regex fun</a>
+    <b>Bite</b>: <a href="https://pybitesplatform.com/bites/regex-fun/" target="_blank" rel="noopener noreferrer">Regex fun</a><br/>
+    <sub>Learn some Python regular expressions by completing the following three functions. Each function...</sub>
   </li>
 
   <li>
-    <b>Tip</b>: <a href="https://pybitesplatform.com/tips/swap-2-variables/" target="_blank" rel="noopener noreferrer">swap 2 variables</a>
+    <b>Tip</b>: <a href="https://pybitesplatform.com/tips/swap-2-variables/" target="_blank" rel="noopener noreferrer">swap 2 variables</a><br/>
+    <sub>Need to swap 2 variables in Python? No problemo, just 1 line of code:</sub>
   </li>
 
   <li>
-    <b>Tip</b>: <a href="https://pybitesplatform.com/tips/split-a-string-into-a-list/" target="_blank" rel="noopener noreferrer">split a string into a list</a>
+    <b>Tip</b>: <a href="https://pybitesplatform.com/tips/split-a-string-into-a-list/" target="_blank" rel="noopener noreferrer">split a string into a list</a><br/>
+    <sub>An easy way to make a list in Python is to use the `str.split` method on a string which splits on...</sub>
   </li>
 
 </ul>

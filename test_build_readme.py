@@ -8,26 +8,31 @@ FAKE_ARTICLES_RESPONSE = [
         "content_type": "article",
         "title": "Article One",
         "link": "https://pybit.es/articles/one/",
+        "summary": "This is a <b>great</b> article about Python&#8230; and more.",
     },
     {
         "content_type": "article",
         "title": "Article Two",
         "link": "https://pybit.es/articles/two/",
+        "summary": "Another article.",
     },
     {
         "content_type": "article",
         "title": "Article Three",
         "link": "https://pybit.es/articles/three/",
+        "summary": "Third one.",
     },
     {
         "content_type": "podcast",
         "title": "Podcast One",
         "link": "https://podcast.example.com/1",
+        "summary": "A podcast.",
     },
     {
         "content_type": "video",
         "title": "Video One",
         "link": "https://youtube.com/watch?v=1",
+        "summary": "A video.",
     },
 ]
 
@@ -176,6 +181,35 @@ def test_get_latest_bluesky_posts_default_count(mock_feedparser):
 
     posts = br.get_latest_bluesky_posts()
     assert len(posts) == 3
+
+
+def test_make_snippet_strips_html_and_entities():
+    raw = "<p>This is a <b>great</b> article&#8230;</p>"
+    result = br._make_snippet(raw)
+    assert "<" not in result
+    assert ">" not in result
+    assert "\u2026" in result or "..." in result
+
+
+def test_make_snippet_truncates_long_text():
+    long_text = "word " * 50
+    result = br._make_snippet(long_text, max_length=20)
+    assert len(result) <= 24  # 20 + "..."
+    assert result.endswith("...")
+
+
+def test_make_snippet_preserves_short_text():
+    assert br._make_snippet("Hello world") == "Hello world"
+
+
+@patch("build_readme._fetch_json", side_effect=_mock_fetch_json)
+def test_content_pieces_have_snippets(mock_fetch):
+    pieces = br.get_latest_pybites_content()
+    assert all(p.snippet for p in pieces)
+
+    article = pieces[0]
+    assert "great" in article.snippet
+    assert "<b>" not in article.snippet
 
 
 def test_generate_readme(tmp_path):
