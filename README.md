@@ -96,6 +96,16 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Did our first live Rust 🦀 session the other day with @jhodapp
+
+One thing that came up and what Rust folks love to say is “zero-cost abstractions.”
+
+What does that actually mean?
+
+It basically means you can write clean, high-level code… (18 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mf4od6deth2a" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     I feel that it's safe to say that every Python dev here has faced this error at some point:
 
 AttributeError: 'NoneType' object has no attribute 'get'
@@ -109,12 +119,6 @@ Somewhere, somehow, a function returned None when you expected data. (09 Feb 202
 I hear this constantly from Python developers. The borrow checker. Lifetimes. Ownership. It sounds intimidating.
 
 Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mee75orfdt2t" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    I love how we go deep into Rust core features in our Scripter to Rust cohort.
-
-Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me7bl4halw2f" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
