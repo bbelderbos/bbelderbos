@@ -96,11 +96,21 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Did our first live Rust 🦀 session the other day with @jhodapp
+
+One thing that came up and what Rust folks love to say is “zero-cost abstractions.”
+
+What does that actually mean?
+
+It basically means you can write clean, high-level code… (18 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mf4od6deth2a" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     I feel that it's safe to say that every Python dev here has faced this error at some point:
 
 AttributeError: 'NoneType' object has no attribute 'get'
 
-Somewhere, somehow, a function returned None when you expected data. (09 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3meh5camtaw2s" target="_blank">link</a>
+Somewhere, somehow, a function returned None when you expected data. (09 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3meh5camtaw2s" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
   <li>
@@ -108,51 +118,49 @@ Somewhere, somehow, a function returned None when you expected data. (09 Feb 202
 
 I hear this constantly from Python developers. The borrow checker. Lifetimes. Ownership. It sounds intimidating.
 
-Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mee75orfdt2t" target="_blank">link</a>
-  </li>
-
-  <li>
-    I love how we go deep into Rust core features in our Scripter to Rust cohort.
-
-Code example that came up: (06 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3me7bl4halw2f" target="_blank">link</a>
+Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mee75orfdt2t" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
 
-> <a href="https://bsky.app/profile/bbelderbos.bsky.social" target="_blank">Follow me &raquo;</a>
+> <a href="https://bsky.app/profile/bbelderbos.bsky.social" target="_blank" rel="noopener noreferrer">Follow me &raquo;</a>
 
 
 </td><td valign="top" width="50%">
 
-### Latest Python tips
+### Latest Pybites content
 
 <ul>
 
   <li>
-    Dataclass config flags: Most devs stop at @dataclass. But stack these flags and you get production-grade data containers: ... (12 Feb 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260212105547.md" target="_blank">link</a>
+    <b>Article</b>: <a href="https://pybit.es/articles/were-launching-60-rust-exercises-designed-for-python-devs/" target="_blank" rel="noopener noreferrer">We’re launching 60 Rust Exercises Designed for Python Devs</a>
   </li>
 
   <li>
-    Binary search: Binary search in Python? Don’t write it yourself. ... (06 Feb 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260206082135.md" target="_blank">link</a>
+    <b>Article</b>: <a href="https://pybit.es/articles/how-to-automate-python-performance-benchmarking-in-your-ci-cd-pipeline/" target="_blank" rel="noopener noreferrer">How to Automate Python Performance Benchmarking in Your CI/CD Pipeline</a>
   </li>
 
   <li>
-    Mermaid Diagrams in GitHub READMEs: GitHub renders Mermaid diagrams natively in markdown files. Just use a fenced code block with `mermaid` as the language. ... (05 Feb 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260205134617.md" target="_blank">link</a>
+    <b>Bite</b>: <a href="https://pybitesplatform.com/bites/sum-n-numbers/" target="_blank" rel="noopener noreferrer">Sum n numbers</a>
   </li>
 
   <li>
-    Reliable CI Benchmarks with pytest-codspeed: Traditional CI benchmarks are noisy (10-30% variance) because they measure wall-clock time. CodSpeed uses CPU instruction simulation instead, giving you <1% variance—so you can actually trust the results. ... (28 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260128144037.md" target="_blank">link</a>
+    <b>Bite</b>: <a href="https://pybitesplatform.com/bites/regex-fun/" target="_blank" rel="noopener noreferrer">Regex fun</a>
   </li>
 
   <li>
-    Convert any Jupyter notebook to Markdown (fast): If you want to extract a notebook into a clean, shareable text format (great for READMEs, docs, or blog drafts), convert `.ipynb` → Markdown with MyST: ... (28 Jan 2026) - <a href="https://github.com/bbelderbos/bobcodesit/blob/main/notes/20260128110313.md" target="_blank">link</a>
+    <b>Tip</b>: <a href="https://pybitesplatform.com/tips/swap-2-variables/" target="_blank" rel="noopener noreferrer">swap 2 variables</a>
+  </li>
+
+  <li>
+    <b>Tip</b>: <a href="https://pybitesplatform.com/tips/split-a-string-into-a-list/" target="_blank" rel="noopener noreferrer">split a string into a list</a>
   </li>
 
 </ul>
 
-> <a href="https://github.com/bbelderbos/bobcodesit" target="_blank">More Python tips &raquo;</a>
+> <a href="https://pybit.es" target="_blank" rel="noopener noreferrer">More at pybit.es &raquo;</a>
 
 </td>
 </tr></table>
 
-<a href="https://github.com/bbelderbos/bbelderbos/actions" target="_blank"><img src="https://github.com/bbelderbos/bbelderbos/workflows/Daily%20Update/badge.svg" align="right" alt="Build README"></a>Roll your own: <a href="https://pybit.es/articles/how-to-create-a-self-updating-github-readme/" target="_blank">How to create a self updating GitHub Readme</a>.
+<a href="https://github.com/bbelderbos/bbelderbos/actions" target="_blank" rel="noopener noreferrer"><img src="https://github.com/bbelderbos/bbelderbos/workflows/Daily%20Update/badge.svg" align="right" alt="Build README"></a>Roll your own: <a href="https://pybit.es/articles/how-to-create-a-self-updating-github-readme/" target="_blank" rel="noopener noreferrer">How to create a self updating GitHub Readme</a>.
