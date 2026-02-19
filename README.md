@@ -96,6 +96,21 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    When I see:
+
+Copilot reviewed 3 out of 5 changed files and generated no comments.
+
+… and it’s #Rust, I’m honestly not surprised.
+
+Rust forces you to encode invariants in the type system.
+
+• Ownership
+• Borrowing
+• Mutability
+• Error handling via Result (19 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mf6prnezhr2j" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     Did our first live Rust 🦀 session the other day with @jhodapp
 
 One thing that came up and what Rust folks love to say is “zero-cost abstractions.”
@@ -111,14 +126,6 @@ It basically means you can write clean, high-level code… (18 Feb 2026) - <a hr
 AttributeError: 'NoneType' object has no attribute 'get'
 
 Somewhere, somehow, a function returned None when you expected data. (09 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3meh5camtaw2s" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    "Rust is too hard."
-
-I hear this constantly from Python developers. The borrow checker. Lifetimes. Ownership. It sounds intimidating.
-
-Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mee75orfdt2t" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
@@ -153,13 +160,13 @@ Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https:
   </li>
 
   <li>
-    <b>Rust article</b>: <a href="https://rsbit.es/rust-iterators-over-loops-one-function-that-shows-why/" target="_blank" rel="noopener noreferrer">Rust iterators over loops: one function that shows why</a><br/>
-    <sub>Most developers reaching for Rust write their first for loop within minutes. But Rust's iterator...</sub>
+    <b>Rust article</b>: <a href="https://rsbit.es/rust-no-none-crashes/" target="_blank" rel="noopener noreferrer">Rust Makes None.attribute Crashes Impossible — Your Code Won't Even Compile</a><br/>
+    <sub>Every Python developer has seen this traceback: AttributeError: 'NoneType' object has no attribute...</sub>
   </li>
 
   <li>
-    <b>Rust article</b>: <a href="https://rsbit.es/your-first-rust-function/" target="_blank" rel="noopener noreferrer">Your first Rust function (from a Python perspective)</a><br/>
-    <sub>Here's a Python function: def greet() -> str: return "Hello, Rustacean!" Here's the Rust...</sub>
+    <b>Rust article</b>: <a href="https://rsbit.es/rust-iterators-over-loops-one-function-that-shows-why/" target="_blank" rel="noopener noreferrer">Rust iterators over loops: one function that shows why</a><br/>
+    <sub>Most developers reaching for Rust write their first for loop within minutes. But Rust's iterator...</sub>
   </li>
 
   <li>
