@@ -156,13 +156,13 @@ Rust forces you to encode invariants in the type system.
   </li>
 
   <li>
-    <b>Rust article</b>: <a href="https://rsbit.es/rust-no-none-crashes/" target="_blank" rel="noopener noreferrer">Rust Makes None.attribute Crashes Impossible — Your Code Won't Even Compile</a><br/>
-    <sub>Every Python developer has seen this traceback: AttributeError: 'NoneType' object has no attribute...</sub>
+    <b>Rust article</b>: <a href="https://rsbit.es/adding-auth-to-an-api/" target="_blank" rel="noopener noreferrer">Adding API Key Authentication to a Rust CLI</a><br/>
+    <sub>Our exercise downloader started as a simple tool that fetched free exercises from an API. When we...</sub>
   </li>
 
   <li>
-    <b>Rust article</b>: <a href="https://rsbit.es/rust-iterators-over-loops-one-function-that-shows-why/" target="_blank" rel="noopener noreferrer">Rust iterators over loops: one function that shows why</a><br/>
-    <sub>Most developers reaching for Rust write their first for loop within minutes. But Rust's iterator...</sub>
+    <b>Rust article</b>: <a href="https://rsbit.es/rust-no-none-crashes/" target="_blank" rel="noopener noreferrer">Rust Makes None.attribute Crashes Impossible — Your Code Won't Even Compile</a><br/>
+    <sub>Every Python developer has seen this traceback: AttributeError: 'NoneType' object has no attribute...</sub>
   </li>
 
   <li>
