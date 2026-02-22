@@ -96,32 +96,27 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    I learned some idiomatic #Rust this week 🦀
+
+```rust
+// The instinct
+let mut total = 0;
+for item in &amp;v {
+    total += item;
+}
+total
+
+// The Rust way
+v.iter().sum()
+``` (21 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfev7mdodt2l" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
+    I just completed "Option Combinators" on @pybites Rust Platform 🦀🎉 https://rustplatform.com/option-combinators (21 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfepxx5ynk2d" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     I love when the tooling helps you (keeps you on your toes): (20 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfbnukbjgr23" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    Ever found yourself in a #git mess? 😱
-
-We did, last week. We broke our own Git workflow 😄
-
-So we decided to do a quick debrief on our podcast and provide some useful insights & tips 💡 when working on a shared code base ->
-
-https://www.youtube.com/watch?v=2GjXVhRBGSM (19 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mf7gawa57s2y" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    When I see:
-
-Copilot reviewed 3 out of 5 changed files and generated no comments.
-
-… and it’s #Rust, I’m honestly not surprised.
-
-Rust forces you to encode invariants in the type system.
-
-• Ownership
-• Borrowing
-• Mutability
-• Error handling via Result (19 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mf6prnezhr2j" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
@@ -136,13 +131,13 @@ Rust forces you to encode invariants in the type system.
 <ul>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/how-even-senior-developers-mess-up-their-git-workflow/" target="_blank" rel="noopener noreferrer">How Even Senior Developers Mess Up Their Git Workflow</a><br/>
-    <sub>There are few things in software engineering that induce panic quite like a massive git merge...</sub>
+    <b>Article</b>: <a href="https://pybit.es/articles/3-questions-to-go-from-thinking-like-a-scrappy-to-senior-dev/" target="_blank" rel="noopener noreferrer">3 Questions to go from thinking like a Scrappy to Senior Dev</a><br/>
+    <sub>How do you know if you’re actually growing as a dev? Last week I was chatting with a developer...</sub>
   </li>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/were-launching-60-rust-exercises-designed-for-python-devs/" target="_blank" rel="noopener noreferrer">We’re launching 60 Rust Exercises Designed for Python Devs</a><br/>
-    <sub>“Rust is too hard.” We hear it all the time from Python developers. But after building 60 Rust...</sub>
+    <b>Article</b>: <a href="https://pybit.es/articles/how-even-senior-developers-mess-up-their-git-workflow/" target="_blank" rel="noopener noreferrer">How Even Senior Developers Mess Up Their Git Workflow</a><br/>
+    <sub>There are few things in software engineering that induce panic quite like a massive git merge...</sub>
   </li>
 
   <li>
