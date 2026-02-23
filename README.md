@@ -96,6 +96,11 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    I just completed "Map and Filter" on @pybites Rust Platform 🦀🎉 rustplatform.com/map-and-filter
+https://rustplatform.com/map-and-filter (22 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfhkbp2t7k2p" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     I learned some idiomatic #Rust this week 🦀
 
 ```rust
@@ -113,10 +118,6 @@ v.iter().sum()
 
   <li>
     I just completed "Option Combinators" on @pybites Rust Platform 🦀🎉 https://rustplatform.com/option-combinators (21 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfepxx5ynk2d" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    I love when the tooling helps you (keeps you on your toes): (20 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfbnukbjgr23" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
