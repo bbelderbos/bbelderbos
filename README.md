@@ -96,28 +96,28 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Learning moment: if there is a built-in method, use it.
+
+My attempt the other day of skipping whitespace in a tokenizer:
+
+' ' | '\t' | '\n' => {
+    chars.next();
+}
+
+Turns out you can use is_whitespace() (23 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfk5xts3om2q" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
+    In 2023, setting up a Python project = 5 tools
+
+In 2026, it's ONE.
+
+Here's the shift happening right now: (23 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfjp7fa7gq23" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     I just completed "Map and Filter" on @pybites Rust Platform 🦀🎉 rustplatform.com/map-and-filter
 https://rustplatform.com/map-and-filter (22 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfhkbp2t7k2p" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    I learned some idiomatic #Rust this week 🦀
-
-```rust
-// The instinct
-let mut total = 0;
-for item in &amp;v {
-    total += item;
-}
-total
-
-// The Rust way
-v.iter().sum()
-``` (21 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfev7mdodt2l" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    I just completed "Option Combinators" on @pybites Rust Platform 🦀🎉 https://rustplatform.com/option-combinators (21 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfepxx5ynk2d" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
@@ -132,13 +132,13 @@ v.iter().sum()
 <ul>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/3-questions-to-go-from-thinking-like-a-scrappy-to-senior-dev/" target="_blank" rel="noopener noreferrer">3 Questions to go from thinking like a Scrappy to Senior Dev</a><br/>
-    <sub>How do you know if you’re actually growing as a dev? Last week I was chatting with a developer...</sub>
+    <b>Article</b>: <a href="https://pybit.es/articles/why-do-we-insist-on-struggling-alone/" target="_blank" rel="noopener noreferrer">Why do we insist on struggling alone?</a><br/>
+    <sub>A realisation about my son’s basketball team reminded me that we should never be ashamed to ask for...</sub>
   </li>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/how-even-senior-developers-mess-up-their-git-workflow/" target="_blank" rel="noopener noreferrer">How Even Senior Developers Mess Up Their Git Workflow</a><br/>
-    <sub>There are few things in software engineering that induce panic quite like a massive git merge...</sub>
+    <b>Article</b>: <a href="https://pybit.es/articles/3-questions-to-go-from-thinking-like-a-scrappy-to-senior-dev/" target="_blank" rel="noopener noreferrer">3 Questions to go from thinking like a Scrappy to Senior Dev</a><br/>
+    <sub>How do you know if you’re actually growing as a dev? Last week I was chatting with a developer...</sub>
   </li>
 
   <li>
