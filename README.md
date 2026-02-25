@@ -96,6 +96,11 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    I just completed "Module Basics" on @pybites Rust Platform 🦀🎉 rustplatform.com/module-basics < everything private by default == safer
+https://rustplatform.com/module-basics (24 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfmafisjpk2p" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     Learning moment: if there is a built-in method, use it.
 
 My attempt the other day of skipping whitespace in a tokenizer:
@@ -113,11 +118,6 @@ Turns out you can use is_whitespace() (23 Feb 2026) - <a href="https://bsky.app/
 In 2026, it's ONE.
 
 Here's the shift happening right now: (23 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfjp7fa7gq23" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    I just completed "Map and Filter" on @pybites Rust Platform 🦀🎉 rustplatform.com/map-and-filter
-https://rustplatform.com/map-and-filter (22 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfhkbp2t7k2p" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
@@ -152,13 +152,13 @@ https://rustplatform.com/map-and-filter (22 Feb 2026) - <a href="https://bsky.ap
   </li>
 
   <li>
-    <b>Rust article</b>: <a href="https://rsbit.es/adding-auth-to-an-api/" target="_blank" rel="noopener noreferrer">Adding API Key Authentication to a Rust CLI</a><br/>
-    <sub>Our exercise downloader started as a simple tool that fetched free exercises from an API. When we...</sub>
+    <b>Rust article</b>: <a href="https://rsbit.es/start-with-private-first/" target="_blank" rel="noopener noreferrer">Start with private first!</a><br/>
+    <sub>Rust and Python make opposite bets about what developers will do with access to internals....</sub>
   </li>
 
   <li>
-    <b>Rust article</b>: <a href="https://rsbit.es/rust-no-none-crashes/" target="_blank" rel="noopener noreferrer">Rust Makes None.attribute Crashes Impossible — Your Code Won't Even Compile</a><br/>
-    <sub>Every Python developer has seen this traceback: AttributeError: 'NoneType' object has no attribute...</sub>
+    <b>Rust article</b>: <a href="https://rsbit.es/adding-auth-to-an-api/" target="_blank" rel="noopener noreferrer">Adding API Key Authentication to a Rust CLI</a><br/>
+    <sub>Our exercise downloader started as a simple tool that fetched free exercises from an API. When we...</sub>
   </li>
 
   <li>
