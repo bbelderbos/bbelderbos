@@ -96,28 +96,28 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    "I forgot to implement that method."
+
+This sentence has caused production bugs.
+
+Python's ABCs (Abstract Base Classes) prevent this.
+
+Now any storage backend must implement these methods. 
+
+Forget one? Python tells you at instantiation, so you'll catch it in time: (25 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfp5sakeaj2z" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
+    New @pybites podcast: Tim Gallati returned after 4 years to share how he added #RAG to his app.
+
+The twist? He shipped it in 6 weeks with 1:1 coaching.
+
+Here's what we learned: (25 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mforgsk7sz27" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     I just completed "Module Basics" on @pybites Rust Platform 🦀🎉 rustplatform.com/module-basics < everything private by default == safer
 https://rustplatform.com/module-basics (24 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfmafisjpk2p" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    Learning moment: if there is a built-in method, use it.
-
-My attempt the other day of skipping whitespace in a tokenizer:
-
-' ' | '\t' | '\n' => {
-    chars.next();
-}
-
-Turns out you can use is_whitespace() (23 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfk5xts3om2q" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    In 2023, setting up a Python project = 5 tools
-
-In 2026, it's ONE.
-
-Here's the shift happening right now: (23 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfjp7fa7gq23" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
