@@ -96,6 +96,29 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Python dev feedback learning Rust: "I understand Python better now."
+
+Say again?
+
+Here's why that happens.
+
+Python lets you do this:
+
+data = [1, 2, 3]
+process_a(data)
+process_b(data)
+print(data)  # What's in here? Depends on what process_a and process_b did. (27 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mft6izike32y" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
+    What makes up the 2026 #Python stack?
+
+Why are uv, ruff, FastAPI, Typer, and SQLModel widely adopted by developers that want to have an ergonomic and performant toolset?
+
+What methodologies do we use in our teaching to help you write clean/ robust code consistently? (26 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfqzoycfyi2y" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     "I forgot to implement that method."
 
 This sentence has caused production bugs.
@@ -105,19 +128,6 @@ Python's ABCs (Abstract Base Classes) prevent this.
 Now any storage backend must implement these methods. 
 
 Forget one? Python tells you at instantiation, so you'll catch it in time: (25 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfp5sakeaj2z" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    New @pybites podcast: Tim Gallati returned after 4 years to share how he added #RAG to his app.
-
-The twist? He shipped it in 6 weeks with 1:1 coaching.
-
-Here's what we learned: (25 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mforgsk7sz27" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    I just completed "Module Basics" on @pybites Rust Platform 🦀🎉 rustplatform.com/module-basics < everything private by default == safer
-https://rustplatform.com/module-basics (24 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfmafisjpk2p" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
