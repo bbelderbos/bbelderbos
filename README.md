@@ -96,6 +96,15 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Is reading books declining? 🤔
+
+Common sentiments: 
+• Where did my time go today? 
+• I've just spent (wasted) an hour watching short videos. 
+• I can never seem to find time to get a deep read in, it's all quick and shallow these days :/ (27 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mftjkvzyds23" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     Python dev feedback learning Rust: "I understand Python better now."
 
 Say again?
@@ -116,18 +125,6 @@ print(data)  # What's in here? Depends on what process_a and process_b did. (27 
 Why are uv, ruff, FastAPI, Typer, and SQLModel widely adopted by developers that want to have an ergonomic and performant toolset?
 
 What methodologies do we use in our teaching to help you write clean/ robust code consistently? (26 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfqzoycfyi2y" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    "I forgot to implement that method."
-
-This sentence has caused production bugs.
-
-Python's ABCs (Abstract Base Classes) prevent this.
-
-Now any storage backend must implement these methods. 
-
-Forget one? Python tells you at instantiation, so you'll catch it in time: (25 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfp5sakeaj2z" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
