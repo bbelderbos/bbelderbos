@@ -96,6 +96,14 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    10 years of teaching Python. Thousands of exercises completed. 
+
+And then we built a Rust platform. 
+
+Here's why. (28 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfwcvdxpwq2l" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     Is reading books declining? 🤔
 
 Common sentiments: 
@@ -117,14 +125,6 @@ data = [1, 2, 3]
 process_a(data)
 process_b(data)
 print(data)  # What's in here? Depends on what process_a and process_b did. (27 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mft6izike32y" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    What makes up the 2026 #Python stack?
-
-Why are uv, ruff, FastAPI, Typer, and SQLModel widely adopted by developers that want to have an ergonomic and performant toolset?
-
-What methodologies do we use in our teaching to help you write clean/ robust code consistently? (26 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfqzoycfyi2y" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
