@@ -96,6 +96,10 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    You've been using #Rust for years. You just might not have realized it. (01 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfyfwvkygd2n" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     10 years of teaching Python. Thousands of exercises completed. 
 
 And then we built a Rust platform. 
@@ -110,21 +114,6 @@ Common sentiments:
 • Where did my time go today? 
 • I've just spent (wasted) an hour watching short videos. 
 • I can never seem to find time to get a deep read in, it's all quick and shallow these days :/ (27 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mftjkvzyds23" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    Python dev feedback learning Rust: "I understand Python better now."
-
-Say again?
-
-Here's why that happens.
-
-Python lets you do this:
-
-data = [1, 2, 3]
-process_a(data)
-process_b(data)
-print(data)  # What's in here? Depends on what process_a and process_b did. (27 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mft6izike32y" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
