@@ -96,24 +96,23 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Python is great, but sometimes you need more performance.
+
+A simplified example to show where Python might run out of road:
+
+```python
+# This looks fine. Runs 30 seconds on 500MB of data.
+for row in huge_dataset:
+    result = process(row)
+``` (02 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mg3wt3ezhh2a" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
+    3 things I wish I knew before learning Rust as a Python developer. (02 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mg3bxxm2te2e" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     You've been using #Rust for years. You just might not have realized it. (01 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfyfwvkygd2n" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    10 years of teaching Python. Thousands of exercises completed. 
-
-And then we built a Rust platform. 
-
-Here's why. (28 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfwcvdxpwq2l" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    Is reading books declining? 🤔
-
-Common sentiments: 
-• Where did my time go today? 
-• I've just spent (wasted) an hour watching short videos. 
-• I can never seem to find time to get a deep read in, it's all quick and shallow these days :/ (27 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mftjkvzyds23" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
