@@ -96,6 +96,29 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    Not having (complete) docs earlier has been a miss!
+
+And with AI, it's now easier to fix than ever.
+
+Last week we added the whole suite to our @Pybites platform 👇
+
+No more people abandoning the app because it's unclear how it works. 😱 (04 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mg7tlleqks27" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
+    Ever had this in your #Python code?
+
+def process(items):
+    for item in items:
+        if item > 0:
+            result = item * 2
+    return result 
+
+print(process([1, 2, 3]))  # Works
+print(process([]))         # Raises UnboundLocalError (03 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mg64ddttc22n" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     Python is great, but sometimes you need more performance.
 
 A simplified example to show where Python might run out of road:
@@ -105,14 +128,6 @@ A simplified example to show where Python might run out of road:
 for row in huge_dataset:
     result = process(row)
 ``` (02 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mg3wt3ezhh2a" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    3 things I wish I knew before learning Rust as a Python developer. (02 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mg3bxxm2te2e" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    You've been using #Rust for years. You just might not have realized it. (01 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mfyfwvkygd2n" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
@@ -127,13 +142,13 @@ for row in huge_dataset:
 <ul>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/why-do-we-insist-on-struggling-alone/" target="_blank" rel="noopener noreferrer">Why do we insist on struggling alone?</a><br/>
-    <sub>A realisation about my son’s basketball team reminded me that we should never be ashamed to ask for...</sub>
+    <b>Article</b>: <a href="https://pybit.es/articles/why-building-a-production-rag-pipeline-is-easier-than-you-think/" target="_blank" rel="noopener noreferrer">Why Building a Production RAG Pipeline is Easier Than You Think</a><br/>
+    <sub>Adding AI to legacy code doesn’t have to be a challenge. Many devs are hearing this right now: “We...</sub>
   </li>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/3-questions-to-go-from-thinking-like-a-scrappy-to-senior-dev/" target="_blank" rel="noopener noreferrer">3 Questions to go from thinking like a Scrappy to Senior Dev</a><br/>
-    <sub>How do you know if you’re actually growing as a dev? Last week I was chatting with a developer...</sub>
+    <b>Article</b>: <a href="https://pybit.es/articles/why-do-we-insist-on-struggling-alone/" target="_blank" rel="noopener noreferrer">Why do we insist on struggling alone?</a><br/>
+    <sub>A realisation about my son’s basketball team reminded me that we should never be ashamed to ask for...</sub>
   </li>
 
   <li>
