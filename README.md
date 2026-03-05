@@ -96,6 +96,12 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
+    New Pybites podcast is live -> Why #Python developers are learning #Rust 
+
+Check it out here: https://www.youtube.com/watch?v=-5uLLBvWK5Q and let me know if you're into Rust or planning to learn it this year ... (04 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mga32isr6v2q" target="_blank" rel="noopener noreferrer">link</a>
+  </li>
+
+  <li>
     Not having (complete) docs earlier has been a miss!
 
 And with AI, it's now easier to fix than ever.
@@ -116,18 +122,6 @@ def process(items):
 
 print(process([1, 2, 3]))  # Works
 print(process([]))         # Raises UnboundLocalError (03 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mg64ddttc22n" target="_blank" rel="noopener noreferrer">link</a>
-  </li>
-
-  <li>
-    Python is great, but sometimes you need more performance.
-
-A simplified example to show where Python might run out of road:
-
-```python
-# This looks fine. Runs 30 seconds on 500MB of data.
-for row in huge_dataset:
-    result = process(row)
-``` (02 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mg3wt3ezhh2a" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
