@@ -96,29 +96,32 @@ Now I help others escape tutorial hell, ship things, and build careers around it
 <ul>
 
   <li>
-    Did our first live Rust 🦀 session the other day with @jhodapp
+    New Pybites podcast is live -> Why #Python developers are learning #Rust 
 
-One thing that came up and what Rust folks love to say is “zero-cost abstractions.”
-
-What does that actually mean?
-
-It basically means you can write clean, high-level code… (18 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mf4od6deth2a" target="_blank" rel="noopener noreferrer">link</a>
+Check it out here: https://www.youtube.com/watch?v=-5uLLBvWK5Q and let me know if you're into Rust or planning to learn it this year ... (04 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mga32isr6v2q" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
   <li>
-    I feel that it's safe to say that every Python dev here has faced this error at some point:
+    Not having (complete) docs earlier has been a miss!
 
-AttributeError: 'NoneType' object has no attribute 'get'
+And with AI, it's now easier to fix than ever.
 
-Somewhere, somehow, a function returned None when you expected data. (09 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3meh5camtaw2s" target="_blank" rel="noopener noreferrer">link</a>
+Last week we added the whole suite to our @Pybites platform 👇
+
+No more people abandoning the app because it's unclear how it works. 😱 (04 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mg7tlleqks27" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
   <li>
-    "Rust is too hard."
+    Ever had this in your #Python code?
 
-I hear this constantly from Python developers. The borrow checker. Lifetimes. Ownership. It sounds intimidating.
+def process(items):
+    for item in items:
+        if item > 0:
+            result = item * 2
+    return result 
 
-Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mee75orfdt2t" target="_blank" rel="noopener noreferrer">link</a>
+print(process([1, 2, 3]))  # Works
+print(process([]))         # Raises UnboundLocalError (03 Mar 2026) - <a href="https://bsky.app/profile/bbelderbos.bsky.social/post/3mg64ddttc22n" target="_blank" rel="noopener noreferrer">link</a>
   </li>
 
 </ul>
@@ -133,13 +136,13 @@ Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https:
 <ul>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/were-launching-60-rust-exercises-designed-for-python-devs/" target="_blank" rel="noopener noreferrer">We’re launching 60 Rust Exercises Designed for Python Devs</a><br/>
-    <sub>“Rust is too hard.” We hear it all the time from Python developers. But after building 60 Rust...</sub>
+    <b>Article</b>: <a href="https://pybit.es/articles/why-building-a-production-rag-pipeline-is-easier-than-you-think/" target="_blank" rel="noopener noreferrer">Why Building a Production RAG Pipeline is Easier Than You Think</a><br/>
+    <sub>Adding AI to legacy code doesn’t have to be a challenge. Many devs are hearing this right now: “We...</sub>
   </li>
 
   <li>
-    <b>Article</b>: <a href="https://pybit.es/articles/how-to-automate-python-performance-benchmarking-in-your-ci-cd-pipeline/" target="_blank" rel="noopener noreferrer">How to Automate Python Performance Benchmarking in Your CI/CD Pipeline</a><br/>
-    <sub>The issue with traditional performance tracking is that it is often an afterthought. We treat...</sub>
+    <b>Article</b>: <a href="https://pybit.es/articles/why-do-we-insist-on-struggling-alone/" target="_blank" rel="noopener noreferrer">Why do we insist on struggling alone?</a><br/>
+    <sub>A realisation about my son’s basketball team reminded me that we should never be ashamed to ask for...</sub>
   </li>
 
   <li>
@@ -153,23 +156,23 @@ Here's the truth: Rust is different, not harder. (08 Feb 2026) - <a href="https:
   </li>
 
   <li>
-    <b>Rust article</b>: <a href="https://rsbit.es/rust-iterators-over-loops-one-function-that-shows-why/" target="_blank" rel="noopener noreferrer">Rust iterators over loops: one function that shows why</a><br/>
-    <sub>Most developers reaching for Rust write their first for loop within minutes. But Rust's iterator...</sub>
+    <b>Rust article</b>: <a href="https://rsbit.es/start-with-private-first/" target="_blank" rel="noopener noreferrer">Start with private first!</a><br/>
+    <sub>Rust and Python make opposite bets about what developers will do with access to internals....</sub>
   </li>
 
   <li>
-    <b>Rust article</b>: <a href="https://rsbit.es/your-first-rust-function/" target="_blank" rel="noopener noreferrer">Your first Rust function (from a Python perspective)</a><br/>
-    <sub>Here's a Python function: def greet() -> str: return "Hello, Rustacean!" Here's the Rust...</sub>
+    <b>Rust article</b>: <a href="https://rsbit.es/adding-auth-to-an-api/" target="_blank" rel="noopener noreferrer">Adding API Key Authentication to a Rust CLI</a><br/>
+    <sub>Our exercise downloader started as a simple tool that fetched free exercises from an API. When we...</sub>
   </li>
 
   <li>
     <b>Rust exercise</b>: <a href="https://rustplatform.com/exercises/implementing-debug/" target="_blank" rel="noopener noreferrer">Implementing Debug</a><br/>
-    <sub>🎯 In Python, every object has __repr__ for developer-friendly output: class Color: def...</sub>
+    <sub>🎯 In Python, every object has `__repr__` for developer-friendly output: ```python class Color: def...</sub>
   </li>
 
   <li>
     <b>Rust exercise</b>: <a href="https://rustplatform.com/exercises/variable-assignment-and-mutability/" target="_blank" rel="noopener noreferrer">Variable Assignment and Mutability</a><br/>
-    <sub>🎯 In Python, all variables are mutable by default: x = 5 x += 1 # no problem Rust flips this:...</sub>
+    <sub>🎯 In Python, all variables are mutable by default: ```python x = 5 x += 1 # no problem ``` Rust...</sub>
   </li>
 
 </ul>
