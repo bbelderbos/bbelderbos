@@ -1,27 +1,20 @@
-# Hi, I’m Bob
+# Hi, I'm Bob
 
-Developer coach helping people ship real software in Python, Rust, and AI.
+I build software and coach developers in Python, Rust, and AI.
 
-Co-founder of [Pybites](https://pybit.es). More about my coaching at [belderbos.dev](https://belderbos.dev).
-
-## What I do
-
-- [**Cohort Coaching**](https://belderbos.dev/coaching/) — project-based cohorts in Python, Rust, and Agentic AI
-- [**1:1 Coaching**](https://belderbos.dev/intake/) — personalized developer coaching
-- **Platforms** — [Rust exercises](https://rustplatform.com) · [Python exercises](https://pybitesplatform.com)
+I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.com) coding platform. I write at [belderbos.dev](https://belderbos.dev).
 
 ## Latest posts
 
-{% if posts %}
-{% for post in posts %}
+{% if posts -%}
+{% for post in posts -%}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
-
 > [More at belderbos.dev](https://belderbos.dev/blog/)
-{% else %}
+{%- else -%}
 > Coming soon at [belderbos.dev/blog](https://belderbos.dev/blog/)
-{% endif %}
+{%- endif %}
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/bbelderbos/)
+[LinkedIn](https://www.linkedin.com/in/bbelderbos/) · bob [at] belderbos.dev
