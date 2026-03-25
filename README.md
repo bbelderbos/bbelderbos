@@ -6,6 +6,7 @@ I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.
 
 ## Latest posts
 
+- [What Building a JSON Tokenizer Taught Me About Rust](https://belderbos.dev/blog/what-building-a-json-tokenizer-taught-me-about-rust/)
 - [Learning Rust Made Me a Better Python Developer](https://belderbos.dev/blog/rust-made-me-a-better-python-developer/)
 
 > [More at belderbos.dev](https://belderbos.dev/blog/)
