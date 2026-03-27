@@ -6,6 +6,7 @@ I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.
 
 ## Latest posts
 
+- [The Repository Pattern: Swap Data Sources in One Line](https://belderbos.dev/blog/repository-pattern-swappable-data-sources/)
 - [What Building a JSON Tokenizer Taught Me About Rust](https://belderbos.dev/blog/what-building-a-json-tokenizer-taught-me-about-rust/)
 - [Learning Rust Made Me a Better Python Developer](https://belderbos.dev/blog/rust-made-me-a-better-python-developer/)
 
