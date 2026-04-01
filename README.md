@@ -6,6 +6,7 @@ I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.
 
 ## Latest posts
 
+- [From 1,069 to 156 LOC: Design Over Code](https://belderbos.dev/blog/design-over-code/)
 - [How Modern Python Tooling Simplified My Setup](https://belderbos.dev/blog/modern-python-tooling-uv-ruff-ty/)
 - [The Repository Pattern: Swap Data Sources in One Line](https://belderbos.dev/blog/repository-pattern-swappable-data-sources/)
 - [What Building a JSON Tokenizer Taught Me About Rust](https://belderbos.dev/blog/what-building-a-json-tokenizer-taught-me-about-rust/)
