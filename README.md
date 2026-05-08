@@ -6,11 +6,11 @@ I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.
 
 ## Latest posts
 
+- [Build a daily AI digest in 200 lines of Python (no framework)](https://belderbos.dev/blog/python-ai-trend-digest-asyncio-protocol/)
 - [The Rust Compiler as an AI Coding Agent Guardrail](https://belderbos.dev/blog/rust-compiler-ai-agent-guardrail/)
 - [Event Sourcing in Python: Get More Insights Into Your Data](https://belderbos.dev/blog/event-sourcing-python-store-events-not-state/)
 - [Python to Rust: A JSON Parser in 6 Weeks](https://belderbos.dev/blog/vikas-rust-cohort-ownership-pyo3/)
 - [Build the data layer before you touch the LLM](https://belderbos.dev/blog/build-data-layer-before-llm/)
-- [Vibe Coding is Easy, Owning the Architecture Isn't](https://belderbos.dev/blog/vibe-coding-owning-architecture/)
 
 > [More at belderbos.dev](https://belderbos.dev/blog/)
 
