@@ -6,11 +6,11 @@ I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.
 
 ## Latest posts
 
+- [A 500 That Survived Ten Successful Deploys](https://belderbos.dev/blog/500-survived-ten-successful-deploys/)
 - [What production AI agents actually require](https://belderbos.dev/blog/production-ai-agents-real-workflows/)
 - [How to Keep Your Developer Instincts When AI Writes the Code](https://belderbos.dev/blog/dont-delegate-the-friction/)
 - [10 Days of Rust for Python Developers: A Recap](https://belderbos.dev/blog/10-days-rust-python-developers-recap/)
 - [Learn agentic AI in Python with 10 small exercises](https://belderbos.dev/blog/learn-agentic-ai-python-10-step-journey/)
-- [Coding exercises that run in the browser with Pyodide](https://belderbos.dev/blog/python-exercises-browser-pyodide/)
 
 > [More at belderbos.dev](https://belderbos.dev/blog/)
 
