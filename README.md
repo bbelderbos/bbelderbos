@@ -6,11 +6,11 @@ I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.
 
 ## Latest posts
 
+- [From Python Script to Production: A Django Coaching Case Study](https://belderbos.dev/blog/daniele-django-movie-anime-discovery/)
 - [Mind Map Your App Before You Write a Line of Code](https://belderbos.dev/blog/mind-map-software-project-scope/)
 - [A 500 That Survived Ten Successful Deploys](https://belderbos.dev/blog/500-survived-ten-successful-deploys/)
 - [What production AI agents actually require](https://belderbos.dev/blog/production-ai-agents-real-workflows/)
 - [How to Keep Your Developer Instincts When AI Writes the Code](https://belderbos.dev/blog/dont-delegate-the-friction/)
-- [10 Days of Rust for Python Developers: A Recap](https://belderbos.dev/blog/10-days-rust-python-developers-recap/)
 
 > [More at belderbos.dev](https://belderbos.dev/blog/)
 
