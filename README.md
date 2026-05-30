@@ -6,11 +6,11 @@ I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.
 
 ## Latest posts
 
+- [The control layer is the product, not the model](https://belderbos.dev/blog/control-layer-is-the-product/)
+- [Learning a New Programming Language Is More Important Now, Not Less](https://belderbos.dev/blog/josh-rust-cohort-beat-cpython-json/)
 - [Two Python Scoping Bugs: A Lesson in Object Lifetimes](https://belderbos.dev/blog/two-scoping-bugs-object-lifetimes/)
 - [From Python Script to Production: A Django Coaching Case Study](https://belderbos.dev/blog/daniele-django-movie-anime-discovery/)
 - [Mind Map Your App Before You Write a Line of Code](https://belderbos.dev/blog/mind-map-software-project-scope/)
-- [A 500 That Survived Ten Successful Deploys](https://belderbos.dev/blog/500-survived-ten-successful-deploys/)
-- [What production AI agents actually require](https://belderbos.dev/blog/production-ai-agents-real-workflows/)
 
 > [More at belderbos.dev](https://belderbos.dev/blog/)
 
