@@ -6,11 +6,11 @@ I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.
 
 ## Latest posts
 
+- ["Rust Is for People Who Want to Be Punished." Now Jochen Trusts It More Than Python.](https://belderbos.dev/blog/jochen-rust-cohort-beat-cpython/)
+- [How to Tell if Your Python Mock Is Actually Working](https://belderbos.dev/blog/python-mock-patch-verify-interception/)
 - [Build the Simplest Thing That Works](https://belderbos.dev/blog/build-the-simplest-thing-that-works/)
 - [AI Human-in-the-loop: News Digest Triage Telegram Bot](https://belderbos.dev/blog/human-in-the-loop-telegram-bot-python/)
 - [The control layer is the product, not the model](https://belderbos.dev/blog/control-layer-is-the-product/)
-- [Learning a New Programming Language Is More Important Now, Not Less](https://belderbos.dev/blog/josh-rust-cohort-beat-cpython-json/)
-- [Two Python Scoping Bugs: A Lesson in Object Lifetimes](https://belderbos.dev/blog/two-scoping-bugs-object-lifetimes/)
 
 > [More at belderbos.dev](https://belderbos.dev/blog/)
 
