@@ -6,11 +6,11 @@ I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.
 
 ## Latest posts
 
+- [Learning New Skills in the AI Era (vBrownBag)](https://belderbos.dev/blog/vbrownbag-learning-skills-ai-era/)
 - [Rust, AI, and the Developer Mindset (Develpreneur Podcast)](https://belderbos.dev/blog/develpreneur-podcast-rust-ai/)
 - [Judgment: The Skill AI Can't Give You](https://belderbos.dev/blog/thinking-matters-more-than-ever-ai-age/)
 - [One Core, Two Interfaces, No Rewrites](https://belderbos.dev/blog/two-interfaces-one-core/)
 - [Ask the Canon: Semantic Search Without a Vector Database](https://belderbos.dev/blog/semantic-search-without-a-vector-database/)
-- [There Is No Magic: An AI Agent in 60 Lines of Python](https://belderbos.dev/blog/build-minimal-ai-agent-python/)
 
 > [More at belderbos.dev](https://belderbos.dev/blog/)
 
