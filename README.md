@@ -6,11 +6,11 @@ I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.
 
 ## Latest posts
 
+- [5 design patterns used in my new habit tracker app](https://belderbos.dev/blog/python-patterns-django-habit-tracker/)
 - [Why does Alembic need an import you never use?](https://belderbos.dev/blog/what-table-true-does-sqlmodel/)
 - [Unsubscribe links without a login: Django signing](https://belderbos.dev/blog/unsubscribe-without-login-django-signing/)
 - [Guardrails Protect Your Codebase. What Protects Your Judgment?](https://belderbos.dev/blog/ai-skill-atrophy-keep-the-friction/)
 - [Learning New Skills in the AI Era (vBrownBag)](https://belderbos.dev/blog/vbrownbag-learning-skills-ai-era/)
-- [Rust, AI, and the Developer Mindset (Develpreneur Podcast)](https://belderbos.dev/blog/develpreneur-podcast-rust-ai/)
 
 > [More at belderbos.dev](https://belderbos.dev/blog/)
 
