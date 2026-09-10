@@ -6,11 +6,11 @@ I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.
 
 ## Latest posts
 
+- [Database-Driven RBAC with FastAPI and Azure Entra ID](https://belderbos.dev/blog/database-driven-rbac-fastapi-azure-entra/)
 - [5 design patterns used in my new habit tracker app](https://belderbos.dev/blog/python-patterns-django-habit-tracker/)
 - [Why does Alembic need an import you never use?](https://belderbos.dev/blog/what-table-true-does-sqlmodel/)
 - [Unsubscribe links without a login: Django signing](https://belderbos.dev/blog/unsubscribe-without-login-django-signing/)
 - [Guardrails Protect Your Codebase. What Protects Your Judgment?](https://belderbos.dev/blog/ai-skill-atrophy-keep-the-friction/)
-- [Learning New Skills in the AI Era (vBrownBag)](https://belderbos.dev/blog/vbrownbag-learning-skills-ai-era/)
 
 > [More at belderbos.dev](https://belderbos.dev/blog/)
 
