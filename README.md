@@ -6,7 +6,7 @@ I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.
 
 ## Latest posts
 
-- [Timeless Programming Books for the AI Age](https://belderbos.dev/blog/timeless-programming-books-ai-age/)
+- [The Programming Books I Still Recommend After 15 Years](https://belderbos.dev/blog/timeless-programming-books/)
 - [Ship Your First Python App: a Free Course on the Local Dev Workflow](https://belderbos.dev/blog/free-python-foundations-course-local-dev-workflow/)
 - [Protocol or ABC? Designing a pluggable provider interface](https://belderbos.dev/blog/protocol-vs-abc-provider-interface/)
 - [Why Rust makes you import a trait to use its methods](https://belderbos.dev/blog/rust-import-traits-to-use-methods/)
