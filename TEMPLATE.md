@@ -1,20 +1,17 @@
 # Hi, I'm Bob
 
-I build software and coach developers in Python, Rust, and AI.
+I turn manual business processes into software that runs: spreadsheets, copy-paste workflows and email chains become small, reliable Python systems. Each project starts with a fixed-price [Scope First Audit](https://belderbos.dev/consulting/).
 
-I built a [Rust](https://rustplatform.com) and [Python](https://pybitesplatform.com) coding platform. I write at [belderbos.dev](https://belderbos.dev).
+I also coach developers in Python, Rust, and AI, and co-founded [Pybites](https://pybit.es), where I built the [Python](https://pybitesplatform.com) and [Rust](https://rustplatform.com) coding platforms. I write at [belderbos.dev/blog](https://belderbos.dev/blog/) and make videos on [YouTube](https://www.youtube.com/@belderbos-dev).
+
+- 🏢 **Companies:** [belderbos.dev/consulting](https://belderbos.dev/consulting/)
+- 🧑‍💻 **Developers:** [belderbos.dev/coaching](https://belderbos.dev/coaching/)
 
 ## Latest posts
 
-{% if posts -%}
 {% for post in posts -%}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
-> [More at belderbos.dev](https://belderbos.dev/blog/)
-{%- else -%}
-> Coming soon at [belderbos.dev/blog](https://belderbos.dev/blog/)
-{%- endif %}
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/bbelderbos/) · bob [at] belderbos.dev
