@@ -9,11 +9,11 @@ I've coached 150+ Python developers and now co-run the [Scripter to Rust](https:
 
 ## Latest posts
 
+- [ccfind: search all your Claude Code sessions](https://belderbos.dev/blog/ccfind-search-claude-code-sessions/)
 - [My bookkeeping runs on code now. AI only reads the PDFs.](https://belderbos.dev/blog/replaced-my-bookkeeping-tool-with-python/)
 - [The Programming Books I Still Recommend After 15 Years](https://belderbos.dev/blog/timeless-programming-books/)
 - [Ship Your First Python App: a Free Course on the Local Dev Workflow](https://belderbos.dev/blog/free-python-foundations-course-local-dev-workflow/)
 - [Protocol or ABC? Designing a pluggable provider interface](https://belderbos.dev/blog/protocol-vs-abc-provider-interface/)
-- [Why Rust makes you import a trait to use its methods](https://belderbos.dev/blog/rust-import-traits-to-use-methods/)
 
 ## Connect
 
